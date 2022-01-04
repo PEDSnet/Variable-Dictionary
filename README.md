@@ -1,2 +1,4 @@
-# preserve_codesets
-The home of codes sets for the preserve project
+# PCORNET CDM codesets for PRESERVE
+
+This repo contains codesets for the PCORNET CDM for the PRESERVE project. We include what PCORNET terms valuesets in our codesets.
+

@@ -1,10 +1,3 @@
----
-title: ABOUT PAGE
-layout: template
-filename: about.md
-theme: jekyll-theme-cayman
---- 
-
 Variables:
 
 | Name | Clinical Concept | Data Source | Technical Definition | Code Link(s) | Codeset | Last Updated | Primary Developer | Status | Date Finalized |

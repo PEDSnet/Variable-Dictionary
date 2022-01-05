@@ -5,6 +5,6 @@ relative_links:
   enabled: true
   collections: true
 include:
--about.md
--index.md
+  - about.md
+  - index.md
 theme: jekyll-theme-cayman

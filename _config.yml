@@ -1,4 +1,10 @@
-theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
 include:
 -about.md
 -index.md
+theme: jekyll-theme-cayman

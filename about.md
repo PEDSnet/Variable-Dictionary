@@ -2,6 +2,7 @@
 title: ABOUT PAGE
 layout: template
 filename: about.md
+theme: jekyll-theme-cayman
 --- 
 
 Variables:

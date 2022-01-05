@@ -9,5 +9,8 @@ Codesets and valuesets:
 |------|--------------|-------------|-------------|--------------|--------------------------|--------------|-------------------|--------|
 | loop_diuretic_rx | [loop_diuretic_rx](drug/loop_diuretic_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients: Furosemide, Bumetanide, Ethacrynic acid, Torsemide | NDC, RxNorm, RxNorm Extension | [loop_diuretic_rx.sql](sql_queries/loop_diuretic_rx.sql) | 2021-11 | Levon Utidjian | Vocab Based|
 
+# VARIABLES PAGE:
 
 [Variables Page](./variables/variables.md)
+
+Here is the page idk why this doesnt showup maybe the just text doesn't?

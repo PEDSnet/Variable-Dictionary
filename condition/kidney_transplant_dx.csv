@@ -1,0 +1,147 @@
+concept_id,concept_code,concept_name,vocabulary_id,pcornet_vocabulary_id
+45570776,T86.1,Kidney transplant failure and rejection,ICD10,10
+45566477,Z94.0,Kidney transplant status,ICD10,10
+45567828,N16.5,Renal tubulo-interstitial disorders in transplant rejection,ICD10,10
+1575308,T86.1,Complications of kidney transplant,ICD10CM,10
+45595522,Z48.22,Encounter for aftercare following kidney transplant,ICD10CM,10
+45599829,T86.12,Kidney transplant failure,ICD10CM,10
+45575625,T86.13,Kidney transplant infection,ICD10CM,10
+45609393,T86.11,Kidney transplant rejection,ICD10CM,10
+35225404,Z94.0,Kidney transplant status,ICD10CM,10
+45537090,T86.19,Other complication of kidney transplant,ICD10CM,10
+45546763,T86.10,Unspecified complication of kidney transplant,ICD10CM,10
+44836487,996.81,Complications of transplanted kidney,ICD9CM,09
+44821546,V42.0,Kidney replaced by transplant,ICD9CM,09
+3545539,834931000000108,Accelerated rejection of renal transplant,SNOMED,SM
+4128370,236572007,Accelerated rejection of renal transplant,SNOMED,SM
+4032298,236582008,Acute-on-chronic rejection of renal transplant,SNOMED,SM
+3545280,830871000000105,Acute-on-chronic rejection of renal transplant,SNOMED,SM
+4128371,236574008,Acute rejection of renal transplant,SNOMED,SM
+3545287,830931000000104,Acute rejection of renal transplant,SNOMED,SM
+3545281,830881000000107,Acute rejection of renal transplant - grade I,SNOMED,SM
+4127550,236575009,Acute rejection of renal transplant - grade I,SNOMED,SM
+3545282,830891000000109,Acute rejection of renal transplant - grade II,SNOMED,SM
+4032296,236576005,Acute rejection of renal transplant - grade II,SNOMED,SM
+4127551,236577001,Acute rejection of renal transplant - grade III,SNOMED,SM
+3545283,830901000000105,Acute rejection of renal transplant - grade III,SNOMED,SM
+46272953,711411006,Allotransplantation of kidney from beating heart cadaver,SNOMED,SM
+44791130,231721000000102,"Allotransplantation of kidney from cadaver, heart-beating",SNOMED,SM
+3525419,261981000000107,"Allotransplantation of kidney from cadaver, heart-beating",SNOMED,SM
+3525420,261991000000109,"Allotransplantation of kidney from cadaver, heart non-beating",SNOMED,SM
+44790290,231691000000106,"Allotransplantation of kidney from cadaver, heart non-beating",SNOMED,SM
+3569403,244811000000102,Allotransplantation of kidney from cadaver NEC,SNOMED,SM
+3578423,262001000000107,Allotransplantation of kidney from cadaver NEC,SNOMED,SM
+46273963,711413009,Allotransplantation of kidney from non-beating heart cadaver,SNOMED,SM
+35623146,765478004,Allotransplantation of left kidney,SNOMED,SM
+35623147,765479007,Allotransplantation of right kidney,SNOMED,SM
+3573886,853031000000105,Aneurysm of artery of transplanted kidney,SNOMED,SM
+44809340,853021000000108,Aneurysm of artery of transplanted kidney,SNOMED,SM
+44809336,852981000000100,Aneurysm of vein of transplanted kidney,SNOMED,SM
+3545776,855231000000100,Aneurysm of vein of transplanted kidney,SNOMED,SM
+4021107,175902000,Cadaveric renal transplant,SNOMED,SM
+760992,128631000119109,Chronic graft-versus-host disease following kidney transplant,SNOMED,SM
+37018761,714153000,Chronic kidney disease stage 5 with transplant,SNOMED,SM
+4128372,236578006,Chronic rejection of renal transplant,SNOMED,SM
+3545863,856681000000105,Chronic rejection of renal transplant,SNOMED,SM
+3545864,856691000000107,Chronic rejection of renal transplant - grade 1,SNOMED,SM
+4032297,236579003,Chronic rejection of renal transplant - grade I,SNOMED,SM
+3573902,856701000000107,Chronic rejection of renal transplant - grade II,SNOMED,SM
+4127552,236580000,Chronic rejection of renal transplant - grade II,SNOMED,SM
+4127553,236581001,Chronic rejection of renal transplant - grade III,SNOMED,SM
+3573903,856711000000109,Chronic rejection of renal transplant - grade III,SNOMED,SM
+199991,58797008,Disorder of transplanted kidney,SNOMED,SM
+4324887,429451003,Disorder related to renal transplantation,SNOMED,SM
+4197300,313030004,Donor renal transplantation,SNOMED,SM
+4125970,236436003,End stage renal failure with renal transplant,SNOMED,SM
+37115323,731627000,Entire renal artery of transplanted kidney,SNOMED,SM
+4094173,281112005,Entire transplanted kidney,SNOMED,SM
+4324754,428645009,Examination of recipient after kidney transplant,SNOMED,SM
+3546756,916371000000101,Excision of rejected transplanted kidney,SNOMED,SM
+4019782,175948009,Exploration of renal transplant,SNOMED,SM
+4127554,236583003,Failed renal transplant,SNOMED,SM
+4059356,161665007,History of renal transplant,SNOMED,SM
+4032295,236571000,Hyperacute rejection of renal transplant,SNOMED,SM
+4178312,428575007,Hypertension secondary to kidney transplant,SNOMED,SM
+3554589,262111000000105,Interventions associated with transplantation of kidney,SNOMED,SM
+44790243,228751000000100,Interventions associated with transplantation of kidney,SNOMED,SM
+3554593,262181000000103,Interventions associated with transplantation of kidney NOS,SNOMED,SM
+3554239,235291000000105,Interventions associated with transplantation of kidney NOS,SNOMED,SM
+4309006,213150003,Kidney transplant failure and rejection,SNOMED,SM
+36714220,719352000,Kidney transplant recipient,SNOMED,SM
+44792553,362361000000102,Kidney transplant tissue sample,SNOMED,SM
+37204160,782655004,Laparoscopic transplant of kidney using robotic assistance,SNOMED,SM
+4022805,175901007,Live donor renal transplant,SNOMED,SM
+765054,122531000119108,Lymphoproliferative disorder following kidney transplant,SNOMED,SM
+43021422,473195006,Normal renal function of transplanted kidney,SNOMED,SM
+3578431,262171000000100,Other specified interventions associated with transplantation of kidney,SNOMED,SM
+3568494,238241000000106,Other specified interventions associated with transplantation of kidney,SNOMED,SM
+4022475,175903005,Other specified transplantation of kidney,SNOMED,SM
+3536596,622431000000104,Other specified transplantation of kidney,SNOMED,SM
+4126132,236584009,Perfusion injury of renal transplant,SNOMED,SM
+4126137,236614007,Perirenal and periureteric post-transplant lymphocele,SNOMED,SM
+45765975,703048006,Post-renal transplant vesicoureteric reflux,SNOMED,SM
+3570635,235311000000106,Post-transplantation of kidney examination of recipient,SNOMED,SM
+3525427,262151000000109,"Post-transplantation of kidney examination, recipient",SNOMED,SM
+4172369,277011002,Pre-existing disease in renal transplant,SNOMED,SM
+4032294,236569000,Primary non-function of renal transplant,SNOMED,SM
+45768672,707148007,Recurrent post-transplant renal disease,SNOMED,SM
+4180416,52213001,Renal homotransplantation excluding donor and recipient nephrectomy,SNOMED,SM
+4176579,48994000,Renal homotransplantation with unilateral recipient nephrectomy,SNOMED,SM
+40315157,149586006,Renal transplant,SNOMED,SM
+40440911,236568008,Renal transplant disorder,SNOMED,SM
+44811577,366961000000102,Renal transplant recipient,SNOMED,SM
+4128369,236570004,Renal transplant rejection,SNOMED,SM
+3573917,857311000000108,Renal transplant rejection,SNOMED,SM
+4347789,241251007,Renal transplant venous sampling,SNOMED,SM
+4059129,197747000,Renal tubulo-interstitial disorders in transplant rejection,SNOMED,SM
+40399081,198519003,Renal tubulo-interstitial disorders in transplant rejection,SNOMED,SM
+44808126,847791000000101,Rupture of artery of transplanted kidney,SNOMED,SM
+3545683,847801000000102,Rupture of artery of transplanted kidney,SNOMED,SM
+3545685,847821000000106,Rupture of vein of transplanted kidney,SNOMED,SM
+44808127,847811000000100,Rupture of vein of transplanted kidney,SNOMED,SM
+44808129,847881000000107,Stenosis of vein of transplanted kidney,SNOMED,SM
+3545688,847891000000109,Stenosis of vein of transplanted kidney,SNOMED,SM
+37019081,713824006,Structure of renal artery of transplanted kidney,SNOMED,SM
+4324400,70948008,Structure of transplanted kidney,SNOMED,SM
+3546013,864281000000107,Thrombosis of artery of transplanted kidney,SNOMED,SM
+44811351,864271000000105,Thrombosis of artery of transplanted kidney,SNOMED,SM
+3546015,864321000000104,Thrombosis of vein of transplanted kidney,SNOMED,SM
+44811353,864311000000105,Thrombosis of vein of transplanted kidney,SNOMED,SM
+4236275,438804005,Tissue specimen from transplanted kidney,SNOMED,SM
+36717743,6471000179103,Transplantation of kidney and pancreas,SNOMED,SM
+4316597,217024004,"Transplantation of kidney as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of operation",SNOMED,SM
+3567661,531801000000109,"Transplantation of kidney as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of operation",SNOMED,SM
+4022806,175904004,Transplantation of kidney NOS,SNOMED,SM
+3536597,622441000000108,Transplantation of kidney NOS,SNOMED,SM
+46272983,711446003,Transplantation of kidney regime,SNOMED,SM
+42539502,737295003,Transplanted kidney present,SNOMED,SM
+40409737,213147001,(Transplanted organ failure) or (deteriorating renal function after renal transplant),SNOMED,SM
+4322471,70536003,Transplant of kidney,SNOMED,SM
+35610634,1095231000000108,Transplant of kidney using robotic assistance,SNOMED,SM
+37017533,713825007,Transplant renal artery stenosis,SNOMED,SM
+4124858,234046009,Transplant renal vein thrombosis,SNOMED,SM
+3545878,856931000000103,Unexplained episode of renal transplant dysfunction,SNOMED,SM
+4172368,277010001,Unexplained episode of renal transplant dysfunction,SNOMED,SM
+3545641,843701000000100,Urological complication of renal transplant,SNOMED,SM
+44809014,843691000000100,Urological complication of renal transplant,SNOMED,SM
+44809172,844661000000109,Vascular complication of renal transplant,SNOMED,SM
+3545650,844671000000102,Vascular complication of renal transplant,SNOMED,SM
+4126131,236573002,Very mild acute rejection of renal transplant,SNOMED,SM
+3545779,855271000000103,Very mild acute rejection of renal transplant,SNOMED,SM
+40525341,316054003,[V]Kidney transplanted,SNOMED,SM
+44794448,399241000000100,[V]Kidney transplanted,SNOMED,SM
+3545903,857241000000102,Xenograft renal transplant,SNOMED,SM
+4343000,236138007,Xenograft renal transplant,SNOMED,SM
+NA,T861,Kidney transplant failure and rejection,ICD10,10
+NA,Z940,Kidney transplant status,ICD10,10
+NA,N165,Renal tubulo-interstitial disorders in transplant rejection,ICD10,10
+NA,T861,Complications of kidney transplant,ICD10CM,10
+NA,Z4822,Encounter for aftercare following kidney transplant,ICD10CM,10
+NA,T8612,Kidney transplant failure,ICD10CM,10
+NA,T8613,Kidney transplant infection,ICD10CM,10
+NA,T8611,Kidney transplant rejection,ICD10CM,10
+NA,Z940,Kidney transplant status,ICD10CM,10
+NA,T8619,Other complication of kidney transplant,ICD10CM,10
+NA,T8610,Unspecified complication of kidney transplant,ICD10CM,10
+NA,99681,Complications of transplanted kidney,ICD9CM,09
+NA,V420,Kidney replaced by transplant,ICD9CM,09

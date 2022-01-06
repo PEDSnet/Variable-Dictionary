@@ -13,4 +13,4 @@ Variables:
 
 Link to the Codesets page
 
-[Preserve_Codesets](./index.md)
+[Preserve_Codesets](https://preserve-coordinating-center.github.io/preserve_codesets/)

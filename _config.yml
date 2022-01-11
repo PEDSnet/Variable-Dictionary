@@ -7,4 +7,5 @@ include:
   - about.md
   - index.md
   - codesets.md
+  - variables.md
 theme: jekyll-theme-cayman

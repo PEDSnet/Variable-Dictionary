@@ -15,4 +15,4 @@ Variables:
 
 Link to the Codesets page
 
-[Preserve_Codesets](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/pages/codesets.md)
+[Preserve_Codesets](./pages/codesets.md)

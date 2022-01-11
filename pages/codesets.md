@@ -13,6 +13,6 @@ Codesets and valuesets:
 
 # VARIABLES PAGE:
 
-[Variables Page](./pages/variables.md)
+[Variables Page](./variables.md)
 
 

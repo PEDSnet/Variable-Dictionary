@@ -15,4 +15,4 @@ They are included in two different pages and can be got too via the following li
 
 Link to the Codesets page
 
-[Preserve_Codesets](https://preserve-coordinating-center.github.io/preserve_codesets/pages/codesets.md)
+[Preserve_Codesets](./pages/codesets.md)

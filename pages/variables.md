@@ -15,4 +15,4 @@ Variables:
 
 Link to the Codesets page
 
-[Preserve_Codesets](./pages/codesets.md)
+[Preserve_Codesets](./codesets.md)

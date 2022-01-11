@@ -36,6 +36,7 @@
 
 # VARIABLES PAGE:
 
-[Variables Page](./variables.md)
+The [Variables Definitions Page](./variables.md) contains variable definition information for the PRESERVE study.
+
 
 

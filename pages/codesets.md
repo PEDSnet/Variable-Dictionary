@@ -13,6 +13,6 @@ Codesets and valuesets:
 
 # VARIABLES PAGE:
 
-[Variables Page](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/variables/variables.md)
+[Variables Page](./pages/variables.md)
 
 

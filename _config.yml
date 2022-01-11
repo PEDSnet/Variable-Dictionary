@@ -6,4 +6,5 @@ relative_links:
 include:
   - about.md
   - index.md
+  - codesets.md
 theme: jekyll-theme-cayman

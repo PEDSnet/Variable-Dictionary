@@ -1,4 +1,4 @@
-# PPRESERVE Variable Dictionary: Codesets
+# PRESERVE Variable Dictionary: Codesets
 
 ### This section of the PRESERVE Variable Dictionary contains codeset information.
 

@@ -13,3 +13,7 @@
 ## CODESETS PAGE:
 
 [Preserve_Codesets](./pages/codesets.md)
+
+## HIERARCHY PAGE:
+
+[Hierarchies](./pages/hierarchy.md)

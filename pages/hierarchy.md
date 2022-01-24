@@ -5,26 +5,27 @@
 #### This page compiles a list of different catagories for the variables and will link to a page for each one
 
 ### Sociodemographics
-  Here is the link to the page with this set of variables: 
+  A set of variables that relate to a combination of social and demographic factors that define people in a specific group or population
+  Pages Link: [Sociodemographic Variables](./sociodemographics.md)
   
 ### Area-level variables
-  Here is the link to the page with this set of variables:
+  Pages Link:
   
 ### Physiologic measurements
-  Here is the link to the page with this set of variables:
+  Pages Link:
  
 ### Health Conditions
-  Here is the link to the page with this set of variables:
+  Pages Link:
   
 ### Medications
-  Here is the link to the page with this set of variables:
+  Pages Link:
   
 ### Utilization, costs, payers
-  Here is the link to the page with this set of variables:
+  Pages Link:
   
 ### Laboratories
-  Here is the link to the page with this set of variables:
+  Pages Link:
   
 ### Procedures
-  Here is the link to the page with this set of variables:
+  Pages Link:
   

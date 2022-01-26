@@ -6,18 +6,18 @@
 
 #### A variable definition specifies the logic for determining (levels of) a variable from the data. A variable definition may include one or more codesets (e.g., a patient is identified as having a condition if they have >=2 diagnosis codes separated by >= 90 days). For each variable definition, the following is provided:
 * Name: Name of variable
-* Clinical concept: General description of variable
-* Data source(s): e.g. PCORnet CDM
-* Technical definition: Technical definition (in words)
-* Code link(s): Link(s) to code implementing technical definition, where applicable
-* Codeset(s): Link(s) to codesets used for definition
+* Description: General description of variable
+* Technical Logic: The logic behind the codeset
+* Terminologies: The differnt vocabularies used in the codeset
 * Last updated: YYYY-MM last updated
-* Primary developer:
-* Status:
-* Date finalized: YYY-MM finalized
-* Other: Other notes
+* Updating Analyst:
+* Codeset Link: The link to the actual codeset
 
 ### Table:
 
-| Name | Clinical Concept | Data Source | Technical Definition | Code Link(s) | Codeset | Last Updated | Primary Developer | Status | Date Finalized | Other |
-|------|------------------|-------------|----------------------|--------------|---------|--------------|-------------------|--------|----------------|-------|
+| Name | Description | Technical Logic | Terminologies | Last Updated | Updating Analyst  | Codeset Link |
+|------|-------------|-----------------|---------------|--------------|-------------------|--------------|
+| eGFR bedside | computed using the CKiD revised bedside Schwartz formula: [(0.413 × Height (cm)) / serum creatinine (mg/dL)] | | | | | serum_creatinine |
+| Acidosis | Serum bicarbonate <=22 mEq/L | | | | | serum_bicarbonate |
+| Hematuria | any positivity on dipstick/urinalysis or >5 RBCs per high power field on microscopy with latter being determinant if discrepant| | | | | urine_blood |
+| Microalbuminuria | urine microalbumin to creatinine ration categorized as normal (<30 mg/dL), microalbuminuria (30- 300 mg/dL), or macroalbuminuria (>300 mg/dL) | | | | | microalbuminuria |

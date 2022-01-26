@@ -2,7 +2,7 @@
 
 ## Laboratory Variables
 
-### This is a slection of variables that are all related to different sociodemographics
+### This is a slection of variables that are all related to different laboratory tests
 
 #### A variable definition specifies the logic for determining (levels of) a variable from the data. A variable definition may include one or more codesets (e.g., a patient is identified as having a condition if they have >=2 diagnosis codes separated by >= 90 days). For each variable definition, the following is provided:
 * Name: Name of variable

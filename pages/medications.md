@@ -17,17 +17,7 @@
 
 | Name | Description | Technical Logic | Terminologies | Last Updated | Updating Analyst  | Codeset Link |
 |------|-------------|-----------------|---------------|--------------|-------------------|--------------|
-| ACE Inhibitors | Medication codeset for the following ingredients:
-o Benazepril
-o Captopril
-o Enalapril
-o Fosinopril
-o Lisinopril
-o Moexipril
-o Periondopril
-o Quinapril
-o Ramipril
-o Trandolapril | | | | | ace_inhibitors |
+| ACE Inhibitors | Medication codeset for the following ingredients: o Benazepril o Captopril o Enalapril o Fosinopril o Lisinopril o Moexipril o Periondopril o Quinapril o Ramipril o Trandolapril | | | | | ace_inhibitors |
 | Antihypertensive treatment initiation date | Calendar day when the first antihypertensive medication,
 inclusive of all RAAS blockers, beta blockers, calcium channel blockers, and thiazide diuretics, was prescribed | | | | | |
 | ARBs | Medication codeset for the following ingredients:
@@ -53,4 +43,4 @@ o Penbutolol
 o Pindolol
 o Propanolol
 o Sotalol
-o Timolol | | | | | bbs |
+o Timolol | | | | | | bbs |

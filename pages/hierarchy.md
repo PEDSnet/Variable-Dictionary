@@ -9,23 +9,30 @@
   Pages Link: [Sociodemographic Variables](./sociodemographics.md)
   
 ### Area-level variables
-  Pages Link:
+  A set of variables that relate to Area-Level factors that relate to education, socioeconomic status and distance to medical centers
+  Pages Link: [Area-Level variables](./area_level_variables.md)
   
 ### Physiologic measurements
-  Pages Link:
+  A set of variables that relate to Physiological measurements from height and weight to blood pressure
+  Pages Link: [Physiologic_Measurements](./physiologic_measurements.md)
  
 ### Health Conditions
-  Pages Link:
+  A set of variables that relate to various health conditions
+  Pages Link: [Health Conditions](./health_conditions.md)
   
 ### Medications
-  Pages Link:
+  A set of variables that relate to different groups of medications
+  Pages Link: [Medications](./medications.md)
   
 ### Utilization, costs, payers
-  Pages Link:
+  A set of variables that relate to hospital visitation and stays
+  Pages Link: [Utilization, Costs, and Payers](./utilization.md)
   
 ### Laboratories
-  Pages Link:
+  A set of variables that relate to different groups of laboratory procedures
+  Pages Link: [Laboratories](./laboratories.md)
   
 ### Procedures
-  Pages Link:
+  A set of variables that relate to various hospital procedures
+  Pages Link: [Procedures](./procedures.md)
   

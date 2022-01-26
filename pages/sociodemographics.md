@@ -19,5 +19,8 @@
 
 ### Table:
 
-| Name | Clinical Concept | Data Source | Technical Definition | Code Link(s) | Codeset | Last Updated | Primary Developer | Status | Date Finalized | Other |
-|------|------------------|-------------|----------------------|--------------|---------|--------------|-------------------|--------|----------------|-------|
+| Name | Description | Technical Logic | Terminologies | Last Updated | Updating Analyst  | Codeset Link |
+|------|-------------|-----------------|---------------|--------------|-------------------|--------------|
+| Age  | Date of event/service minus date of birth | | | | | |
+| Race/ethnicity | Hispanic/Latinx, Black/African-American, White, Asian/Pacific Islander, Other, Missing. Use ethnicity to assign a participant as Hispanic/Latinx; for those who are not Hispanic/Latinx, assign race/ethnicity category based on race |  | | | | |
+| Sex  | Male/Female sex assigned at birth | | | | | |

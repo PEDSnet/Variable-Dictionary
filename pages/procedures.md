@@ -2,22 +2,23 @@
 
 ## Procedure Variables
 
-### This is a slection of variables that are all related to different sociodemographics
+### This is a slection of variables that are all related to different types of procedures
 
 #### A variable definition specifies the logic for determining (levels of) a variable from the data. A variable definition may include one or more codesets (e.g., a patient is identified as having a condition if they have >=2 diagnosis codes separated by >= 90 days). For each variable definition, the following is provided:
 * Name: Name of variable
-* Clinical concept: General description of variable
-* Data source(s): e.g. PCORnet CDM
-* Technical definition: Technical definition (in words)
-* Code link(s): Link(s) to code implementing technical definition, where applicable
-* Codeset(s): Link(s) to codesets used for definition
+* Description: General description of variable
+* Technical Logic: The logic behind the codeset
+* Terminologies: The differnt vocabularies used in the codeset
 * Last updated: YYYY-MM last updated
-* Primary developer:
-* Status:
-* Date finalized: YYY-MM finalized
-* Other: Other notes
+* Updating Analyst:
+* Codeset Link: The link to the actual codeset
 
 ### Table:
 
-| Name | Clinical Concept | Data Source | Technical Definition | Code Link(s) | Codeset | Last Updated | Primary Developer | Status | Date Finalized | Other |
-|------|------------------|-------------|----------------------|--------------|---------|--------------|-------------------|--------|----------------|-------|
+| Name | Description | Technical Logic | Terminologies | Last Updated | Updating Analyst  | Codeset Link |
+|------|-------------|-----------------|---------------|--------------|-------------------|--------------|
+| Chronic dialysis, EHR | 2+ codes >90d apart; date of occurrence of chronic dialysis is day of the 2nd dialysis code separated by the first by >90
+days | | | | dialysis |
+| Kidney biopsy | Procedure codeset thatnindicates a kidney biopsy was done | | | | kidney_biopsy |
+| Kidney transplant, EHR | Occurrence of procedure codes indicative of a kidney transplant | | | | | kidney_transplant |
+| Urine protein monitoring | Target population is the subset of the study cohort with diagnosed hypertension; For each outpatient visit, takes the value of “yes” if any urine protein test done, and “no” if no urine protein test done | | | | urine_protein_quant |

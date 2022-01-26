@@ -17,30 +17,8 @@
 
 | Name | Description | Technical Logic | Terminologies | Last Updated | Updating Analyst  | Codeset Link |
 |------|-------------|-----------------|---------------|--------------|-------------------|--------------|
-| ACE Inhibitors | Medication codeset for the following ingredients: o Benazepril o Captopril o Enalapril o Fosinopril o Lisinopril o Moexipril o Periondopril o Quinapril o Ramipril o Trandolapril | | | | | ace_inhibitors |
+| ACE Inhibitors | Medication codeset for the following ingredients: Benazepril, Captopril, Enalapril, Fosinopril, Lisinopril, Moexipril, Periondopril, Quinapril, Ramipril, Trandolapril | | | | | ace_inhibitors |
 | Antihypertensive treatment initiation date | Calendar day when the first antihypertensive medication,
 inclusive of all RAAS blockers, beta blockers, calcium channel blockers, and thiazide diuretics, was prescribed | | | | | |
-| ARBs | Medication codeset for the following ingredients:
-o Azilsartan
-o Candesartan
-o Eprosartan
-o Irbesartan
-o Losartan
-o Olmesartan
-o Telmisartan
-o Valsartan | | | | | | arbs |
-| Beta-blockers | Medication codeset for the following ingredients:
-o Acebutolol
-o Atenolol
-o Betaxolol
-o Bisoprolol
-o Carteolol
-o Carvediol
-o Labetalol o Metoprolol
-o Nadolol
-o Nebivolol
-o Penbutolol
-o Pindolol
-o Propanolol
-o Sotalol
-o Timolol | | | | | | bbs |
+| ARBs | Medication codeset for the following ingredients: Azilsartan, Candesartan, Eprosartan, Irbesartan, Losartan, Olmesartan, Telmisartan, Valsartan | | | | | | arbs |
+| Beta-blockers | Medication codeset for the following ingredients: Acebutolol, Atenolol, Betaxolol, Bisoprolol, Carteolol, Carvediol, Labetalol, Metoprolol, Nadolol, Nebivolol, Penbutolol, Pindolol, Propanolol, Sotalol, Timolol | | | | | | bbs |

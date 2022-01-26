@@ -6,18 +6,18 @@
 
 #### A variable definition specifies the logic for determining (levels of) a variable from the data. A variable definition may include one or more codesets (e.g., a patient is identified as having a condition if they have >=2 diagnosis codes separated by >= 90 days). For each variable definition, the following is provided:
 * Name: Name of variable
-* Clinical concept: General description of variable
-* Data source(s): e.g. PCORnet CDM
-* Technical definition: Technical definition (in words)
-* Code link(s): Link(s) to code implementing technical definition, where applicable
-* Codeset(s): Link(s) to codesets used for definition
+* Description: General description of variable
+* Technical Logic: The logic behind the codeset
+* Terminologies: The differnt vocabularies used in the codeset
 * Last updated: YYYY-MM last updated
-* Primary developer:
-* Status:
-* Date finalized: YYY-MM finalized
-* Other: Other notes
+* Updating Analyst:
+* Codeset Link: The link to the actual codeset
 
 ### Table:
 
-| Name | Clinical Concept | Data Source | Technical Definition | Code Link(s) | Codeset | Last Updated | Primary Developer | Status | Date Finalized | Other |
-|------|------------------|-------------|----------------------|--------------|---------|--------------|-------------------|--------|----------------|-------|
+| Name | Description | Technical Logic | Terminologies | Last Updated | Updating Analyst  | Codeset Link |
+|------|-------------|-----------------|---------------|--------------|-------------------|--------------|
+| Alopecia | Diagnosis codeset for alopecia | | | | | alopecia |
+| Chronic condition, non-kidney | Assigned using Pediatric Medical Complexity Algorithm (PMCA) excluding all kidney disease codes - Categories are: * No chronic condition * Noncomplex chronic condition * Complex chronic conditions | | | | | |
+| Chronic kidney disease, diagnosed | Diagnosis codeset for chronic kidney disease, stages 2, 3, 3a, or 3b | | | | | chronic_kidney_disease |
+| Chronic kidney disease, measured | At least two eGFR values 30- <90 ml/min/1.73m2 separated by 90 days or more without intervening eGFR >90 ml/min/1.73m2 | | | | | serum_creatinine |

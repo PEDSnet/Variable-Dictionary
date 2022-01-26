@@ -6,18 +6,51 @@
 
 #### A variable definition specifies the logic for determining (levels of) a variable from the data. A variable definition may include one or more codesets (e.g., a patient is identified as having a condition if they have >=2 diagnosis codes separated by >= 90 days). For each variable definition, the following is provided:
 * Name: Name of variable
-* Clinical concept: General description of variable
-* Data source(s): e.g. PCORnet CDM
-* Technical definition: Technical definition (in words)
-* Code link(s): Link(s) to code implementing technical definition, where applicable
-* Codeset(s): Link(s) to codesets used for definition
+* Description: General description of variable
+* Technical Logic: The logic behind the codeset
+* Terminologies: The differnt vocabularies used in the codeset
 * Last updated: YYYY-MM last updated
-* Primary developer:
-* Status:
-* Date finalized: YYY-MM finalized
-* Other: Other notes
+* Updating Analyst:
+* Codeset Link: The link to the actual codeset
 
 ### Table:
 
-| Name | Clinical Concept | Data Source | Technical Definition | Code Link(s) | Codeset | Last Updated | Primary Developer | Status | Date Finalized | Other |
-|------|------------------|-------------|----------------------|--------------|---------|--------------|-------------------|--------|----------------|-------|
+| Name | Description | Technical Logic | Terminologies | Last Updated | Updating Analyst  | Codeset Link |
+|------|-------------|-----------------|---------------|--------------|-------------------|--------------|
+| ACE Inhibitors | Medication codeset for the following ingredients:
+o Benazepril
+o Captopril
+o Enalapril
+o Fosinopril
+o Lisinopril
+o Moexipril
+o Periondopril
+o Quinapril
+o Ramipril
+o Trandolapril | | | | | ace_inhibitors |
+| Antihypertensive treatment initiation date | Calendar day when the first antihypertensive medication,
+inclusive of all RAAS blockers, beta blockers, calcium channel blockers, and thiazide diuretics, was prescribed | | | | | |
+| ARBs | Medication codeset for the following ingredients:
+o Azilsartan
+o Candesartan
+o Eprosartan
+o Irbesartan
+o Losartan
+o Olmesartan
+o Telmisartan
+o Valsartan | | | | | | arbs |
+| Beta-blockers | Medication codeset for the following ingredients:
+o Acebutolol
+o Atenolol
+o Betaxolol
+o Bisoprolol
+o Carteolol
+o Carvediol
+o Labetalol o Metoprolol
+o Nadolol
+o Nebivolol
+o Penbutolol
+o Pindolol
+o Propanolol
+o Sotalol
+o Timolol | | | | | bbs |

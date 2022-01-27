@@ -17,7 +17,7 @@
 
 | Name | Description | Technical Logic | Terminologies | Last Updated | Updating Analyst  | Codeset Link |
 |------|-------------|-----------------|---------------|--------------|-------------------|--------------|
-| Hospitalization | Patient was hospitalized, yes/no | | | | | inpatient_visits |
-| Hospitalization admission date | Calendar day of hospital inpatient admission | | | | | inpatient_visits |
-| Outpatient visit | primary care, nephrologist, urologist, oncologist, cardiologist, other specialist | | | | | outpatient_visits |
-| Outpatient visit date | Calendar day of outpatient visit | | | | | outpatient_visits |
+| Hospitalization | Patient was hospitalized, yes/no | | | | | [inpatient_visits](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/visit/inpatient_visits.csv) |
+| Hospitalization admission date | Calendar day of hospital inpatient admission | | | | | [inpatient_visits](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/visit/inpatient_visits.csv) |
+| Outpatient visit | primary care, nephrologist, urologist, oncologist, cardiologist, other specialist | | | | | [outpatient_visits](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/visit/outpatient_visits.csv) |
+| Outpatient visit date | Calendar day of outpatient visit | | | | | [outpatient_visits](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/visit/outpatient_visits.csv) |

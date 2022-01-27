@@ -17,7 +17,7 @@
 
 | Name | Description | Technical Logic | Terminologies | Last Updated | Updating Analyst  | Codeset Link |
 |------|-------------|-----------------|---------------|--------------|-------------------|--------------|
-| eGFR bedside | computed using the CKiD revised bedside Schwartz formula: [(0.413 × Height (cm)) / serum creatinine (mg/dL)] | | | | | serum_creatinine |
+| eGFR bedside | computed using the CKiD revised bedside Schwartz formula: [(0.413 × Height (cm)) / serum creatinine (mg/dL)] | | | | | [serum_creatinine](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/serum_creatinine.csv) |
 | Acidosis | Serum bicarbonate <=22 mEq/L | | | | | serum_bicarbonate |
 | Hematuria | any positivity on dipstick/urinalysis or >5 RBCs per high power field on microscopy with latter being determinant if discrepant| | | | | urine_blood |
 | Microalbuminuria | urine microalbumin to creatinine ration categorized as normal (<30 mg/dL), microalbuminuria (30- 300 mg/dL), or macroalbuminuria (>300 mg/dL) | | | | | microalbuminuria |

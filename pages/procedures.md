@@ -17,7 +17,7 @@
 
 | Name | Description | Technical Logic | Terminologies | Last Updated | Updating Analyst  | Codeset Link |
 |------|-------------|-----------------|---------------|--------------|-------------------|--------------|
-| Chronic dialysis, EHR | 2+ codes >90d apart; date of occurrence of chronic dialysis is day of the 2nd dialysis code separated by the first by >90 days | | | | | dialysis |
+| Chronic dialysis, EHR | 2+ codes >90d apart; date of occurrence of chronic dialysis is day of the 2nd dialysis code separated by the first by >90 days | | | | | [dialysis](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/procedure/kidney_dialysis_px.csv) |
 | Kidney biopsy | Procedure codeset thatnindicates a kidney biopsy was done | | | | | kidney_biopsy |
-| Kidney transplant, EHR | Occurrence of procedure codes indicative of a kidney transplant | | | | | kidney_transplant |
+| Kidney transplant, EHR | Occurrence of procedure codes indicative of a kidney transplant | | | | | [kidney_transplant](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/procedure/kidney_transplant_px.csv) |
 | Urine protein monitoring | Target population is the subset of the study cohort with diagnosed hypertension; For each outpatient visit, takes the value of “yes” if any urine protein test done, and “no” if no urine protein test done | | | | | urine_protein_quant |

@@ -16,4 +16,7 @@ A page containing a breakdown of codesests into the different domains.
 
 [Preserve_Codesets](./pages/codesets.md)
 
+## .csv download instructions:
+A page that lists instructions on how to download a .csv codeset file from github.
 
+[Download_Instructions](./pages/download_csv.md)

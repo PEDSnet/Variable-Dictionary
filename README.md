@@ -1,6 +1,5 @@
 # PRESERVE VARIABLE DICTIONARY
 # Under Development
-![PEDSnet Logo](https://raw.githubusercontent.com/PRESERVE-Coordinating-Center/preserve_codesets/main/images/pedsnet_logo.png)
 
 ### The repository of variable definitions and codesets for the PCORI-funded PRESERVE study.
 

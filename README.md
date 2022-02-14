@@ -1,5 +1,6 @@
 # PRESERVE VARIABLE DICTIONARY
 # Under Development
+![PEDSnet Logo](https://raw.githubusercontent.com/PRESERVE-Coordinating-Center/preserve_codesets/main/images/pedsnet_logo.png)
 
 ### The repository of variable definitions and codesets for the PCORI-funded PRESERVE study.
 
@@ -21,3 +22,6 @@ A page containing a breakdown of codesests into the different domains.
 A page that lists instructions on how to download a .csv codeset file from github.
 
 [Download_Instructions](./pages/download_csv.md)
+
+
+![PEDSnet Logo](https://raw.githubusercontent.com/PRESERVE-Coordinating-Center/preserve_codesets/main/images/pedsnet_logo.png)

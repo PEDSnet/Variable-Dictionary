@@ -7,16 +7,12 @@
 #### A variable definition specifies the logic for determining (levels of) a variable from the data. A variable definition may include one or more codesets (e.g., a patient is identified as having a condition if they have >=2 diagnosis codes separated by >= 90 days). For each variable definition, the following is provided:
 * Name: Name of variable
 * Description: General description of variable
-* Technical Logic: The logic behind the codeset
-* Terminologies: The differnt vocabularies used in the codeset
-* Last updated: YYYY-MM last updated
-* Updating Analyst:
 * Codeset Link: The link to the actual codeset
 
 ### Table:
 
-| Name | Description | Technical Logic | Terminologies | Last Updated | Updating Analyst  | Codeset Link |
-|------|-------------|-----------------|---------------|--------------|-------------------|--------------|
-| Age  | Date of event/service minus date of birth | | | | | |
-| Race/ethnicity | Hispanic/Latinx, Black/African-American, White, Asian/Pacific Islander, Other, Missing. Use ethnicity to assign a participant as Hispanic/Latinx; for those who are not Hispanic/Latinx, assign race/ethnicity category based on race |  | | | | |
-| Sex  | Male/Female sex assigned at birth | | | | | |
+| Name | Description | Codeset Link |
+|------|-------------|--------------|
+| Age  | Date of event/service minus date of birth ||
+| Race/ethnicity | Hispanic/Latinx, Black/African-American, White, Asian/Pacific Islander, Other, Missing. Use ethnicity to assign a participant as Hispanic/Latinx; for those who are not Hispanic/Latinx, assign race/ethnicity category based on race ||
+| Sex  | Male/Female sex assigned at birth ||

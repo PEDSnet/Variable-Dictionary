@@ -17,4 +17,9 @@
 | Area-level adult unemployment rate | Percentage of adults unemployed ||
 | Area-level education level college graduate or higher | Percentage of adults with a college degree or higher level of education; from the American Community Survey ||
 | Area-level education level high school graduate or higher | Percentage of adults with a high school diploma or GED or higher level of education; from the American Community Survey ||
-
+| Area-level federal poverty line | Percentage of individuals living at or below the federal poverty line | |
+| Area-level median family income | From the American Community Survey, the median family income for the closest year | |
+| Census tract | | |
+| County of residence | Assigned to a county of residence based on zip code recorded for each visit | |
+| Distance to medical center | number of miles between the centroid of a patient’s 5-digit zip code and the centroid of the institution’s 5digit zip code | |
+| State of residence | Assigned to a state of residence based on zip code recorded for each visit | |

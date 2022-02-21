@@ -23,4 +23,3 @@ A page that lists instructions on how to download a .csv codeset file from githu
 [Download_Instructions](./pages/download_csv.md)
 
 
-![PEDSnet Logo](https://raw.githubusercontent.com/PRESERVE-Coordinating-Center/preserve_codesets/main/images/pedsnet_logo.png)

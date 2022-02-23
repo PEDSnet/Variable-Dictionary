@@ -25,3 +25,20 @@
 | Chronic kidney disease, measured | At least two eGFR values 30- <90 ml/min/1.73m2 separated by 90 days or more without intervening eGFR >90 ml/min/1.73m2 | [serum_creatinine](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/serum_creatinine.csv) |
 | Chronic weight loss | | height; weight; bmi |
 | Composite kidney function decline | Occurrence of any of the following:  eGFR decline of >=50%, eGFR of <=15 ml/min, Occurrence of chronic dialysis, Occurrence of kidney transplant, Date of the outcome is the earliest day when any of these four events occurs, Use the EHR versions of chronic dialysis and kidney transplant | dialysis; kidney_transplant; serum_creatinine; height |
+| Congential anomalies of the genitourinary system | | congenital_genitourinary |
+| Cough | Diagnosis codeset for cough | cough |
+| Death | yes/no | |
+| Date of death | Date of death | |
+| Depression | Diagnosis codeset for major or minor depression | depression |
+| Diarrhea/gastroenteritis  | Diagnosis codeset for diarrhea and gastroenteritis | diarrhea_gastroenteritis |
+| Dizziness | diagnosis codeset for dizziness | dizziness |
+| Edema | Diagnosis codeset for edema | edema |
+| Etiology of CKD | Glomerular disorder, non-glomerular kidney disorder, or malignancy | glomerular_disease; kidney_disease |
+| Fatigue | Diagnosis codeset for fatigue | fatigue |
+| Gastrointestinal symptoms  | Diagnosis codeset for loss of appetite, nausea, vomiting, constipation, bloating, gas | gastrointestinal |
+| Glomerular disease phenotype | | glomerular_disease; nephrology_specialty; kidney_biopsy; kidney_transplant |
+| Hair loss | | hair_loss |
+| Headache | Diagnosis codeset for headache | headache |
+| Hypertension category, measured | | systolic_bp; diastolic_bp; height |
+| Hypertension, diagnosed | Diagnosis codeset for hypertension | hypertension; hypotension |
+| 

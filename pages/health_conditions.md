@@ -41,4 +41,38 @@
 | Headache | Diagnosis codeset for headache | headache |
 | Hypertension category, measured | | systolic_bp; diastolic_bp; height |
 | Hypertension, diagnosed | Diagnosis codeset for hypertension | hypertension; hypotension |
-| 
+| Hypotension, measured | 1-<10y, - BP <5th percentile, 10-<18y, - BP <90/50 mmHg | systolic_bp; diastolic_bp; height |
+| Hypotension, diagnsed | Diagnosis codeset for hypotension | |
+| Immune-mediated disorders | | immune_disorder |
+| Insomnia | Diagnosis codeset for insomnia | insomnia |
+| Kidney dysplasia/hypoplasia | | kidney_dysplasia_hypoplasia |
+| Low birth weight, diagnosed | Diagnosis codes for low birth weight | very_low_birth_weight|
+| Low birth weight, measured | Birth weight is <=2500 grams | birth_weight |
+| Mild-Moderate CKD | | serum_creatinine; height |
+| Nocturnal enuresis | | nocturnal_enuresis |
+| Obesity | | bmi |
+| Other kidney disease | | kidney_disease |
+| Pediatric Medical Complexity (PMCA) | Chronic condition flags by organ system | pmca |
+| Pericarditis | Diagnosis codeset for pericarditis | pericarditis |
+| Pregnancy | Diagnosis codeset for pregnancy | pregnancy |
+| Prematurity | <37 weeks gestational age | gestational_age |
+| Prematurity, diagnosed | Diagnosis code for prematurity | prematurity |
+| Pyelonephritis | Diagnosis code for pyelonephritis | pyelonephritis |
+| Respiratory symptoms | Diagnosis codeset for dyspnea, tachypnea, shortness of breath, wheezing | respiratory_symptoms |
+| Respiratory tract infection | | respiratory_infection |
+| Stomatitis | Diagnosis code for stomatitis | stomatitis |
+| Tonsilitis | Diagnosis code for tonsilitis | tonsilitis |
+| Underweight | | bmi |
+| Upper respiratory tract infection | Diagnosis code for | upper respiratory tract infection |
+| Urinary tract infection | Diagnosis code for yrinary tract infection | uti |
+| Very low birth weight, diagnosed | Diagnosis codes for very low birth weight | low_birth_weight |
+| Very low birth weight, measured | Birth weight is <=1500 grams | birth_weight |
+| Acidosis, measured | Serum bicarbonate <=22 mEq/L | serum_bicarbonate |
+| Anemia, measured | Serum hemoglobin <= 10g/dL | serum_hemoglobin |
+| Hematuria | any positivity on dipstick/urinalysis or >5 RBCs per high power field on microscopy with latter being determinant if discrepant | urine_blood |
+| Hyperkalemia | potassium value exceeds the upper limit of normal | serum_potassium |
+| Leukocytopenia | WBCs <=4,000 per cubic milliliter | serum_wbc |
+| Microalbuminuria | urine microalbumin to creatinine ration categorized as normal (<30 mg/dL), microalbuminuria (30- 300 mg/dL), or macroalbuminuria (>300 mg/dL) | microalbumin |
+| Proteinuria, qualitative | qualitative urine protein >=2+ | urine_protein_qual |
+| Proteinuria, quantitative | quantitative urine protein to creatinine ratio categorized as <0.5, 0.5 to <2.0, >=2.0 | urine_protein_quant; urine_creatinine; urine_protein_quant |
+| Transaminasemia (Elevated liver enzymes) | Both ALT and AST are >2 times the upper limits of normal | alanine_transaminase; aspartate_aminotransferase |

@@ -14,7 +14,7 @@
 | Name | Description | Codeset Link |
 |------|-------------|--------------|
 | ABPM | | diastolic_bp; systolic_bp; p_method |
-| ABPM ordered date | Date when an ABPM was ordered | |
+| ABPM ordered date | Date when an ABPM was ordered | N/A |
 | Ambulatory BP | | ambulatory_bp |
 | Birth weight, measured | Birth weight of child as recorded in the EHR | birth_weight |
 | Body mass index z-score, measured | uses measured weight and height; Age-sex standardized BMI zscore from the CDC 2000 growth charts | bmi_zscore; height; weight; bmi |
@@ -22,10 +22,10 @@
 | Body mass index, measured | uses measured weight and height; weight (kg) / height^2 (m^2) | bmi; height; weight |
 | Body mass index, imputed | uses measured weight and imputed height | bmi; height; weight |
 | BP monitoring | yes/no variable that takes the value “yes” when a valid systolic and diastolic BP z-score is obtained; use imputed height for the zscores; denominator: all outpatient visits | systolic_bp |
-| CKiD casual systolic BP | measured systolic BP, mmHg  | |
-| CKiD casual systolic BP z-score | systolic BP z-score for age, sex, and height (from Flynn 2017) | |
-| CKiD casual diastolic BP | measured diastolic BP, mmHg ||
-| CKiD casual diastolic BP zscore | diastolic BP z-score for age, sex, and height (from Flynn 2017) | |
+| CKiD casual systolic BP | measured systolic BP, mmHg  | N/A |
+| CKiD casual systolic BP z-score | systolic BP z-score for age, sex, and height (from Flynn 2017) | N/A |
+| CKiD casual diastolic BP | measured diastolic BP, mmHg | N/A |
+| CKiD casual diastolic BP zscore | diastolic BP z-score for age, sex, and height (from Flynn 2017) | N/A |
 | Diastolic BP | measured diastolic BP, mmHg; if more than one value in a day, select the lowest | diastolic_bp |
 | Diastolic BP load (% of measurements >=95th percentile) | | diastolic_bp; height |
 | Diastolic BP z-score, standard | Diastolic BP z-score for age, sex, and height from 2017 guideline  | diastolic_bp; height |

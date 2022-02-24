@@ -13,7 +13,7 @@
 
 | Name | Description | Codeset Link |
 |------|-------------|--------------|
-| Cystatin C | cystatin C, mg/L | |
+| Cystatin C | cystatin C, mg/L | N/A |
 | eGFR bedside | computed using the CKiD revised bedside Schwartz formula: [(0.413 × Height (cm)) / serum creatinine (mg/dL)] | [serum_creatinine](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/serum_creatinine.csv) |
 | Acidosis | Serum bicarbonate <=22 mEq/L | serum_bicarbonate |
 | eGFR U25 | computed using the CKiD Under 25 estimating equations | serum_creatinine |

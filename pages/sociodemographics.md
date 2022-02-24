@@ -13,6 +13,6 @@
 
 | Name | Description | Codeset Link |
 |------|-------------|--------------|
-| Age  | Date of event/service minus date of birth ||
-| Race/ethnicity | Hispanic/Latinx, Black/African-American, White, Asian/Pacific Islander, Other, Missing. Use ethnicity to assign a participant as Hispanic/Latinx; for those who are not Hispanic/Latinx, assign race/ethnicity category based on race ||
-| Sex  | Male/Female sex assigned at birth ||
+| Age  | Date of event/service minus date of birth | N/A |
+| Race/ethnicity | Hispanic/Latinx, Black/African-American, White, Asian/Pacific Islander, Other, Missing. Use ethnicity to assign a participant as Hispanic/Latinx; for those who are not Hispanic/Latinx, assign race/ethnicity category based on race | N/A |
+| Sex  | Male/Female sex assigned at birth | N/A |

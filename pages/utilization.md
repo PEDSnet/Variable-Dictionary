@@ -19,7 +19,7 @@
 | Hospitalization admission date | Calendar day of hospital inpatient admission | [inpatient_visits](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/visit/inpatient_visits.csv) |
 | Hospitalization days | Number of days in the hospital | [inpatient_visits](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/visit/inpatient_visits.csv) |
 | Inpatient visit | | [inpatient_visits](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/visit/inpatient_visits.csv) |
-| Insurance payer | For each visit, payer is categorized as: Commercial/Private, Medicaid/SCHIP, Medicare, None; Patients appearing in the USRDS will be assigned payer status for ESKD care based on the USRDS payer categories | |
+| Insurance payer | For each visit, payer is categorized as: Commercial/Private, Medicaid/SCHIP, Medicare, None; Patients appearing in the USRDS will be assigned payer status for ESKD care based on the USRDS payer categories | N/A |
 | Nephrology visit | | nephrology_specialty |
 | Oncology visit | | oncology_specialty |
 | Outpatient visit | primary care, nephrologist, urologist, oncologist, cardiologist, other specialist | [outpatient_visits](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/visit/outpatient_visits.csv) |

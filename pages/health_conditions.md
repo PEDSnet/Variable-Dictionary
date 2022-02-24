@@ -20,15 +20,15 @@
 | Cancer | | cancer |
 | Cancer phenotype | | cancer |
 | Cardiovascular symptoms | Diagnosis codeset for palpitations and tachycardia | cardiovascular |
-| Chronic condition, non-kidney | Assigned using Pediatric Medical Complexity Algorithm (PMCA) excluding all kidney disease codes - Categories are: * No chronic condition * Noncomplex chronic condition * Complex chronic conditions | |
+| Chronic condition, non-kidney | Assigned using Pediatric Medical Complexity Algorithm (PMCA) excluding all kidney disease codes - Categories are: * No chronic condition * Noncomplex chronic condition * Complex chronic conditions | N/A |
 | Chronic kidney disease, diagnosed | Diagnosis codeset for chronic kidney disease, stages 2, 3, 3a, or 3b | | chronic_kidney_disease |
 | Chronic kidney disease, measured | At least two eGFR values 30- <90 ml/min/1.73m2 separated by 90 days or more without intervening eGFR >90 ml/min/1.73m2 | [serum_creatinine](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/serum_creatinine.csv) |
 | Chronic weight loss | | height; weight; bmi |
 | Composite kidney function decline | Occurrence of any of the following:  eGFR decline of >=50%, eGFR of <=15 ml/min, Occurrence of chronic dialysis, Occurrence of kidney transplant, Date of the outcome is the earliest day when any of these four events occurs, Use the EHR versions of chronic dialysis and kidney transplant | dialysis; kidney_transplant; serum_creatinine; height |
 | Congential anomalies of the genitourinary system | | congenital_genitourinary |
 | Cough | Diagnosis codeset for cough | cough |
-| Death | yes/no | |
-| Date of death | Date of death | |
+| Death | yes/no | N/A |
+| Date of death | Date of death | N/A |
 | Depression | Diagnosis codeset for major or minor depression | depression |
 | Diarrhea/gastroenteritis  | Diagnosis codeset for diarrhea and gastroenteritis | diarrhea_gastroenteritis |
 | Dizziness | diagnosis codeset for dizziness | dizziness |
@@ -42,7 +42,7 @@
 | Hypertension category, measured | | systolic_bp; diastolic_bp; height |
 | Hypertension, diagnosed | Diagnosis codeset for hypertension | hypertension; hypotension |
 | Hypotension, measured | 1-<10y, - BP <5th percentile, 10-<18y, - BP <90/50 mmHg | systolic_bp; diastolic_bp; height |
-| Hypotension, diagnsed | Diagnosis codeset for hypotension | |
+| Hypotension, diagnsed | Diagnosis codeset for hypotension | N/A |
 | Immune-mediated disorders | | immune_disorder |
 | Insomnia | Diagnosis codeset for insomnia | insomnia |
 | Kidney dysplasia/hypoplasia | | kidney_dysplasia_hypoplasia |

@@ -19,8 +19,7 @@
 | eGFR U25 | computed using the CKiD Under 25 estimating equations | serum_creatinine |
 | Qualitative urine protein | values include negative, trace, 1+, 2+, 3+, and 4+ | urine_protein_qual |
 | Quantitative urine protein | | urine_protein_quant |
-| Quantitative urine protein to creatinine ratio | ratio of urine protein and urine creatinine (combination of
-measures of ratio when available and calculated from urine protein and urine creatinine if not) | urine_protein_quant; urine_creatinine; upcr |
+| Quantitative urine protein to creatinine ratio | ratio of urine protein and urine creatinine (combination of measures of ratio when available and calculated from urine protein and urine creatinine if not) | urine_protein_quant; urine_creatinine; upcr |
 | Serum alanine aminotransferase (ALT) | ALT value, IU/L | alanine_transaminase |
 | Serum aspartate transaminase (AST) | AST value, Units/L | aspartate_aminotransferase |
 | Serum bicarbonate | bicarbonate value, mEq/L | serum_bicarbonate |

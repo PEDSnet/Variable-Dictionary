@@ -20,19 +20,58 @@
 
 | Name | Codeset link | Data Source | Description | Vocabularies | Last Updated | Primary Developer | Status | Other |
 |------|--------------|-------------|-------------|--------------|--------------|-------------------|--------|-------|
-| loop_diuretic_rx | [loop_diuretic_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/loop_diuretic_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients: Furosemide, Bumetanide, Ethacrynic acid, Torsemide | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | Vocab Based| |
+| ace_inhibitor_rx | [ace_inhibitor_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/ace_inhibitor_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients: Benazepril, Captopril, Enalapril, Fosinopril, Lisinopril, Moexipril, Periondopril, Quinapril,Ramipril, Trandolapril | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | combos included |
+| arb_rx | [arb_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/arb_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients: Azilsartan, Candesartan,Eprosartan,Irbesartan,Losartan,Olmesartan,Telmisartan, Valsartan | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | combos included |
+| bb_rx | [bb_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/bb_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients:, Acebutolol, Atenolol, Betaxolol,Bisoprolol, Carteolol, Carvediol, Labetalol, Metoprolol, Nadolol, Nebivolol, Penbutolol, Pindolol, Propanolol, Sotalol, Timolol | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | combos included |
+| ccb_rx | [ccb_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/ccb_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients: Amlodipine, Diltiazem, Felodipine, Isradipine, Nicardipine, Nifedipine, Nisoldipine ,Verapamil | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | combos included |
+| loop_diuretic_rx | [loop_diuretic_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/loop_diuretic_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients: Furosemide, Bumetanide, Ethacrynic acid, Torsemide | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | Vocab Based | combos included |
+| thiazide_rx | [thiazide_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/thiazide_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients: Chlorothiazide, Chlorthalidone, Hydrochlorothiazide, Indapamide, Metolazone | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | combos included |
+
 
 ### Procedures
 
 | Name | Codeset link | Data Source | Description | Vocabularies | Last Updated | Primary Developer | Status | Other |
 |------|--------------|-------------|-------------|--------------|--------------|-------------------|--------|-------|
-| kidney_transplant_px | [kidney_transplant_px](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/procedure/kidney_transplant_px.csv) | PCORnet CDM | Kidney transplant diagnosis codes	| CPT4, HCPCS, ICD10PCS, ICD9Proc, SNOMED | 2021-11 | Levon Utidjian | Vocab Based | |
+| kidney_transplant_px | [kidney_transplant_px](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/procedure/kidney_transplant_px.csv) | PCORnet CDM | Kidney transplant diagnosis codes	| CPT4, HCPCS, ICD10PCS, ICD9Proc, SNOMED | 2021-11 | Levon Utidjian | Vocab Based | ICD codes are included with and without decimal points |
+| kidney_dialysis_px | [kidney_dialysis_px](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/procedure/kidney_dialysis_px.csv) | PCORnet CDM | Kidney dialysis diagnosis codes	| CPT4, HCPCS, ICD10PCS, ICD9Proc, SNOMED | 2021-11 | Levon Utidjian | Vocab Based | ICD codes are included with and without decimal points |
 
-### Diagnosis
+### Condition
 
 | Name | Codeset link | Data Source | Description | Vocabularies | Last Updated | Primary Developer | Status | Other |
 |------|--------------|-------------|-------------|--------------|--------------|-------------------|--------|-------|
-| kidney_transplant_dx | [kidney_transplant_dx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/kidney_transplant_dx.csv) | PCORnet CDM | Kidney transplant condition codes | ICD10, ICD10CM, ICD9CM, SNOMED | 2021-11 | Levon Utidjian | vocab based | |
+| ckd_stage23_dx | [ckd_stage23_dx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/ckd_stage23_dx.csv) | PCORnet CDM | Diagnoses for chronic kidney disease stages 2 and 3 | ICD10, ICD10CM, ICD9CM, SNOMED | 2021-11 | Levon Utidjian | vocab based | ICD codes are included with and without decimal points |
+| kidney_transplant_dx | [kidney_transplant_dx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/kidney_transplant_dx.csv) | PCORnet CDM | Kidney transplant condition codes | ICD10, ICD10CM, ICD9CM, SNOMED | 2021-11 | Levon Utidjian | vocab based | ICD codes are included with and without decimal points |
+| kidney_dialysis_dx | [kidney_dialysis_dx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/kidney_dialysis_dx.csv) | PCORnet CDM | Kidney dialysis condition codes | ICD10, ICD10CM, ICD9CM, SNOMED | 2021-11 | Levon Utidjian | vocab based | ICD codes are included with and without decimal points |
+| hypertension_dx_codes | [hypertension_dx_codes](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/hypertension_dx_codes.csv) | PCORnet CDM | Hypertension condition codes | ICD10, ICD10CM, ICD9CM, SNOMED | 2021-11 | Levon Utidjian | vocab based | ICD codes are included with and without decimal points |
+
+### Measurement
+
+| Name | Codeset link | Data Source | Description | Vocabularies | Last Updated | Primary Developer | Status | Other |
+|------|--------------|-------------|-------------|--------------|--------------|-------------------|--------|-------|
+| Height (field) | [ht_field](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/ht_field.csv) | N/A | Field of VITAL table | N/A | N/A | N/A | vocab based |  | 
+| Weight (field) | [wt_field](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/wt_field.csv) | N/A | Field of VITAL table | N/A | N/A | N/A | vocab based |  | 
+| Original BMI (field) | [original_bmi_field](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/original_bmi_field.csv) | N/A | Field of VITAL table | N/A | N/A | N/A | vocab based |  | 
+| Systolic Blood Pressure (field) | [systolic_field](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/systolic_field.csv) | N/A | Field of VITAL table | N/A | N/A | N/A | vocab based |  | 
+| Diastolic Blood Pressure (field) | [diastolic_field](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/diastolic_field.csv) | N/A | Field of VITAL table | N/A | N/A | N/A | vocab based |  | 
+| Serum creatinine | [serum_creatinine](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/serum_creatinine.csv) | N/A | Serum creatinine measurements | LOINC | 2021-10 | Levon Utidjian | vocab based |  | 
+| Serum cystatin | [serum_cystatin](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/serum_cystatin.csv) | N/A | Serum cystatin measurements | LOINC | 2021-11 | Levon Utidjian | vocab based |  | 
+| Urine creatinine | [urine_creatinine](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/urine_creatinine.csv) | N/A | Urine creatinine measurements | LOINC | 2021-10 | Levon Utidjian | vocab based |  | 
+| Urine protein (qualitative) | [urine_protein_qual](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/urine_protein_qual.csv) | N/A | Urine protein qualitative | LOINC | 2021-10 | Levon Utidjian | vocab based |  |
+| Urine protein (quantitative) | [urine_protein_quant](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/urine_protein_qual.csv) | N/A | Urine protein quantitative | LOINC | 2021-10 | Levon Utidjian | vocab based |  |
+| upcr | [upcr](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/upcr.csv) | N/A | Urine protein to creatinine ratio | LOINC | 2021-10 | Levon Utidjian | vocab based |  |
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

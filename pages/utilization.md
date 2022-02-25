@@ -14,7 +14,7 @@
 | Name | Description | Codeset Link |
 |------|-------------|--------------|
 | Cardiology visit | | cardiology_specialty |
-| Emergency visit | | emergency_visits |
+| Emergency visit | | [emergency_visits](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/visit/emergency_visits.csv) |
 | Hospitalization | Patient was hospitalized, yes/no | [inpatient_visits](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/visit/inpatient_visits.csv) |
 | Hospitalization admission date | Calendar day of hospital inpatient admission | [inpatient_visits](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/visit/inpatient_visits.csv) |
 | Hospitalization days | Number of days in the hospital | [inpatient_visits](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/visit/inpatient_visits.csv) |

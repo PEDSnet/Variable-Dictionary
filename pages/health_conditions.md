@@ -24,7 +24,7 @@
 | Chronic kidney disease, diagnosed | Diagnosis codeset for chronic kidney disease, stages 2, 3, 3a, or 3b | chronic_kidney_disease |
 | Chronic kidney disease, measured | At least two eGFR values 30- <90 ml/min/1.73m2 separated by 90 days or more without intervening eGFR >90 ml/min/1.73m2 | [serum_creatinine](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/serum_creatinine.csv) |
 | Chronic weight loss | | height; weight; bmi |
-| Composite kidney function decline | Occurrence of any of the following:  eGFR decline of >=50%, eGFR of <=15 ml/min, Occurrence of chronic dialysis, Occurrence of kidney transplant, Date of the outcome is the earliest day when any of these four events occurs, Use the EHR versions of chronic dialysis and kidney transplant | dialysis; kidney_transplant; serum_creatinine; height |
+| Composite kidney function decline | Occurrence of any of the following:  eGFR decline of >=50%, eGFR of <=15 ml/min, Occurrence of chronic dialysis, Occurrence of kidney transplant, Date of the outcome is the earliest day when any of these four events occurs, Use the EHR versions of chronic dialysis and kidney transplant | [dialysis](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/kidney_dialysis_dx.csv); [kidney_transplant](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/kidney_transplant_dx.csv); [serum_creatinine](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/serum_creatinine.csv); height |
 | Congential anomalies of the genitourinary system | | congenital_genitourinary |
 | Cough | Diagnosis codeset for cough | cough |
 | Death | yes/no | N/A |
@@ -36,11 +36,11 @@
 | Etiology of CKD | Glomerular disorder, non-glomerular kidney disorder, or malignancy | glomerular_disease; kidney_disease |
 | Fatigue | Diagnosis codeset for fatigue | fatigue |
 | Gastrointestinal symptoms  | Diagnosis codeset for loss of appetite, nausea, vomiting, constipation, bloating, gas | gastrointestinal |
-| Glomerular disease phenotype | | glomerular_disease; nephrology_specialty; kidney_biopsy; kidney_transplant |
+| Glomerular disease phenotype | | glomerular_disease; nephrology_specialty; kidney_biopsy;  [kidney_transplant](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/kidney_transplant_dx.csv) |
 | Hair loss | | hair_loss |
 | Headache | Diagnosis codeset for headache | headache |
 | Hypertension category, measured | | systolic_bp; diastolic_bp; height |
-| Hypertension, diagnosed | Diagnosis codeset for hypertension | hypertension; hypotension |
+| Hypertension, diagnosed | Diagnosis codeset for hypertension | [hypertension](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/hypertension_dx_codes.csv); hypotension |
 | Hypotension, measured | 1-<10y, - BP <5th percentile, 10-<18y, - BP <90/50 mmHg | systolic_bp; diastolic_bp; height |
 | Hypotension, diagnsed | Diagnosis codeset for hypotension | N/A |
 | Immune-mediated disorders | | immune_disorder |
@@ -48,7 +48,7 @@
 | Kidney dysplasia/hypoplasia | | kidney_dysplasia_hypoplasia |
 | Low birth weight, diagnosed | Diagnosis codes for low birth weight | very_low_birth_weight|
 | Low birth weight, measured | Birth weight is <=2500 grams | birth_weight |
-| Mild-Moderate CKD | | serum_creatinine; height |
+| Mild-Moderate CKD | | [serum_creatinine](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/serum_creatinine.csv); height |
 | Nocturnal enuresis | | nocturnal_enuresis |
 | Obesity | | bmi |
 | Other kidney disease | | kidney_disease |
@@ -73,6 +73,6 @@
 | Hyperkalemia | potassium value exceeds the upper limit of normal | serum_potassium |
 | Leukocytopenia | WBCs <=4,000 per cubic milliliter | serum_wbc |
 | Microalbuminuria | urine microalbumin to creatinine ration categorized as normal (<30 mg/dL), microalbuminuria (30- 300 mg/dL), or macroalbuminuria (>300 mg/dL) | microalbumin |
-| Proteinuria, qualitative | qualitative urine protein >=2+ | urine_protein_qual |
-| Proteinuria, quantitative | quantitative urine protein to creatinine ratio categorized as <0.5, 0.5 to <2.0, >=2.0 | urine_protein_quant; urine_creatinine; urine_protein_quant |
+| Proteinuria, qualitative | qualitative urine protein >=2+ | [urine_protein_qual](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/urine_protein_qual.csv) |
+| Proteinuria, quantitative | quantitative urine protein to creatinine ratio categorized as <0.5, 0.5 to <2.0, >=2.0 | [urine_protein_quant](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/urine_protein_quant.csv); [urine_creatinine](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/urine_creatinine.csv); [upcr](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/upcr.csv) |
 | Transaminasemia (Elevated liver enzymes) | Both ALT and AST are >2 times the upper limits of normal | alanine_transaminase; aspartate_aminotransferase |

@@ -1,6 +1,6 @@
-# PRESERVE Variable Dictionary: Codesets
+# PEDSnet Variable Dictionary: Codesets
 
-### This section of the PRESERVE Variable Dictionary contains codeset information.
+### This section of the PEDSnet Variable Dictionary contains codeset information.
 
 #### A codeset is a collection of codes (e.g., diagnosis or procedure codes) which are used for a given clinical concept. For each codeset, the following is provided:
 * Name: Name of codeset

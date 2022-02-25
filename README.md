@@ -1,4 +1,4 @@
-# PRESERVE VARIABLE DICTIONARY
+# PEDSnet VARIABLE DICTIONARY
 # Under Development
 
 ### The repository of variable definitions and codesets for the PCORI-funded PRESERVE study.

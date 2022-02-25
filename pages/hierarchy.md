@@ -1,6 +1,6 @@
-# PRESERVE Variable Dictionary Hierarchy 
+# PEDSnet Variable Dictionary Hierarchy 
 
-### This section of the PRESERVE Variable Dictionary contains variable information.
+### This section of the PEDSnet Variable Dictionary contains variable information.
 
 #### This page compiles a list of different catagories for the variables and will link to a page for each one
 

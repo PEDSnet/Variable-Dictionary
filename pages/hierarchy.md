@@ -1,38 +1,28 @@
 # PEDSnet Variable Dictionary Hierarchy 
 
-### This section of the PEDSnet Variable Dictionary contains variable information.
+### Variable definitions for PEDSnet studies are organized into the hierarchy below. Individual variable definitions can be viewed by navigating to the linked page for each node in the hierarchy.
 
-#### This page compiles a list of different catagories for the variables and will link to a page for each one
-
-### Sociodemographics
-  A set of variables that relate to a combination of social and demographic factors that define people in a specific group or population
-  Pages Link: [Sociodemographic Variables](./sociodemographics.md)
+### [Sociodemographics](./sociodemographics.md)
+  Variables related to social and demographic factors ([link](./sociodemographics.md))
   
-### Area-level variables
-  A set of variables that relate to Area-Level factors that relate to education, socioeconomic status and distance to medical centers
-  Pages Link: [Area-Level variables](./area_level_variables.md)
+### [Area-level variables](./area_level_variables.md)
+  Variables related to geographic factors ([link](./area_level_variables.md))
   
-### Physiologic measurements
-  A set of variables that relate to Physiological measurements from height and weight to blood pressure
-  Pages Link: [Physiologic_Measurements](./physiologic_measurements.md)
+### [Physiologic measurements](./physiologic_measurements.md)
+  Variables related to physiological measurements, such as height, weight, and blood pressure measurements ([link](./physiologic_measurements.md))
  
-### Health Conditions
-  A set of variables that relate to various health conditions
-  Pages Link: [Health Conditions](./health_conditions.md)
+### [Health Conditions](./health_conditions.md)
+  Variables related to health conditions ([link](./health_conditions.md))
   
-### Medications
-  A set of variables that relate to different groups of medications
-  Pages Link: [Medications](./medications.md)
+### [Medications](./medications.md)
+  Variables related to different medications ([link](./medications.md))
   
-### Utilization, costs, payers
-  A set of variables that relate to hospital visitation and stays
-  Pages Link: [Utilization, Costs, and Payers](./utilization.md)
+### [Utilization, costs, payers](./utilization.md)
+  Variables related to hospital healthcare utilization, costs, and payers ([link](./utilization.md))
   
-### Laboratories
-  A set of variables that relate to different groups of laboratory procedures
-  Pages Link: [Laboratories](./laboratories.md)
+### [Laboratory measurements and procedures](./laboratories.md)
+  Variables related to laboratory measurements and procedures ([link](./laboratories.md))
   
-### Procedures
-  A set of variables that relate to various hospital procedures
-  Pages Link: [Procedures](./procedures.md)
+### [Procedures](./procedures.md)
+  Variables related to hospital procedures ([link](./procedures.md))
   

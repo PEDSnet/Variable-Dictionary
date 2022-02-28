@@ -2,19 +2,18 @@
 
 ## Utilization, Costs, and Payers Variables
 
-### This is a slection of variables that are all related to different types of hospital visits and costs.
+### Variables related to hospital healthcare utilization, costs, and payers
 
-#### A variable definition specifies the logic for determining (levels of) a variable from the data. A variable definition may include one or more codesets (e.g., a patient is identified as having a condition if they have >=2 diagnosis codes separated by >= 90 days). For each variable definition, the following is provided:
-* Name: Name of variable
-* Description: General description of variable
-* Codeset Link: The link to the actual codeset
-
+#### For each variable definition, the following is provided:
+* **Name**: Name of variable
+* **Description**: Description of the logic used to determine (levels of) the variable
+* **Codeset Link**: Links to codeset(s), as applicable
 ### Table:
 
 | Name | Description | Codeset Link |
 |------|-------------|--------------|
 | Cardiology Specialty Provider | | [cardiology_specialty_provider](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/visit/cardiology_spec_prov.csv) |
-| Cardiology Specialty Facility | | [cardiology_scpialty_facility](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/visit/cardiology_spec_fac.csv)
+| Cardiology Specialty Facility | | [cardiology_specialty_facility](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/visit/cardiology_spec_fac.csv)
 | Emergency visit | | [emergency_visits](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/visit/emergency_visits.csv) |
 | Hospitalization | Patient was hospitalized, yes/no | [inpatient_visits](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/visit/inpatient_visits.csv) |
 | Hospitalization admission date | Calendar day of hospital inpatient admission | [inpatient_visits](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/visit/inpatient_visits.csv) |

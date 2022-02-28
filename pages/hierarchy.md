@@ -1,4 +1,4 @@
-# PEDSnet Variable Dictionary Hierarchy 
+# PEDSnet Variable Dictionary: Variable Definition Hierarchy 
 
 ### Variable definitions for PEDSnet studies are organized into the hierarchy below. Individual variable definitions can be viewed by navigating to the linked page for each node in the hierarchy.
 

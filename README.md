@@ -8,7 +8,7 @@
 
 
 ## VARIABLES PAGE:
-The variables page includes variable definitions for PEDSnet studies organized into a clinical hierarchy.
+The variables page includes variable definitions for PEDSnet studies organized into a hierarchy.
 
 [VARIABLES PAGE](./pages/hierarchy.md)
 

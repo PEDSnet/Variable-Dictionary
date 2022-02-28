@@ -2,12 +2,12 @@
 
 ## Area-level Variables
 
-### This is a slection of variables that are all related to area level measurements
+### Variables related to geographic factors
 
-#### A variable definition specifies the logic for determining (levels of) a variable from the data. A variable definition may include one or more codesets (e.g., a patient is identified as having a condition if they have >=2 diagnosis codes separated by >= 90 days). For each variable definition, the following is provided:
-* Name: Name of variable
-* Description: General description of variable
-* Codeset Link: The link to the actual codeset
+#### For each variable definition, the following is provided:
+* **Name**: Name of variable
+* **Description**: Description of the logic used to determine (levels of) the variable
+* **Codeset Link**: Links to codeset(s), as applicable
 
 ### Table:
 
@@ -21,5 +21,5 @@
 | Area-level median family income | From the American Community Survey, the median family income for the closest year | N/A |
 | Census tract | | N/A |
 | County of residence | Assigned to a county of residence based on zip code recorded for each visit | N/A |
-| Distance to medical center | number of miles between the centroid of a patient’s 5-digit zip code and the centroid of the institution’s 5digit zip code | N/A |
+| Distance to medical center | number of miles between the centroid of a patient’s 5-digit zip code and the centroid of the institution’s 5-digit zip code | N/A |
 | State of residence | Assigned to a state of residence based on zip code recorded for each visit | N/A |

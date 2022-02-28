@@ -1,22 +1,21 @@
 # PEDSnet Variable Dictionary: Codesets
 
-### This section of the PEDSnet Variable Dictionary contains codeset information.
+### This section contains codeset metadata and links to each codeset csv.
 
-#### A codeset is a collection of codes (e.g., diagnosis or procedure codes) which are used for a given clinical concept. For each codeset, the following is provided:
-* Name: Name of codeset
-* Codeset link: Link to codeset csv
-* Data source(s): e.g. PCORnet CDM
-* Description: Description
-* Vocabularies: e.g. ICD10CM, SNOMED
-* Last updated: YYYY-MM last updated
-* Primary developer:
-* Status:
-* Other: Other notes
+#### For each codeset, the following is provided:
+* **Name**: Name of codeset
+* **Codeset link**: Link to codeset csv
+* **Data source(s)**: e.g. PCORnet CDM, PEDSnet CDM
+* **Description**: Description of and information about codeset
+* **Vocabularies**: e.g. ICD10CM, SNOMED
+* **Last updated**: YYYY-MM last updated
+* **Primary developer**:
+* **Status**: Development status
+* **Other**: Other technical notes
 
+## DATA DOMAINS
 
-## TABLES
-
-### Medication
+### Medications
 
 
 | Name | Codeset link | Data Source | Description | Vocabularies | Last Updated | Primary Developer | Status | Other |
@@ -38,7 +37,7 @@
 | kidney_dialysis_px | [kidney_dialysis_px](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/procedure/kidney_dialysis_px.csv) | PCORnet CDM | Kidney dialysis diagnosis codes	| CPT4, HCPCS, ICD10PCS, ICD9Proc, SNOMED | 2021-11 | Levon Utidjian | Vocab Based | ICD codes are included with and without decimal points |
 
 
-### Condition
+### Conditions
 
 
 | Name | Codeset link | Data Source | Description | Vocabularies | Last Updated | Primary Developer | Status | Other |
@@ -49,7 +48,7 @@
 | hypertension_dx_codes | [hypertension_dx_codes](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/hypertension_dx_codes.csv) | PCORnet CDM | Hypertension condition codes | ICD10, ICD10CM, ICD9CM, SNOMED | 2021-11 | Levon Utidjian | vocab based | ICD codes are included with and without decimal points |
 
 
-### Measurement
+### Measurements
 
 
 | Name | Codeset link | Data Source | Description | Vocabularies | Last Updated | Primary Developer | Status | Other |
@@ -67,7 +66,7 @@
 | upcr | [upcr](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/upcr.csv) | N/A | Urine protein to creatinine ratio | LOINC | 2021-10 | Levon Utidjian | vocab based |  |
 
 
-### Visit
+### Visits
 
 
 | Name | Codeset link | Data Source | Description | Vocabularies | Last Updated | Primary Developer | Status | Other |

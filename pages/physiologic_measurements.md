@@ -1,19 +1,19 @@
 # PEDSnet Variable Dictionary
 
-## Physiologic Measurements Variables
+## Physiologic Measurement Variables
 
-### This is a slection of variables that are all related to different physiologic Measurements
+### Variables related to physiological measurements, such as height, weight, and blood pressure measurements
 
-#### A variable definition specifies the logic for determining (levels of) a variable from the data. A variable definition may include one or more codesets (e.g., a patient is identified as having a condition if they have >=2 diagnosis codes separated by >= 90 days). For each variable definition, the following is provided:
-* Name: Name of variable
-* Description: General description of variable
-* Codeset Link: The link to the actual codeset
+#### For each variable definition, the following is provided:
+* **Name**: Name of variable
+* **Description**: Description of the logic used to determine (levels of) the variable
+* **Codeset Link**: Links to codeset(s), as applicable
 
 ### Table:
 
 | Name | Description | Codeset Link |
 |------|-------------|--------------|
-| ABPM | | diastolic_bp; systolic_bp; p_method |
+| ABPM | | diastolic_bp; systolic_bp; bp_method |
 | ABPM ordered date | Date when an ABPM was ordered | N/A |
 | Ambulatory BP | | ambulatory_bp |
 | Birth weight, measured | Birth weight of child as recorded in the EHR | birth_weight |

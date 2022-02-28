@@ -1,25 +1,25 @@
 # PEDSnet VARIABLE DICTIONARY
 # Under Development
 
-### The repository of variable definitions and codesets for the PCORI-funded PRESERVE study.
+### The repository for variable definitions and codesets for PEDSnet studies.
 
-#### The repository contains sections for both variable definitions and codesets used for the PRESERVE study. The repository functions as a single centralized location for codeset and variable definition information across the PRESERVE study, as updates and refinements are made.
-#### A codeset is a collection of codes (e.g., diagnosis or procedure codes) which are used for a given clinical concept. A variable definition specifies the logic for determining (levels of) a variable from the data. A variable definition may include one or more codesets (e.g., a patient is identified as having a condition if they have >=2 diagnosis codes separated by >= 90 days). A computable phenotype is an algorithm that includes more >1 variable in order to assess a healthcare concept.
+#### This repository contains includes variable definitions and codesets that have been developed for PEDSnet studies. The repository functions as a single centralized location for codeset and variable definition information as updates and refinements are made.
+#### In this repository, a codeset refers to a collection of codes (e.g., diagnosis or procedure codes) which are used for a given clinical concept, whereas a variable definition refers to the logic for determining (levels of) a variable. A variable definition may include one or more codesets. The term "computable phenotype" is sometimes used for a complex variable definition which uses multiple other variables to assess or determine a healthcare concept.
 
 
 ## VARIABLES PAGE:
-A page containing a breakdown of variables into a number of different categories.
+The variables page includes variable definitions for PEDSnet studies organized into a clinical hierarchy.
 
-[Variables Page](./pages/hierarchy.md)
+[VARIABLES PAGE](./pages/hierarchy.md)
 
 ## CODESETS PAGE:
-A page containing a breakdown of codesests into the different domains. 
+The codesets page include a list of codesets organized by data domain. 
 
-[Preserve_Codesets](./pages/codesets.md)
+[CODESETS PAGE](./pages/codesets.md)
 
-## .csv download instructions:
-A page that lists instructions on how to download a .csv codeset file from github.
+## .csv DOWNLOAD INSTRUCTIONS:
+This page provides step-by-step instruction for downloading a .csv codeset file from GitHub.
 
-[Download_Instructions](./pages/download_csv.md)
+[DOWNLOAD INSTRUCTIONS](./pages/download_csv.md)
 
 

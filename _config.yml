@@ -8,4 +8,4 @@ include:
   - index.md
   - codesets.md
   - variables.md
-theme: jekyll-theme-dinky
+theme: jekyll-theme-cayman

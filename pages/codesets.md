@@ -18,9 +18,9 @@
 ### Medications
 
 
-| Name | Codeset link | Data Source | Description | Vocabularies | Last Updated | Primary Developer | Status | Other |
-|------|--------------|-------------|-------------|--------------|--------------|-------------------|--------|-------|
-| ace_inhibitor_rx | [ace_inhibitor_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/ace_inhibitor_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients: Benazepril, Captopril, Enalapril, Fosinopril, Lisinopril, Moexipril, Periondopril, Quinapril,Ramipril, Trandolapril | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | combos included |
+| Name/Codeset link | Data Source | Description | Vocabularies | Last Updated | Primary Developer | Status | Other |
+|-------------------|-------------|-------------|--------------|--------------|-------------------|--------|-------|
+| [ace_inhibitor_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/ace_inhibitor_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients: Benazepril, Captopril, Enalapril, Fosinopril, Lisinopril, Moexipril, Periondopril, Quinapril,Ramipril, Trandolapril | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | combos included |
 | arb_rx | [arb_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/arb_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients: Azilsartan, Candesartan,Eprosartan,Irbesartan,Losartan,Olmesartan,Telmisartan, Valsartan | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | combos included |
 | bb_rx | [bb_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/bb_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients:, Acebutolol, Atenolol, Betaxolol,Bisoprolol, Carteolol, Carvediol, Labetalol, Metoprolol, Nadolol, Nebivolol, Penbutolol, Pindolol, Propanolol, Sotalol, Timolol | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | combos included |
 | ccb_rx | [ccb_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/ccb_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients: Amlodipine, Diltiazem, Felodipine, Isradipine, Nicardipine, Nifedipine, Nisoldipine ,Verapamil | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | combos included |

@@ -23,3 +23,8 @@
 | County of residence | Assigned to a county of residence based on zip code recorded for each visit | N/A |
 | Distance to medical center | number of miles between the centroid of a patient’s 5-digit zip code and the centroid of the institution’s 5-digit zip code | N/A |
 | State of residence | Assigned to a state of residence based on zip code recorded for each visit | N/A |
+
+#### [Variables Page](./hierarchy.md)
+
+#### [Home Page](https://pedsnet.github.io/Variable-Dictionary/)
+

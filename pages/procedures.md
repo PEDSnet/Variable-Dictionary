@@ -23,3 +23,8 @@
 | Kidney transplant, USRDS | Date of first kidney transplant in USRDS | N/A |
 | Kidney transplant, number | Number of kidney transplants | N/A |
 | Urine protein monitoring | Target population is the subset of the study cohort with diagnosed hypertension; For each outpatient visit, takes the value of “yes” if any urine protein test done, and “no” if no urine protein test done | urine_protein_quant |
+
+
+#### [Variables Page](./hierarchy.md)
+
+#### [Home Page](https://pedsnet.github.io/Variable-Dictionary/)

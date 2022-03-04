@@ -28,3 +28,8 @@
 | Serum Potassium | potassium value, mEq/L | serum_potassium |
 | Serum WBC count | WBCs per cubic milliliter | serum_wbc |
 | Urine creatinine | | [urine_creatinine](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/urine_creatinine.csv) |
+
+
+#### [Variables Page](./hierarchy.md)
+
+#### [Home Page](https://pedsnet.github.io/Variable-Dictionary/)

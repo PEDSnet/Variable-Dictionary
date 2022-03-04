@@ -76,3 +76,8 @@
 | Proteinuria, qualitative | qualitative urine protein >=2+ | [urine_protein_qual](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/urine_protein_qual.csv) |
 | Proteinuria, quantitative | quantitative urine protein to creatinine ratio categorized as <0.5, 0.5 to <2.0, >=2.0 | [urine_protein_quant](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/urine_protein_quant.csv); [urine_creatinine](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/urine_creatinine.csv); [upcr](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/upcr.csv) |
 | Transaminasemia (Elevated liver enzymes) | Both ALT and AST are >2 times the upper limits of normal | alanine_transaminase; aspartate_aminotransferase |
+
+
+#### [Variables Page](./hierarchy.md)
+
+#### [Home Page](https://pedsnet.github.io/Variable-Dictionary/)

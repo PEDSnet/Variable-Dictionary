@@ -25,3 +25,8 @@
 | RAAS blockers | Any occurrence of an ACEi or ARB | [arbs](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/arb_rx.csv); [ace_inhibitors](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/ace_inhibitor_rx.csv) |
 | Thiazide diuretics | Medication codeset for the following ingredients: Chlorothiazide, Chlorthalidone, Hydrochlorothiazide, Indapamide, Metolazone | [thiazides](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/thiazide_rx.csv) |
 
+
+#### [Variables Page](./hierarchy.md)
+
+#### [Home Page](https://pedsnet.github.io/Variable-Dictionary/)
+

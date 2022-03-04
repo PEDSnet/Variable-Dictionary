@@ -15,24 +15,13 @@
 
 ## DATA DOMAINS
 
-## Test Table
-
-+---------------+---------------+--------------------+
-| Fruit         | Price         | Advantages         |
-+===============+===============+====================+
-| Bananas       | $1.34         | - built-in wrapper |
-|               |               | - bright color     |
-+---------------+---------------+--------------------+
-| Oranges       | $2.10         | - cures scurvy     |
-|               |               | - tasty            |
-+---------------+---------------+--------------------+
 
 ### Medications
 
 
 | Name/Codeset link | Data Source | Description | Vocabularies | Last Updated | Primary Developer | Status | Other |
 |-------------------|-------------|-------------|--------------|--------------|-------------------|--------|-------|
-| [ace_inhibitor_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/ace_inhibitor_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients: Benazepril, Captopril, Enalapril, Fosinopril, Lisinopril, Moexipril, Periondopril, Quinapril,Ramipril, Trandolapril | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | combos included |
+| [ace_inhibitor_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/ace_inhibitor_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients:  <ul><li>Benazepril</li><li>Captopril</li><li>Enalapril</li><li>Fosinopril</li><li>Lisinopril</li><li>Moexipril</li><li>Periondopril</li><li>Quinapril</li><li>Ramipril</li><li>Trandolapril</li></lu>| NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | combos included |
 | arb_rx | [arb_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/arb_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients: Azilsartan, Candesartan,Eprosartan,Irbesartan,Losartan,Olmesartan,Telmisartan, Valsartan | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | combos included |
 | bb_rx | [bb_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/bb_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients:, Acebutolol, Atenolol, Betaxolol,Bisoprolol, Carteolol, Carvediol, Labetalol, Metoprolol, Nadolol, Nebivolol, Penbutolol, Pindolol, Propanolol, Sotalol, Timolol | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | combos included |
 | ccb_rx | [ccb_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/ccb_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients: Amlodipine, Diltiazem, Felodipine, Isradipine, Nicardipine, Nifedipine, Nisoldipine ,Verapamil | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | combos included |

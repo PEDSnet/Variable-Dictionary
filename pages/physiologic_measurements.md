@@ -42,3 +42,7 @@
 | Weight z-score | Age-sex standardized weight zscore from the CDC 2000 growth charts | weight |
 | Weight, measured | Measured weight, kg | weight |
 
+#### [Variables Page](./hierarchy.md)
+
+#### [Home Page](https://pedsnet.github.io/Variable-Dictionary/)
+

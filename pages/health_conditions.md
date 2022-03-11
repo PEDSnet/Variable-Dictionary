@@ -73,6 +73,7 @@
 | Transaminasemia (Elevated liver enzymes) | Both ALT and AST are >2 times the upper limits of normal | alanine_transaminase; aspartate_aminotransferase |
 
 ### Diseases of the genitourinary system
+
 | Name | Description | Codeset Link |
 |------|-------------|--------------|
 | Chronic kidney disease, diagnosed | Diagnosis codeset for chronic kidney disease, stages 2, 3, 3a, or 3b | chronic_kidney_disease |
@@ -92,9 +93,10 @@
 | Proteinuria, quantitative | quantitative urine protein to creatinine ratio categorized as <0.5, 0.5 to <2.0, >=2.0 | [urine_protein_quant](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/urine_protein_quant.csv); [urine_creatinine](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/urine_creatinine.csv); [upcr](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/upcr.csv) |
 
 ### Complications of pregnancy; childbirth; and the puerperium
+
 | Name | Description | Codeset Link |
 |------|-------------|--------------|
-| Low birth weight, diagnosed | Diagnosis codes for low birth weight | very_low_birth_weight|
+| Low birth weight, diagnosed | Diagnosis codes for low birth weight | very_low_birth_weight |
 | Low birth weight, measured | Birth weight is <=2500 grams | birth_weight |
 | Pregnancy | Diagnosis codeset for pregnancy | pregnancy |
 | Prematurity | <37 weeks gestational age | gestational_age |
@@ -103,6 +105,7 @@
 | Very low birth weight, measured | Birth weight is <=1500 grams | birth_weight |
 
 ### Diseases of the skin and subcutaneous tissue
+
 | Name | Description | Codeset Link |
 |------|-------------|--------------|
 | Angioedema | Diagnosis codeset for angioedema | angiodema |

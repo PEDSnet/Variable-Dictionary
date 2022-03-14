@@ -6,8 +6,6 @@
 
 <img width="1440" alt="Screen Shot 2022-03-14 at 11 33 22 AM" src="https://user-images.githubusercontent.com/89149346/158207076-45a9e465-79f7-43ef-8a57-f3da6579865e.png">
 
-![Screen Shot 2022-01-27 at 11 57 22 AM](https://user-images.githubusercontent.com/89149346/151406810-a3ab0345-9d10-4771-9748-691dfa90f8ad.png)
-
 * That should bring up the file as text in the browser window and look something like this:
 
 ![Screen Shot 2022-01-27 at 12 00 49 PM](https://user-images.githubusercontent.com/89149346/151407027-8ff3a527-56e0-46c6-871d-8224ad268225.png)

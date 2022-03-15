@@ -26,7 +26,7 @@
 
 * After following a link to a codeset csv, you will be directory to the GitHub view for the file. When in this view, file click the "Raw" button:
 
-![csv download](https://user-images.githubusercontent.com/89149346/158444573-c11ade71-1530-4fb2-b1b9-9fb2c11f9b8d.png)
+![csv](https://user-images.githubusercontent.com/89149346/158447159-ce585bfa-75c5-4979-968e-fc9494df00fc.png)
 
 * That should bring up the file as text in the browser window and look something like this:
 

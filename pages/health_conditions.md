@@ -45,7 +45,6 @@
 ### Diseases of the nervous system and sense organs
 
 | Name | Description | Codeset Link |
-
 |------|-------------|--------------|
 
 ### Diseases of the circulatory system

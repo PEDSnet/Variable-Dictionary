@@ -44,9 +44,6 @@
 
 ### Diseases of the nervous system and sense organs
 
-| Name | Description | Codeset Link |
-|------|-------------|--------------|
-
 ### Diseases of the circulatory system
 
 | Name | Description | Codeset Link |
@@ -112,8 +109,6 @@
 
 ### Diseases of the musculoskeletal system and connective tissue
 
-| Name | Description | Codeset Link |
-|------|-------------|--------------|
 
 ### Congenital anomalies
 
@@ -123,15 +118,9 @@
 
 ### Certain conditions originating in the perinatal period
 
-| Name | Description | Codeset Link |
-|------|-------------|--------------|
-
 
 ### Injury and poisoning
 
-
-| Name | Description | Codeset Link |
-|------|-------------|--------------|
 
 ### Symptoms; signs; and ill-defined conditions
 

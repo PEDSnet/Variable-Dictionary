@@ -19,8 +19,8 @@
 ### Medications
 
 
-| Name/Codeset link | Data Source | Description | Vocabularies | Last Updated | Primary Developer | Status | Metadata |
-|-------------------|-------------|-------------|--------------|--------------|-------------------|--------|----------|
+| Name/Codeset link | Target Data Model | Description | Vocabularies | Last Updated | Primary Developer | Status | Metadata |
+|-------------------|-------------------|-------------|--------------|--------------|-------------------|--------|----------|
 | [ace_inhibitor_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/ace_inhibitor_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients: Benazepril,<br>Captopril,<br>Enalapril,<br>Fosinopril,<br>Lisinopril,<br>Moexipril,<br>Periondopril,<br>Quinapril,<br>Ramipril,<br>Trandolapril | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | N/A |
 | [arb_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/arb_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients:<br> Azilsartan,<br> Candesartan,<br> Eprosartan,<br> Irbesartan,<br> Losartan,<br> Olmesartan,<br> Telmisartan,<br> Valsartan | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | N/A |
 | [bb_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/bb_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients:<br> Acebutolol,<br> Atenolol,<br> Betaxolol,<br>Bisoprolol,<br> Carteolol,<br> Carvediol,<br> Labetalol,<br> Metoprolol,<br> Nadolol,<br> Nebivolol,<br> Penbutolol,<br> Pindolol,<br> Propanolol,<br> Sotalol,<br> Timolol | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | N/A |
@@ -32,8 +32,8 @@
 ### Procedures
 
 
-| Name/Codeset link | Data Source | Description | Vocabularies | Last Updated | Primary Developer | Status | Metadata |
-|--------------------|-------------|-------------|--------------|--------------|-------------------|--------|-------|
+| Name/Codeset link | Target Data Model | Description | Vocabularies | Last Updated | Primary Developer | Status | Metadata |
+|-------------------|-------------------|-------------|--------------|--------------|-------------------|--------|-------|
 | [kidney_transplant_px](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/procedure/kidney_transplant_px.csv) | PCORnet CDM | Kidney transplant diagnosis codes	| CPT4, HCPCS, ICD10PCS, ICD9Proc, SNOMED | 2021-11 | Levon Utidjian | Vocab Based | N/A |
 | [kidney_dialysis_px](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/procedure/kidney_dialysis_px.csv) | PCORnet CDM | Kidney dialysis diagnosis codes	| CPT4, HCPCS, ICD10PCS, ICD9Proc, SNOMED | 2021-11 | Levon Utidjian | Vocab Based | N/A |
 
@@ -41,8 +41,8 @@
 ### Conditions
 
 
-| Name/Codeset link | Data Source | Description | Vocabularies | Last Updated | Primary Developer | Status | Metadata |
-|-------------------|-------------|-------------|--------------|--------------|-------------------|--------|-------|
+| Name/Codeset link | Target Data Model | Description | Vocabularies | Last Updated | Primary Developer | Status | Metadata |
+|-------------------|-------------------|-------------|--------------|--------------|-------------------|--------|-------|
 | [ckd_stage23_dx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/ckd_stage23_dx.csv) | PCORnet CDM | Diagnoses for chronic kidney disease stages 2 and 3 | ICD10, ICD10CM, ICD9CM, SNOMED | 2021-11 | Levon Utidjian | vocab based | N/A |
 | [kidney_transplant_dx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/kidney_transplant_dx.csv) | PCORnet CDM | Kidney transplant condition codes | ICD10, ICD10CM, ICD9CM, SNOMED | 2021-11 | Levon Utidjian | vocab based | N/A |
 | [kidney_dialysis_dx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/kidney_dialysis_dx.csv) | PCORnet CDM | Kidney dialysis condition codes | ICD10, ICD10CM, ICD9CM, SNOMED | 2021-11 | Levon Utidjian | vocab based | N/A |
@@ -52,8 +52,8 @@
 ### Measurements
 
 
-| Name/Codeset link | Data Source | Description | Vocabularies | Last Updated | Primary Developer | Status | Metadata |
-|-------------------|-------------|-------------|--------------|--------------|-------------------|--------|-------|
+| Name/Codeset link | Target Data Model | Description | Vocabularies | Last Updated | Primary Developer | Status | Metadata |
+|-------------------|-------------------|-------------|--------------|--------------|-------------------|--------|-------|
 | [ht_field](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/ht_field.csv) | N/A | Field of VITAL table | N/A | N/A | N/A | vocab based | N/A | 
 | [wt_field](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/wt_field.csv) | N/A | Field of VITAL table | N/A | N/A | N/A | vocab based | N/A | 
 | [original_bmi_field](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/measurement/original_bmi_field.csv) | N/A | Field of VITAL table | N/A | N/A | N/A | vocab based | N/A | 
@@ -70,8 +70,8 @@
 ### Visits
 
 
-| Name/Codeset link | Data Source | Description | Vocabularies | Last Updated | Primary Developer | Status | Metadata |
-|-------------------|-------------|-------------|--------------|--------------|-------------------|--------|-------|
+| Name/Codeset link | Target Data Model | Description | Vocabularies | Last Updated | Primary Developer | Status | Metadata |
+|-------------------|-------------------|-------------|--------------|--------------|-------------------|--------|-------|
 | [nephrology_provider](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/visit/nephrology_spec_prov.csv) | PCORnet CDM | Nephrology provider | PCORnet Value set | 2021-09 | Amy Goodwin Davies | vocab based | N/A |
 | [cardiology_spec_fac](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/visit/cardiology_spec_fac.csv) | PCORnet CDM | Cardiology facility | PCORnet Value set | 2021-09 | Amy Goodwin Davies | vocab based | N/A |
 | [cardiology_spec_prov](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/visit/cardiology_spec_prov.csv) | PCORnet CDM | Cardiology provider | PCORnet Value set | 2021-09 | Amy Goodwin Davies | vocab based | N/A |

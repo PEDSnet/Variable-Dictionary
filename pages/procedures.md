@@ -17,7 +17,7 @@
 | Chronic dialysis, EHR | 2+ codes >90d apart; date of occurrence of chronic dialysis is day of the 2nd dialysis code separated by the first by >90 days | [dialysis](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/procedure/kidney_dialysis_px.csv) |
 | Chronic dialysis, USRDS  | Start of dialysis date in USRDS | N/A |
 | Dialysis modality | hemodialysis/peritoneal dialysis  | N/A | 
-| Kidney biopsy | Procedure codeset thatnindicates a kidney biopsy was done | kidney_biopsy |
+| Kidney biopsy | Procedure codeset that indicates a kidney biopsy was done | kidney_biopsy |
 | Kidney biopsy date | Calendar day of kidney biopsy | N/A | 
 | Kidney transplant, EHR | Occurrence of procedure codes indicative of a kidney transplant | [kidney_transplant](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/procedure/kidney_transplant_px.csv) |
 | Kidney transplant, USRDS | Date of first kidney transplant in USRDS | N/A |

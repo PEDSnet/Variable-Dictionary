@@ -49,9 +49,9 @@
 | Name | Description | Codeset Link |
 |------|-------------|--------------|
 | Hypertension category, measured | | systolic_bp; diastolic_bp; height |
-| Hypertension, diagnosed | Diagnosis codeset for hypertension | [hypertension](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/hypertension_dx_codes.csv); hypotension |
-| Hypotension, measured | 1-<10y, - BP <5th percentile, 10-<18y, - BP <90/50 mmHg | systolic_bp; diastolic_bp; height |
-| Hypotension, diagnsed | Diagnosis codeset for hypotension | N/A |
+| Hypertension, diagnosed | Diagnosis codeset for hypertension | [hypertension](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/hypertension_dx_codes.csv);  |
+| Hypotension, measured | 1-<10y, - BP <5th percentile, 10-<18y, - BP <90/50 mmHg | hypotension; systolic_bp; diastolic_bp; height |
+| Hypotension, diagnosed | Diagnosis codeset for hypotension | N/A |
 | Pericarditis | Diagnosis codeset for pericarditis | pericarditis |
 
 ### Diseases of the respiratory system
@@ -130,7 +130,7 @@
 | Cardiovascular symptoms | Diagnosis codeset for palpitations and tachycardia | cardiovascular |
 | Chronic weight loss | | height; weight; bmi |
 | Cough | Diagnosis codeset for cough | cough |
-| Dizziness | diagnosis codeset for dizziness | dizziness |
+| Dizziness | Diagnosis codeset for dizziness | dizziness |
 | Edema | Diagnosis codeset for edema | edema |
 | Fatigue | Diagnosis codeset for fatigue | fatigue |
 | Gastrointestinal symptoms  | Diagnosis codeset for loss of appetite, nausea, vomiting, constipation, bloating, gas | gastrointestinal |

@@ -21,12 +21,12 @@
 
 | Name/Codeset link | Target Data Model | Description | Vocabularies | Last Updated | Primary Developer | Status | Metadata |
 |-------------------|-------------------|-------------|--------------|--------------|-------------------|--------|----------|
-| [ace_inhibitor_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/ace_inhibitor_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients: Benazepril,<br>Captopril,<br>Enalapril,<br>Fosinopril,<br>Lisinopril,<br>Moexipril,<br>Periondopril,<br>Quinapril,<br>Ramipril,<br>Trandolapril | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | N/A |
-| [arb_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/arb_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients:<br> Azilsartan,<br> Candesartan,<br> Eprosartan,<br> Irbesartan,<br> Losartan,<br> Olmesartan,<br> Telmisartan,<br> Valsartan | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | N/A |
-| [bb_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/bb_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients:<br> Acebutolol,<br> Atenolol,<br> Betaxolol,<br>Bisoprolol,<br> Carteolol,<br> Carvediol,<br> Labetalol,<br> Metoprolol,<br> Nadolol,<br> Nebivolol,<br> Penbutolol,<br> Pindolol,<br> Propanolol,<br> Sotalol,<br> Timolol | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | N/A |
-| [ccb_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/ccb_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients: Amlodipine,<br> Diltiazem,<br> Felodipine,<br> Isradipine,<br> Nicardipine,<br> Nifedipine,<br> Nisoldipine,<br> Verapamil | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | N/A |
-| [loop_diuretic_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/loop_diuretic_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients: Furosemide,<br> Bumetanide,<br> Ethacrynic acid,<br> Torsemide | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | Vocab Based | N/A |
-| [thiazide_rx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/thiazide_rx.csv) | PCORnet CDM | Medication codeset for the following ingredients: Chlorothiazide,<br> Chlorthalidone,<br> Hydrochlorothiazide,<br> Indapamide,<br> Metolazone | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | N/A |
+| [rx_ace_inhibitor](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/rx_ace_inhibitor.csv) | PCORnet CDM | Medication codeset for the following ingredients: Benazepril,<br>Captopril,<br>Enalapril,<br>Fosinopril,<br>Lisinopril,<br>Moexipril,<br>Periondopril,<br>Quinapril,<br>Ramipril,<br>Trandolapril | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | N/A |
+| [rx_arb](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/rx_arb.csv) | PCORnet CDM | Medication codeset for the following ingredients:<br> Azilsartan,<br> Candesartan,<br> Eprosartan,<br> Irbesartan,<br> Losartan,<br> Olmesartan,<br> Telmisartan,<br> Valsartan | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | N/A |
+| [rx_bb](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/rx_bb.csv) | PCORnet CDM | Medication codeset for the following ingredients:<br> Acebutolol,<br> Atenolol,<br> Betaxolol,<br>Bisoprolol,<br> Carteolol,<br> Carvediol,<br> Labetalol,<br> Metoprolol,<br> Nadolol,<br> Nebivolol,<br> Penbutolol,<br> Pindolol,<br> Propanolol,<br> Sotalol,<br> Timolol | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | N/A |
+| [rx_ccb](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/rx_ccb.csv) | PCORnet CDM | Medication codeset for the following ingredients: Amlodipine,<br> Diltiazem,<br> Felodipine,<br> Isradipine,<br> Nicardipine,<br> Nifedipine,<br> Nisoldipine,<br> Verapamil | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | N/A |
+| [rx_loop_diuretic](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/rx_loop_diuretic.csv) | PCORnet CDM | Medication codeset for the following ingredients: Furosemide,<br> Bumetanide,<br> Ethacrynic acid,<br> Torsemide | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | Vocab Based | N/A |
+| [rx_thiazide](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/rx_thiazide.csv) | PCORnet CDM | Medication codeset for the following ingredients: Chlorothiazide,<br> Chlorthalidone,<br> Hydrochlorothiazide,<br> Indapamide,<br> Metolazone | NDC, RxNorm, RxNorm Extension | 2021-11 | Levon Utidjian | vocab-based | N/A |
 
 
 ### Procedures
@@ -34,8 +34,8 @@
 
 | Name/Codeset link | Target Data Model | Description | Vocabularies | Last Updated | Primary Developer | Status | Metadata |
 |-------------------|-------------------|-------------|--------------|--------------|-------------------|--------|-------|
-| [kidney_transplant_px](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/procedure/kidney_transplant_px.csv) | PCORnet CDM | Kidney transplant diagnosis codes	| CPT4, HCPCS, ICD10PCS, ICD9Proc, SNOMED | 2021-11 | Levon Utidjian | Vocab Based | N/A |
-| [kidney_dialysis_px](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/procedure/kidney_dialysis_px.csv) | PCORnet CDM | Kidney dialysis diagnosis codes	| CPT4, HCPCS, ICD10PCS, ICD9Proc, SNOMED | 2021-11 | Levon Utidjian | Vocab Based | N/A |
+| [px_kidney_transplant](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/procedure/px_kidney_transplant.csv) | PCORnet CDM | Kidney transplant diagnosis codes	| CPT4, HCPCS, ICD10PCS, ICD9Proc, SNOMED | 2021-11 | Levon Utidjian | Vocab Based | N/A |
+| [px_kidney_dialysis](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/procedure/px_kidney_dialysis.csv) | PCORnet CDM | Kidney dialysis diagnosis codes	| CPT4, HCPCS, ICD10PCS, ICD9Proc, SNOMED | 2021-11 | Levon Utidjian | Vocab Based | N/A |
 
 
 ### Conditions
@@ -43,10 +43,10 @@
 
 | Name/Codeset link | Target Data Model | Description | Vocabularies | Last Updated | Primary Developer | Status | Metadata |
 |-------------------|-------------------|-------------|--------------|--------------|-------------------|--------|-------|
-| [ckd_stage23_dx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/ckd_stage23_dx.csv) | PCORnet CDM | Diagnoses for chronic kidney disease stages 2 and 3 | ICD10, ICD10CM, ICD9CM, SNOMED | 2021-11 | Levon Utidjian | vocab based | N/A |
-| [kidney_transplant_dx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/kidney_transplant_dx.csv) | PCORnet CDM | Kidney transplant condition codes | ICD10, ICD10CM, ICD9CM, SNOMED | 2021-11 | Levon Utidjian | vocab based | N/A |
-| [kidney_dialysis_dx](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/kidney_dialysis_dx.csv) | PCORnet CDM | Kidney dialysis condition codes | ICD10, ICD10CM, ICD9CM, SNOMED | 2021-11 | Levon Utidjian | vocab based | N/A |
-| [hypertension_dx_codes](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/hypertension_dx_codes.csv) | PCORnet CDM | Hypertension condition codes | ICD10, ICD10CM, ICD9CM, SNOMED | 2021-11 | Levon Utidjian | vocab based | N/A |
+| [dx_ckd_stage23](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/dx_ckd_stage23.csv) | PCORnet CDM | Diagnoses for chronic kidney disease stages 2 and 3 | ICD10, ICD10CM, ICD9CM, SNOMED | 2021-11 | Levon Utidjian | vocab based | N/A |
+| [dx_kidney_transplant](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/dx_kidney_transplant.csv) | PCORnet CDM | Kidney transplant condition codes | ICD10, ICD10CM, ICD9CM, SNOMED | 2021-11 | Levon Utidjian | vocab based | N/A |
+| [dx_kidney_dialysis](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/dx_kidney_dialysis.csv) | PCORnet CDM | Kidney dialysis condition codes | ICD10, ICD10CM, ICD9CM, SNOMED | 2021-11 | Levon Utidjian | vocab based | N/A |
+| [dx_hypertension_codes](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/dx_hypertension_codes.csv) | PCORnet CDM | Hypertension condition codes | ICD10, ICD10CM, ICD9CM, SNOMED | 2021-11 | Levon Utidjian | vocab based | N/A |
 
 
 ### Measurements

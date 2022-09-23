@@ -1,0 +1,31 @@
+﻿concept_id,concept_code,concept_name,vocabulary_id
+45890007,1011015,"""Bone density (bone mineral content) study, 1 or more sites""",CPT4
+2211974,78351,"""Bone density (bone mineral content) study, 1 or more sites; dual photon absorptiometry, 1 or more sites""",CPT4
+2211973,78350,"""Bone density (bone mineral content) study, 1 or more sites; single photon absorptiometry""",CPT4
+40309552,146514002,"""Bone density scan""",SNOMED
+4195803,312681000,"""Bone density scan""",SNOMED
+40339471,169288001,"""Bone density scan""",SNOMED
+4218403,82066000,"""Bone density study, dual photon absorptiometry""",SNOMED
+40308470,146295003,"""CT bone density""",SNOMED
+40217821,G0131,"""CT scan, bone density study""",HCPCS
+42734623,76070,"""Computerized axial tomography bone density study, one or more sites""",CPT4
+4318967,22059005,"""Computerized tomography, bone density study""",SNOMED
+506693,1053481000000100,"""DEXA scan of lateral spine""",SNOMED
+46286925,950201000000105,"""DEXA vertebral morphometry""",SNOMED
+44789163,194491000000104,"""Dexamphetamine measurement""",SNOMED
+42740405,0028T,"""Dual energy x-ray absorptiometry (DEXA) body composition study, one or more sites""",CPT4
+42739103,76076,"""Dual energy x-ray absorptiometry (DEXA), bone density study, one or more sites; appendicular skeleton (peripheral) (eg, radius, wrist, heel)""",CPT4
+42739102,76075,"""Dual energy x-ray absorptiometry (DEXA), bone density study, one or more sites; axial skeleton (eg, hips, pelvis, spine)""",CPT4
+42740642,76077,"""Dual energy x-ray absorptiometry (DXA), bone density study, one or more sites; vertebral fracture assessment""",CPT4
+45888756,1014948,"""Dual-energy X-ray absorptiometry (DXA), bone density study, 1 or more sites""",CPT4
+2211827,77081,"""Dual-energy X-ray absorptiometry (DXA), bone density study, 1 or more sites; appendicular skeleton (peripheral) (eg, radius, wrist, heel)""",CPT4
+2211826,77080,"""Dual-energy X-ray absorptiometry (DXA), bone density study, 1 or more sites; axial skeleton (eg, hips, pelvis, spine)""",CPT4
+46257456,77085,"""Dual-energy X-ray absorptiometry (DXA), bone density study, 1 or more sites; axial skeleton (eg, hips, pelvis, spine), including vertebral fracture assessment""",CPT4
+2211828,77082,"""Dual-energy X-ray absorptiometry (DXA), bone density study, 1 or more sites; vertebral fracture assessment""",CPT4
+40308683,148177002,"""Menopause: bone density check""",SNOMED
+44791981,306131000000109,"""Peripheral DEXA scan""",SNOMED
+927030,0508T,"""Pulse-echo ultrasound bone density measurement resulting in indicator of axial bone mineral density, tibia""",CPT4
+4136744,413074001,"""Serum dexamfetamine measurement""",SNOMED
+2617232,G0130,"""Single energy x-ray absorptiometry (sexa) bone density study, one or more sites; appendicular skeleton (peripheral) (e.g., radius, wrist, heel)""",HCPCS
+4052851,23572007,"""Transmission bone density study""",SNOMED
+2211792,76977,"""Ultrasound bone density measurement and interpretation, peripheral site(s), any method""",CPT4

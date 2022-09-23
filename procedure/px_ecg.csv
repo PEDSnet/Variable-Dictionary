@@ -1,0 +1,103 @@
+﻿concept_id,concept_code,concept_name,vocabulary_id
+40297728,142010003,"""12 lead ECG""",SNOMED
+40329487,164859005,"""12 lead ECG""",SNOMED
+4145308,268400002,"""12 lead ECG""",SNOMED
+40297738,142019002,"""12 lead ECG""",SNOMED
+40491312,447113005,"""12 lead electrocardiogram at rest""",SNOMED
+40491313,447114004,"""12 lead electrocardiogram during exercise""",SNOMED
+4179374,429163003,"""15 lead electrocardiographic monitoring""",SNOMED
+4140912,425808002,"""18 lead electrocardiographic monitoring""",SNOMED
+40298292,142134005,"""24 Hour ECG""",SNOMED
+40330033,164959006,"""24 Hour ECG""",SNOMED
+4098508,252417001,"""24 Hour ECG""",SNOMED
+44514095,U19.2,"""24 hour ambulatory electrocardiography""",OPCS4
+4324770,428803005,"""3 lead electrocardiographic monitoring""",SNOMED
+4146297,427446001,"""48 hour ambulatory electrocardiographic monitoring""",SNOMED
+44514096,U19.3,"""48 hour ambulatory electrocardiography""",OPCS4
+37396252,715994002,"""72 hour ambulatory electrocardiographic monitoring""",SNOMED
+45770390,9.27591E+14,"""72 hour ambulatory electrocardiographic monitoring""",SNOMED
+40297731,142012006,"""Ambulatory ECG""",SNOMED
+4065278,164850009,"""Ambulatory ECG""",SNOMED
+2007082,89.57,"""Apexcardiogram (with ECG lead)""",ICD9Proc
+4314809,86688004,"""Apexcardiogram with ECG lead""",SNOMED
+2314025,94621,"""Cardiopulmonary exercise testing, including measurements of minute ventilation, CO2 production, O2 uptake, and electrocardiographic recordings""",CPT4
+46233155,U19,"""Diagnostic electrocardiography""",OPCS4
+4065276,164845003,"""ECG - general""",SNOMED
+40297739,142020008,"""ECG - general - NOS""",SNOMED
+4065280,164860000,"""ECG - general - NOS""",SNOMED
+40329484,164856003,"""ECG - improved""",SNOMED
+40329486,164858002,"""ECG - no new changes""",SNOMED
+40217715,G0005,"""ECG 24 hour recording""",HCPCS
+4154744,284021008,"""ECG automated dysrhythmia monitoring""",SNOMED
+40378915,182804003,"""ECG monitoring""",SNOMED
+40313221,151131007,"""ECG monitoring""",SNOMED
+40217714,G0007,"""ECG phy review & interpret""",HCPCS
+40218329,G0004,"""ECG transm phys review & int""",HCPCS
+4141030,425880007,"""ECG: premature atrial contractions""",SNOMED
+4155644,284020009,"""EKG ST segment monitoring""",SNOMED
+4025207,106074003,"""EKG finding in hypertrophy, infarction AND/OR ischemia""",SNOMED
+2617441,G0366,"""ELECTROCARDIOGRAM, ROUTINE ECG WITH 12 LEADS; PERFORMED AS A COMPONENT OF THE INITIAL PREVENTIVE EXAMINATION WITH INTERPRETATION AND REPORT""",HCPCS
+2007077,89.52,"""Electrocardiogram""",ICD9Proc
+40297726,142008000,"""Electrocardiogram""",SNOMED
+40357874,271334005,"""Electrocardiogram""",SNOMED
+4145916,34455003,"""Electrocardiogram monitoring, 10 hour portrait""",SNOMED
+44808009,8.47411E+14,"""Electrocardiogram rhythm strip monitoring""",SNOMED
+4261794,46136006,"""Electrocardiogram with exercise test""",SNOMED
+4053165,23638006,"""Electrocardiogram with maximal exercise test""",SNOMED
+4150682,31303001,"""Electrocardiogram with sub-maximal exercise test""",SNOMED
+4250762,73605004,"""Electrocardiogram with vectorcardiogram""",SNOMED
+45890289,1018551,"""Electrocardiogram, 64 leads or greater, with graphic presentation and analysis""",CPT4
+2101754,0180T,"""Electrocardiogram, 64 leads or greater, with graphic presentation and analysis; interpretation and report only""",CPT4
+2101753,0179T,"""Electrocardiogram, 64 leads or greater, with graphic presentation and analysis; tracing and graphics only, without interpretation and report""",CPT4
+2101752,0178T,"""Electrocardiogram, 64 leads or greater, with graphic presentation and analysis; with interpretation and report""",CPT4
+4211020,57338000,"""Electrocardiogram, esophageal lead""",SNOMED
+4277091,65331008,"""Electrocardiogram, intracardiac""",SNOMED
+4028481,13478008,"""Electrocardiogram, intracardiac, His bundle recording""",SNOMED
+4323962,70878000,"""Electrocardiogram, rhythm""",SNOMED
+45889522,1013012,"""Electrocardiogram, routine ECG with at least 12 leads""",CPT4
+2313816,93010,"""Electrocardiogram, routine ECG with at least 12 leads; interpretation and report only""",CPT4
+2313815,93005,"""Electrocardiogram, routine ECG with at least 12 leads; tracing only, without interpretation and report""",CPT4
+2313814,93000,"""Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report""",CPT4
+2617472,G0405,"""Electrocardiogram, routine ecg with 12 leads; interpretation and report only, performed as a screening for the initial preventive physical examination""",HCPCS
+2617470,G0403,"""Electrocardiogram, routine ecg with 12 leads; performed as a screening for the initial preventive physical examination with interpretation and report""",HCPCS
+2617471,G0404,"""Electrocardiogram, routine ecg with 12 leads; tracing only, without interpretation and report, performed as a screening for the initial preventive physical examination""",HCPCS
+4032141,14431003,"""Electrocardiogram, single lead""",SNOMED
+4187078,46825001,"""Electrocardiographic monitoring""",SNOMED
+4163951,29303009,"""Electrocardiographic procedure""",SNOMED
+4286037,68611002,"""Electrocardiographic recording from artificial pacemaker""",SNOMED
+40329471,164844004,"""Electrocardiography""",SNOMED
+40309093,146485007,"""Electrocardiography""",SNOMED
+40297725,142007005,"""Electrocardiography""",SNOMED
+4065395,164960001,"""Electrocardiography NOS""",SNOMED
+40298293,142135006,"""Electrocardiography NOS""",SNOMED
+44514097,U19.4,"""Exercise electrocardiography""",OPCS4
+725113,94617,"""Exercise test for bronchospasm, including pre- and post-spirometry, electrocardiographic recording(s), and pulse oximetry""",CPT4
+2313832,93228,"""External mobile cardiovascular telemetry with electrocardiographic recording, concurrent computerized real time data analysis and greater than 24 hours of accessible ECG data storage (retrievable with query) with ECG triggered and patient selected events """,CPT4
+2313833,93229,"""External mobile cardiovascular telemetry with electrocardiographic recording, concurrent computerized real time data analysis and greater than 24 hours of accessible ECG data storage (retrievable with query) with ECG triggered and patient selected events """,CPT4
+45890291,1019323,"""External mobile cardiovascular telemetry with electrocardiographic recording, concurrent computerized real time data analysis and greater than 24 hours of accessible ECG data storage (retrievable with query) with ECG triggered and patient selected events """,CPT4
+4140473,427047002,"""Holter extended electrocardiographic recording""",SNOMED
+44514098,U19.5,"""Holter extended electrocardiographic recording""",OPCS4
+4006458,11148001,"""Intracardiac electrophysiologic procedure with ECG""",SNOMED
+46233170,U34,"""Other diagnostic electrocardiography""",OPCS4
+44514101,U19.8,"""Other specified diagnostic electrocardiography""",OPCS4
+44514196,U34.8,"""Other specified other diagnostic electrocardiography""",OPCS4
+2007080,89.55,"""Phonocardiogram with ECG lead""",ICD9Proc
+4008307,10199002,"""Phonocardiogram with ECG lead""",SNOMED
+4217935,81295004,"""Phonocardiogram with ECG lead, interpretation and report""",SNOMED
+40218340,G0016,"""Post-symptom telephonic transmission of electrocardiogram rhythm strip(s) and 24 hour attended monitoring, per 30 day period; physician review and interpretation only""",HCPCS
+40217702,G0015,"""Post-symptom telephonic transmission of electrocardiogram rhythm strip(s) and 24-hour attended monitoring, per 30-day period; tracing only""",HCPCS
+45890027,1013026,"""Rhythm ECG, 1-3 leads""",CPT4
+2313827,93042,"""Rhythm ECG, 1-3 leads; interpretation and report only""",CPT4
+2313826,93041,"""Rhythm ECG, 1-3 leads; tracing only without interpretation and report""",CPT4
+2313825,93040,"""Rhythm ECG, 1-3 leads; with interpretation and report""",CPT4
+2007076,89.51,"""Rhythm electrocardiogram""",ICD9Proc
+4140676,33442008,"""Signal-averaged electrocardiography""",SNOMED
+4065277,164847006,"""Standard ECG""",SNOMED
+4119098,22872007,"""Stimulation of carotid sinus with simultaneous electrocardiographic monitoring""",SNOMED
+40297730,142011004,"""Stress ECG""",SNOMED
+42738777,93014,"""Telephonic transmission of post-symptom electrocardiogram rhythm strip(s), 24-hour attended monitoring, per 30 day period of time; physician review with interpretation and report only""",CPT4
+42738776,93012,"""Telephonic transmission of post-symptom electrocardiogram rhythm strip(s), 24-hour attended monitoring, per 30 day period of time; tracing only""",CPT4
+44514102,U19.9,"""Unspecified diagnostic electrocardiography""",OPCS4
+44514197,U34.9,"""Unspecified other diagnostic electrocardiography""",OPCS4
+2007078,89.53,"""Vectorcardiogram (with ECG)""",ICD9Proc
+40367083,27752003,"""Vectorcardiogram with ECG -RETIRED-""",SNOMED

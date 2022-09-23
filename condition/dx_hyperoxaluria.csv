@@ -1,0 +1,11 @@
+﻿concept_id,concept_name,concept_code,vocabulary_id,type
+437515,Disorder of carbohydrate metabolism,20957000,SNOMED,broad
+4074393,Primary hyperoxaluria,17901006,SNOMED,ph
+4162444,Oxalosis,373607009,SNOMED,ox
+4164956,"Primary hyperoxaluria, type II",40951006,SNOMED,ph
+4276513,"Primary hyperoxaluria, type I",65520001,SNOMED,ph
+4288991,Oxalate nephropathy,69718008,SNOMED,ox
+40388218,Primary hyperoxaluria,190766003,SNOMED,ph
+42536261,Primary hyperoxaluria type III,734990008,SNOMED,ph
+45757753,Hyperoxaluria,367621000119107,SNOMED,ox
+44808284,"Primary hyperoxaluria, type III",828971000000101,SNOMED,ph

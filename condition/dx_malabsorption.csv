@@ -1,0 +1,648 @@
+concept_id,concept_name,concept_code,vocabulary_id
+40437458,Acquired short bowel syndrome,235724004,SNOMED
+4340795,Postprocedural intestinal steatorrhea,235732007,SNOMED
+4340794,Postprocedural steatorrhea,235731000,SNOMED
+4058831,Post-gastrointestinal tract surgery malnutrition,197484002,SNOMED
+194079,Post-surgical malabsorption,266480006,SNOMED
+4096029,Transection of pancreas,262828008,SNOMED
+4095437,Malignant tumor of Islets of Langerhans,187794005,SNOMED
+4095436,Malignant tumor of tail of pancreas,187792009,SNOMED
+4094982,Laceration of pancreas parenchyma,262829000,SNOMED
+4094981,Contusion of pancreas,262827003,SNOMED
+4094980,Peripancreatic hematoma,262826007,SNOMED
+4094866,Malignant tumor of pancreatic duct,187793004,SNOMED
+4094104,Neoplasm of uncertain behavior of sphincter of Oddi,189397006,SNOMED
+4093759,Fibrosis of pancreas,25942009,SNOMED
+4093488,Pancreatic echinococcosis,187145004,SNOMED
+4093273,Pancreatic fistula,25803005,SNOMED
+4092074,Malignant neoplasm of ectopic pancreatic tissue,187798008,SNOMED
+4092072,Malignant tumor of body of pancreas,187791002,SNOMED
+4092069,Malignant neoplasm of sphincter of Oddi,187786003,SNOMED
+4088042,Suppurative pancreatitis,24407009,SNOMED
+4084643,"Extreme insulin resistance with acanthosis nigricans, hirsutism AND abnormal insulin receptors",24203005,SNOMED
+4084586,Tear of pancreas,282439006,SNOMED
+4082334,Post-ERCP acute pancreatitis,277537008,SNOMED
+4081053,Papillary tumor of ampulla of Vater,276852004,SNOMED
+4081052,Intraduct papilloma of pancreas,276851006,SNOMED
+4080069,Necrosis of pancreas,1835003,SNOMED
+4070563,Insulin biosynthesis defect,1771008,SNOMED
+4066295,Disorder of endocrine pancreas,17346000,SNOMED
+4055345,Relapsing pancreatic necrosis,19742005,SNOMED
+4052840,Phlegmon of pancreas,23587002,SNOMED
+4049458,Acute necrosis of pancreas,15528006,SNOMED
+4049063,"Extreme insulin resistance with acanthosis nigricans, hirsutism AND autoantibodies to the insulin receptors",20678000,SNOMED
+4048072,Pseudolipomatosis hypertrophy of pancreas,123669009,SNOMED
+4047521,Hypoinsulinism,123762005,SNOMED
+4045739,Fat necrosis of pancreas,2307008,SNOMED
+4035657,Calculus of pancreas,15402006,SNOMED
+4034963,"Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness",237617006,SNOMED
+4034831,Excessive bombesin secretion,237593001,SNOMED
+4034830,Excessive secretin secretion,237582003,SNOMED
+4034829,Excessive pancreatic polypeptide secretion,237580006,SNOMED
+4034828,Excessive somatostatin secretion,237578000,SNOMED
+4033222,Idiopathic postprandial hypoglycemia,14725002,SNOMED
+4031437,Congenital pancreatic enterokinase deficiency,10866001,SNOMED
+4030066,"Photomyoclonus, diabetes mellitus, deafness, nephropathy and cerebral dysfunction",237612000,SNOMED
+4030064,"Acrorenal field defect, ectodermal dysplasia, and lipoatrophic diabetes",237610008,SNOMED
+4030060,Abnormality of bombesin secretion,237592006,SNOMED
+4030059,Excessive motilin secretion,237591004,SNOMED
+4029428,Alimentary hyperinsulinemia,237647008,SNOMED
+4029427,Drug-induced hyperinsulinemia,237646004,SNOMED
+4029425,Alimentary hypoglycemia,237639008,SNOMED
+4027550,Impaired glucose tolerance with hyperinsulism,128264007,SNOMED
+4026158,Acute suppurative pancreatitis,197460005,SNOMED
+4026157,Acute recurrent pancreatitis,197458008,SNOMED
+4023588,Ectopic pancreas,19387007,SNOMED
+4019730,Injury to pancreas - open,210160008,SNOMED
+4019728,Closed injury of pancreas,210150004,SNOMED
+4019570,Hyperplasia of islet alpha cells with gastrin excess,1051005,SNOMED
+4008556,Pseudocyst of pancreas,111374002,SNOMED
+4005786,Anomalies of pancreas,204805004,SNOMED
+4003230,Functional hyperinsulinism,12002009,SNOMED
+4002480,Congenital pancreatic cyst,204808002,SNOMED
+3655588,Mixed ductal-neuroendocrine carcinoma of pancreas,866052009,SNOMED
+3655584,Mucinous cystic neoplasm with invasive carcinoma of pancreas,866048009,SNOMED
+3655413,Dehiscence of anastomosis of pancreatic duct,863915002,SNOMED
+3654680,Chronic infectious pancreatitis,838375006,SNOMED
+3654677,High grade flat intraepithelial neoplasia of ampulla of Vater,838372009,SNOMED
+3654267,Dermoid cyst of pancreas,830022001,SNOMED
+765387,Malignant carcinoid tumor of pancreas,1.43401E+14,SNOMED
+764972,Malignant melanoma metastatic to pancreas,9.7051E+13,SNOMED
+763030,Calculus of common bile duct with acute pancreatitis,4.35211E+14,SNOMED
+443937,Injury of tail of pancreas without open wound into abdominal cavity,47533003,SNOMED
+443078,Injury of head of pancreas with open wound into abdominal cavity,210155009,SNOMED
+442746,Injury of body of pancreas without open wound into abdominal cavity,67447005,SNOMED
+441225,Primary malignant neoplasm of ampulla of Vater,371967001,SNOMED
+441067,Spasm of sphincter of Oddi,28132005,SNOMED
+440649,Primary malignant neoplasm of head of pancreas,372119009,SNOMED
+440063,"Benign neoplasm of pancreas, excluding islets of Langerhans",188848002,SNOMED
+434293,Primary malignant neoplasm of body of pancreas,93715005,SNOMED
+433423,Primary malignant neoplasm of pancreatic duct,93939009,SNOMED
+433350,Injury of head of pancreas without open wound into cavity,58565006,SNOMED
+432843,Primary malignant neoplasm of tail of pancreas,94082003,SNOMED
+201837,Abnormality of secretion of glucagon,11178005,SNOMED
+200252,Injury of tail of pancreas with open wound into abdominal cavity,210157001,SNOMED
+200146,Pancreatic steatorrhea,54576000,SNOMED
+199754,Primary malignant neoplasm of pancreas,372003004,SNOMED
+199074,Acute pancreatitis,197456007,SNOMED
+196845,Injury of multiple sites of pancreas without open wound into abdominal cavity,20474007,SNOMED
+196628,Mumps pancreatitis,10665004,SNOMED
+195596,Chronic pancreatitis,235494005,SNOMED
+193983,Disorder of pancreatic internal secretion,111560008,SNOMED
+193897,Injury of multiple sites of pancreas with open wound into abdominal cavity,25420003,SNOMED
+193722,Benign tumor of endocrine pancreas,254614001,SNOMED
+193354,Pancreas body injury with open wound into cavity,210156005,SNOMED
+192963,Disorder of pancreas,3855007,SNOMED
+192591,Post-surgical hypoinsulinemia,190437000,SNOMED
+192360,Cyst and pseudocyst of pancreas,197464001,SNOMED
+192261,Overlapping malignant neoplasm of pancreas,109848009,SNOMED
+25698,Complication of transplanted pancreas,79369007,SNOMED
+25486,Primary malignant neoplasm of islets of Langerhans,93843007,SNOMED
+35624505,Chronic pancreatitis due to acute alcohol intoxication,767291004,SNOMED
+35624284,Complete obstruction of pancreatic duct,766944008,SNOMED
+35622407,Renal hepatic pancreatic dysplasia,763891005,SNOMED
+4342875,Congenital malformation of pancreas,235977001,SNOMED
+4342874,Pancreatic duct obstruction,235973002,SNOMED
+4342872,Pancreatic duct disorder,235969000,SNOMED
+4342871,Benign cystic tumor of exocrine pancreas,235968008,SNOMED
+4342870,Cystadenoma of pancreas,235967003,SNOMED
+4342868,Polycystic disease of pancreas,235961002,SNOMED
+4342867,Pancreatic collection,235957008,SNOMED
+4342866,Obstructive chronic pancreatitis,235954001,SNOMED
+4342865,Familial acute pancreatitis,235949005,SNOMED
+4341772,Pancreatic anastomotic leak,235980000,SNOMED
+4341771,Disorder of pancreatic duct anastomosis,235979003,SNOMED
+4341770,Cystic fibrosis of pancreas,235978006,SNOMED
+4341769,Pancreatic duct calculus,235974008,SNOMED
+4341768,Pancreatic duct leakage,235971000,SNOMED
+4341766,Retention pancreatic cyst,235962009,SNOMED
+4341765,Viral acute pancreatitis,235946003,SNOMED
+4341764,Acute pancreatitis due to infection,235945004,SNOMED
+4341763,Gallstone acute pancreatitis,235941008,SNOMED
+4341628,Postprocedural pancreatic steatorrhea,235733002,SNOMED
+4341080,Pancreatic duct anastomotic stricture,235982008,SNOMED
+4341076,Pancreatic and peripancreatic necrosis,235959006,SNOMED
+4341075,Acute pancreatic fluid collection,235958003,SNOMED
+4341074,Familial chronic pancreatitis,235956004,SNOMED
+4341073,Drug-induced chronic pancreatitis,235955000,SNOMED
+4340964,Alcohol-induced chronic pancreatitis,235952002,SNOMED
+4340963,Gallstone chronic pancreatitis,235951009,SNOMED
+4340962,Cytomegaloviral pancreatitis,235947007,SNOMED
+4340961,Drug-induced acute pancreatitis,235944000,SNOMED
+4340960,Idiopathic acute pancreatitis,235943006,SNOMED
+4340777,Late dumping syndrome,235667000,SNOMED
+4340500,Familial hypertrophy of sphincter of Oddi,235976005,SNOMED
+4340499,Pancreatic duct stricture,235972007,SNOMED
+4340498,Cystadenocarcinoma of pancreas,235966007,SNOMED
+4340497,Infected pancreatic necrosis,235960001,SNOMED
+4340496,Idiopathic chronic pancreatitis,235953007,SNOMED
+4340495,Traumatic acute pancreatitis,235950005,SNOMED
+4340494,Postoperative acute pancreatitis,235948002,SNOMED
+4340493,Alcohol-induced acute pancreatitis,235942001,SNOMED
+4339528,Atrophy of pancreas,88281007,SNOMED
+4337316,Painless pancreatitis,233005009,SNOMED
+4336844,Hyperplasia of islet alpha cells with glucagon excess,87181002,SNOMED
+4333225,Rejection of pancreas transplant,431506006,SNOMED
+4330087,Dysfunction of sphincter of Oddi,430887001,SNOMED
+4319446,Gallstone pancreatitis,95563007,SNOMED
+4319445,Hemorrhage of pancreas,95562002,SNOMED
+4318543,Pancreatemphraxis,95564001,SNOMED
+4316493,Neoplasm of uncertain behavior of head of pancreas,94863006,SNOMED
+4315950,Neoplasm of uncertain behavior of tail of pancreas,95122005,SNOMED
+4315550,Secondary malignant neoplasm of pancreatic duct,94460001,SNOMED
+4315535,Neoplasm of uncertain behavior of pancreas,94978003,SNOMED
+4314627,Neoplasm of uncertain behavior of body of pancreas,94756003,SNOMED
+4313654,Neoplasm of uncertain behavior of pancreatic duct,94979006,SNOMED
+4313513,Neoplasm of uncertain behavior of islets of Langerhans,94883007,SNOMED
+4313355,Neoplasm of uncertain behavior of ampulla of Vater,94733007,SNOMED
+4312017,Secondary malignant neoplasm of head of pancreas,94325008,SNOMED
+4311634,Secondary malignant neoplasm of ampulla of Vater,94164003,SNOMED
+4311347,Secondary malignant neoplasm of tail of pancreas,94618007,SNOMED
+4309439,Infectious pancreatitis,39205007,SNOMED
+4307509,Hyperinsulinism,83469008,SNOMED
+4306927,Congenital absence of pancreas,82949000,SNOMED
+4305324,Pancreatic alpha-amylase deficiency,81685000,SNOMED
+4303234,Acute necrotizing pancreatitis,7881005,SNOMED
+4302604,Pancreatic triacylglycerol lipase deficiency,78960005,SNOMED
+4294771,Ectopic hyperinsulinism,37703005,SNOMED
+4290254,Pancreatic colipase deficiency,69478001,SNOMED
+4288876,Abscess of pancreas,69643006,SNOMED
+4288476,Congenital hypoplasia of pancreas,68591005,SNOMED
+4284822,Ectopic pancreas in duodenum,6724001,SNOMED
+4278841,Hyperplasia of pancreatic islet beta cell,66149005,SNOMED
+4268175,Leucine-induced hypoglycemia,62151007,SNOMED
+4268004,Injury of pancreas,61823004,SNOMED
+4267268,Glucagon deficiency,61998001,SNOMED
+4266211,Baggenstoss change of pancreas,61221008,SNOMED
+4262937,Interstitial pancreatitis,44636008,SNOMED
+4260663,Bard-Pic syndrome,45019006,SNOMED
+4252384,Insulin autoimmune syndrome,408539000,SNOMED
+4248192,Secondary malignant neoplasm of pancreas,94459006,SNOMED
+4248063,Secondary malignant neoplasm of islets of Langerhans,94354002,SNOMED
+4246368,Secondary malignant neoplasm of body of pancreas,94212002,SNOMED
+4245553,Carcinoma in situ of pancreas,92672004,SNOMED
+4244497,Carcinoma in situ of islets of Langerhans,92619003,SNOMED
+4243788,Aseptic necrosis of pancreas,38079004,SNOMED
+4243784,Pancreatic insufficiency,37992001,SNOMED
+4243739,Carcinoma in situ of ampulla of Vater,92530007,SNOMED
+4243563,Benign neoplasm of pancreatic duct,92265008,SNOMED
+4243504,Subacute pancreatitis,59154002,SNOMED
+4243445,Benign neoplasm of pancreas,92264007,SNOMED
+4243125,Carcinoma in situ of head of pancreas,92607006,SNOMED
+4242678,Carcinoma in situ of body of pancreas,92547008,SNOMED
+4242656,Benign neoplasm of tail of pancreas,92423004,SNOMED
+4242191,Benign neoplasm of ampulla of Vater,91970006,SNOMED
+4241916,Carcinoma in situ of tail of pancreas,92763002,SNOMED
+4241838,Metabolic pancreatitis,59329007,SNOMED
+4241795,Carcinoma in situ of pancreatic duct,92673009,SNOMED
+4241016,Benign neoplasm of body of pancreas,92018005,SNOMED
+4239892,Benign neoplasm of head of pancreas,92130001,SNOMED
+4236230,Congenital hyperinsulinism,360339005,SNOMED
+4234390,Iatrogenic hyperinsulinism,90054000,SNOMED
+4233958,Ectopic pancreatic tissue in stomach,89954008,SNOMED
+4232178,Shwachman syndrome,89454001,SNOMED
+4227092,Infected pancreatic pseudocyst,405563007,SNOMED
+4222723,Annular pancreas,40315008,SNOMED
+4219872,Verner-Morrison syndrome,39998009,SNOMED
+4216214,Mauriac's syndrome,80660001,SNOMED
+4215792,Autoimmune hypoglycemia,71858003,SNOMED
+4209933,Carcinoma of head of pancreas,326072005,SNOMED
+4205668,Severe pancreatic duct dysplasia,308868008,SNOMED
+4204809,Mild pancreatic duct dysplasia,308866007,SNOMED
+4204029,Moderate pancreatic duct dysplasia,308867003,SNOMED
+4203606,Subacute pancreatic necrosis,53616007,SNOMED
+4202469,Pancreatic duct dysplasia,308865006,SNOMED
+4201481,Local recurrence of malignant tumor of pancreas,314964006,SNOMED
+4200619,Accelerated rejection of pancreas transplant,433809002,SNOMED
+4200464,Acute rejection of pancreas transplant,433592008,SNOMED
+4200399,Zollinger-Ellison syndrome,53132006,SNOMED
+4199927,Pancreatic ascites,53067009,SNOMED
+4198472,Chronic rejection of pancreas transplant,434271002,SNOMED
+4198456,Hyperacute rejection of pancreas transplant,434202008,SNOMED
+4198431,Carcinoid tumor of ampulla of Vater,314947008,SNOMED
+4194916,Hereditary pancreatitis,68072000,SNOMED
+4194521,Accessory pancreas,79037006,SNOMED
+4192640,Pancreatitis,75694006,SNOMED
+4192249,Chronic fibrosing pancreatitis,74973004,SNOMED
+4186463,Exocrine pancreatic insufficiency,47367009,SNOMED
+4185268,Acute hemorrhagic pancreatitis,4399003,SNOMED
+4185076,Pancreas divisum,54554009,SNOMED
+4181331,Carcinoma of body of pancreas,363368005,SNOMED
+4180793,Malignant tumor of pancreas,363418001,SNOMED
+4178967,Malignant tumor of head of pancreas,363419009,SNOMED
+4178966,Malignant tumor of ampulla of Vater,363417006,SNOMED
+4178960,Carcinoma of tail of pancreas,363369002,SNOMED
+4175014,Islet cell hyperplasia,42681006,SNOMED
+4173187,Idiopathic transient neonatal hyperinsulinemia,276563006,SNOMED
+4169089,Glucagon resistance,48839007,SNOMED
+4168388,Islet cell adenomatosis,274944000,SNOMED
+4164003,Inflammation of ampulla of Vater,399525009,SNOMED
+4157459,Carcinoma of pancreas,372142002,SNOMED
+4156048,Benign tumor of exocrine pancreas,271956003,SNOMED
+4154733,Crushing injury of pancreas,283980002,SNOMED
+4153884,Benign islet cell tumor,269480005,SNOMED
+4151134,Cyst of pancreas,31258000,SNOMED
+4148875,Pancreatic acinar atrophy,3549009,SNOMED
+4147231,Apoplectic pancreatitis,303002,SNOMED
+4136175,Pancreas divisum - incomplete,413256000,SNOMED
+4136163,Fibrocalculous pancreatopathy without complication,413184002,SNOMED
+4135819,Reactive hypoglycemia,317006,SNOMED
+4134820,Pancreatic duct obstruction by calculus,413258004,SNOMED
+4134818,Pancreas divisum - complete,413255001,SNOMED
+4131745,Neoplasm of pancreatic duct,126863000,SNOMED
+4131623,Neoplasm of tail of pancreas,126862005,SNOMED
+4131621,Neoplasm of head of pancreas,126860002,SNOMED
+4130998,Neoplasm of ampulla of Vater,126858004,SNOMED
+4130522,Neoplasm of endocrine pancreas,126864006,SNOMED
+4130521,Neoplasm of body of pancreas,126861003,SNOMED
+4130165,"Hypogonadism, diabetes mellitus, alopecia, mental retardation and electrocardiographic abnormalities",237616002,SNOMED
+4130158,Excessive glicentin secretion,237589007,SNOMED
+4130157,Abnormality of glicentin secretion,237587009,SNOMED
+4130156,Abnormality of gastric inhibitory peptide secretion,237585001,SNOMED
+4130155,Abnormality of secretin secretion,237581005,SNOMED
+4130029,Abnormality of pancreatic polypeptide secretion,237579008,SNOMED
+4129886,Neoplasm of pancreas,126859007,SNOMED
+4129521,Post-prandial hypoglycemia,237638000,SNOMED
+4129379,"Lipodystrophy, partial, with Rieger anomaly, short stature, and insulinopenic diabetes mellitus",237608006,SNOMED
+4129376,Abnormality of motilin secretion,237590003,SNOMED
+4129375,Excessive gastric inhibitory peptide secretion,237586000,SNOMED
+4129374,Excessive cholecystokinin-pancreozymin secretion,237584002,SNOMED
+4129373,Abnormality of cholecystokinin-pancreozymin secretion,237583008,SNOMED
+4129372,Abnormality of vasoactive intestinal peptide secretion,237575002,SNOMED
+4125494,Pancytopenia with pancreatitis,234367000,SNOMED
+4124691,Recurrent pancreatitis,233870001,SNOMED
+4121819,Relapsing pancreatitis,234689009,SNOMED
+4121327,Gastrinoma,302824004,SNOMED
+4120313,Non-diabetic disorder of endocrine pancreas,302865004,SNOMED
+4120304,Glucagonoma,302823005,SNOMED
+4119164,Postpancreatectomy hypoinsulinemia,303059007,SNOMED
+4116319,Pancreatic malabsorption,302920007,SNOMED
+4115274,Carcinoid tumor of pancreas,254613007,SNOMED
+4115272,Carcinoma of ampulla of Vater,254609000,SNOMED
+4114220,Pancreatic polypeptidoma,255039001,SNOMED
+4112989,Gastric inhibitory peptide-secreting tumor,255042007,SNOMED
+4112988,Growth hormone releasing factor-secreting tumor,255038009,SNOMED
+4112774,Metastasis to pancreas of unknown primary,285614004,SNOMED
+4112734,Malignant tumor of endocrine pancreas,254611009,SNOMED
+4112100,Papilloma of ampulla of Vater,255175001,SNOMED
+4111803,Endocrine pancreatic adenoma,254615000,SNOMED
+4111024,Malignant tumor of exocrine pancreas,255088001,SNOMED
+4111014,Mixed pancreatic endocrine tumor,255043002,SNOMED
+4111012,Parathyroid hormone-related peptide-secreting tumor,255040004,SNOMED
+4110585,Carcinoma of endocrine pancreas,254612002,SNOMED
+4110584,Tumor of exocrine pancreas,254604005,SNOMED
+4109622,Pancreatic duct anomaly,253815007,SNOMED
+4107335,Avulsion of pancreas,282438003,SNOMED
+4102255,Calcific chronic pancreatitis,301009006,SNOMED
+4099656,Excessive glucagon secretion,190440000,SNOMED
+4099360,Carcinoma in situ of sphincter of Oddi,189246000,SNOMED
+4098952,Somatostatinoma,253006001,SNOMED
+4098951,Vasoactive intestinal peptide-secreting tumor,253005002,SNOMED
+4097114,Benign neoplasm of sphincter of Oddi,188846003,SNOMED
+4096771,Pancreatic duct injury,262830005,SNOMED
+4096674,Self-induced hyperinsulinemia,190429008,SNOMED
+36713362,Primary adenocarcinoma of body of pancreas,6.81621E+14,SNOMED
+36713206,Infection of pancreatic stent,4.02503E+17,SNOMED
+36686432,Laceration of body of pancreas,1.18109E+16,SNOMED
+36684949,Metastatic pancreatic endocrine carcinoma,4.59401E+14,SNOMED
+36683250,Invasive intraductal papillary-mucinous carcinoma of pancreas,780821007,SNOMED
+36676699,"Hypoplasia of pancreas, intestinal atresia, hypoplasia of gallbladder syndrome",773673002,SNOMED
+36676692,Hypoinsulinemic hypoglycemia and body hemihypertrophy,773666007,SNOMED
+36676353,Fatty pancreas,773200006,SNOMED
+36675120,Follicular cholangitis and pancreatitis,771446000,SNOMED
+36674768,Squamous cell carcinoma of exocrine pancreas,770602005,SNOMED
+43531483,Hemorrhage of pancreatic duct,609201007,SNOMED
+43021774,Intraductal papillary mucinous carcinoma in situ of pancreas,473419009,SNOMED
+43021773,Intraductal papillary mucinous adenoma of pancreas,473418001,SNOMED
+42872399,Primary adenocarcinoma of pancreas,1.651E+12,SNOMED
+42536743,Primary malignant neuroendocrine neoplasm of pancreas,735735001,SNOMED
+42536567,Transient neonatal hypoglycemia due to hyperinsulinemia,735496003,SNOMED
+40490446,Autoimmune pancreatitis,448542008,SNOMED
+40490317,Leakage from pancreatic tail,446915006,SNOMED
+40487456,Traumatic injury of tail of pancreas,446392000,SNOMED
+40487455,Traumatic injury of head of pancreas,446391007,SNOMED
+40487453,Traumatic injury of body of pancreas,446390008,SNOMED
+40483827,Alcohol-induced pancreatitis,445507008,SNOMED
+37397460,Hyperinsulinism and hyperammonemia syndrome,718106009,SNOMED
+37397139,Hyperinsulinism due to deficiency of glucokinase,717182006,SNOMED
+37397034,Hyperinsulinism due to HNF4A deficiency,717048002,SNOMED
+37397032,Autosomal dominant hyperinsulinism due to SUR1 deficiency,717046003,SNOMED
+37397031,Autosomal dominant hyperinsulinism due to Kir6.2 deficiency,717045004,SNOMED
+37397030,Adult onset non-insulinoma persistent hyperinsulinemic hypoglycemia,717044000,SNOMED
+37396132,Exercise-induced hyperinsulinism,715830008,SNOMED
+37395837,Familial malignant neoplasm of pancreas,715414009,SNOMED
+37312396,Benign insulinoma,788390005,SNOMED
+37312345,Hyperinsulinemia due to malignant insulinoma,788491008,SNOMED
+37312344,Hyperinsulinemia due to benign insulinoma,788492001,SNOMED
+37311469,Pancreatic ductal adenocarcinoma,792907004,SNOMED
+37208259,Serous cystadenoma of pancreas,6.90761E+14,SNOMED
+37206235,Mucinous cystadenocarcinoma of pancreas,785879009,SNOMED
+37204852,Acinar cell carcinoma of pancreas,783771003,SNOMED
+37204850,Autosomal recessive hyperinsulinism due to Kir6.2 deficiency,783768006,SNOMED
+37204849,Autosomal recessive hyperinsulinism due to SUR1 deficiency,783767001,SNOMED
+37204835,Diazoxide-resistant focal hyperinsulinism due to Kir6.2 deficiency,783741006,SNOMED
+37204834,Diazoxide-resistant focal hyperinsulinism due to SUR1 deficiency,783740007,SNOMED
+37204808,Serous cystadenocarcinoma of pancreas,783706007,SNOMED
+37204187,Solid pseudopapillary carcinoma of pancreas,782697005,SNOMED
+37116589,Primary malignant neuroendocrine neoplasm of ampulla of Vater,733351008,SNOMED
+37110323,Tropical calcific chronic pancreatitis,724540009,SNOMED
+37109500,Intraductal papillary mucinous neoplasm of pancreas,6.90771E+14,SNOMED
+37017016,Malignant insulinoma,713189001,SNOMED
+37016243,Adenoma of pancreas,2.08061E+14,SNOMED
+36717742,Displacement of pancreatic stent,8.16328E+16,SNOMED
+36717497,Dyskinesia of sphincter of Oddi,721722008,SNOMED
+36717234,Secondary pancreatic insufficiency,722873005,SNOMED
+36717067,Partial pancreatic agenesis,719044008,SNOMED
+36716722,Functional pancreatic sphincter of Oddi disorder,722883009,SNOMED
+36716721,Functional biliary sphincter of Oddi disorder,722882004,SNOMED
+36716715,Autoimmune pancreatitis type 1,722872000,SNOMED
+36716714,Groove pancreatitis,722871007,SNOMED
+36716513,Pancreatitis due to pancreatic duct obstruction,722544004,SNOMED
+36716259,"Pancreatic insufficiency, dyserythropoietic anemia, calvarial hyperostosis syndrome",722207000,SNOMED
+36716258,"Pancreatic hypoplasia, diabetes mellitus, congenital heart disease syndrome",722206009,SNOMED
+36716024,Hyperinsulinism due to uncoupling protein 2 deficiency,721834007,SNOMED
+36715932,Acute on chronic pancreatitis,721724009,SNOMED
+36715929,Adenoma of ampulla of Vater,721719006,SNOMED
+36715928,Primary adenocarcinoma of ampulla of Vater,721718003,SNOMED
+36715573,Hypoinsulinemia following procedure,721286008,SNOMED
+36715530,Hyperinsulinism due to short chain 3-hydroxyacyl-coenzyme A dehydrogenase deficiency,721236002,SNOMED
+36715529,Hyperinsulinism due to insulin receptor deficiency,721235003,SNOMED
+36715528,Hyperinsulinism due to HNF1A deficiency,721234004,SNOMED
+36713547,Neuroendocrine tumor of pancreas,717919005,SNOMED
+36713524,Hyperinsulinism due to focal adenomatous hyperplasia,717888008,SNOMED
+36713364,Benign neuroendocrine neoplasm of pancreas,6.82821E+14,SNOMED
+36713363,Primary adenocarcinoma of head of pancreas,6.81721E+14,SNOMED
+46274136,Acute pancreatitis due to common bile duct calculus,9.6081E+13,SNOMED
+45769875,Insulin reactive hypoglycemia due to type 2 diabetes mellitus,8.4361E+13,SNOMED
+45769170,Exocrine pancreatic manifestation co-occurrent and due to cystic fibrosis,707766007,SNOMED
+45768915,Pancreatic insufficiency due to cystic fibrosis of pancreas,707450006,SNOMED
+45763891,Adenocarcinoma of pancreas,700423003,SNOMED
+45757560,Pancreatic acinar fistula,2.1321E+13,SNOMED
+45757494,Chronic pancreatitis due to chronic alcoholism,1.54211E+14,SNOMED
+44806251,Biliary acute pancreatitis,8.11431E+14,SNOMED
+4244235,Crohn's disease of ileum,38106008,SNOMED
+4239382,Crohn's disease of jejunum,91390005,SNOMED
+4212992,Exacerbation of Crohn's disease of small intestine,414154002,SNOMED
+4210469,Crohn's disease of duodenum,56287005,SNOMED
+4055020,Crohn's disease of terminal ileum,196977009,SNOMED
+195585,Crohn's disease of small intestine,56689002,SNOMED
+195575,Crohn's disease of small AND large intestines,71833008,SNOMED
+37116446,Crohn disease of appendix,733157003,SNOMED
+4242392,Crohn's disease of rectum,3815005,SNOMED
+4212991,Exacerbation of Crohn's disease of large intestine,414153008,SNOMED
+4177488,Crohn's disease of colon,50440006,SNOMED
+194684,Crohn's disease of large bowel,7620006,SNOMED
+46274073,Abscess of intestine co-occurrent and due to Crohn's disease of large intestine,1.08575E+15,SNOMED
+46269888,Abscess of intestine co-occurrent and due to Crohn's disease,1.0859E+15,SNOMED
+46269883,Abscess of intestine co-occurrent and due to Crohn's disease of small intestine,1.08585E+15,SNOMED
+46269878,Abscess of intestine co-occurrent and due to Crohn's disease of small and large intestine,1.0858E+15,SNOMED
+42537666,Crohn disease of upper gastrointestinal tract,737195007,SNOMED
+36716986,Arthritis co-occurrent and due to Crohn's disease,8.161E+12,SNOMED
+36716695,Crohn's disease of gastrointestinal anastomosis,722850002,SNOMED
+36715915,Crohn disease of anal canal,721702009,SNOMED
+36686095,Crohn's disease of small intestine with stenosis,1.07432E+16,SNOMED
+4342643,Crohn's disease of stomach,235664007,SNOMED
+4340114,Crohn's disease of esophagus,235607002,SNOMED
+4323289,Crohn's disease of pyloric antrum,70622003,SNOMED
+4266370,Crohn's disease of pylorus,61424003,SNOMED
+4264850,Gastrointestinal Crohn's disease,397172008,SNOMED
+4246693,Crohn's disease of intestine,397173003,SNOMED
+4142544,Crohn's disease in remission,426549001,SNOMED
+4122617,Crohn's disease of gingivae,234999001,SNOMED
+4055884,Crohn's disease of oral soft tissues,196578009,SNOMED
+201606,Crohn's disease,34000006,SNOMED
+194077,Chronic ulcerative enterocolitis,15342002,SNOMED
+78799,Chronic ulcerative ileocolitis,13470001,SNOMED
+46269848,Abscess of intestine co-occurrent and due to chronic ulcerative rectosigmoiditis,1.08523E+15,SNOMED
+46269842,Abscess of intestine co-occurrent and due to chronic ulcerative proctitis,1.08518E+15,SNOMED
+77317,Chronic ulcerative rectosigmoiditis,52506002,SNOMED
+75580,Chronic ulcerative proctitis,52231000,SNOMED
+46269859,Abscess of intestine co-occurrent and due to colonic inflammatory polyps,1.08539E+15,SNOMED
+81064,Pseudopolyposis of colon,13025001,SNOMED
+40481367,Chronic left-sided ulcerative colitis,441971007,SNOMED
+46269838,Abscess of intestine co-occurrent and due to chronic ulcerative pancolitis,1.08513E+15,SNOMED
+40482241,Chronic ulcerative pancolitis,442159003,SNOMED
+40479837,Chronic ulcerative colitis,444546002,SNOMED
+4302002,Moderate chronic ulcerative colitis,78712000,SNOMED
+4301738,Mild chronic ulcerative colitis,78324009,SNOMED
+4031048,Severe chronic ulcerative colitis,14311001,SNOMED
+46269951,Abscess of intestine co-occurrent and due to ulcerative colitis,1.09284E+15,SNOMED
+44783784,Ulcerative colitis in remission,697969008,SNOMED
+40482865,Left sided ulcerative colitis,445243001,SNOMED
+40479839,Ulcerative pancolitis,444548001,SNOMED
+4342656,Ulcerative enterocolitis,235714007,SNOMED
+4259504,Iritis with ulcerative colitis,410484008,SNOMED
+4187900,Exacerbation of ulcerative colitis,414156000,SNOMED
+4166480,Ulcerative proctocolitis,295046003,SNOMED
+4086978,Eosinophilic ulcerative colitis,24829000,SNOMED
+4029372,Acute ulcerative colitis,128600008,SNOMED
+4025853,Ulcerative ileocolitis,196987008,SNOMED
+81893,Ulcerative colitis,64766004,SNOMED
+434615,Cystic fibrosis without meconium ileus,81423003,SNOMED
+193174,Cystic fibrosis with meconium ileus,86092005,SNOMED
+254320,Cystic fibrosis of the lung,86555001,SNOMED
+44808532,Exacerbation of cystic fibrosis,8.59041E+14,SNOMED
+42538543,Subclinical cystic fibrosis,762271004,SNOMED
+42538542,Atypical cystic fibrosis,762270003,SNOMED
+42538541,Classical cystic fibrosis,762269004,SNOMED
+37396320,Follicular hamartoma with alopecia and cystic fibrosis syndrome,716088000,SNOMED
+37110724,Fetal cystic fibrosis,725052002,SNOMED
+36714965,Cystic fibrosis with gastritis and megaloblastic anemia syndrome,720401009,SNOMED
+4143529,Diabetes mellitus associated with cystic fibrosis,426705001,SNOMED
+441267,Cystic fibrosis,190905008,SNOMED
+4026009,Perforated diverticulum of ileum,197107003,SNOMED
+4026008,Perforated diverticulum of jejunum,197106007,SNOMED
+4024831,Esophageal ulcer due to aspirin,196607008,SNOMED
+4004355,Barium granuloma of colon,110994007,SNOMED
+3655999,Low anterior resection syndrome,870625007,SNOMED
+761077,Obstruction of ileostomy,1.428E+16,SNOMED
+443326,Mild hyperemesis-delivered,199022003,SNOMED
+440788,Hyperemesis gravidarum with metabolic disturbance - not delivered,199028004,SNOMED
+440785,Vomiting of pregnancy,90325002,SNOMED
+436485,Hyperemesis gravidarum with metabolic disturbance,199025001,SNOMED
+436173,Hyperemesis gravidarum with metabolic disturbance - delivered,199027009,SNOMED
+436166,Mild hyperemesis gravidarum,19569008,SNOMED
+435023,Mild hyperemesis-not delivered,199023008,SNOMED
+200906,Complication of transplanted intestines,13160009,SNOMED
+200447,Gastrointestinal complication,24813008,SNOMED
+194395,Hemorrhage of large intestine with diverticular disease of large intestine,197092000,SNOMED
+22666,Vomiting after gastrointestinal tract surgery,197130009,SNOMED
+46274074,Abscess of jejunum co-occurrent and due to diverticulitis,1.08629E+15,SNOMED
+46273470,Hemorrhage of cecum due to diverticulosis,1.08655E+15,SNOMED
+46273469,Perforation of sigmoid colon due to diverticulitis,1.08638E+15,SNOMED
+46273411,Intestinal obstruction due to bilateral recurrent femoral hernia,8.651E+12,SNOMED
+46270529,Hemorrhage of small intestine with diverticulosis,4.0271E+13,SNOMED
+46269907,Intestinal hemorrhage with diverticulosis,1.0866E+15,SNOMED
+46269906,Hemorrhage of jejunum with diverticulosis,1.08658E+15,SNOMED
+46269905,Hemorrhage with diverticulosis of ileum,1.08657E+15,SNOMED
+46269904,Hemorrhage with diverticulosis of duodenum,1.08656E+15,SNOMED
+46269903,Perforation of small intestine due to diverticulitis,1.08649E+15,SNOMED
+46269902,Perforation of small intestine co-occurrent with hemorrhage due to diverticulitis,1.08648E+15,SNOMED
+46269901,Hemorrhage of small intestine due to diverticulitis,1.08646E+15,SNOMED
+46269900,Diverticulitis of small and large intestine with perforation,1.08644E+15,SNOMED
+46269899,Abscess of sigmoid colon co-occurrent and due to diverticulitis,1.08634E+15,SNOMED
+46269897,Perforation of ileum due to diverticulitis,1.08628E+15,SNOMED
+46269896,Perforation of duodenum due to diverticulitis,1.08623E+15,SNOMED
+46269895,Perforation of cecum due to diverticulitis,1.08615E+15,SNOMED
+46269891,Rectal hemorrhage due to Crohn's disease,1.08594E+15,SNOMED
+46269890,Intestinal obstruction due to Crohn's disease,1.08593E+15,SNOMED
+46269887,Rectal hemorrhage due to Crohn's disease of small intestine,1.08589E+15,SNOMED
+46269886,Intestinal obstruction due to Crohn's disease of small intestine,1.08588E+15,SNOMED
+46269885,Fistula of small intestine due to Crohn's disease,1.08587E+15,SNOMED
+46269882,Rectal hemorrhage due to Crohn's disease of small and large intestines,1.08584E+15,SNOMED
+46269881,Intestinal obstruction due to Crohn's disease of small and large intestine,1.08583E+15,SNOMED
+46269880,Fistula of intestine due to Crohn's disease of small and large intestine,1.08582E+15,SNOMED
+46269877,Rectal hemorrhage due to Crohn's disease of large intestine,1.08579E+15,SNOMED
+46269876,Intestinal obstruction due to Crohn's disease of large intestine,1.08578E+15,SNOMED
+46269875,Fistula of large intestine due to Crohn's disease,1.08577E+15,SNOMED
+46269827,Intestinal obstruction due to bilateral femoral hernia,1.08375E+15,SNOMED
+45763563,Stomach dysfunction following gastrostomy,5.221E+12,SNOMED
+45763562,Abscess of intestine co-occurrent and due to diverticular disease,5.211E+12,SNOMED
+45757543,Hemorrhage of colon due to diverticulosis,1.90191E+14,SNOMED
+45757397,Gastric ulcer caused by non-steroidal anti-inflammatory drug in therapeutic use,1.29141E+14,SNOMED
+43530958,Induced termination of pregnancy complicated by bowel damage,609504000,SNOMED
+43530930,Induced termination of pregnancy complicated by perforation of bowel,609475000,SNOMED
+43530924,Induced termination of pregnancy complicated by laceration of bowel,609467006,SNOMED
+43021934,Malrotation of intestine with internal herniation,459054000,SNOMED
+42538545,Fetal intrauterine intestinal perforation with congenital atresia of intestinal tract,762273001,SNOMED
+42538544,Fetal intrauterine intestinal perforation with congenital stenosis of intestinal tract,762272006,SNOMED
+42538072,Cushing ulcer of esophagus,738792004,SNOMED
+42538071,Cushing ulcer of stomach,738791006,SNOMED
+42537662,Ulcer of esophagus due to disorder of immune system,737190002,SNOMED
+42537661,Ulcer of esophagus due to allergic disorder,737189006,SNOMED
+42536732,Neonatal intestinal perforation due to in utero intestinal volvulus,735721003,SNOMED
+42535063,Gastroesophageal reflux disease in pregnancy,1.56431E+16,SNOMED
+40482451,Bleeding Meckel's diverticulum,445163001,SNOMED
+40482450,Bleeding Meckel's diverticulitis,445162006,SNOMED
+37311779,Distal intestinal obstruction syndrome due to cystic fibrosis,817966005,SNOMED
+37118653,Diverticulitis of large intestine with complication,733159000,SNOMED
+37116456,Ameboma of large intestine caused by Entamoeba histolytica,733172004,SNOMED
+37116441,Diverticulitis of small intestine with perforation and abscess,733150001,SNOMED
+37110306,Gastric ulcer caused by Helicobacter pylori and non-steroidal anti-inflammatory agent,724519008,SNOMED
+37109979,Nausea and vomiting following administration of anesthetic agent,723975009,SNOMED
+37018728,Gastroparesis due to type 2 diabetes mellitus,713703005,SNOMED
+37018708,Injury to esophagus during surgery,713215005,SNOMED
+37017911,Jejunal anastomotic hemorrhage,714278008,SNOMED
+37017430,Gastroparesis due to diabetes mellitus,713704004,SNOMED
+37017429,Gastroparesis due to type 1 diabetes mellitus,713702000,SNOMED
+37016841,Injury to rectum during surgery,712977006,SNOMED
+37016129,Intestinal obstruction co-occurrent and due to incisional hernia,1.08727E+15,SNOMED
+37016128,Perforation of intestine due to diverticulitis of gastrointestinal tract,1.08654E+15,SNOMED
+37016127,Abscess of ileum co-occurrent and due to diverticulitis,1.08624E+15,SNOMED
+37016126,Abscess of duodenum co-occurrent and due to diverticulitis,1.08619E+15,SNOMED
+36717219,Megacolon co-occurrent and due to infectious colitis,722541007,SNOMED
+36717031,Post polypectomy syndrome,1.0351E+13,SNOMED
+36716700,Perforation and abscess of large intestine co-occurrent and due to diverticulitis,722855007,SNOMED
+36716691,Diverticulitis of small intestine with complication,722845008,SNOMED
+36716180,Rectal stump blowout,722092008,SNOMED
+36715095,Rectal stump leak,720578000,SNOMED
+36713575,Acquired diverticulum of esophagus with complication,717951006,SNOMED
+36713508,Diverticulum of duodenum with complication,717869001,SNOMED
+36685123,Fistula of enterostomy,1.08675E+15,SNOMED
+36685122,Diverticulosis of sigmoid colon with hemorrhage,1.08659E+15,SNOMED
+36685121,Diverticulitis of jejunum with perforation,1.08633E+15,SNOMED
+36685120,Abscess of cecum co-occurrent and due to diverticulitis,1.08611E+15,SNOMED
+36685119,Fistula of colostomy,1.08544E+15,SNOMED
+36684448,Gastritis with upper gastrointestinal hemorrhage,9.7801E+13,SNOMED
+36684323,Intestinal obstruction due to recurrent femoral hernia,782505001,SNOMED
+36684322,Intestinal obstruction due to recurrent umbilical hernia,782504002,SNOMED
+36683388,Curling's ulcer of stomach,781203005,SNOMED
+35625971,Vomiting during third trimester of pregnancy,769087009,SNOMED
+4342987,Duodenal anastomotic hemorrhage,236095006,SNOMED
+4342905,Gastric anastomotic hemorrhage,236094005,SNOMED
+4342904,Gastrointestinal anastomotic hemorrhage,236092009,SNOMED
+4342765,Postoperative mechanical intestinal obstruction,235822009,SNOMED
+4342753,Abscess with diverticular disease of colon,235774002,SNOMED
+4342650,Curling's ulcer of duodenum,235690005,SNOMED
+4342640,Displacement of esophageal antireflux device,235645001,SNOMED
+4341790,Large intestine anastomotic hemorrhage,236097003,SNOMED
+4341253,Small intestine anastomotic hemorrhage,236096007,SNOMED
+4341252,Esophageal anastomotic hemorrhage,236093004,SNOMED
+4341240,Cushing ulcer of duodenum,235689001,SNOMED
+4340517,Rolling hiatus hernia with gastric volvulus,236054008,SNOMED
+4340373,Postoperative ileus,235833007,SNOMED
+4340367,Postoperative intestinal obstruction,235821002,SNOMED
+4340124,Infection of esophageal antireflux device,235646000,SNOMED
+4340123,Disorder of implanted esophageal antireflux device,235644002,SNOMED
+4325371,Esophagitis due to chemotherapy,430328004,SNOMED
+4308393,Mechanical complication of gastrointestinal prosthetic device,213118008,SNOMED
+4299644,Intestinal obstruction due to a procedure,77437008,SNOMED
+4298577,Diverticulitis of colon with perforation,76953007,SNOMED
+4277609,Acute fulminating appendicitis with perforation AND peritonitis,64994000,SNOMED
+4274029,Postoperative nausea,64581007,SNOMED
+4273255,Ulcer of esophagus due to ingestion of medicines,64595005,SNOMED
+4268754,Abscess of appendix,62224002,SNOMED
+4242528,Diarrhea due to diabetes mellitus,38205001,SNOMED
+4234922,Encapsulating peritoneal sclerosis associated with peritoneal dialysis,440663004,SNOMED
+4227141,Hyperemesis gravidarum before end of 22 week gestation with dehydration,87621000,SNOMED
+4222930,Acute fulminating appendicitis,84534001,SNOMED
+4217281,Curling's ulcers,39755000,SNOMED
+4216342,Miscarriage with perforation of bowel,8071005,SNOMED
+4207958,Tracheoesophageal fistula following tracheostomy,55448001,SNOMED
+4204157,Accelerated rejection of intestine transplant,433804007,SNOMED
+4201956,Acute rejection of intestine transplant,434238001,SNOMED
+4200629,Chronic rejection of intestine transplant,434270001,SNOMED
+4197631,Rejection of intestine transplant,431505005,SNOMED
+4185718,Damage to bowel following molar AND/OR ectopic pregnancy,44017002,SNOMED
+4184150,Legal termination of pregnancy with perforation of bowel,55933000,SNOMED
+4183680,Legal termination of pregnancy with laceration of bowel,5577003,SNOMED
+4179793,Vomiting due to organic disease during pregnancy,50764006,SNOMED
+4178810,Gastrointestinal complication of procedure,363132006,SNOMED
+4173243,Perforation with diverticular disease of colon,48169002,SNOMED
+4168050,Complicated appendicitis,418171008,SNOMED
+4162772,Hyperacute rejection of intestine transplant,433600001,SNOMED
+4155076,Complicated diverticular disease of large intestine,271960000,SNOMED
+4147450,Postoperative esophagitis,3482005,SNOMED
+4143634,Fourth degree perineal laceration involving rectal mucosa,34262005,SNOMED
+4142340,Hyperemesis gravidarum before end of 22 week gestation with electrolyte imbalance,33370009,SNOMED
+4141626,Acute appendicitis with appendix abscess,266439004,SNOMED
+4136764,Disorder of esophageal tubal prosthesis,304519006,SNOMED
+4131542,Crohn's stricture of colon,413276006,SNOMED
+4126437,Cushing ulcer,23649000,SNOMED
+4125021,Disorder of gastrointestinal prostheses or implants,304518003,SNOMED
+4121590,Diarrhea and vomiting after gastrointestinal tract surgery,288199005,SNOMED
+4119820,Blockage of esophageal tubal prosthesis,304520000,SNOMED
+4111802,Barium granuloma of intestine,254598007,SNOMED
+4098582,Hyperemesis gravidarum before end of 22 week gestation with carbohydrate depletion,27152008,SNOMED
+4092667,Measles with intestinal complications,186562009,SNOMED
+4092161,Perforated diverticulum of small intestine,280993006,SNOMED
+4092160,Perforated diverticulum of large intestine,280992001,SNOMED
+4066994,Illegal termination of pregnancy with laceration of bowel,17335003,SNOMED
+4059969,Fourth degree perineal laceration involving anal mucosa,16950007,SNOMED
+4057829,Diarrhea after gastrointestinal tract surgery,197132001,SNOMED
+4057822,Perforation and abscess with diverticular disease of small and large intestine,197112002,SNOMED
+4057375,Perforated diverticulum of duodenum,197105006,SNOMED
+4057374,Perforated diverticulum of intestine,197104005,SNOMED
+4055114,Secondary megacolon - acquired,197141006,SNOMED
+4055112,Secondary megacolon - congenital,197140007,SNOMED
+4051784,Illegal termination of pregnancy with perforation of bowel,23401002,SNOMED
+4041728,Miscarriage with laceration of bowel,16714009,SNOMED
+4032472,Postoperative nausea and vomiting,1488000,SNOMED
+4032345,Severe hyperemesis gravidarum,129598007,SNOMED
+4030872,Hyperemesis gravidarum,14094001,SNOMED
+4030429,Moderate hyperemesis gravidarum,129597002,SNOMED
+36716394,Celiac disease with epilepsy and cerebral calcification syndrome,722386009,SNOMED
+36674761,Refractory celiac disease,770593004,SNOMED
+4267871,Celiac disease with diffuse intestinal ulceration,61715008,SNOMED
+4241413,Adult form of celiac disease,91867008,SNOMED
+4218370,Celiac crisis,396330006,SNOMED
+194992,Celiac disease,396331005,SNOMED
+193521,Tropical sprue,47384003,SNOMED
+4208125,Postoperative blind loop syndrome,54883000,SNOMED
+4109790,Congenital blind loop syndrome,253791005,SNOMED
+196732,Blind loop syndrome,77225009,SNOMED
+44806975,Malabsorption due to intolerance to cow's milk protein,8.04161E+14,SNOMED
+37397142,Intestinal malabsorption due to bile acid synthesis defect,717186009,SNOMED
+4340789,Malabsorption due to intolerance to carbohydrate,235720008,SNOMED
+4119165,Malabsorption due to intolerance to fat,303062005,SNOMED
+4119143,Malabsorption due to intolerance to protein,302921006,SNOMED
+4058833,Intestinal malabsorption of carbohydrate,197491004,SNOMED
+4056340,Malabsorption due to intolerance to soy protein,197493001,SNOMED
+4056339,Intestinal malabsorption of protein,197490003,SNOMED
+4027112,Intestinal malabsorption of fat,197494007,SNOMED
+194993,Intestinal malabsorption,197476001,SNOMED
+40484904,Non-celiac gluten sensitivity,442728009,SNOMED
+37116439,Duodenitis caused by Tropheryma whipplei,733148009,SNOMED
+4063592,Seronegative arthritis secondary to Whipple's disease,201517005,SNOMED
+4041674,Neuro - Whipple's disease,230194002,SNOMED
+197782,Whipple's disease,41545003,SNOMED

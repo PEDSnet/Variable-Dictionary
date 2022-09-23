@@ -1,0 +1,87 @@
+concept_id,concept_name,concept_code,vocabulary_id
+4151869,Congenital urethral valvular stricture,268237006,SNOMED
+4109640,Triplex ureter,253888002,SNOMED
+4109806,Duplex kidney with reflux in one ureter,253873007,SNOMED
+762961,Congenital obstructive megaureter without reflux,434271000124104,SNOMED
+4259147,Ectopic ureter,44796002,SNOMED
+762659,Primary right vesicoureteral reflux grade 3 measured by voiding cystourethrography,430201000124102,SNOMED
+762663,Primary left vesicoureteral reflux grade 2,430251000124103,SNOMED
+441961,Congenital pelviureteric junction obstruction,373584008,SNOMED
+4260536,Congenital hypertrophy of ureteric valve,4495005,SNOMED
+43020941,Cecoureterocele,472823003,SNOMED
+4174824,Congenital stricture of urinary meatus,48337000,SNOMED
+762658,Primary right vesicoureteral reflux grade 2 measured by voiding cystourethrography,430191000124100,SNOMED
+4140569,Upper moiety ureter of duplex kidney,264917009,SNOMED
+4029349,Congenital stricture of ureteropelvic junction,12897005,SNOMED
+762672,Primary left vesicoureteral reflux grade 5 measured by voiding urethrocystography,430361000124106,SNOMED
+762657,Primary right vesicoureteral reflux grade 3 measured by radionuclide cystogram,430171000124101,SNOMED
+762670,Primary left vesicoureteral reflux grade 3 measured by voiding urethrocystography,430341000124107,SNOMED
+4109813,Ectopic ureterocele,253894005,SNOMED
+4277439,Accessory ureter,64727007,SNOMED
+762655,Primary right vesicoureteral reflux grade 5,430151000124106,SNOMED
+4162438,Congenital obstructive megaureter,373583002,SNOMED
+36713434,Congenital atresia and stenosis of ureter,717758009,SNOMED
+4109641,Congenital polyp of ureter,253893004,SNOMED
+4136687,Congenital deviation of ureter,31915006,SNOMED
+4004457,Deviation of ureter,204991004,SNOMED
+35623432,Congenital left vesicoureterorenal reflux,765777005,SNOMED
+762656,Primary right vesicoureteral reflux grade 2 measured by radionuclide cystogram,430161000124108,SNOMED
+762664,Primary left vesicoureteral reflux grade 3,430261000124101,SNOMED
+440516,Congenital ureterovesical obstruction,373585009,SNOMED
+4177655,Congenital atresia of ureter,49534003,SNOMED
+762667,Primary left vesicoureteral reflux grade 2 measured by radionuclide cystogram,430301000124105,SNOMED
+762651,Primary right vesicoureteral reflux grade 1 measured by radionuclide cystogram,430111000124105,SNOMED
+35622309,Familial vesicoureteral reflux,763716008,SNOMED
+4162450,Congenital vesicoureterorenal reflux,373637000,SNOMED
+762665,Primary left vesicoureteral reflux grade 4,430271000124108,SNOMED
+4126138,Primary vesicoureteric reflux,236615008,SNOMED
+4109807,Duplex kidney with reflux in both ureters,253874001,SNOMED
+762668,Primary left vesicoureteral reflux grade 1 measured by voiding urethrocystography,430321000124100,SNOMED
+4245345,Congenital convoluted ureter,93044000,SNOMED
+4299657,Congenital absence of ureter,77761000,SNOMED
+765489,Primary left vesicoureteral reflux grade 3 measured by radionuclide cystogram,430311000124108,SNOMED
+4113453,"Congenital vesicoureterorenal reflux, bilateral",253897003,SNOMED
+193312,Congenital anomaly of ureter,51794008,SNOMED
+762662,Primary left vesicoureteral reflux grade 1,430241000124100,SNOMED
+762654,Primary right vesicoureteral reflux grade 4,430141000124109,SNOMED
+762660,Primary right vesicoureteral reflux grade 5 measured by voiding cystourethrography,430221000124107,SNOMED
+4113455,Congenital posterior urethral valves,253900005,SNOMED
+4216361,Congenital stricture of vesicourethral orifice,80797002,SNOMED
+762653,Primary right vesicoureteral reflux grade 3,430131000124104,SNOMED
+4142942,Lower moiety ureter of duplex kidney,264918004,SNOMED
+37397743,Congenital dilatation of ureter,718485003,SNOMED
+762666,Primary left vesicoureteral reflux grade 1 measured by radionuclide cystogram,430291000124109,SNOMED
+4051785,Congenital stricture of ureterovesical orifice,23402009,SNOMED
+762581,Partial duplication of ureter,429191000124106,SNOMED
+440828,Renal pelvis and ureter obstructive defects,204967008,SNOMED
+762671,Primary left vesicoureteral reflux grade 4 measured by voiding urethrocystography,430351000124109,SNOMED
+765754,Primary right vesicoureteral reflux grade 1 measured by voiding cystourethrography,430181000124103,SNOMED
+4151274,Congenital hydroureter,31290005,SNOMED
+4316063,Retrocaval ureter,95233002,SNOMED
+45769854,Congenital anomaly of ureter and renal pelvis,76401000119105,SNOMED
+45757597,Orthotopic ureterocele,23841000119104,SNOMED
+35623433,Congenital right vesicoureterorenal reflux,765778000,SNOMED
+762669,Primary left vesicoureteral reflux grade 2 measured by voiding urethrocystography,430331000124102,SNOMED
+4042407,Congenital occlusion of ureter,16619007,SNOMED
+762661,Primary left vesicoureteral reflux,430231000124105,SNOMED
+4113456,Congenital urethral posterior valvular stricture,253901009,SNOMED
+762650,Primary right vesicoureteral reflux grade 1,430101000124107,SNOMED
+4113452,Transcaval ureter,253891002,SNOMED
+4028980,Congenital stricture of urethra,13671009,SNOMED
+4111154,Megacystis-megaureter syndrome,253904001,SNOMED
+37397282,Congenital primary megaureter,717459000,SNOMED
+4170862,Double ureter,49496001,SNOMED
+4005950,Impervious ureter,204974003,SNOMED
+4187913,Congenital obstruction of bladder neck,46284005,SNOMED
+3654942,Congenital refluxing megaureter,840490005,SNOMED
+4109812,Crossed ectopic ureter,253890001,SNOMED
+765755,Primary right vesicoureteral reflux grade 4 measured by voiding cystourethrography,430211000124104,SNOMED
+4327192,Congenital stricture of ureter,74919005,SNOMED
+4281313,Displaced ureteric orifice,36775008,SNOMED
+765756,Primary left vesicoureteral reflux grade 5,430281000124106,SNOMED
+4003493,Simple ureterocele,204973009,SNOMED
+762652,Primary right vesicoureteral reflux grade 2,430121000124102,SNOMED
+762649,Primary right vesicoureteral reflux,430091000124101,SNOMED
+197096,Urethra and bladder neck atresia and stenosis,204998005,SNOMED
+4109024,Congenital ureteric valves,253887007,SNOMED
+4109025,Congenital diverticulum of ureter,253892009,SNOMED

@@ -1,0 +1,518 @@
+concept_id,concept_code,concept_name,codeset
+4034964,237620003,Abnormal metabolic state due to diabetes mellitus,diabetes
+42536400,735200002,Absence of lower limb due to diabetes mellitus,diabetes
+4321756,9859006,Acanthosis nigricans due to type 2 diabetes mellitus,diabetes
+36715571,721283000,Acidosis due to type 1 diabetes mellitus,diabetes
+36717156,721284006,Acidosis due to type 2 diabetes mellitus,diabetes
+42538715,762489000,Acute complication due to diabetes mellitus,diabetes
+4105016,193183000,Acute painful diabetic neuropathy,diabetes
+4105173,193350004,Advanced maculopathy due to diabetes mellitus,diabetes
+4209538,311782002,Advanced retinal disease due to diabetes mellitus,diabetes
+4307799,82980005,Anemia due to diabetes mellitus,diabetes
+43531588,7.91E+11,Angina associated with type 2 diabetes mellitus,diabetes
+45769891,8.7471E+13,Ankle ulcer due to type 1 diabetes mellitus,diabetes
+45769888,8.7441E+13,Ankle ulcer due to type 2 diabetes mellitus,diabetes
+37311453,792926007,Armanni-Ebstein kidney due to diabetes mellitus,diabetes
+4196141,314903002,Arthropathy due to type 2 diabetes mellitus,diabetes
+4044393,230576004,Asymmetric polyneuropathy due to diabetes mellitus,diabetes
+4194970,79554005,Asymmetric proximal motor neuropathy due to diabetes mellitus,diabetes
+4101892,193185007,Asymptomatic neuropathy due to diabetes mellitus,diabetes
+36715051,720519003,"Atherosclerosis, deafness, diabetes, epilepsy, nephropathy syndrome",diabetes
+36713275,5.30559E+17,Atypical diabetes mellitus,diabetes
+4175440,50620007,Autonomic neuropathy due to diabetes mellitus,diabetes
+37016767,712882000,Autonomic neuropathy due to type 1 diabetes mellitus,diabetes
+37016768,712883005,Autonomic neuropathy due to type 2 diabetes mellitus,diabetes
+35625724,768799003,Bilateral iritis due to diabetes mellitus,diabetes
+45763585,6.0991E+13,Blindness due to type 1 diabetes mellitus,diabetes
+45763582,6.0951E+13,Blindness due to type 2 diabetes mellitus,diabetes
+4169240,48951005,Bullosis diabeticorum,diabetes
+376979,43959009,Cataract due to diabetes mellitus,diabetes
+4225656,421920002,Cataract due to diabetes mellitus type 1,diabetes
+4221495,420756003,Cataract due to diabetes mellitus type 2,diabetes
+35625718,768793002,Cataract of left eye due to diabetes mellitus,diabetes
+35625717,768792007,Cataract of right eye due to diabetes mellitus,diabetes
+4061725,200687002,Cellulitis of foot due to diabetes mellitus,diabetes
+3656194,871778008,Centrally involved macular edema due to diabetes mellitus,diabetes
+35626761,770094004,Cervical radiculoplexus neuropathy due to diabetes mellitus,diabetes
+45773688,9.6441E+13,Chronic kidney disease due to type 1 diabetes mellitus,diabetes
+43531578,7.71E+11,Chronic kidney disease due to type 2 diabetes mellitus,diabetes
+45773576,9.0721E+13,Chronic kidney disease stage 1 due to type 1 diabetes mellitus,diabetes
+43531559,7.51E+11,Chronic kidney disease stage 1 due to type 2 diabetes mellitus,diabetes
+45769901,9.0731E+13,Chronic kidney disease stage 2 due to type 1 diabetes mellitus,diabetes
+43531566,7.41E+11,Chronic kidney disease stage 2 due to type 2 diabetes mellitus,diabetes
+45771075,9.0741E+13,Chronic kidney disease stage 3 due to type 1 diabetes mellitus,diabetes
+43531653,7.31E+11,Chronic kidney disease stage 3 due to type 2 diabetes mellitus,diabetes
+45769902,9.0751E+13,Chronic kidney disease stage 4 due to type 1 diabetes mellitus,diabetes
+43531577,7.21E+11,Chronic kidney disease stage 4 due to type 2 diabetes mellitus,diabetes
+45769903,9.0761E+13,Chronic kidney disease stage 5 due to type 1 diabetes mellitus,diabetes
+43531562,7.11E+11,Chronic kidney disease stage 5 due to type 2 diabetes mellitus,diabetes
+4105639,193184006,Chronic painful neuropathy due to diabetes mellitus,diabetes
+4044392,230575000,Chronic painful polyneuropathy due to diabetes mellitus,diabetes
+3655385,860980004,Chronic ulcer of left foot due to diabetes mellitus,diabetes
+3655384,860979002,Chronic ulcer of right foot due to diabetes mellitus,diabetes
+45769837,7.2141E+13,Chronic ulcer of skin due to type 1 diabetes mellitus,diabetes
+35626764,770097006,Clinically significant macular edema due to diabetes mellitus,diabetes
+35626072,769222008,Clinically significant macular edema of left eye due to diabetes mellitus,diabetes
+35626071,769221001,Clinically significant macular edema of right eye due to diabetes mellitus,diabetes
+443735,420662003,Coma due to diabetes mellitus,diabetes
+4221933,420996007,Coma due to malnutrition-related diabetes mellitus,diabetes
+442793,74627003,Complication due to diabetes mellitus,diabetes
+761051,1.38811E+14,Complication due to secondary diabetes mellitus,diabetes
+37309630,1.68912E+16,Coronary artery disease due to type 2 diabetes mellitus,diabetes
+35626762,770095003,Cranial nerve palsy due to diabetes mellitus,diabetes
+35626765,770098001,Cranial nerve palsy due to type 1 diabetes mellitus,diabetes
+45769894,8.7921E+13,Cranial nerve palsy due to type 2 diabetes mellitus,diabetes
+3655914,870421009,Cystoid macular edema due to diabetes mellitus,diabetes
+36715417,721088003,DEND syndrome,diabetes
+37016350,3.68171E+14,Dermatitis due to drug induced diabetes mellitus,diabetes
+45769832,7.2021E+13,Dermopathy due to type 1 diabetes mellitus,diabetes
+43531616,1.531E+12,Dermopathy due to type 2 diabetes mellitus,diabetes
+4129516,237619009,Diabetes-deafness syndrome maternally transmitted,diabetes
+201820,73211009,Diabetes mellitus,diabetes
+4322638,70694009,Diabetes mellitus AND insipidus with optic atrophy AND deafness,diabetes
+4143529,426705001,Diabetes mellitus associated with cystic fibrosis,diabetes
+4245270,5969009,Diabetes mellitus associated with genetic syndrome,diabetes
+4240589,59079001,Diabetes mellitus associated with hormonal etiology,diabetes
+4178452,51002006,Diabetes mellitus associated with pancreatic disease,diabetes
+4178790,42954008,Diabetes mellitus associated with receptor abnormality,diabetes
+42537681,737212004,Diabetes mellitus caused by chemical,diabetes
+765478,3.67391E+14,Diabetes mellitus caused by drug without complication,diabetes
+3178281,2.35E+15,Diabetes mellitus complicating Cystic fibrosis,diabetes
+4144583,427089005,Diabetes mellitus due to cystic fibrosis,diabetes
+43531011,609568004,Diabetes mellitus due to genetic defect in beta cell function,diabetes
+43531642,609569007,Diabetes mellitus due to genetic defect in insulin action,diabetes
+4192852,75682002,Diabetes mellitus due to insulin receptor antibodies,diabetes
+45757077,1.05401E+14,Diabetes mellitus due to pancreatic injury,diabetes
+4237068,91352004,Diabetes mellitus due to structurally abnormal insulin,diabetes
+192691,199227004,Diabetes mellitus during pregnancy - baby not yet delivered,diabetes
+4058243,199223000,"Diabetes mellitus during pregnancy, childbirth and the puerperium",diabetes
+4235410,408540003,Diabetes mellitus induced by non-steroid drugs,diabetes
+194700,76751001,"Diabetes mellitus in mother complicating pregnancy, childbirth AND/OR puerperium",diabetes
+4079850,276560009,Diabetes mellitus in neonate small for gestational age,diabetes
+45766050,703136005,Diabetes mellitus in remission,diabetes
+43531645,609579009,"Diabetes mellitus, transient neonatal 1",diabetes
+43531019,609580007,"Diabetes mellitus, transient neonatal 2",diabetes
+43531020,609581006,"Diabetes mellitus, transient neonatal 3",diabetes
+45757674,3.1321E+13,Diabetes mellitus type 1 without retinopathy,diabetes
+45757474,1.481E+12,Diabetes mellitus type 2 without retinopathy,diabetes
+36684827,3.68101E+14,Diabetes mellitus type 2 with periodontal disease,diabetes
+44793113,3.85041E+14,Diabetes mellitus with multiple complications,diabetes
+4008576,111552007,Diabetes mellitus without complication,diabetes
+4046332,230574001,Diabetic acute painful polyneuropathy,diabetes
+37312019,788878000,Diabetic cardiomyopathy,diabetes
+35625719,768794008,Diabetic cataract of bilateral eyes,diabetes
+4033942,238982009,Diabetic dermopathy,diabetes
+4087682,280137006,Diabetic foot,diabetes
+4159742,371087003,Diabetic foot ulcer,diabetes
+4137220,425455002,Diabetic glomerulonephritis,diabetes
+4114426,201723002,Diabetic hand syndrome,diabetes
+37018912,3.68591E+14,Diabetic hand syndrome due to type 2 diabetes mellitus,diabetes
+3169474,1.658E+16,Diabetic hypoglycemia w anger outbursts,diabetes
+4164175,399868002,Diabetic intraretinal microvascular anomaly,diabetes
+443727,420422005,Diabetic ketoacidosis,diabetes
+4009303,111556005,Diabetic ketoacidosis without coma,diabetes
+37110068,724136006,Diabetic mastopathy,diabetes
+4048028,230577008,Diabetic mononeuropathy,diabetes
+4262282,35777006,Diabetic mononeuropathy multiplex,diabetes
+4234742,359611005,Diabetic neuropathy with neurologic complication,diabetes
+4151453,314537004,Diabetic optic papillopathy,diabetes
+4311708,424736006,Diabetic peripheral neuropathy,diabetes
+44805628,7.75841E+14,Diabetic retinopathy detected by national screening programme,diabetes
+4082347,238983004,Diabetic thick skin syndrome,diabetes
+3178971,2.79E+16,Diabetic ulcer of left great toe,diabetes
+3172958,2.098E+16,Diabetic ulcer of right wrist,diabetes
+3183485,2.257E+16,Diabetic ulcer right great toe,diabetes
+4242528,38205001,Diarrhea due to diabetes mellitus,diabetes
+4199039,314010006,Diffuse exudative maculopathy due to diabetes mellitus,diabetes
+4243625,38046004,Diffuse glomerulosclerosis of kidney due to diabetes mellitus,diabetes
+435216,420868002,Disorder due to type 1 diabetes mellitus,diabetes
+443732,422014003,Disorder due to type 2 diabetes mellitus,diabetes
+43531597,2.01E+11,Disorder due to well controlled type 2 diabetes mellitus,diabetes
+443767,25093002,Disorder of eye due to diabetes mellitus,diabetes
+4224419,421256007,Disorder of eye due to malnutrition related diabetes mellitus,diabetes
+42538169,739681000,Disorder of eye due to type 1 diabetes mellitus,diabetes
+443733,422099009,Disorder of eye due to type 2 diabetes mellitus,diabetes
+192279,127013003,Disorder of kidney due to diabetes mellitus,diabetes
+35626088,769245002,Disorder of left macula due to diabetes mellitus,diabetes
+4334884,232020009,Disorder of macula due to diabetes mellitus,diabetes
+3655235,860721006,Disorder of macula of bilateral eyes due to diabetes mellitus,diabetes
+42535539,3.68521E+14,Disorder of nerve co-occurrent and due to type 1 diabetes mellitus,diabetes
+443730,422088007,Disorder of nervous system due to diabetes mellitus,diabetes
+4224879,420683009,Disorder of nervous system due to malnutrition related diabetes mellitus,diabetes
+377821,421468001,Disorder of nervous system due to type 1 diabetes mellitus,diabetes
+376065,421326000,Disorder of nervous system due to type 2 diabetes mellitus,diabetes
+35626087,769244003,Disorder of right macula due to diabetes mellitus,diabetes
+4082346,238981002,Disorder of soft tissue due to diabetes mellitus,diabetes
+761048,1.38591E+14,Disorder of vision due to secondary diabetes mellitus,diabetes
+4202383,5368009,Drug-induced diabetes mellitus,diabetes
+37016353,3.68551E+14,Dyslipidemia due to type 1 diabetes mellitus,diabetes
+43531564,7.61E+11,Dyslipidemia due to type 2 diabetes mellitus,diabetes
+45757280,1.11231E+14,Dyslipidemia with high density lipoprotein below reference range and triglyceride above reference range due to type 2 diabetes mellitus,diabetes
+45769904,9.0771E+13,End stage renal disease on dialysis due to type 1 diabetes mellitus,diabetes
+45769906,9.0791E+13,End stage renal disease on dialysis due to type 2 diabetes mellitus,diabetes
+35626763,770096002,Erectile dysfunction due to diabetes mellitus,diabetes
+43531565,6.91E+11,Erectile dysfunction due to type 1 diabetes mellitus,diabetes
+4177050,428007007,Erectile dysfunction due to type 2 diabetes mellitus,diabetes
+4084643,24203005,"Extreme insulin resistance with acanthosis nigricans, hirsutism AND abnormal insulin receptors",diabetes
+4221344,420486006,Exudative maculopathy due to type 1 diabetes mellitus,diabetes
+4223463,421779007,Exudative maculopathy due to type 2 diabetes mellitus,diabetes
+4263090,361216007,Femoral mononeuropathy due to diabetes mellitus,diabetes
+4099741,2751001,Fibrocalculous pancreatic diabetes,diabetes
+4210872,314011005,Focal exudative maculopathy due to diabetes mellitus,diabetes
+43530690,1.521E+12,Foot ulcer due to type 2 diabetes mellitus,diabetes
+4226354,422275004,Gangrene due to diabetes mellitus,diabetes
+4223303,420825003,Gangrene due to type 1 diabetes mellitus,diabetes
+4222876,421631007,Gangrene due to type 2 diabetes mellitus,diabetes
+37017430,713704004,Gastroparesis due to diabetes mellitus,diabetes
+37017429,713702000,Gastroparesis due to type 1 diabetes mellitus,diabetes
+37018728,713703005,Gastroparesis due to type 2 diabetes mellitus,diabetes
+3183244,5.62E+15,Gestational diabetes during pregnancy,diabetes
+4024659,11687002,Gestational diabetes mellitus,diabetes
+4326434,75022004,"Gestational diabetes mellitus, class A>1<",diabetes
+4263902,46894009,"Gestational diabetes mellitus, class A>2<",diabetes
+37018765,4.0801E+13,Gestational diabetes mellitus complicating pregnancy,diabetes
+45757124,1.07535E+16,Gestational diabetes mellitus in childbirth,diabetes
+37396524,716362006,Gingival disease co-occurrent with diabetes mellitus,diabetes
+46274096,709147009,Gingivitis co-occurrent with diabetes mellitus,diabetes
+3655269,860798008,Glaucoma due to diabetes mellitus,diabetes
+45772019,4.1911E+13,Glaucoma due to type 2 diabetes mellitus,diabetes
+4206115,309426007,Glomerulopathy due to diabetes mellitus,diabetes
+45772914,707221002,Glomerulosclerosis of kidney due to diabetes mellitus,diabetes
+4195043,312907002,High risk proliferative retinopathy due to diabetes mellitus,diabetes
+4164176,399869005,High risk proliferative retinopathy not amenable to photocoagulation due to diabetes mellitus,diabetes
+4266042,399874002,High risk proliferative retinopathy with clinically significant macula edema due to diabetes mellitus,diabetes
+4164174,399862001,High risk proliferative retinopathy without macular edema due to diabetes mellitus,diabetes
+4048202,123763000,Houssay's syndrome,diabetes
+37311673,822995009,Hyperglycemia due to diabetes mellitus,diabetes
+37016348,3.67991E+14,Hyperglycemia due to type 1 diabetes mellitus,diabetes
+37016349,3.68051E+14,Hyperglycemia due to type 2 diabetes mellitus,diabetes
+40480031,441656006,Hyperglycemic crisis due to diabetes mellitus,diabetes
+45757432,1.37941E+14,Hyperlipidemia due to type 1 diabetes mellitus,diabetes
+45770880,1.37931E+14,Hyperlipidemia due to type 2 diabetes mellitus,diabetes
+443592,428896009,Hyperosmolality due to uncontrolled type 1 diabetes mellitus,diabetes
+4226238,422126006,Hyperosmolar coma due to diabetes mellitus,diabetes
+37016355,3.68601E+14,Hyperosmolar coma due to secondary diabetes mellitus,diabetes
+201531,190330002,Hyperosmolar coma due to type 1 diabetes mellitus,diabetes
+201530,190331003,Hyperosmolar coma due to type 2 diabetes mellitus,diabetes
+42536603,735537007,Hyperosmolar hyperglycemic coma due to diabetes mellitus without ketoacidosis,diabetes
+37109305,3.67261E+14,Hyperosmolarity due to drug induced diabetes mellitus,diabetes
+42535540,3.68561E+14,Hyperosmolarity due to type 1 diabetes mellitus,diabetes
+4147719,310505005,Hyperosmolar non-ketotic state due to diabetes mellitus,diabetes
+4215719,395204000,Hyperosmolar non-ketotic state due to type 2 diabetes mellitus,diabetes
+4034962,237613005,Hyperproinsulinemia,diabetes
+45771067,7.1701E+13,Hypertension in chronic kidney disease due to type 1 diabetes mellitus,diabetes
+45771064,7.1421E+13,Hypertension in chronic kidney disease due to type 2 diabetes mellitus,diabetes
+45757447,1.40131E+14,Hypertension in chronic kidney disease stage 2 due to type 2 diabetes mellitus,diabetes
+45757446,1.40121E+14,Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus,diabetes
+45757445,1.40111E+14,Hypertension in chronic kidney disease stage 4 due to type 2 diabetes mellitus,diabetes
+45757444,1.40101E+14,Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus,diabetes
+44809809,8.94741E+14,Hypoglycaemic warning absent,diabetes
+44789319,1.98131E+14,Hypoglycaemic warning good,diabetes
+44789318,1.98121E+14,Hypoglycaemic warning impaired,diabetes
+4029423,237633009,Hypoglycemia due to diabetes mellitus,diabetes
+45769876,8.4371E+13,Hypoglycemia due to type 1 diabetes mellitus,diabetes
+45757363,1.20731E+14,Hypoglycemia due to type 2 diabetes mellitus,diabetes
+45772060,1.19831E+14,Hypoglycemia unawareness due to type 2 diabetes mellitus,diabetes
+4226798,421725003,Hypoglycemic coma due to diabetes mellitus,diabetes
+4228112,421437000,Hypoglycemic coma due to type 1 diabetes mellitus,diabetes
+36714116,719216001,Hypoglycemic coma due to type 2 diabetes mellitus,diabetes
+4029422,237632004,Hypoglycemic event due to diabetes,diabetes
+45757362,1.20711E+14,Hypoglycemic unawareness due to type 1 diabetes mellitus,diabetes
+4171406,419100001,Infection of foot due to diabetes mellitus,diabetes
+4252384,408539000,Insulin autoimmune syndrome,diabetes
+4047906,23045005,Insulin dependent diabetes mellitus type 1A,diabetes
+4102018,28032008,Insulin dependent diabetes mellitus type 1B,diabetes
+45769875,8.4361E+13,Insulin reactive hypoglycemia due to type 2 diabetes mellitus,diabetes
+4129524,237651005,Insulin resistance - type A,diabetes
+4129525,237652003,Insulin resistance - type B,diabetes
+4130162,237599002,Insulin treated type 2 diabetes mellitus,diabetes
+36717215,722454003,"Intellectual disability, craniofacial dysmorphism, hypogonadism, diabetes mellitus syndrome",diabetes
+4147577,310387003,Intracapillary glomerulosclerosis of kidney due to diabetes mellitus,diabetes
+4102176,193489006,Iritis due to diabetes mellitus,diabetes
+35625723,768798006,Iritis of left eye due to diabetes mellitus,diabetes
+35625722,768797001,Iritis of right eye due to diabetes mellitus,diabetes
+35626905,770324004,Ischemia of retina due to diabetes mellitus,diabetes
+45757073,1.04941E+14,Ischemia of retina due to type 1 diabetes mellitus,diabetes
+45757075,1.04961E+14,Ischemia of retina due to type 2 diabetes mellitus,diabetes
+761062,1.40401E+14,Ischemic heel and/or midfoot ulcer due to type 2 diabetes mellitus,diabetes
+4210874,314014002,Ischemic maculopathy due to diabetes mellitus,diabetes
+4063569,201250006,Ischemic ulcer of foot due to diabetes mellitus,diabetes
+45771072,1.40521E+14,Ischemic ulcer of foot due to type 2 diabetes mellitus,diabetes
+439770,420270002,Ketoacidosis due to type 1 diabetes mellitus,diabetes
+443734,421750000,Ketoacidosis due to type 2 diabetes mellitus,diabetes
+4095288,26298008,Ketoacidotic coma due to diabetes mellitus,diabetes
+4224254,421075007,Ketoacidotic coma due to type 1 diabetes mellitus,diabetes
+4228443,421847006,Ketoacidotic coma due to type 2 diabetes mellitus,diabetes
+36685758,1.10235E+15,Ketosis-prone diabetes mellitus,diabetes
+4151946,311366001,Kimmelstiel-Wilson syndrome,diabetes
+42536604,735538002,Lactic acidosis due to diabetes mellitus,diabetes
+4145827,426875007,Latent autoimmune diabetes mellitus in adult,diabetes
+4006979,111307005,Leprechaunism syndrome,diabetes
+37110593,724876003,Lesion of skin due to diabetes mellitus,diabetes
+4131907,127012008,Lipoatrophic diabetes,diabetes
+44787902,1.12991E+14,Lipoatrophic diabetes mellitus without complication,diabetes
+4016047,170766006,Loss of hypoglycemic warning due to diabetes mellitus,diabetes
+4191611,39058009,Lumbosacral radiculoplexus neuropathy due to diabetes mellitus,diabetes
+4143857,427571000,Lumbosacral radiculoplexus neuropathy due to type 1 diabetes mellitus,diabetes
+4140466,427027005,Lumbosacral radiculoplexus neuropathy due to type 2 diabetes mellitus,diabetes
+40482458,445170001,Macroalbuminuric nephropathy due to diabetes mellitus,diabetes
+45770830,9.7331E+13,Macular edema and retinopathy due to type 2 diabetes mellitus,diabetes
+380097,312912001,Macular edema due to diabetes mellitus,diabetes
+35626069,769219006,Macular edema due to type 1 diabetes mellitus,diabetes
+35626070,769220000,Macular edema due to type 2 diabetes mellitus,diabetes
+4162095,399864000,Macular edema not clinically significant due to diabetes mellitus,diabetes
+35626068,769218003,Macular edema of left eye due to diabetes mellitus,diabetes
+35626067,769217008,Macular edema of right eye due to diabetes mellitus,diabetes
+4327944,75524006,Malnutrition related diabetes mellitus,diabetes
+4030061,237600004,Malnutrition-related diabetes mellitus - fibrocalculous,diabetes
+4096041,190406000,Malnutrition-related diabetes mellitus with ketoacidosis,diabetes
+4096042,190412005,Malnutrition-related diabetes mellitus without complications,diabetes
+4096671,190410002,Malnutrition-related diabetes mellitus with peripheral circulatory complications,diabetes
+4096670,190407009,Malnutrition-related diabetes mellitus with renal complications,diabetes
+4166381,4783006,Maternal diabetes mellitus with hypoglycemia affecting fetus OR newborn,diabetes
+44792134,3.35621E+14,Maternally inherited diabetes mellitus,diabetes
+43531640,609561005,Maturity-onset diabetes of the young,diabetes
+43531006,609562003,"Maturity onset diabetes of the young, type 1",diabetes
+43531017,609577006,"Maturity-onset diabetes of the young, type 10",diabetes
+43531018,609578001,"Maturity-onset diabetes of the young, type 11",diabetes
+4130164,237604008,"Maturity onset diabetes of the young, type 2",diabetes
+43531012,609570008,"Maturity-onset diabetes of the young, type 3",diabetes
+43531013,609571007,"Maturity-onset diabetes of the young, type 4",diabetes
+43531014,609572000,"Maturity-onset diabetes of the young, type 5",diabetes
+43531643,609573005,"Maturity-onset diabetes of the young, type 6",diabetes
+43531015,609574004,"Maturity-onset diabetes of the young, type 7",diabetes
+43531644,609575003,"Maturity-onset diabetes of the young, type 8",diabetes
+43531016,609576002,"Maturity-onset diabetes of the young, type 9",diabetes
+4034963,237617006,"Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness",diabetes
+42536605,735539005,Metabolic acidosis due to diabetes mellitus,diabetes
+45757535,1.8521E+13,Microalbuminuria due to type 1 diabetes mellitus,diabetes
+45769905,9.0781E+13,Microalbuminuria due to type 2 diabetes mellitus,diabetes
+4128221,236499007,Microalbuminuric diabetic nephropathy,diabetes
+36674753,770582001,Microaneurysm of left retinal artery due to diabetes mellitus,diabetes
+4101478,25412000,Microaneurysm of retinal artery due to diabetes mellitus,diabetes
+36674752,770581008,Microaneurysm of right retinal artery due to diabetes mellitus,diabetes
+378743,312903003,Mild nonproliferative retinopathy due to diabetes mellitus,diabetes
+37016356,3.68711E+14,Mild nonproliferative retinopathy due to secondary diabetes mellitus,diabetes
+37016179,1.38881E+14,Mild nonproliferative retinopathy due to type 1 diabetes mellitus,diabetes
+45757435,1.38911E+14,Mild nonproliferative retinopathy due to type 2 diabetes mellitus,diabetes
+35626039,769184004,Mild nonproliferative retinopathy of left eye due to diabetes mellitus,diabetes
+35626038,769183005,Mild nonproliferative retinopathy of right eye due to diabetes mellitus,diabetes
+4066936,201252003,Mixed diabetic ulcer - foot,diabetes
+43530660,1.571E+12,Mixed hyperlipidemia due to type 1 diabetes mellitus,diabetes
+43531651,7.01E+11,Mixed hyperlipidemia due to type 2 diabetes mellitus,diabetes
+4195498,314015001,Mixed maculopathy due to diabetes mellitus,diabetes
+4054812,126534007,Mixed sensorimotor polyneuropathy due to diabetes mellitus,diabetes
+35626042,769186002,Moderate nonproliferative diabetic retinopathy of left eye,diabetes
+35626041,769185003,Moderate nonproliferative diabetic retinopathy of right eye,diabetes
+377552,312904009,Moderate nonproliferative retinopathy due to diabetes mellitus,diabetes
+37016358,3.68741E+14,Moderate nonproliferative retinopathy due to secondary diabetes mellitus,diabetes
+37016180,1.38891E+14,Moderate nonproliferative retinopathy due to type 1 diabetes mellitus,diabetes
+45770881,1.38921E+14,Moderate nonproliferative retinopathy due to type 2 diabetes mellitus,diabetes
+4101887,193141005,Mononeuritis multiplex with diabetes mellitus,diabetes
+4225055,420918009,Mononeuropathy due to type 1 diabetes mellitus,diabetes
+4222415,420436000,Mononeuropathy due to type 2 diabetes mellitus,diabetes
+4304701,81830002,Mononeuropathy simplex due to diabetes mellitus,diabetes
+4129225,126535008,Motor polyneuropathy due to diabetes mellitus,diabetes
+40480000,441628001,Multiple complications due to diabetes mellitus,diabetes
+4099652,190411003,Multiple complications due to malnutrition related diabetes,diabetes
+4224709,422228004,Multiple complications due to type 1 diabetes mellitus,diabetes
+4099216,190388001,Multiple complications due to type 2 diabetes mellitus,diabetes
+4147504,267604001,Myasthenic syndrome due to diabetic amyotrophy,diabetes
+37204818,783722008,Myopathy and diabetes mellitus,diabetes
+193323,49817004,Neonatal diabetes mellitus,diabetes
+37017221,713457002,Neovascular glaucoma due to diabetes mellitus,diabetes
+4027121,197605007,Nephrotic syndrome due to diabetes mellitus,diabetes
+45769829,7.1721E+13,Nephrotic syndrome due to type 1 diabetes mellitus,diabetes
+45769828,7.1441E+13,Nephrotic syndrome due to type 2 diabetes mellitus,diabetes
+4114427,201724008,Neuropathic arthropathy due to diabetes mellitus,diabetes
+45769830,7.1771E+13,Neuropathic arthropathy due to type 1 diabetes mellitus,diabetes
+43531563,7.81E+11,Neuropathic arthropathy due to type 2 diabetes mellitus,diabetes
+4044391,230572002,Neuropathy due to diabetes mellitus,diabetes
+37312218,789542009,Neuropathy due to type 1 diabetes mellitus,diabetes
+37016354,3.68581E+14,Neuropathy due to type 2 diabetes mellitus,diabetes
+4129520,237635002,Nocturnal hypoglycemia due to diabetes mellitus,diabetes
+4270049,63510008,Nodular type diabetic glomerulosclerosis,diabetes
+3656195,871781003,Non centrally involved macular edema due to diabetes mellitus,diabetes
+4210128,312906006,Non-high-risk proliferative retinopathy due to diabetes mellitus,diabetes
+4269870,399875001,Non-high-risk proliferative retinopathy with clinically significant macular edema due to diabetes mellitus,diabetes
+4161671,399870006,Non-high-risk proliferative retinopathy with no macular edema due to diabetes mellitus,diabetes
+4223734,421966007,Non-ketotic non-hyperosmolar coma due to diabetes mellitus,diabetes
+45763583,6.0961E+13,Nonproliferative diabetic retinopathy due to type 1 diabetes mellitus,diabetes
+376683,390834004,Nonproliferative retinopathy due to diabetes mellitus,diabetes
+37016357,3.68721E+14,Non-proliferative retinopathy due to secondary diabetes mellitus,diabetes
+43530656,1.551E+12,Nonproliferative retinopathy due to type 2 diabetes mellitus,diabetes
+37311254,816177009,Nonproliferative retinopathy of left eye due to diabetes mellitus,diabetes
+37311253,816178004,Nonproliferative retinopathy of right eye due to diabetes mellitus,diabetes
+4235260,408410002,O/E - left eye background diabetic retinopathy,diabetes
+4255400,408412005,O/E - left eye preproliferative diabetic retinopathy,diabetes
+4252356,408414006,O/E - left eye proliferative diabetic retinopathy,diabetes
+4215961,414894003,O/E - left eye stable treated proliferative diabetic retinopathy,diabetes
+4247107,408409007,O/E - right eye background diabetic retinopathy,diabetes
+4255399,408411003,O/E - right eye preproliferative diabetic retinopathy,diabetes
+4255401,408413000,O/E - right eye proliferative diabetic retinopathy,diabetes
+4212441,414910007,O/E - right eye stable treated proliferative diabetic retinopathy,diabetes
+4218499,417677008,O/E - sight threatening diabetic retinopathy,diabetes
+4176925,427943001,Ophthalmoplegia due to diabetes mellitus,diabetes
+45769834,7.2041E+13,Osteomyelitis due to type 1 diabetes mellitus,diabetes
+45769836,7.2061E+13,Osteomyelitis due to type 2 diabetes mellitus,diabetes
+36716258,722206009,"Pancreatic hypoplasia, diabetes mellitus, congenital heart disease syndrome",diabetes
+4131908,127014009,Peripheral angiopathy due to diabetes mellitus,diabetes
+36713094,3.1211E+13,Peripheral angiopathy due to type 1 diabetes mellitus,diabetes
+318712,421365002,Peripheral circulatory disorder due to type 1 diabetes mellitus,diabetes
+443729,422166005,Peripheral circulatory disorder due to type 2 diabetes mellitus,diabetes
+37018566,7.1791E+13,Peripheral neuropathy due to type 1 diabetes mellitus,diabetes
+43530689,1.511E+12,Peripheral neuropathy due to type 2 diabetes mellitus,diabetes
+45757278,1.10181E+14,Peripheral sensory neuropathy due to type 2 diabetes mellitus,diabetes
+321822,421895002,Peripheral vascular disorder due to diabetes mellitus,diabetes
+43531641,609565001,Permanent neonatal diabetes mellitus,diabetes
+37110041,724067006,Permanent neonatal diabetes mellitus with cerebellar agenesis syndrome,diabetes
+3655948,870529009,Persistent macular edema due to diabetes mellitus,diabetes
+4222687,421305000,Persistent microalbuminuria due to type 1 diabetes mellitus,diabetes
+4221487,420715001,Persistent microalbuminuria due to type 2 diabetes mellitus,diabetes
+4222553,420514000,Persistent proteinuria due to type 1 diabetes mellitus,diabetes
+4223739,421986006,Persistent proteinuria due to type 2 diabetes mellitus,diabetes
+4030066,237612000,"Photomyoclonus, diabetes mellitus, deafness, nephropathy and cerebral dysfunction",diabetes
+376112,49455004,Polyneuropathy due to diabetes mellitus,diabetes
+37017431,713705003,Polyneuropathy due to type 1 diabetes mellitus,diabetes
+37017432,713706002,Polyneuropathy due to type 2 diabetes mellitus,diabetes
+3198118,2.977E+16,Poorly controlled diabetes mellitus,diabetes
+3194119,2.968E+16,Poorly controlled type 1 diabetes,diabetes
+3193274,2.969E+16,Poorly controlled type 2 diabetes,diabetes
+3198350,1.01E+16,Poorly controlled type I diabetes with circulatory disorder,diabetes
+3196797,1.011E+16,Poorly controlled type I diabetes with complication,diabetes
+3192955,1.013E+16,Poorly controlled type I diabetes with neuropathy,diabetes
+3192052,1.012E+16,Poorly controlled type I diabetes with renal complication,diabetes
+3192767,1.014E+16,Poorly controlled type II diabetes with circulatory disease,diabetes
+3194082,1.015E+16,Poorly controlled type II diabetes with complications,diabetes
+3191208,1.017E+16,Poorly controlled type II diabetes with neuropathy,diabetes
+3194332,1.016E+16,Poorly controlled type II diabetes with renal complications,diabetes
+44793114,3.85051E+14,Pre-existing diabetes mellitus,diabetes
+45757079,1.06281E+14,Pre-existing diabetes mellitus in mother complicating childbirth,diabetes
+43531007,609563008,Pre-existing diabetes mellitus in pregnancy,diabetes
+4062687,199231005,Pre-existing malnutrition-related diabetes mellitus,diabetes
+4063042,199229001,Pre-existing type 1 diabetes mellitus,diabetes
+43531008,609564002,Pre-existing type 1 diabetes mellitus in pregnancy,diabetes
+4063043,199230006,Pre-existing type 2 diabetes mellitus,diabetes
+43531010,609567009,Pre-existing type 2 diabetes mellitus in pregnancy,diabetes
+43531009,609566000,Pregnancy and type 1 diabetes mellitus,diabetes
+4129519,237627000,Pregnancy and type 2 diabetes mellitus,diabetes
+4105172,193349004,Preproliferative retinopathy due to diabetes mellitus,diabetes
+35626037,769182000,Preproliferative retinopathy of left eye due to diabetes mellitus,diabetes
+35626036,769181007,Preproliferative retinopathy of right eye due to diabetes mellitus,diabetes
+4265913,62260007,Pretibial pigmental patches due to diabetes mellitus,diabetes
+3180411,1.632E+16,Preulcerative calluses,diabetes
+37204277,782825008,"Primary microcephaly, epilepsy, permanent neonatal diabetes syndrome",diabetes
+37204232,782755007,"Primary microcephaly, mild intellectual disability, young-onset diabetes syndrome",diabetes
+380096,59276001,Proliferative retinopathy due to diabetes mellitus,diabetes
+45763584,6.0971E+13,Proliferative retinopathy due to type 1 diabetes mellitus,diabetes
+43530685,1.501E+12,Proliferative retinopathy due to type 2 diabetes mellitus,diabetes
+45757065,1.03981E+14,Proliferative retinopathy following surgery due to diabetes mellitus,diabetes
+36674200,770766000,Proliferative retinopathy of left eye due to diabetes mellitus,diabetes
+36674199,770765001,Proliferative retinopathy of right eye with diabetes mellitus,diabetes
+4195044,312909004,Proliferative retinopathy with iris neovascularization due to diabetes mellitus,diabetes
+4336000,232022001,Proliferative retinopathy with neovascularization elsewhere than the optic disc due to diabetes mellitus,diabetes
+4338900,232021008,Proliferative retinopathy with optic disc neovascularization due to diabetes mellitus,diabetes
+45770831,9.7341E+13,Proliferative retinopathy with retinal edema due to type 2 diabetes mellitus,diabetes
+4212631,57886004,Protein-deficient diabetes mellitus,diabetes
+45757604,2.43421E+14,Proteinuria due to type 1 diabetes mellitus,diabetes
+45757499,1.57141E+14,Proteinuria due to type 2 diabetes mellitus,diabetes
+4030664,236500003,Proteinuric nephropathy due to diabetes mellitus,diabetes
+4023792,19378003,Pseudotabes due to diabetes mellitus,diabetes
+4210129,312908007,Quiescent proliferative retinopathy due to diabetes mellitus,diabetes
+4140808,33559001,Rabson-Mendenhall syndrome,diabetes
+4189418,39181008,Radiculoplexus neuropathy due to diabetes mellitus,diabetes
+200687,421893009,Renal disorder due to type 1 diabetes mellitus,diabetes
+443731,420279001,Renal disorder due to type 2 diabetes mellitus,diabetes
+36716853,723074006,Renal papillary necrosis due to diabetes mellitus,diabetes
+35626904,770323005,Retinal edema due to diabetes mellitus,diabetes
+45757266,1.09171E+14,Retinal edema due to type 1 diabetes mellitus,diabetes
+45770928,2.8331E+13,Retinal edema due to type 2 diabetes mellitus,diabetes
+4174977,4855003,Retinopathy due to diabetes mellitus,diabetes
+4227210,420789003,Retinopathy due to type 1 diabetes mellitus,diabetes
+4226121,422034002,Retinopathy due to type 2 diabetes mellitus,diabetes
+45770986,706894000,Retinopathy due to unstable diabetes mellitus type 1,diabetes
+4082348,238984005,Rubeosis faciei due to diabetes mellitus,diabetes
+45771533,8.2581E+13,Rubeosis iridis due to type 1 diabetes mellitus,diabetes
+45769872,8.2551E+13,Rubeosis iridis due to type 2 diabetes mellitus,diabetes
+195771,8801005,Secondary diabetes mellitus,diabetes
+4034960,237601000,Secondary endocrine diabetes mellitus,diabetes
+4131117,127011001,Sensory neuropathy due to diabetes mellitus,diabetes
+45773567,1.02781E+14,Sensory neuropathy due to type 1 diabetes mellitus,diabetes
+37312198,789585000,Sensory polyneuropathy due to diabetes mellitus,diabetes
+4029420,237621004,Severe hyperglycemia due to diabetes mellitus,diabetes
+45769833,7.2031E+13,Severe malnutrition due to type 1 diabetes mellitus,diabetes
+45769835,7.2051E+13,Severe malnutrition due to type 2 diabetes mellitus,diabetes
+3655913,870420005,Severe nonproliferative diabetic retinopathy with venous beading,diabetes
+376114,312905005,Severe nonproliferative retinopathy due to diabetes mellitus,diabetes
+765373,1.38901E+14,Severe nonproliferative retinopathy due to diabetes mellitus type 1,diabetes
+761053,1.38941E+14,Severe nonproliferative retinopathy due to diabetes mellitus type 2,diabetes
+35626044,769188001,Severe nonproliferative retinopathy of left eye due to diabetes mellitus,diabetes
+35626043,769187006,Severe nonproliferative retinopathy of right eye due to diabetes mellitus,diabetes
+4290822,399872003,Severe nonproliferative retinopathy with clinically significant macular edema due to diabetes mellitus,diabetes
+4266637,399873008,Severe nonproliferative retinopathy without macular edema due to diabetes mellitus,diabetes
+4227657,422183001,Skin ulcer due to diabetes mellitus,diabetes
+36712670,1.02621E+14,Skin ulcer due to type 2 diabetes mellitus,diabetes
+46269764,1.06562E+16,Skin ulcer of toe due to diabetes mellitus type 1,diabetes
+46274058,1.06563E+16,Skin ulcer of toe due to diabetes mellitus type 2,diabetes
+4143689,426907004,Small vessel disease due to type 1 diabetes mellitus,diabetes
+4142579,427134009,Small vessel disease due to type 2 diabetes mellitus,diabetes
+4162239,398140007,Somogyi phenomenon,diabetes
+37311832,816962002,Stable treated proliferative retinopathy of left eye due to diabetes mellitus,diabetes
+37311833,816961009,Stable treated proliferative retinopathy of right eye due to diabetes mellitus,diabetes
+45770832,9.7621E+13,Stasis ulcer due to type 2 diabetes mellitus,diabetes
+4099334,190447002,Steroid-induced diabetes,diabetes
+4099653,190416008,Steroid-induced diabetes mellitus without complication,diabetes
+37116379,733072002,Stimmler syndrome,diabetes
+4307319,39127005,Symmetric proximal motor neuropathy due to diabetes mellitus,diabetes
+44805212,7.73001E+14,Symptomatic diabetic peripheral neuropathy,diabetes
+4048029,230579006,Thoracic radiculopathy due to diabetes mellitus,diabetes
+4338901,232023006,Traction detachment of retina due to diabetes mellitus,diabetes
+45769873,8.2571E+13,Traction detachment of retina due to type 1 diabetes mellitus,diabetes
+45773064,8.2541E+13,Traction detachment of retina due to type 2 diabetes mellitus,diabetes
+4129378,237603002,Transient neonatal diabetes mellitus,diabetes
+201254,46635009,Type 1 diabetes mellitus,diabetes
+4099215,190372001,Type 1 diabetes mellitus maturity onset,diabetes
+4152858,314893005,Type 1 diabetes mellitus with arthropathy,diabetes
+443412,313435000,Type 1 diabetes mellitus without complication,diabetes
+4099214,190368000,Type 1 diabetes mellitus with ulcer,diabetes
+201826,44054006,Type 2 diabetes mellitus,diabetes
+4230254,359642000,Type 2 diabetes mellitus in nonobese,diabetes
+4304377,81531005,Type 2 diabetes mellitus in obese,diabetes
+4193704,313436004,Type 2 diabetes mellitus without complication,diabetes
+4200875,314902007,Type 2 diabetes mellitus with peripheral angiopathy,diabetes
+4099651,190389009,Type 2 diabetes mellitus with ulcer,diabetes
+45766051,703137001,Type I diabetes mellitus in remission,diabetes
+45766052,703138006,Type II diabetes mellitus in remission,diabetes
+45757507,1.64881E+14,Ulcer of foot due to type 1 diabetes mellitus,diabetes
+45769892,8.7491E+13,Ulcer of forefoot due to type 1 diabetes mellitus,diabetes
+45769890,8.7461E+13,Ulcer of forefoot due to type 2 diabetes mellitus,diabetes
+37312207,789562001,Ulcer of heel due to diabetes mellitus,diabetes
+37312201,789571005,Ulcer of heel due to type 1 diabetes mellitus,diabetes
+37312205,789567007,Ulcer of heel due to type 2 diabetes mellitus,diabetes
+3655383,860978005,Ulcer of left foot due to diabetes mellitus,diabetes
+36712686,1.06605E+16,Ulcer of left foot due to type 2 diabetes mellitus,diabetes
+45770902,1.10141E+14,Ulcer of lower limb due to type 1 diabetes mellitus,diabetes
+45757277,1.10171E+14,Ulcer of lower limb due to type 2 diabetes mellitus,diabetes
+37312204,789568002,Ulcer of midfoot due to diabetes mellitus,diabetes
+37312200,789572003,Ulcer of midfoot due to type 1 diabetes mellitus,diabetes
+3655382,860977000,Ulcer of right foot due to diabetes mellitus,diabetes
+36712687,1.06617E+16,Ulcer of right foot due to type 2 diabetes mellitus,diabetes
+45757449,1.40391E+14,Ulcer of toe due to type 2 diabetes mellitus,diabetes
+36674766,770600002,Venous beading of left retina due to diabetes mellitus,diabetes
+4161670,399866003,Venous beading of retina due to diabetes mellitus,diabetes
+36674765,770599000,Venous beading of right retina due to diabetes mellitus,diabetes
+4269871,399876000,Very severe nonproliferative retinopathy due to diabetes mellitus,diabetes
+35626047,769191001,Very severe nonproliferative retinopathy of left eye due to diabetes mellitus,diabetes
+35626046,769190000,Very severe nonproliferative retinopathy of right eye due to diabetes mellitus,diabetes
+4290823,399877009,Very severe nonproliferative retinopathy with clinically significant macular edema due to diabetes mellitus,diabetes
+4221962,399863006,Very severe nonproliferative retinopathy without macular edema due to diabetes mellitus,diabetes
+4164632,399865004,Very severe proliferative retinopathy due to diabetes mellitus,diabetes
+4266041,399871005,Visually threatening diabetic retinopathy,diabetes
+4195045,312910009,Vitreous hemorrhage due to diabetes mellitus,diabetes
+45757074,1.04951E+14,Vitreous hemorrhage due to type 1 diabetes mellitus,diabetes
+43531608,1.491E+12,Vitreous hemorrhage due to type 2 diabetes mellitus,diabetes
+36674652,770362001,Vitreous hemorrhage of left eye due to diabetes mellitus,diabetes
+36674651,770361008,Vitreous hemorrhage of right eye due to diabetes mellitus,diabetes
+4294429,402864004,Wet gangrene of foot due to diabetes mellitus,diabetes
+37116960,734022008,Wolfram-like syndrome,diabetes
+37311329,816067005,Woodhouse Sakati syndrome,diabetes

@@ -1,0 +1,1874 @@
+concept_id,concept_name,concept_code,vocabulary_id
+74635,Lumbosacral radiculopathy,2415007,SNOMED
+75949,Closed fracture of sacrum AND/OR coccyx with cauda equina injury,123534001,SNOMED
+76396,Toxic neuromuscular junction disorder,17940001,SNOMED
+76685,Myasthenia gravis,91637004,SNOMED
+76831,Open fracture of sacrum AND/OR coccyx with complete cauda equina lesion,111633007,SNOMED
+78647,Peroneal nerve injury,212317001,SNOMED
+78937,Injury of dorsal nerve roots,371562001,SNOMED
+79212,Injury of tibial nerve,81884004,SNOMED
+81195,Injury of sacral nerve roots,87900003,SNOMED
+81400,Neonatal myasthenia gravis,82178003,SNOMED
+81425,Closed fracture of sacrum AND/OR coccyx with complete cauda equina lesion,41455002,SNOMED
+133646,Injury of digital nerve,4412009,SNOMED
+134331,Cauda equina syndrome without neurogenic bladder,8663007,SNOMED
+136865,Injury of radial nerve,87450004,SNOMED
+137548,Cervical radiculopathy,54404000,SNOMED
+137858,Thoracic radiculopathy,42452002,SNOMED
+138148,Plantar nerve lesion,193148004,SNOMED
+138612,Injury of cervical nerve roots,74297002,SNOMED
+138682,Herpes zoster auricularis,21954000,SNOMED
+138936,Cauda equina injury without spinal bone injury,405753002,SNOMED
+140090,Lesion of median nerve,397751001,SNOMED
+141004,Lesion of radial nerve,193137006,SNOMED
+142033,Injury of cutaneous sensory nerve of upper limb,212277008,SNOMED
+192239,Post-herpetic polyneuropathy,76462000,SNOMED
+192885,Tarsal tunnel syndrome,47374004,SNOMED
+193079,Injury of nerve of trunk,63942007,SNOMED
+193186,Cauda equina syndrome with neurogenic bladder,12454008,SNOMED
+194149,Hirschsprung's disease,204739008,SNOMED
+194913,Idiopathic peripheral autonomic neuropathy,86489003,SNOMED
+195259,Meralgia paresthetica,85007004,SNOMED
+196307,Injury of lumbosacral plexus,79705001,SNOMED
+197042,Peripheral neuritis in pregnancy - delivered,199093003,SNOMED
+197089,Peripheral nerve injury due to birth trauma,206235003,SNOMED
+197608,Peripheral neuritis in pregnancy,17787002,SNOMED
+197852,Lumbosacral plexus lesion,4062006,SNOMED
+197857,Autonomic facial cephalgia,21615003,SNOMED
+199086,Peripheral neuritis in pregnancy - not delivered,199095005,SNOMED
+200611,Injury of superficial nerves of head AND/OR neck,23119003,SNOMED
+200644,Mumps polyneuropathy,31524007,SNOMED
+372309,Mononeuritis,32595002,SNOMED
+372409,Sciatica,23056005,SNOMED
+372828,Herpes zoster ophthalmicus,87513003,SNOMED
+372888,Sciatic nerve lesion,367137004,SNOMED
+372914,Optic atrophy,76976005,SNOMED
+372915,Postinflammatory optic atrophy,24003004,SNOMED
+372999,Lumbosacral neuritis,62195001,SNOMED
+373082,Injury of trochlear nerve,304838007,SNOMED
+373101,Injury of ulnar nerve,62745008,SNOMED
+373190,Pseudobulbar palsy,7379000,SNOMED
+373206,Hereditary optic atrophy,26360005,SNOMED
+373470,Toxic polyneuropathy,45600000,SNOMED
+373487,Ischemic optic neuropathy,14357004,SNOMED
+373488,Partial oculomotor nerve palsy,194118007,SNOMED
+373497,Foster-Kennedy syndrome,87764000,SNOMED
+374027,Lesion of ulnar nerve,367475009,SNOMED
+374032,Critical illness polyneuropathy,230594005,SNOMED
+374221,Injury of brachial plexus,6836001,SNOMED
+374360,Disorder of optic nerve,77157004,SNOMED
+374912,Leukodystrophy,192781003,SNOMED
+374923,Bell's palsy,193093009,SNOMED
+374925,Acute infective polyneuritis,129131007,SNOMED
+374954,Optic neuritis,66760008,SNOMED
+375260,Polyneuropathy in collagen vascular disease,193177003,SNOMED
+375428,Traumatic optic nerve injury,48233004,SNOMED
+375458,Meningococcal optic neuritis,73431005,SNOMED
+375631,Brachial neuritis,72893007,SNOMED
+375716,Traumatic injury of abducens nerve,1852004,SNOMED
+375806,Idiopathic peripheral neuropathy,22722001,SNOMED
+375823,Hypoplasia of the optic nerve,95499004,SNOMED
+376028,Herpes zoster keratoconjunctivitis,42448002,SNOMED
+376112,Polyneuropathy due to diabetes mellitus,49455004,SNOMED
+376395,Mononeuritis multiplex,30292005,SNOMED
+376686,Polyneuropathy associated with another disorder,193186008,SNOMED
+376963,Geniculate ganglionitis,72839009,SNOMED
+376989,Duane's syndrome,60318001,SNOMED
+377271,Neuralgic amyotrophy,26609002,SNOMED
+377565,Optic atrophy associated with retinal dystrophy,19448008,SNOMED
+377570,Toxic optic neuropathy,26125006,SNOMED
+377680,Facial nerve injury as birth trauma,55712002,SNOMED
+377789,Syphilitic retrobulbar neuritis,36276008,SNOMED
+378135,Facial nerve disorder,422426003,SNOMED
+378140,Inflammatory and toxic neuropathy,267601009,SNOMED
+378420,Paraneoplastic neuropathy,77659000,SNOMED
+378421,Alcoholic polyneuropathy,7916009,SNOMED
+378439,Fourth nerve palsy,20610004,SNOMED
+378686,Syphilitic optic atrophy,22386003,SNOMED
+378741,Brachial plexus disorder,3548001,SNOMED
+379801,Trigeminal neuralgia,31681005,SNOMED
+379818,Retrobulbar neuritis,230507009,SNOMED
+380030,Syphilitic acoustic neuritis,19206003,SNOMED
+380094,Carpal tunnel syndrome,57406009,SNOMED
+380265,Injury to oculomotor nerve,212145003,SNOMED
+380394,Idiopathic progressive polyneuropathy,33209009,SNOMED
+380398,Hereditary sensory neuropathy,11442006,SNOMED
+380410,Nutritional optic neuropathy,82108004,SNOMED
+380729,Primary optic atrophy,21098003,SNOMED
+380995,Neuromyelitis optica,25044007,SNOMED
+381009,Chronic inflammatory demyelinating polyradiculoneuropathy,128209004,SNOMED
+381312,Neural hearing loss,73371001,SNOMED
+381504,Post-herpetic trigeminal neuralgia,17974002,SNOMED
+381551,Polyneuropathy due to drug,7339009,SNOMED
+381572,Abducens nerve palsy,398760006,SNOMED
+381732,Nerve injury,57182000,SNOMED
+381733,Multiple nerve injury,42074003,SNOMED
+381861,Partial optic atrophy,111527005,SNOMED
+381952,Injury to brachial plexus as birth trauma,53785005,SNOMED
+382014,Injury of facial nerve,53933002,SNOMED
+382034,Injury of sciatic nerve,86269002,SNOMED
+432307,Disorder of vagus nerve,73765005,SNOMED
+432893,Myasthenic syndrome due to another disorder,193209005,SNOMED
+433480,Optic disc edema due to hypotony,424497004,SNOMED
+433642,Injury of median nerve,67279004,SNOMED
+433916,Sympathetic nerve injury,282792003,SNOMED
+433975,Primary malignant neoplasm of cranial nerve,93767009,SNOMED
+434530,Injury of acoustic nerve,9441002,SNOMED
+434824,Injury of cranial nerve,17769000,SNOMED
+434929,Total internal ophthalmoplegia,86266009,SNOMED
+435138,Injury of femoral nerve,7449006,SNOMED
+435253,Disorder of olfactory nerve,68982002,SNOMED
+435269,Optic papillitis,73221001,SNOMED
+435537,Disorder of hypoglossal nerve,24777009,SNOMED
+435701,Injury of trigeminal nerve,72556006,SNOMED
+435803,Disorder of glossopharyngeal nerve,80962007,SNOMED
+436684,Progressive bulbar palsy,54304004,SNOMED
+436702,Pseudopapilledema,57138009,SNOMED
+436806,Congenital anomaly of optic disc,60505005,SNOMED
+436936,Benign neoplasm of cranial nerve,92071005,SNOMED
+437161,Injury of accessory nerve,90630009,SNOMED
+437262,Common peroneal nerve lesion,399107008,SNOMED
+437496,Epidemic vertigo,186738001,SNOMED
+437543,Multiple cranial nerve palsy,78152008,SNOMED
+437547,Disorder of accessory nerve,84759007,SNOMED
+437763,Injury of hypoglossal nerve,78458000,SNOMED
+437876,Papilledema - optic disc edema due to raised intracranial pressure,423488006,SNOMED
+438155,Glaucomatous atrophy of optic disc,1207009,SNOMED
+438961,Herpes zoster iridocyclitis,10698009,SNOMED
+439211,Injury of musculocutaneous nerve,7680008,SNOMED
+439308,Deep peroneal nerve lesion,193152004,SNOMED
+439807,Femoral neuropathy,25690000,SNOMED
+439842,Disorder of acoustic nerve,77949003,SNOMED
+440703,Trigeminal nerve disorder,64309007,SNOMED
+440890,Cervical sympathetic nerve injury,212239002,SNOMED
+440893,Injury of axillary nerve,47185005,SNOMED
+441479,Injury of cutaneous sensory nerve of lower limb,77706007,SNOMED
+441564,Optic disc edema associated with retinal disorder,424669003,SNOMED
+441845,Superficial peroneal neuropathy,128194008,SNOMED
+441848,Cranial nerve disorder,73013002,SNOMED
+442305,Thoracic neuritis,58856009,SNOMED
+442529,Cranial nerve injury due to birth trauma,206234004,SNOMED
+443225,Head and neck superficial nerve injury,269255007,SNOMED
+443450,Polyneuropathy in collagen malignant disease,408671002,SNOMED
+443606,Bilateral neural hearing loss,430977001,SNOMED
+443776,Brachial radiculitis,27830001,SNOMED
+444123,Lumbosacral radiculitis,46578006,SNOMED
+444214,Disorder of peripheral autonomic nervous system,128123007,SNOMED
+444218,Open fracture of sacrum AND/OR coccyx with cauda equina injury,123535000,SNOMED
+444263,Radiculitis,82473003,SNOMED
+444382,Thoracic radiculitis,2169001,SNOMED
+760127,Bilateral vestibular neuropathy,1084701000119100,SNOMED
+760892,Bells palsy of left side of face,12239621000119103,SNOMED
+760893,Bells palsy of right side of face,12239661000119108,SNOMED
+760908,Left trigeminal neuralgia,12242071000119103,SNOMED
+760909,Right trigeminal neuralgia,12242111000119105,SNOMED
+760925,Bilateral carpal tunnel syndrome,12265501000119101,SNOMED
+760979,Polyneuropathy due to secondary diabetes mellitus,126571000119107,SNOMED
+761121,Neuritis of right optic nerve,15631011000119102,SNOMED
+761122,Neuritis of left optic nerve,15631051000119101,SNOMED
+761217,Congenital bilateral optic nerve pits,15665521000119105,SNOMED
+761320,Iridocyclitis of right eye due to herpes zoster,15678761000119105,SNOMED
+761321,Iridocyclitis of left eye due to herpes zoster,15678801000119102,SNOMED
+761328,Keratoconjunctivitis of right eye due to herpes zoster,15680201000119106,SNOMED
+761329,Keratoconjunctivitis of left eye due to herpes zoster,15680241000119108,SNOMED
+761346,Corneal epitheliopathy of right eye due to herpes zoster,15685081000119102,SNOMED
+761347,Corneal epitheliopathy of left eye due to herpes zoster,15685121000119100,SNOMED
+761377,Neuritis of left ulnar nerve,15697281000119100,SNOMED
+761378,Neuritis of right ulnar nerve,15697321000119105,SNOMED
+761521,Partial palsy of left oculomotor nerve,15730961000119100,SNOMED
+761522,Total palsy of right oculomotor nerve,15731041000119105,SNOMED
+761523,Papilledema of bilateral eyes due to raised intracranial pressure,15731281000119106,SNOMED
+761524,Papilledema of right eye,15731521000119105,SNOMED
+761525,Papilledema of left eye,15731561000119100,SNOMED
+761526,Anterior ischemic optic neuropathy of right eye,15731641000119103,SNOMED
+761527,Disorder of left optic nerve,15731801000119104,SNOMED
+761528,Disorder of right optic nerve,15731841000119102,SNOMED
+761529,Disorder of bilateral optic nerves,15731881000119107,SNOMED
+761634,Neuralgia of right upper limb,15740841000119107,SNOMED
+761635,Neuralgia of left upper limb,15740881000119102,SNOMED
+761845,Lesion of left lumbosacral plexus,16056231000119104,SNOMED
+761846,Left glossopharyngeal neuropathy,16058071000119105,SNOMED
+761847,Disorder of right glossopharyngeal nerve,16058111000119103,SNOMED
+761848,Disorder of right accessory nerve,16058151000119102,SNOMED
+761849,Left accessory neuropathy,16058191000119107,SNOMED
+761850,Complex regional pain syndrome type 2 of bilateral lower limbs,16058471000119101,SNOMED
+761859,Polyneuropathy caused by Borrelia species,16077211000119109,SNOMED
+761860,Cranial neuritis caused by Borrelia species,16077291000119100,SNOMED
+761866,Disorder of bilateral brachial plexus,16206621000119103,SNOMED
+761867,Reflex sympathetic dystrophy of bilateral upper limbs,16206661000119108,SNOMED
+761868,Bilateral femoral neuropathy,16206821000119104,SNOMED
+761869,Bilateral superficial peroneal neuropathy,16207031000119109,SNOMED
+761870,Disorder of bilateral lumbosacral plexus,16207211000119105,SNOMED
+761871,Lesion of thoracic nerve root,16217941000119102,SNOMED
+761884,Lesion of left lumbosacral nerve root,16650241000119101,SNOMED
+761934,Injury of nerve of neonate due to birth trauma,21651000119104,SNOMED
+761987,Recurrent optic neuritis,2691000124105,SNOMED
+762067,Lesion of left femoral nerve,290091000119108,SNOMED
+762069,Lesion of right femoral nerve,290111000119100,SNOMED
+762070,Lesion of left common peroneal nerve,290121000119107,SNOMED
+762071,Lesion of right common peroneal nerve,290131000119105,SNOMED
+762072,Lesion of right tibial nerve,290141000119101,SNOMED
+762073,Lesion of left plantar nerve,290151000119104,SNOMED
+762074,Lesion of left radial nerve,290181000119106,SNOMED
+762075,Lesion of right radial nerve,290191000119109,SNOMED
+762076,Lesion of right ulnar nerve,290221000119103,SNOMED
+762077,Lesion of left ulnar nerve,290231000119100,SNOMED
+762078,Meralgia paresthetica of left leg,290251000119106,SNOMED
+762079,Meralgia paresthetica of right leg,290261000119108,SNOMED
+762100,Lesion of left tibial nerve,291801000119104,SNOMED
+762101,Inflammation of peripheral nerve of left upper limb,291821000119108,SNOMED
+762102,Inflammation of peripheral nerve of right upper limb,291831000119106,SNOMED
+762103,Entrapment neuropathy of peripheral nerve of left hand,291841000119102,SNOMED
+762104,Entrapment neuropathy of peripheral nerve of right hand,291851000119100,SNOMED
+762107,Left-sided piriformis syndrome,291941000119106,SNOMED
+762108,Right-sided piriformis syndrome,291951000119108,SNOMED
+762109,Neuropathy of left genitofemoral nerve,291981000119101,SNOMED
+762110,Neuropathy of right genitofemoral nerve,291991000119103,SNOMED
+762111,Entrapment neuropathy of left genitofemoral nerve,292001000119101,SNOMED
+762112,Compression neuropathy of right genitofemoral nerve,292011000119103,SNOMED
+762113,Paralysis of left femoral nerve,292021000119105,SNOMED
+762114,Paralysis of right femoral nerve,292031000119108,SNOMED
+762115,Entrapment neuropathy of left common peroneal nerve,292041000119104,SNOMED
+762116,Entrapment neuropathy of right common peroneal nerve,292051000119102,SNOMED
+762117,Right common peroneal neuropathy at the fibular head,292081000119109,SNOMED
+762118,Left common peroneal neuropathy at lateral popliteal branch,292091000119107,SNOMED
+762120,Right deep peroneal neuropathy,292101000119102,SNOMED
+762121,Right common peroneal neuropathy at lateral popliteal branch,292141000119100,SNOMED
+762122,Left common peroneal neuropathy at the fibular head,292151000119103,SNOMED
+762123,Disorder of right lateral plantar nerve,292201000119106,SNOMED
+762125,Disorder of left lateral plantar nerve,292211000119109,SNOMED
+762126,Entrapment neuropathy of left plantar nerve,292231000119104,SNOMED
+762127,Mortons neuroma of right foot,292241000119108,SNOMED
+762128,Mortons neuroma of left foot,292251000119105,SNOMED
+762129,Inflammation of right iliohypogastric nerve,292261000119107,SNOMED
+762131,Disorder of left ilioinguinal nerve,292351000119100,SNOMED
+762132,Inflammation of right ilioinguinal nerve,292361000119103,SNOMED
+762133,Compression neuropathy of left ilioinguinal nerve,292391000119105,SNOMED
+762134,Disorder of right obturator nerve,292401000119107,SNOMED
+762135,Disorder of left obturator nerve,292411000119105,SNOMED
+762136,Inflammation of peripheral nerve of right ankle,292421000119103,SNOMED
+762137,Inflammation of peripheral nerve of left ankle,292431000119100,SNOMED
+762138,Inflammation of peripheral nerve of right lower limb,292461000119108,SNOMED
+762139,Inflammation of peripheral nerve of left lower limb,292471000119102,SNOMED
+762142,Paralysis of right musculocutaneous nerve,292601000119109,SNOMED
+762143,Ulnar nerve entrapment at left elbow,292711000119100,SNOMED
+762144,Lesion of right median nerve,292771000119108,SNOMED
+762145,Anterior interosseus nerve syndrome of right arm,292831000119103,SNOMED
+762146,Anterior interosseus nerve syndrome of left arm,292841000119107,SNOMED
+762150,Carpal tunnel syndrome of left wrist,293861000119102,SNOMED
+762151,Carpal tunnel syndrome of right wrist,293871000119108,SNOMED
+762156,Acoustic neuroma of bilateral vestibular nerves,2961000119106,SNOMED
+762280,Lumbago co-occurrent with right-side sciatica,313501000119105,SNOMED
+762346,Entrapment neuropathy of peripheral nerve of right lower limb,329701000119107,SNOMED
+762347,Entrapment neuropathy of peripheral nerve of left lower limb,329711000119105,SNOMED
+762352,Entrapment neuropathy of left sural nerve,330261000119106,SNOMED
+762353,Entrapment of right sural nerve,330271000119100,SNOMED
+762355,Entrapment neuropathy of left superficial peroneal nerve,330711000119104,SNOMED
+762356,Entrapment of right superficial peroneal nerve,330721000119106,SNOMED
+762831,Bilateral optic neuritis,432521000124106,SNOMED
+763930,Herniation of lumbar intervertebral disc with sciatica,448701000124105,SNOMED
+764593,Compression neuropathy of left genitofemoral nerve,457181000124101,SNOMED
+764917,Optic nerve and photoreceptor degeneration,83231000119101,SNOMED
+764965,Neoplasm of nerve of hand,94601000119107,SNOMED
+765022,Lesion of right lumbosacral plexus,16056271000119101,SNOMED
+765027,Disorder of both radial nerves,16206541000119108,SNOMED
+765042,Lesion of right lumbosacral nerve root,16650341000119107,SNOMED
+765085,Total palsy of left oculomotor nerve,15731001000119108,SNOMED
+765086,Anterior ischemic optic neuropathy of left eye,15731601000119100,SNOMED
+765127,Lesion of left sciatic nerve,290201000119107,SNOMED
+765128,Lesion of right sciatic nerve,290211000119105,SNOMED
+765139,Disorder of left deep peroneal nerve,292111000119104,SNOMED
+765140,Entrapment neuropathy of right plantar nerve,292221000119102,SNOMED
+765141,Inflammation of left iliohypogastric nerve,292271000119101,SNOMED
+765142,Disorder of right ilioinguinal nerve,292341000119102,SNOMED
+765147,Ulnar neuropathy of right arm,292651000119108,SNOMED
+765148,Ulnar nerve entrapment at right elbow,292701000119103,SNOMED
+765235,Partial palsy of right oculomotor nerve,15730921000119105,SNOMED
+765318,Complex regional pain syndrome type 2 of bilateral upper limbs,16058511000119105,SNOMED
+765419,Lesion of right plantar nerve,290171000119108,SNOMED
+765472,Inflammation of left ilioinguinal nerve,292371000119109,SNOMED
+765473,Compression neuropathy of right ilioinguinal nerve,292381000119107,SNOMED
+765474,Paralysis of left musculocutaneous nerve,292611000119107,SNOMED
+765485,Ulnar neuropathy of left arm,292721000119107,SNOMED
+765486,Lesion of left median nerve,292781000119106,SNOMED
+765650,Cranial nerve palsy due to diabetes mellitus type 1,82561000119101,SNOMED
+3654615,Childhood-onset autosomal dominant optic atrophy,838307002,SNOMED
+3654627,Autonomic neuropathy due to Fabry disease,838319005,SNOMED
+3654628,Autonomic neuropathy due to medication induced hypoglycemia,838320004,SNOMED
+3654629,Autonomic ganglionopathy,838321000,SNOMED
+3654630,Autonomic neuropathy due to Allgrove syndrome,838322007,SNOMED
+3654632,Autoimmune optic neuropathy,838324008,SNOMED
+3654638,Autoimmune ganglionopathy,838330008,SNOMED
+3654652,Autosomal recessive optic atrophy type 6,838345001,SNOMED
+3654654,Autonomic neuropathy due to Refsum Disease,838347009,SNOMED
+3654655,Autonomic neuropathy due to Tangier disease,838348004,SNOMED
+3654664,Acute glossopharyngeal Herpes zoster neuropathy,838357005,SNOMED
+3654670,Arteritic anterior ischemic optic neuropathy due to giant cell arteritis,838363001,SNOMED
+3654884,Disorder of neuromuscular junction caused by botulinum toxin,840421000,SNOMED
+3654915,Cranial neuropathy due to sinusitis,840459008,SNOMED
+3654917,Cranial neuropathy due to petrous infection,840461004,SNOMED
+3655188,Injury of lumbar nerve root,860614004,SNOMED
+3655277,Hereditary autonomic neuropathy,860807003,SNOMED
+3655278,Idiopathic non-arteritic ischemic optic neuropathy,860808008,SNOMED
+3655279,Hereditary sensory autonomic neuropathy type IIA,860809000,SNOMED
+3655280,Hereditary sensory autonomic neuropathy type IIB,860810005,SNOMED
+3655281,Hereditary sensory autonomic neuropathy type ID,860811009,SNOMED
+3655282,Hereditary sensory autonomic neuropathy type IE,860812002,SNOMED
+3655283,Hereditary sensory autonomic neuropathy type IA,860813007,SNOMED
+3655284,Hereditary sensory autonomic neuropathy type IC,860814001,SNOMED
+3655340,Generalized diabetic autonomic neuropathy,860883001,SNOMED
+3655341,Idiopathic non-arteritic posterior ischemic optic neuropathy,860884007,SNOMED
+3655374,Congenital anomaly of cauda equina,860951008,SNOMED
+3655583,Multiple mononeuropathy due to perinuclear antineutrophil cytoplasmic associated antibody associated vasculitis,866047004,SNOMED
+3655603,Malignant nerve sheath neoplasm of overlapping lesion of peripheral nerves and autonomic nervous system,866068003,SNOMED
+3655604,Malignant nerve sheath neoplasm of peripheral nerve of abdomen,866069006,SNOMED
+3655617,Infection of cranial nerve caused by Mucorales,866085001,SNOMED
+3655624,Malignant nerve sheath neoplasm of peripheral nerve of upper limb,866093001,SNOMED
+3655625,Malignant nerve sheath neoplasm of peripheral nerve of pelvis,866094007,SNOMED
+3655626,Malignant nerve sheath neoplasm of peripheral nerve of thorax,866095008,SNOMED
+3655627,Malignant nerve sheath neoplasm of peripheral nerve of head and neck,866096009,SNOMED
+3655628,Malignant nerve sheath neoplasm of peripheral nerve of lower limb,866097000,SNOMED
+3655630,Leber idiopathic stellate neuroretinitis,866099002,SNOMED
+3655660,Infectious neuroretinitis,866133000,SNOMED
+3655667,Infection of peripheral nerve caused by Mucorales,866140004,SNOMED
+3655670,Infection of peripheral nerve caused by fungus,866143002,SNOMED
+3655822,Pelizaeus Merzbacher like disease due to HSPD1 mutation,870284000,SNOMED
+3655823,Pelizaeus Merzbacher like disease due to SLC16A2 mutation,870285004,SNOMED
+3655824,Pelizaeus Merzbacher like disease due to AIMP1 mutation,870286003,SNOMED
+3655825,Pelizaeus Merzbacher like disease due to GJC2 mutation,870287007,SNOMED
+3655844,Optic atrophy due to late syphilis,870319003,SNOMED
+3655846,Ocular nerve palsy caused by Herpes zoster,870321008,SNOMED
+3655870,Retrobulbar neuritis due to late syphilis,870347004,SNOMED
+3657084,Atrophy of right optic nerve following inflammation,348051000119102,SNOMED
+3657085,Atrophy of left optic nerve following inflammation,348501000119108,SNOMED
+3657135,Bilateral retrobulbar optic neuritis of eyes,679691000119100,SNOMED
+3657146,Bilateral atrophy of optic nerves following inflammation,680991000119108,SNOMED
+3657796,Neuroretinitis of right eye,15992631000119101,SNOMED
+3657808,Bilateral congenital coloboma of optic discs,15986111000119101,SNOMED
+3657809,Congenital coloboma of right optic disc,15986151000119100,SNOMED
+3657810,Congenital coloboma of left optic disc,15986191000119105,SNOMED
+3657841,Neuroretinitis of left eye,15992671000119103,SNOMED
+3657842,Bilateral neuroretinitis of eyes,15992711000119104,SNOMED
+3657878,Bilateral arteritic anterior ischemic optic neuropathy of eyes,16376191000119109,SNOMED
+3657879,Arteritic anterior ischemic optic neuropathy of left eye,16376241000119109,SNOMED
+3657880,Arteritic anterior ischemic optic neuropathy of right eye,16376391000119106,SNOMED
+4000958,Thoracic and lumbosacral neuritis,202796002,SNOMED
+4001318,Primary malignant neoplasm of peripheral nerves of neck,109927006,SNOMED
+4001319,Primary malignant neoplasm of peripheral nerves of lower limb,109937001,SNOMED
+4001320,Primary malignant neoplasm of peripheral nerves of hip,109939003,SNOMED
+4001321,Primary malignant neoplasm of peripheral nerves of abdomen,109943004,SNOMED
+4001322,Benign neoplasm of peripheral nerves of trunk,109946007,SNOMED
+4001450,Lumbago with sciatica,202794004,SNOMED
+4002030,Supranuclear facial nerve paralysis,11045000,SNOMED
+4002173,Cervical radiculitis,11049006,SNOMED
+4002341,Neoplasm of uncertain behavior of peripheral nerves and peripheral autonomic nervous system,109917000,SNOMED
+4002342,Primary malignant neoplasm of peripheral nerves and peripheral autonomic nervous system,109918005,SNOMED
+4002343,Overlapping malignant neoplasm of peripheral nerves and autonomic nervous system,109919002,SNOMED
+4002344,"Benign neoplasm of peripheral nerve of head, face AND/OR neck",109920008,SNOMED
+4002345,Primary malignant neoplasm of peripheral nerves of head,109923005,SNOMED
+4002346,Benign neoplasm of peripheral nerves of upper limb,109930004,SNOMED
+4002348,Primary malignant neoplasm of peripheral nerves of shoulder,109933002,SNOMED
+4002349,Benign neoplasm of peripheral nerves of lower limb,109936005,SNOMED
+4002350,Benign neoplasm of peripheral nerves of hip,109938006,SNOMED
+4002351,Benign neoplasm of peripheral nerves of thorax,109940001,SNOMED
+4002352,Primary malignant neoplasm of peripheral nerves of thorax,109941002,SNOMED
+4002353,Primary malignant neoplasm of peripheral nerves of pelvis,109945006,SNOMED
+4002470,Short segment Hirschsprung's disease,204741009,SNOMED
+4003173,Primary malignant neoplasm of peripheral nerves of face,109925003,SNOMED
+4003174,Benign neoplasm of peripheral nerves of neck,109926002,SNOMED
+4003175,Primary malignant neoplasm of peripheral nerves of upper limb,109931000,SNOMED
+4003176,Benign neoplasm of peripheral nerves of shoulder,109932007,SNOMED
+4003177,Benign neoplasm of peripheral nerves of abdomen,109942009,SNOMED
+4003178,Benign neoplasm of peripheral nerve of pelvic region,109944005,SNOMED
+4003179,Primary malignant neoplasm of peripheral nerves of trunk,109947003,SNOMED
+4003694,"Primary malignant neoplasm of peripheral nerve of head, face AND/OR neck",109921007,SNOMED
+4003826,Benign neoplasm of peripheral nerves of head,109922000,SNOMED
+4003827,Benign neoplasm of peripheral nerves of face,109924004,SNOMED
+4005774,Long segment Hirschsprung's disease,204740005,SNOMED
+4005775,Total intestinal aganglionosis,204745000,SNOMED
+4006988,Agenesis of nerve,111338006,SNOMED
+4008510,Closed spinal fracture with cauda equina lesion,208060001,SNOMED
+4009037,Compression of spinal nerve root,111236008,SNOMED
+4009555,Cerebellopontine angle syndrome,10277002,SNOMED
+4009644,Erb-Duchenne palsy as birth trauma,111465000,SNOMED
+4010074,Closed fracture of sacrum with complete cauda equina lesion,208071000,SNOMED
+4013309,Open spinal fracture with cauda equina lesion,208067003,SNOMED
+4013312,Open fracture of sacrum with complete cauda equina lesion,208078006,SNOMED
+4014938,Open spinal subluxation with cauda equina lesion,209197002,SNOMED
+4017394,Open spinal dislocation with cauda equina lesion,209102002,SNOMED
+4017951,Closed spinal dislocation with cauda equina lesion,209086000,SNOMED
+4018085,Closed spinal subluxation with cauda equina lesion,209182000,SNOMED
+4023792,Pseudotabes due to diabetes mellitus,19378003,SNOMED
+4024519,Uremic neuropathy,11659006,SNOMED
+4025822,Seventh cranial nerve autonomic disorder,12056002,SNOMED
+4027372,"Duane's syndrome, type 2",128083007,SNOMED
+4027396,Peripheral neuritis,128192007,SNOMED
+4027533,Hereditary motor and sensory neuropathy with optic atrophy,128203003,SNOMED
+4027537,Neuromuscular junction disorder,128213006,SNOMED
+4027538,Leprosy neuropathy,128215004,SNOMED
+4027732,Retrobulbar neuropathy,128485009,SNOMED
+4028085,Deep peroneal neuropathy,128195009,SNOMED
+4028086,Congenital sensory neuropathy with selective loss of small myelinated fibers,128206006,SNOMED
+4029117,Galactocerebroside beta-galactosidase deficiency - early onset,238030005,SNOMED
+4029646,Sensory polyneuropathy,13694005,SNOMED
+4029822,Micropapilla,128533009,SNOMED
+4030066,"Photomyoclonus, diabetes mellitus, deafness, nephropathy and cerebral dysfunction",237612000,SNOMED
+4030590,Anterior ethmoidal nerve syndrome,129612002,SNOMED
+4030591,Tympanic plexus neuralgia syndrome,129613007,SNOMED
+4030592,Nucleus ambiguus-hypoglossal nerve syndrome,129615000,SNOMED
+4030598,Diphtheritic peripheral neuritis,129667001,SNOMED
+4030737,Entrapment syndrome due to amyloid,129593003,SNOMED
+4031719,"Paralysis of vagus, spinal accessory and hypoglossal nerves",129614001,SNOMED
+4031720,Porphyric polyneuropathy,129616004,SNOMED
+4032347,Ischemic peripheral neuropathy,129611009,SNOMED
+4032348,Hepatic neuropathy,129617008,SNOMED
+4032800,Saturday night paralysis,14786003,SNOMED
+4033872,Congenital anomaly of peripheral nerve,23880008,SNOMED
+4042414,Radial neuropathy,16644004,SNOMED
+4043401,Neuroaxonal leukodystrophy,230367007,SNOMED
+4043566,Avulsion of optic nerve,230513000,SNOMED
+4043573,Trigeminal nerve inflammation,230535008,SNOMED
+4043574,Idiopathic trigeminal neuralgia,230537000,SNOMED
+4043575,Idiopathic trigeminal neuropathy,230540000,SNOMED
+4043576,Compression facial neuropathy,230545005,SNOMED
+4043577,Multiple cranial nerve palsies of ocular motor nerves,230549004,SNOMED
+4043579,X-linked recessive sensory neuropathy,230556005,SNOMED
+4043580,Hereditary liability to pressure palsies,230558006,SNOMED
+4043581,Neuropathy due to vitamin B6 deficiency,230568001,SNOMED
+4043672,Injury of nerve of upper extremity,129135003,SNOMED
+4043673,Nerve root injury,129137006,SNOMED
+4043711,Neuropathy in blood dyscrasias,230584000,SNOMED
+4043712,Neuropathy associated with dysproteinemias,230585004,SNOMED
+4043713,Neuropathy due to multiple myeloma,230586003,SNOMED
+4043714,Neuropathy in macroglobulinemia,230587007,SNOMED
+4043716,Neuropathy due to infection,230595006,SNOMED
+4043717,Tourniquet palsy,230604006,SNOMED
+4043718,Lyme mononeuritis multiplex,230605007,SNOMED
+4043719,Contusion of peripheral nerve,230619007,SNOMED
+4043720,Crush injury of peripheral nerve,230623004,SNOMED
+4043721,Ulnar nerve entrapment at elbow,230631009,SNOMED
+4043722,Radial nerve compression,230634001,SNOMED
+4043723,Femoral nerve compression,230640008,SNOMED
+4043725,Common peroneal nerve compression,230641007,SNOMED
+4043726,Medial plantar nerve compression,230644004,SNOMED
+4043727,Multiple entrapment syndrome,230649009,SNOMED
+4043729,Acetylcholine resynthesis deficiency,230671004,SNOMED
+4043730,Generalized myasthenia,230686005,SNOMED
+4043889,Disorder of nerve repair,230803002,SNOMED
+4043890,Dehiscence of nerve repair,230804008,SNOMED
+4043891,Neuroma of nerve repair,230805009,SNOMED
+4043912,Progressive bulbar palsy of childhood,230246005,SNOMED
+4044021,Piriformis syndrome,129179000,SNOMED
+4044073,Type IV adult Pelizaeus-Merzbacher disease,230369005,SNOMED
+4044075,Type V atypical Pelizaeus-Merzbacher disease,230370006,SNOMED
+4044244,Tilted optic disc,230504002,SNOMED
+4044245,Myelinated nerve fibers of optic disc,230506000,SNOMED
+4044247,Optic atrophy secondary to papilledema,230511003,SNOMED
+4044248,Radiation damage to optic nerve,230514006,SNOMED
+4044249,Traumatic optic neuropathy,230515007,SNOMED
+4044254,Trigeminal nerve compression,230534007,SNOMED
+4044255,Secondary trigeminal neuralgia,230538005,SNOMED
+4044351,Injury of nerve of lower extremity,129136002,SNOMED
+4044384,Congenital disorder of facial nerve,230541001,SNOMED
+4044385,Traumatic facial neuropathy,230544009,SNOMED
+4044386,Familial facial nerve palsy,230546006,SNOMED
+4044388,Hereditary hypertrophic neuropathy with paraproteinemia,230559003,SNOMED
+4044390,Neuropathy due to folic acid deficiency,230567006,SNOMED
+4044391,Neuropathy due to diabetes mellitus,230572002,SNOMED
+4044392,Chronic painful polyneuropathy due to diabetes mellitus,230575000,SNOMED
+4044393,Asymmetric polyneuropathy due to diabetes mellitus,230576004,SNOMED
+4044394,Myxedema neuropathy,230580009,SNOMED
+4044396,Intercostal post-herpetic neuralgia,230597003,SNOMED
+4044397,Neuropathy in thromboangiitis obliterans,230601003,SNOMED
+4044398,Ischemic neuropathy due to arterial steal,230606008,SNOMED
+4044399,Neuropathy caused by heavy metal,230609001,SNOMED
+4044401,Neuropathy due to bacterial toxin,230611005,SNOMED
+4044402,Injury of cauda equina,230614002,SNOMED
+4044403,Injury of spinal nerve root,230616000,SNOMED
+4044404,Lumbosacral plexus neuropathy,230617009,SNOMED
+4044405,Injury of abdominal sympathetic plexus,230618004,SNOMED
+4044407,Pronator syndrome,230628008,SNOMED
+4044408,Supracondylar process entrapment,230629000,SNOMED
+4044409,Obturator nerve compression,230639006,SNOMED
+4044411,Abdominal cutaneous nerve entrapment syndrome,230648001,SNOMED
+4044412,Traumatic neuroma,230650009,SNOMED
+4045630,Painful legs and moving toes,230654000,SNOMED
+4045631,Idiopathic chronic neuropathy,230655004,SNOMED
+4045632,Demyelinating sensorimotor neuropathy,230656003,SNOMED
+4045633,Segmental autonomic dysfunction,230659005,SNOMED
+4045724,Paraneoplastic autonomic dysfunction,230666006,SNOMED
+4045725,Chronic idiopathic anhidrosis,230667002,SNOMED
+4045727,Slow channel syndrome,230675008,SNOMED
+4045728,Decrease of motor end-plate potential amplitude without acetylcholine receptor deficiency,230678005,SNOMED
+4045729,Penicillamine-induced myasthenia,230682007,SNOMED
+4045730,Transient neonatal myasthenia,230683002,SNOMED
+4045731,Myasthenia gravis associated with thymoma,230685009,SNOMED
+4045732,Myopathy in myasthenia gravis,230687001,SNOMED
+4045968,Cranial neuralgia,23096007,SNOMED
+4046240,Hereditary dysautonomia with motor neuropathy,230557001,SNOMED
+4046241,Congenital hypomyelinating neuropathy,230562000,SNOMED
+4046242,Late congenital syphilitic polyneuropathy,230563005,SNOMED
+4046330,Inflammatory lumbosacral plexus neuropathy,230565003,SNOMED
+4046331,Burning feet syndrome,230570005,SNOMED
+4046332,Diabetic acute painful polyneuropathy,230574001,SNOMED
+4046335,Neuropathy in acromegaly,230581008,SNOMED
+4046336,Neuropathy in benign monoclonal gammopathy,230590001,SNOMED
+4046338,Motor neuropathy with multiple conduction block,230591002,SNOMED
+4046339,Ischemic neuropathy,230599000,SNOMED
+4046340,Neuropathy in arteriosclerotic occlusive disease,230600002,SNOMED
+4046341,Hemorrhage into nerve trunk,230603000,SNOMED
+4046342,Neuropathy caused by chemical substance,230607004,SNOMED
+4046343,Lead neuropathy,230610006,SNOMED
+4046344,Injection neuropathy,230613008,SNOMED
+4046346,Partial division of peripheral nerve,230620001,SNOMED
+4046347,Electric shock injury of peripheral nerve,230624005,SNOMED
+4046348,Cold injury of peripheral nerve,230625006,SNOMED
+4046349,Struther ligament entrapment,230630005,SNOMED
+4046350,Compression neuropathy of trunk,230645003,SNOMED
+4046351,Intercostal neuropathy,230646002,SNOMED
+4046353,Axonal sensorimotor neuropathy,230657007,SNOMED
+4046354,Chronic idiopathic ataxic neuropathy,230658002,SNOMED
+4046355,Genetically determined myasthenia,230669004,SNOMED
+4046356,Congenital myasthenic syndrome,230672006,SNOMED
+4046357,Putative defect in acetylcholine synthesis or packaging,230676009,SNOMED
+4046908,Congenital pseudobulbar palsy,230784003,SNOMED
+4047760,Facial tic disorder,230335009,SNOMED
+4047859,Birth plexus injury - whole plexus,206228006,SNOMED
+4047862,Birth injury to phrenic nerve,206233005,SNOMED
+4047883,Type III transitional Pelizaeus-Merzbacher disease,230368002,SNOMED
+4047884,Type VI Cockayne Pelizaeus-Merzbacher disease,230371005,SNOMED
+4047917,Arteritic ischemic optic neuropathy,230508004,SNOMED
+4047918,Non-arteritic ischemic optic neuropathy,230509007,SNOMED
+4048016,Acute trigeminal herpes zoster,230536009,SNOMED
+4048017,Cluster tic syndrome,230539002,SNOMED
+4048018,Congenital facial nerve palsy,230542008,SNOMED
+4048020,Autosomal dominant sensory neuropathy,230553002,SNOMED
+4048022,Congenital polyneuropathy,230560008,SNOMED
+4048023,Congenital neuropathy with arthrogryposis multiplex congenita,230561007,SNOMED
+4048024,Chronic inflammatory demyelinating polyradiculoneuropathy with central nervous system demyelination,230564004,SNOMED
+4048025,Neuropathy due to vitamin E deficiency,230569009,SNOMED
+4048027,Neuropathy associated with endocrine disorder,230571009,SNOMED
+4048028,Diabetic mononeuropathy,230577008,SNOMED
+4048029,Thoracic radiculopathy due to diabetes mellitus,230579006,SNOMED
+4048030,Neuropathy in cryoglobulinemia,230589005,SNOMED
+4048031,Anoxic neuropathy,230593004,SNOMED
+4048032,Diphtheritic neuropathy,230596007,SNOMED
+4048033,Neuropathy due to human immunodeficiency virus,230598008,SNOMED
+4048035,Embolic infarction of nerve trunk,230602005,SNOMED
+4048036,Neuropathy caused by organic substance,230608009,SNOMED
+4048037,Local toxic nerve damage,230612003,SNOMED
+4048038,Complete division of peripheral nerve,230621002,SNOMED
+4048039,Traction injury of peripheral nerve,230622009,SNOMED
+4048040,Vibration injury of peripheral nerve,230626007,SNOMED
+4048041,Compression neuropathy of upper limb,230627003,SNOMED
+4048043,Entrapment of deep palmar branch of ulnar nerve,230633007,SNOMED
+4048044,Suprascapular nerve compression,230635000,SNOMED
+4048045,Axillary nerve compression,230636004,SNOMED
+4048046,Compression neuropathy of lower limb,230637008,SNOMED
+4048047,Sciatic nerve compression,230638003,SNOMED
+4048048,Tibial nerve compression,230643005,SNOMED
+4048049,Abdominal neuropathy,230647006,SNOMED
+4048050,Segmental hyperhidrosis,230660000,SNOMED
+4048061,Secondary optic atrophy,123615007,SNOMED
+4048157,Segmental hypohidrosis,230661001,SNOMED
+4048435,Familial visceral neuropathy,20725005,SNOMED
+4048653,Drug-induced autonomic dysfunction,230665005,SNOMED
+4048654,Familial infantile myasthenia,230670003,SNOMED
+4048655,Congenital end-plate acetylcholine receptor deficiency,230673001,SNOMED
+4048656,Pseudomyopathic myasthenia,230674007,SNOMED
+4048740,Dominant hereditary optic atrophy,2065009,SNOMED
+4048779,Congenital end-plate acetylcholinesterase deficiency,230677000,SNOMED
+4048780,Abnormality of synaptic vesicles,230679002,SNOMED
+4048782,Ocular myasthenia,230684008,SNOMED
+4049810,Inflammatory neuropathy,21018002,SNOMED
+4050856,Peripheral demyelinating neuropathy,23414001,SNOMED
+4050964,Traumatic injury of deep peroneal nerve,16006009,SNOMED
+4053308,Peripheral nerve decompression injury,241996007,SNOMED
+4054754,"Closed injury, accessory nerve",212148001,SNOMED
+4054762,Cervical nerve root injury - C2,212198000,SNOMED
+4054763,Cervical nerve root injury - C3,212199008,SNOMED
+4054765,Thoracic nerve root injury - T6,212211003,SNOMED
+4054766,Thoracic nerve root injury - T9,212214006,SNOMED
+4054767,Thoracic nerve root injury - T10,212215007,SNOMED
+4054768,Thoracic nerve root injury - T11,212216008,SNOMED
+4054769,Thoracic nerve root injury - T12,212217004,SNOMED
+4054770,Lumbar nerve root injury - L1,212218009,SNOMED
+4054771,Lumbar nerve root injury - L3,212220007,SNOMED
+4054772,Sacral nerve root injury - S3,212225002,SNOMED
+4054773,Sacral nerve root injury - S4,212226001,SNOMED
+4054774,"Closed injury, brachial plexus, all roots (complete)",212230003,SNOMED
+4054812,Mixed sensorimotor polyneuropathy due to diabetes mellitus,126534007,SNOMED
+4054852,Lateral cutaneous branch T12 injury,212247002,SNOMED
+4054853,Iliolumbar nerve injury,212248007,SNOMED
+4054854,"Open injury, axillary nerve",212254008,SNOMED
+4054855,"Closed injury, ulnar nerve",212261007,SNOMED
+4054856,"Open injury, ulnar nerve, deep motor",212268001,SNOMED
+4054857,Injury of ulnar nerve at wrist and hand level,212269009,SNOMED
+4054859,Injury of radial nerve at wrist and hand level,212274001,SNOMED
+4054860,"Open injury, musculocutaneous nerve",212276004,SNOMED
+4054861,"Closed injury, supraclavicular nerve",212289005,SNOMED
+4054862,Long thoracic nerve injury,212291002,SNOMED
+4054864,Anterior interosseous nerve injury,212298008,SNOMED
+4054865,"Open injury, anterior interosseous nerve",212300008,SNOMED
+4054866,"Closed injury, posterior interosseous nerve",212302000,SNOMED
+4054867,Open injury sciatic nerve,212312007,SNOMED
+4054868,Open injury femoral nerve,212314008,SNOMED
+4054869,Closed injury superficial peroneal nerve,212319003,SNOMED
+4054870,Closed injury lateral cutaneous nerve thigh,212327007,SNOMED
+4054872,Injury of medial plantar nerve,212335005,SNOMED
+4054873,Injury of cutaneous sensory nerve at ankle and foot level,212336006,SNOMED
+4054878,Injury of ulnar nerve at upper arm level,212362002,SNOMED
+4054879,Injury of multiple nerves at shoulder and upper arm level,212363007,SNOMED
+4055222,Incipient prechiasmal optic nerve compression syndrome,19735005,SNOMED
+4055468,Open injury cauda equina,212193009,SNOMED
+4055855,Scalenus anticus syndrome,211236007,SNOMED
+4056885,Cervical nerve root injury - C4,212200006,SNOMED
+4056886,Cervical nerve root injury - C5,212201005,SNOMED
+4056887,Cervical nerve root injury - C7,212203008,SNOMED
+4056889,Cervical nerve root injury - C8,212205001,SNOMED
+4056890,"Closed injury, brachial plexus, upper roots",212228000,SNOMED
+4056891,"Open injury, brachial plexus, upper roots",212231004,SNOMED
+4056892,"Open injury, brachial plexus, all roots (complete)",212233001,SNOMED
+4056893,Open injury sacral plexus,212235008,SNOMED
+4056894,Injury of thoracic sympathetic nerves,212244009,SNOMED
+4056895,Injury of iliohypogastric nerve,212249004,SNOMED
+4056898,"Closed injury, median nerve",212255009,SNOMED
+4056899,"Closed injury, median nerve, palmar sensory branch",212256005,SNOMED
+4056900,"Open injury, ulnar nerve, dorsal sensory",212266002,SNOMED
+4056901,"Open injury, ulnar nerve, palmar sensory",212267006,SNOMED
+4056902,Closed injury of radial nerve,212270005,SNOMED
+4057017,Open injury of sensory branch of radial nerve,212273007,SNOMED
+4057018,"Closed injury, musculocutaneous nerve",212275000,SNOMED
+4057019,"Closed injury, digital nerve in finger",212279006,SNOMED
+4057020,"Closed injury, digital nerve, multiple",212280009,SNOMED
+4057022,"Closed injury, long thoracic nerve",212293004,SNOMED
+4057023,Injury of intercostobrachial nerve,212295006,SNOMED
+4057027,Closed injury common peroneal nerve,212318006,SNOMED
+4057028,Closed injury deep peroneal nerve,212320009,SNOMED
+4057029,Open injury common peroneal nerve,212321008,SNOMED
+4057030,Open injury lateral cutaneous nerve thigh,212328002,SNOMED
+4057031,Injury of multiple nerves at hip and thigh level,212329005,SNOMED
+4057032,Injury of multiple nerves at lower leg level,212331001,SNOMED
+4057033,Injury of nerves at ankle and foot level,212333003,SNOMED
+4057035,Closed injury obturator nerve,212343000,SNOMED
+4057036,Closed injury pudendal nerve,212345007,SNOMED
+4057037,Pelvic girdle and lower limb multiple nerve injuries,212347004,SNOMED
+4057038,Injury of peripheral nerves of neck,212351002,SNOMED
+4058948,"Open injury, accessory nerve",212149009,SNOMED
+4058953,Closed injury cauda equina,212192004,SNOMED
+4058956,Cervical nerve root injury - C6,212202003,SNOMED
+4058957,Thoracic nerve root injury - T1,212206000,SNOMED
+4058958,Thoracic nerve root injury - T2,212207009,SNOMED
+4058959,Thoracic nerve root injury - T3,212208004,SNOMED
+4058960,Thoracic nerve root injury - T5,212210002,SNOMED
+4058961,Thoracic nerve root injury - T7,212212005,SNOMED
+4058962,Thoracic nerve root injury - T8,212213000,SNOMED
+4058963,Lumbar nerve root injury - L5,212222004,SNOMED
+4058964,Sacral nerve root injury - S2,212224003,SNOMED
+4058965,Sacral nerve root injury - S5,212227005,SNOMED
+4058966,"Open injury, brachial plexus, lower roots",212232006,SNOMED
+4059086,Closed injury sacral plexus,212234007,SNOMED
+4059088,Injury of celiac plexus,212243003,SNOMED
+4059090,"Closed injury, axillary nerve",212253002,SNOMED
+4059091,"Closed injury, median nerve, motor branch",212257001,SNOMED
+4059092,"Open injury, median nerve, motor branch",212260008,SNOMED
+4059094,"Closed injury, ulnar nerve, palmar sensory",212263005,SNOMED
+4059095,"Closed injury, ulnar nerve, deep motor",212264004,SNOMED
+4059096,"Open injury, ulnar nerve",212265003,SNOMED
+4059097,Closed injury of sensory branch of radial nerve,212271009,SNOMED
+4059098,Open injury of radial nerve,212272002,SNOMED
+4059100,"Open injury, digital nerve in finger",212282001,SNOMED
+4059101,"Open injury, digital nerve, multiple",212283006,SNOMED
+4059102,"Open injury, suprascapular nerve",212287007,SNOMED
+4059103,Supraclavicular nerve injury,212288002,SNOMED
+4059104,"Open injury, supraclavicular nerve",212290001,SNOMED
+4059105,"Open injury, long thoracic nerve",212294005,SNOMED
+4059106,"Closed injury, anterior interosseous nerve",212299000,SNOMED
+4059107,"Open injury, posterior interosseous nerve",212303005,SNOMED
+4059108,Shoulder girdle and upper limb multiple nerve injuries,212306002,SNOMED
+4059109,Injury of cutaneous sensory nerve at forearm level,212307006,SNOMED
+4059110,Injury of multiple nerves at forearm level,212308001,SNOMED
+4059112,Open injury posterior tibial nerve,212316005,SNOMED
+4059113,Open injury deep peroneal nerve,212323006,SNOMED
+4059115,Open injury obturator nerve,212344006,SNOMED
+4059116,Open injury pudendal nerve,212346008,SNOMED
+4062108,Cervical nerve root injury - C1,212197005,SNOMED
+4062109,Thoracic nerve root injury - T4,212209007,SNOMED
+4062110,Lumbar nerve root injury - L2,212219001,SNOMED
+4062111,Lumbar nerve root injury - L4,212221006,SNOMED
+4062221,Sacral nerve root injury - S1,212223009,SNOMED
+4062222,"Closed injury, brachial plexus, lower roots",212229008,SNOMED
+4062224,Injury of celiac ganglion,212242008,SNOMED
+4062225,Intercostal nerve injury,212246006,SNOMED
+4062226,"Open injury, median nerve",212258006,SNOMED
+4062227,"Open injury, median nerve, palmar sensory branch",212259003,SNOMED
+4062228,"Closed injury, ulnar nerve, dorsal sensory",212262000,SNOMED
+4062229,"Closed injury, common digital nerve",212278003,SNOMED
+4062230,"Open injury, common digital nerve",212281008,SNOMED
+4062231,Injury of digital nerve of thumb,212284000,SNOMED
+4062232,Suprascapular nerve injury,212285004,SNOMED
+4062233,"Closed injury, suprascapular nerve",212286003,SNOMED
+4062234,Closed injury of intercostobrachial nerve,212296007,SNOMED
+4062235,Open injury of intercostobrachial nerve,212297003,SNOMED
+4062236,Posterior interosseous nerve injury,212301007,SNOMED
+4062238,Closed injury sciatic nerve,212311000,SNOMED
+4062239,Closed injury femoral nerve,212313002,SNOMED
+4062240,Closed injury posterior tibial nerve,212315009,SNOMED
+4062242,Open injury superficial peroneal nerve,212322001,SNOMED
+4062243,Closed injury cutaneous sensory nerve of leg,212325004,SNOMED
+4062244,Open injury cutaneous sensory nerve of lower limb,212326003,SNOMED
+4062245,Injury of lateral plantar nerve,212334009,SNOMED
+4062246,Injury of multiple nerves at ankle and foot level,212337002,SNOMED
+4062456,O/E - Horner's syndrome,164018003,SNOMED
+4062477,Postinfectious neuralgia,17111003,SNOMED
+4062566,Peripheral neuritis in pregnancy with postnatal complication,199096006,SNOMED
+4062577,O/E - cranial nerve 4 - palsy,164094002,SNOMED
+4062581,O/E -cranial nerve -palsy -UMN,164109003,SNOMED
+4062844,O/E - cranial nerve 3 - palsy,164091005,SNOMED
+4062845,O/E - cranial nerve 6 - palsy,164097009,SNOMED
+4063207,O/E - cranial nerve 5 - palsy,164103002,SNOMED
+4063208,O/E - cranial 7 -paralysis-UMN,164110008,SNOMED
+4063211,O/E-cranial nerve 12 paralysis,164122006,SNOMED
+4067531,Multiple-level lumbosacral spondylosis with radiculopathy,202696006,SNOMED
+4067933,Avulsion of nerve of eyelid,172276003,SNOMED
+4068009,Neurogenic thoracic outlet syndrome,2040007,SNOMED
+4068023,Hyperabduction syndrome,17393007,SNOMED
+4068111,Brachial plexus displacement,204086002,SNOMED
+4068476,Single-level lumbosacral spondylosis with radiculopathy,202694009,SNOMED
+4068477,Two-level lumbosacral spondylosis with radiculopathy,202695005,SNOMED
+4068617,Lumbosacral spondylosis with radiculopathy,202693003,SNOMED
+4069195,Plasma cell dyscrasia with polyneuropathy,20447006,SNOMED
+4069205,Lumbar disc prolapse with radiculopathy,202735001,SNOMED
+4070527,Brachial plexus palsy due to birth trauma,206226005,SNOMED
+4070552,Fisher's syndrome,1767005,SNOMED
+4071154,Acoustic neuritis,21860004,SNOMED
+4071164,Postherpetic neuralgia,2177002,SNOMED
+4071499,Median nerve neuritis,17689009,SNOMED
+4077819,Millard-Gubler syndrome,276221006,SNOMED
+4078976,Lightning injury to peripheral nerve,277186004,SNOMED
+4078977,Proximal median neuropathy,277187008,SNOMED
+4079019,Phrenic nerve lesion,277321001,SNOMED
+4079325,Superior oblique myokymia,246781001,SNOMED
+4080134,Notalgia paresthetica,277802001,SNOMED
+4080146,Autonomic neuropathy,277879009,SNOMED
+4080337,Syphilitic polyneuropathy,240569007,SNOMED
+4080382,Pancoast's syndrome,278065000,SNOMED
+4081178,Median nerve entrapment,246611002,SNOMED
+4081219,Neuritis AND/OR radiculitis due to rupture of lumbar intervertebral disc,23882000,SNOMED
+4082016,Trigeminal schwannoma,277185000,SNOMED
+4082017,Subacute inflammatory demyelinating polyradiculoneuropathy,277189006,SNOMED
+4082271,Optic disc neovascularization,247099009,SNOMED
+4082299,Optic disc vascular anomaly,247209006,SNOMED
+4082302,Atrophy of sector of optic disc,247219000,SNOMED
+4082768,Morning glory disc,247204001,SNOMED
+4082774,Optic disc hemorrhage,247233000,SNOMED
+4083777,Painful arms and moving fingers,247400008,SNOMED
+4085741,"Metachromatic leukodystrophy, adult type",24326000,SNOMED
+4086178,Weber-Gubler syndrome,24654003,SNOMED
+4086317,Root irritation of non-organic origin,246602002,SNOMED
+4087081,Rucksack paralysis,24408004,SNOMED
+4087805,Aberrant III nerve regeneration,246826003,SNOMED
+4090560,Sciatic nerve palsy,247390002,SNOMED
+4091559,Facial palsy,280816001,SNOMED
+4091621,Malignant neoplasm of peripheral nerve of abdomen,188326001,SNOMED
+4092713,Progressive pseudobulbar palsy,249892007,SNOMED
+4094260,Malignant neoplasm of peripheral nerves and autonomic nervous system,188321006,SNOMED
+4094261,"Malignant neoplasm of peripheral nerves of upper limb, including shoulder",188323009,SNOMED
+4094262,Malignant neoplasm of peripheral nerve of thorax,188325002,SNOMED
+4094959,Transection of lumbar nerve root,262726002,SNOMED
+4094960,Partial division of sacral nerve root,262732007,SNOMED
+4094961,Contusion of sacral nerve root,262737001,SNOMED
+4094962,Traction injury of cervical nerve root,262740001,SNOMED
+4094964,Traction injury of lumbar nerve root,262742009,SNOMED
+4095302,Malignant tumor of cranial nerve,188307009,SNOMED
+4095429,Transection of cervical nerve root,262724004,SNOMED
+4095536,Partial division of spinal nerve root,262728001,SNOMED
+4095537,Partial division of cervical nerve root,262729009,SNOMED
+4095538,Partial division of thoracic nerve root,262730004,SNOMED
+4095539,Contusion of cervical nerve root,262734008,SNOMED
+4095540,Contusion of thoracic nerve root,262735009,SNOMED
+4095542,Traction injury of thoracic nerve root,262741002,SNOMED
+4095543,Avulsion of spinal nerve root,262744005,SNOMED
+4095544,Avulsion of lumbar nerve root,262747003,SNOMED
+4095892,"Malignant neoplasm of peripheral nerves of head, face and neck",188322004,SNOMED
+4096003,Partial division of lumbar nerve root,262731000,SNOMED
+4096004,Contusion of spinal nerve root,262733002,SNOMED
+4096005,Traction injury of spinal nerve root,262738006,SNOMED
+4096006,Traction injury of sacral nerve root,262743004,SNOMED
+4096007,Avulsion of sacral nerve root,262748008,SNOMED
+4096628,Transection of spinal nerve root,262723005,SNOMED
+4096629,Transection of thoracic nerve root,262725003,SNOMED
+4096630,Transection of sacral nerve root,262727006,SNOMED
+4096632,Contusion of lumbar nerve root,262736005,SNOMED
+4096633,Avulsion of cervical nerve root,262745006,SNOMED
+4096634,Avulsion of thoracic nerve root,262746007,SNOMED
+4097283,"Malignant neoplasm of peripheral nerves of lower limb, including hip",188324003,SNOMED
+4097284,Malignant neoplasm of peripheral nerve of pelvis,188327005,SNOMED
+4098118,Hereditary motor end-plate disease,27148008,SNOMED
+4099985,Partial hypoplasia of optic disc,253238001,SNOMED
+4099986,Sectorial hypoplasia of optic disc,253239009,SNOMED
+4100902,Compression of lumbar nerve root,299966003,SNOMED
+4100903,Compression of sacral nerve root,299967007,SNOMED
+4101333,HSMN IV,25362006,SNOMED
+4101567,Trigeminal nerve sensory disorder,28007006,SNOMED
+4101880,Multiple cranial nerve palsies in neoplastic disease,193102008,SNOMED
+4101885,Median nerve compression in forearm,193129003,SNOMED
+4101886,Posterior interosseous nerve lesion,193139009,SNOMED
+4101887,Mononeuritis multiplex with diabetes mellitus,193141005,SNOMED
+4101891,Polyneuropathy in polyarteritis nodosa,193179000,SNOMED
+4101892,Asymptomatic neuropathy due to diabetes mellitus,193185007,SNOMED
+4101893,Polyneuropathy due to vitamin B deficiency,193188009,SNOMED
+4101894,Polyneuropathy in herpes zoster,193190005,SNOMED
+4101895,Neuropathy associated with hypoglycemia,193191009,SNOMED
+4101898,Myasthenic syndrome due to hypothyroidism,193212008,SNOMED
+4102093,Obturator nerve paralysis,252794008,SNOMED
+4102342,Cauda equina syndrome,192970008,SNOMED
+4102360,Nerve root and plexus compressions in neoplastic disease,193118002,SNOMED
+4102481,Nerve root and plexus compressions in intervertebral disc disorders,193119005,SNOMED
+4102485,Ulnar nerve entrapment at wrist,193134004,SNOMED
+4102492,Neuropathy in association with hereditary ataxia,193165008,SNOMED
+4102493,Polyneuropathy in rheumatoid arthritis,193180002,SNOMED
+4102494,Polyneuropathy due to amyloidosis,193187004,SNOMED
+4102498,Myasthenic syndrome due to thyrotoxicosis,193214009,SNOMED
+4102732,Compression of thoracic nerve root,299965004,SNOMED
+4103124,Korsakov's alcoholic psychosis with peripheral neuritis,191471000,SNOMED
+4103235,Phrenic nerve paralysis as birth trauma,28778005,SNOMED
+4103776,Disorder of neuromuscular transmission,256321009,SNOMED
+4104196,Familial dysautonomia,29159009,SNOMED
+4104844,Cervical sympathetic paralysis,192915005,SNOMED
+4104845,Autonomic neuropathy due to amyloidosis,192918007,SNOMED
+4104850,Cauda equina syndrome not affecting bladder,192971007,SNOMED
+4105005,Multiple cranial nerve palsies in sarcoidosis,193101001,SNOMED
+4105009,Nerve root and plexus compressions in spondylosis,193120004,SNOMED
+4105014,Post-infectious polyneuritis,193174005,SNOMED
+4105016,Acute painful diabetic neuropathy,193183000,SNOMED
+4105017,Polyneuropathy in pellagra,193193007,SNOMED
+4105018,Sarcoid neuropathy,193195000,SNOMED
+4105020,Serum neuropathy,193203006,SNOMED
+4105021,Juvenile or adult myasthenia gravis,193207007,SNOMED
+4105341,Galactosylceramide beta-galactosidase deficiency,192782005,SNOMED
+4105632,Anterior interosseous nerve lesion,193130008,SNOMED
+4105633,Lesion of sensory branch of radial nerve,193138001,SNOMED
+4105637,Polyneuropathy in disseminated lupus erythematosus,193178008,SNOMED
+4105639,Chronic painful neuropathy due to diabetes mellitus,193184006,SNOMED
+4105640,Uremic polyneuropathy,193196004,SNOMED
+4105642,Persistent neonatal myasthenia gravis,193206003,SNOMED
+4105643,Myasthenic syndrome due to pernicious anemia,193213003,SNOMED
+4106172,Traumatic injury of common peroneal nerve,25604001,SNOMED
+4106554,Pellagra neuropathy,29834003,SNOMED
+4107377,Morton's metatarsalgia,30085007,SNOMED
+4109232,Obturator nerve injury,285601000,SNOMED
+4109393,Optic atrophy secondary to retinal disease,194043004,SNOMED
+4110655,Total oculomotor nerve palsy,194119004,SNOMED
+4110889,Malignant tumor of acoustic vestibular nerve,254980001,SNOMED
+4110890,Tumor of spinal nerve and sheath,254982009,SNOMED
+4111031,Metastasis to peripheral nerve,255124004,SNOMED
+4111033,Malignant infiltration of peripheral nerve,255128001,SNOMED
+4112480,Pudendal nerve injury,285600004,SNOMED
+4112481,Injury of lateral cutaneous nerve of thigh,285602007,SNOMED
+4112968,Malignant astrocytoma of optic nerve,254973003,SNOMED
+4112970,Optic nerve glioma,254976006,SNOMED
+4112971,Melanocytoma of optic nerve head,254979004,SNOMED
+4112972,Benign tumor of acoustic vestibular nerve,254981002,SNOMED
+4112973,Malignant tumor of spinal nerve and sheath,254983004,SNOMED
+4112974,Malignant tumor of peripheral nerve,254986007,SNOMED
+4114346,Malignant infiltration of peripheral nerve plexus,255129009,SNOMED
+4114427,Neuropathic arthropathy due to diabetes mellitus,201724008,SNOMED
+4116215,Malignant tumor of optic nerve and sheath,254972008,SNOMED
+4116216,Benign neoplasm of optic nerve and nerve sheath,254977002,SNOMED
+4116217,Benign tumor of spinal nerve and sheath,254984005,SNOMED
+4116572,Injury of peripheral nerve plexus,285596009,SNOMED
+4116573,Peripheral nerve injury of head and neck,285597000,SNOMED
+4116574,Trunk nerve lesion,285599002,SNOMED
+4116861,Neuromyopathy,255522009,SNOMED
+4117355,Traumatic avulsion of peripheral nerve,286608004,SNOMED
+4117779,Peripheral nerve disease,302226006,SNOMED
+4119333,Polyneuropathy and mononeuropathy,302225005,SNOMED
+4120317,Multiple cranial nerve lesions and linked syndromes,302884001,SNOMED
+4121325,Syphilitic acoustic neuritis - quaternary stage,302813001,SNOMED
+4121336,Anterior interosseous nerve entrapment,302885000,SNOMED
+4121337,Posterior interosseous nerve compression,302886004,SNOMED
+4125693,Neuromyotonia,305719002,SNOMED
+4129225,Motor polyneuropathy due to diabetes mellitus,126535008,SNOMED
+4130042,Neoplasm of oculomotor nerve,126969002,SNOMED
+4130043,Neoplasm of facial nerve,126973004,SNOMED
+4130044,Neoplasm of accessory nerve,126977003,SNOMED
+4130045,Neoplasm of peripheral nerve,126980002,SNOMED
+4130046,Neoplasm of peripheral nerve of head AND/OR neck,126981003,SNOMED
+4130047,Neoplasm of peripheral nerves of head,126982005,SNOMED
+4130048,Neoplasm of peripheral nerves of neck,126984006,SNOMED
+4130049,Neoplasm of peripheral nerves of hip,126990005,SNOMED
+4130051,Neoplasm of peripheral nerves of thorax,126991009,SNOMED
+4130052,Neoplasm of peripheral nerves of abdomen,126992002,SNOMED
+4130544,Neoplasm of olfactory nerve,126967000,SNOMED
+4130545,Neoplasm of abducens nerve,126972009,SNOMED
+4130661,Neoplasm of peripheral nerves of upper limb,126986008,SNOMED
+4130662,Neoplasm of peripheral nerves of lower limb,126989001,SNOMED
+4130859,Vestibular nerve disorder,264693006,SNOMED
+4131025,Optic nerve infarction,26520008,SNOMED
+4131106,Neoplasm of cranial nerve,126966009,SNOMED
+4131107,Neoplasm of trochlear nerve,126970001,SNOMED
+4131109,Neoplasm of hypoglossal nerve,126978008,SNOMED
+4131110,Neoplasm of autonomic nerve,126979000,SNOMED
+4131111,Neoplasm of peripheral nerve of pelvis,126993007,SNOMED
+4131117,Sensory neuropathy due to diabetes mellitus,127011001,SNOMED
+4131651,Nuclear facial nerve paralysis,26554009,SNOMED
+4131769,Acoustic neuroma,126949007,SNOMED
+4131773,Neoplasm of cauda equina,126963001,SNOMED
+4131774,Neoplasm of trigeminal nerve,126971002,SNOMED
+4131775,Neoplasm of glossopharyngeal nerve,126975006,SNOMED
+4131776,Neoplasm of vagus nerve,126976007,SNOMED
+4131778,Neoplasm of peripheral nerves of face,126983000,SNOMED
+4131779,Neoplasm of peripheral nerves of shoulder,126987004,SNOMED
+4131780,Neoplasm of peripheral nerves of trunk,126994001,SNOMED
+4131946,Occult neuropathy,264556007,SNOMED
+4134121,Lumbar radiculopathy,128196005,SNOMED
+4134122,Sacral radiculopathy,128197001,SNOMED
+4134123,Hereditary sensory and autonomic neuropathy,128205005,SNOMED
+4134432,Polyradiculoneuropathy,128078004,SNOMED
+4134434,"Duane's syndrome, type 1",128082002,SNOMED
+4134435,"Duane's syndrome, type 3",128084001,SNOMED
+4134455,Mononeuropathy,128189008,SNOMED
+4134456,Phrenic nerve disorder,128193002,SNOMED
+4134578,Hereditary motor and sensory neuropathy with retinitis pigmentosa,128204009,SNOMED
+4134579,Giant axonal neuropathy,128207002,SNOMED
+4134580,Peripheral axonal neuropathy,128208007,SNOMED
+4134605,Optic disc disorder,128331005,SNOMED
+4135454,"Myasthenia gravis, adult form",31839002,SNOMED
+4136547,Contusion of cranial nerve,262957008,SNOMED
+4136548,Complete division of cranial nerve,262959006,SNOMED
+4136549,Avulsion of cranial nerve,262961002,SNOMED
+4136977,Collet-Sicard syndrome,31785008,SNOMED
+4137352,Partial division of cranial nerve,262958003,SNOMED
+4137353,Traction injury of cranial nerve,262960001,SNOMED
+4138332,Benign ganglioneuroma of abdomen,426134002,SNOMED
+4138486,Sural neuropathy,426293000,SNOMED
+4139215,Herpes zoster interstitial keratitis,426570007,SNOMED
+4139780,Crutch paralysis,32739008,SNOMED
+4140466,Lumbosacral radiculoplexus neuropathy due to type 2 diabetes mellitus,427027005,SNOMED
+4142399,"Equilibration disorder, vestibular nerve",265622002,SNOMED
+4143237,Vasculitic neuropathy,425659003,SNOMED
+4143360,Cauda equina syndrome with cord bladder,267590006,SNOMED
+4143363,Neuropathy in renal failure,267602002,SNOMED
+4143857,Lumbosacral radiculoplexus neuropathy due to type 1 diabetes mellitus,427571000,SNOMED
+4143862,Acute sciatica,307176005,SNOMED
+4143863,Chronic sciatica,307177001,SNOMED
+4144833,Mandibular nerve disorder,33832002,SNOMED
+4144942,Lateral cutaneous nerve of thigh lesion,307365001,SNOMED
+4144949,Hypoglossal nerve palsy,307405000,SNOMED
+4146840,Cavernous sinus syndrome,35386004,SNOMED
+4147504,Myasthenic syndrome due to diabetic amyotrophy,267604001,SNOMED
+4147643,Brachial (cervical) neuritis,267977009,SNOMED
+4149325,Cochlear nerve disorder,35141006,SNOMED
+4150993,Tobacco related optic neuropathy,314538009,SNOMED
+4151147,Jugular foramen syndrome,31382008,SNOMED
+4151196,Intercostal post-herpetic neuritis,282742004,SNOMED
+4151197,Autonomic nerve injury,282746001,SNOMED
+4151210,Thermal injury of peripheral nerve,282789002,SNOMED
+4151221,Chemical injury of peripheral nerve,282790006,SNOMED
+4151222,Sympathetic plexus injury,282794002,SNOMED
+4151223,Parasympathetic ganglion injury,282796000,SNOMED
+4151224,Injury of ciliary ganglion,282799007,SNOMED
+4151226,Chemical cranial nerve injury,282804002,SNOMED
+4151227,Radiation injury of cranial nerve,282806000,SNOMED
+4151453,Diabetic optic papillopathy,314537004,SNOMED
+4151978,Post-herpetic neuritis,282741006,SNOMED
+4151979,Sympathetic nervous structure injury,282747005,SNOMED
+4151980,Parasympathetic nerve injury,282748000,SNOMED
+4151992,Sympathetic ganglion injury,282793008,SNOMED
+4151993,Sacral parasympathetic nerve injury,282797009,SNOMED
+4152299,Injury of pterygopalatine ganglion,282800006,SNOMED
+4152300,Thermal injury of cranial nerve,282805001,SNOMED
+4152336,Horner's syndrome pupil,271730003,SNOMED
+4152403,Alcohol related optic neuropathy,314539001,SNOMED
+4152405,Drug induced optic neuropathy,314540004,SNOMED
+4152559,Optic neuroretinitis,314787009,SNOMED
+4152601,Neurapraxia,370509002,SNOMED
+4154172,Traction injury of brachial plexus,282788005,SNOMED
+4154173,Radiation injury of peripheral nerve,282791005,SNOMED
+4154174,Sympathetic trunk injury,282795001,SNOMED
+4154285,Injury of submandibular ganglion,282801005,SNOMED
+4154286,Injury of otic ganglion,282803008,SNOMED
+4156050,Disorder of peripheral nerve graft,271971004,SNOMED
+4160056,Hypoplasia of optic disc,373650004,SNOMED
+4160362,Injury of thoracic nerve root,371561008,SNOMED
+4160436,Common peroneal nerve paralysis,399088004,SNOMED
+4160896,Abducens nerve weakness,398963001,SNOMED
+4161284,Tibial neuropathy,399076001,SNOMED
+4161285,Common peroneal neuropathy,399081005,SNOMED
+4161309,Tibial nerve lesion,399233006,SNOMED
+4161817,"Charcot-Marie-Tooth disease, type II",398187000,SNOMED
+4161823,Amyloid polyneuropathy type I,398229007,SNOMED
+4162241,Hereditary sensory and autonomic neuropathy type II,398148000,SNOMED
+4162701,Abducens nerve disorder,398925009,SNOMED
+4164292,Vagal hoarseness,45655002,SNOMED
+4164436,Peripheral nerve entrapment syndrome,45781009,SNOMED
+4164604,Intestinal autonomic neuropathy,45299002,SNOMED
+4164770,Guillain-Barré syndrome,40956001,SNOMED
+4165746,"Globoid cell leukodystrophy, late-onset",41142009,SNOMED
+4166067,Auriculotemporal syndrome,45294007,SNOMED
+4169073,Cranial neuritis,48780006,SNOMED
+4170714,Injury of glossopharyngeal nerve,49384009,SNOMED
+4171706,Herpes zoster corneal epitheliopathy,422666006,SNOMED
+4172489,Herpes zoster subepithelial infiltrates,422446008,SNOMED
+4172528,Pelagic paralysis,277190002,SNOMED
+4173311,Familial amyloid polyneuropathy,42295001,SNOMED
+4173826,Compression of acoustic nerve,277496004,SNOMED
+4174262,Polyneuropathy,42345000,SNOMED
+4174405,Herpes zoster pseudodendrites,424435009,SNOMED
+4174699,Herpes zoster corneal endotheliitis,424801004,SNOMED
+4175202,Ulnar nerve entrapment,277188003,SNOMED
+4175440,Autonomic neuropathy due to diabetes mellitus,50620007,SNOMED
+4176139,Crush injury of phrenic nerve,428199000,SNOMED
+4176925,Ophthalmoplegia due to diabetes mellitus,427943001,SNOMED
+4177338,Mandibular neuropraxia,50366005,SNOMED
+4177483,Lower limb nerve lesion,297946004,SNOMED
+4177506,Vagus nerve palate paralysis,50639002,SNOMED
+4177633,Axillary nerve lesion,298117009,SNOMED
+4177634,Suprascapular nerve lesion,298118004,SNOMED
+4177635,Superficial radial nerve lesion,298123004,SNOMED
+4177637,Medial plantar nerve lesion,298133007,SNOMED
+4177993,Laceration of digital nerve in finger,428233007,SNOMED
+4178773,Injury of nerve of shoulder region,429432009,SNOMED
+4178975,Malignant neoplasm of cauda equina,363477002,SNOMED
+4180912,Malignant tumor of optic nerve,363498002,SNOMED
+4181181,Vagus nerve laryngeal paralysis,42998008,SNOMED
+4181748,Putti-Chavany syndrome,54314008,SNOMED
+4181849,Compression of brachial plexus,297944001,SNOMED
+4181888,Lesion of medial cutaneous nerve of forearm,298125006,SNOMED
+4182422,Neuritis of saphenous nerve,429668008,SNOMED
+4182543,Vitamin deficiency related neuropathy,54509008,SNOMED
+4182965,Radiation damage to brachial plexus,297943007,SNOMED
+4182966,Upper limb nerve lesion,297945000,SNOMED
+4183120,Long thoracic nerve lesion,298119007,SNOMED
+4183121,Lesion of lateral cutaneous nerve of forearm,298124005,SNOMED
+4183122,Obturator neuropathy,298130005,SNOMED
+4183124,Thoracoabdominal neuropathy,298137008,SNOMED
+4183297,Arnold's nerve reflex cough syndrome,4338008,SNOMED
+4184946,Brachial neuritis AND/OR radiculitis due to rupture of cervical intervertebral disc,43898003,SNOMED
+4185022,Musculocutaneous nerve lesion,298120001,SNOMED
+4185023,Digital nerve lesion,298126007,SNOMED
+4185083,Trigemino-sympathetic syndrome,54593000,SNOMED
+4185598,Duane syndrome with vertical deviation,414063002,SNOMED
+4187079,Developmental displacement of brachial plexus,46829007,SNOMED
+4187326,Posterior ischemic optic neuropathy,415147002,SNOMED
+4187806,Tropical ataxic neuropathy,46138007,SNOMED
+4188350,Lumbago-sciatica due to displacement of lumbar intervertebral disc,46960006,SNOMED
+4188610,Acute radial nerve palsy,4724003,SNOMED
+4189184,Lateral plantar neuropathy,60525009,SNOMED
+4189235,Third cranial nerve weakness,388980004,SNOMED
+4189646,Neurogenic thoracic outlet syndrome associated with cervical band,414848001,SNOMED
+4189667,Ocular myasthenia with strabismus,414927004,SNOMED
+4190334,Optic disc structural anomaly,373661007,SNOMED
+4190712,Mixed sensory-motor polyneuropathy,3900008,SNOMED
+4190744,Primary congenital glaucoma,415176004,SNOMED
+4191611,Lumbosacral radiculoplexus neuropathy due to diabetes mellitus,39058009,SNOMED
+4193776,POEMS syndrome,79268002,SNOMED
+4194060,Injury of inferior mesenteric plexus,79366000,SNOMED
+4194629,Antibiotic-induced neuromuscular blocking,67725009,SNOMED
+4194800,Beriberi neuropathy,79389008,SNOMED
+4194827,Neoplasm of optic nerve and sheath,395502002,SNOMED
+4194878,Spinal subluxation with cauda equina lesion,312792007,SNOMED
+4194970,Asymmetric proximal motor neuropathy due to diabetes mellitus,79554005,SNOMED
+4195005,Raymond-Cestan syndrome,44248001,SNOMED
+4195055,Compressive optic atrophy,312944002,SNOMED
+4196109,Inherited optic neuropathy,312942003,SNOMED
+4196227,Congenital coloboma of optic disc,44295002,SNOMED
+4196252,Cyclic oculomotor paralysis,4439001,SNOMED
+4196277,Pudendal nerve neuropathy,315056009,SNOMED
+4197058,Wildervanck syndrome,79665007,SNOMED
+4197114,Jaw-winking syndrome,5127009,SNOMED
+4197570,Acute retrobulbar neuritis,51604006,SNOMED
+4199517,Laceration of nerve of upper extremity,432065003,SNOMED
+4199740,Injury of stellate ganglion,52723009,SNOMED
+4200647,Viral epidemic vertigo,301848005,SNOMED
+4200854,Sciatic neuropathy,52585001,SNOMED
+4201143,"Familial amyloid polyneuropathy, type VI",5134006,SNOMED
+4202065,Injury of splanchnic nerve,51881002,SNOMED
+4202381,Traumatic injury of oculomotor nerve,53675004,SNOMED
+4202652,Heredofamilial brachial plexus paralysis syndrome,53857003,SNOMED
+4204694,"Myasthenia gravis, juvenile form",55051001,SNOMED
+4206139,Symmetrical sensory neuropathy,309520003,SNOMED
+4208028,Injury of median nerve distal to forearm,439072001,SNOMED
+4208207,Idiopathic optic disc swelling,312943008,SNOMED
+4208208,Infiltrative optic neuropathy,312945001,SNOMED
+4208987,Nutritional ataxic neuropathy,56684007,SNOMED
+4209280,Cubital tunnel syndrome,56177003,SNOMED
+4209749,Polyneuritis cranialis,56795008,SNOMED
+4210321,A. Schmidt's syndrome,56120004,SNOMED
+4211961,Lower brachial plexus neuropathy,5747006,SNOMED
+4212083,Toxoplasma neuroretinitis,416913007,SNOMED
+4212449,Optic nerve glioma of orbit,414950005,SNOMED
+4215003,Myasthenic crisis,80976008,SNOMED
+4215344,"Familial amyloid polyneuropathy, Jewish type",41590007,SNOMED
+4215954,Benedikt's syndrome,41713005,SNOMED
+4216000,Neoplasm of optic nerve,395505000,SNOMED
+4216397,Nerve root disorder,72274001,SNOMED
+4217060,Neuritis AND/OR radiculitis due to rupture of intervertebral disc,41733009,SNOMED
+4218724,Perineurial cyst,81634008,SNOMED
+4218753,Alexander's disease,81854007,SNOMED
+4219507,Alternating hypoglossal hemiplegia,72655000,SNOMED
+4219543,Intraocular optic nerve glioma,416351002,SNOMED
+4219977,Traumatic anosmia,41783004,SNOMED
+4220079,Eleventh cranial nerve motor disorder,82088000,SNOMED
+4220165,Compressive optic neuropathy due to thyroid eye disease,416813006,SNOMED
+4220673,Neuritis AND/OR radiculitis due to displacement of lumbar intervertebral disc,82331007,SNOMED
+4221637,Intracranial optic nerve glioma,417619001,SNOMED
+4221837,Klumpke-Déjerine paralysis,83886009,SNOMED
+4221916,Vitamin B12 deficiency optic neuropathy,420920007,SNOMED
+4222415,Mononeuropathy due to type 2 diabetes mellitus,420436000,SNOMED
+4223942,Anterior ischemic optic neuropathy,404659001,SNOMED
+4224011,Compression injury of nerve,84116009,SNOMED
+4224242,Herpes zoster retinitis,421029004,SNOMED
+4225055,Mononeuropathy due to type 1 diabetes mellitus,420918009,SNOMED
+4225278,Facial palsy as birth trauma,84947004,SNOMED
+4225528,Papillophlebitis,404658009,SNOMED
+4226662,Polyneuropathy associated with AIDS,421597001,SNOMED
+4226864,"Pelizaeus-Merzbacher disease, classic form",87607002,SNOMED
+4227072,Radiculitis associated with AIDS,420658009,SNOMED
+4227519,Neuritis associated with AIDS,422012004,SNOMED
+4227617,Chorda tympani disorder,347079002,SNOMED
+4228419,Hypertensive optic neuropathy,421731000,SNOMED
+4228745,Neuralgia associated with AIDS,422136003,SNOMED
+4229396,Acute compressive optic neuropathy,404660006,SNOMED
+4229405,Superior division third nerve palsy,404690004,SNOMED
+4230363,Complete optic atrophy,359683002,SNOMED
+4231315,Aganglionosis of Auerbach's plexus,360434004,SNOMED
+4231893,Ulnar neuropathy,359837005,SNOMED
+4232789,Vagus nerve autonomic disorder,89742000,SNOMED
+4234742,Diabetic neuropathy with neurologic complication,359611005,SNOMED
+4235717,Crocodile tears syndrome,40620001,SNOMED
+4237144,End organ deafness,56943007,SNOMED
+4237155,Eaton-Lambert syndrome,56989000,SNOMED
+4237198,"Complex regional pain syndrome, type II, lower limb",408749000,SNOMED
+4237315,"Complex regional pain syndrome, type II, upper limb",408750000,SNOMED
+4238686,Trigeminal nerve motor disorder,5855005,SNOMED
+4239243,"Familial amyloid polyneuropathy, Iowa type",9133005,SNOMED
+4239725,Benign neoplasm of acoustic nerve,91962001,SNOMED
+4239870,Benign neoplasm of cauda equina,92047003,SNOMED
+4239889,Benign neoplasm of glossopharyngeal nerve,92122002,SNOMED
+4240232,Leber's optic atrophy,58610003,SNOMED
+4240908,Benign neoplasm of abducens nerve,91959004,SNOMED
+4241035,Benign neoplasm of facial nerve,92099001,SNOMED
+4241532,Benign neoplasm of accessory nerve,91960009,SNOMED
+4241662,Benign neoplasm of vagus nerve,92474007,SNOMED
+4242345,Benign neoplasm of hypoglossal nerve,92136007,SNOMED
+4242528,Diarrhea due to diabetes mellitus,38205001,SNOMED
+4242743,"Pelizaeus-Merzbacher disease, connatal variant",59636002,SNOMED
+4242811,Benign neoplasm of oculomotor nerve,92255002,SNOMED
+4242812,Benign neoplasm of olfactory nerve,92256001,SNOMED
+4242813,Benign neoplasm of optic nerve,92257005,SNOMED
+4242834,Parinaud's syndrome,37991008,SNOMED
+4242858,Neuritis AND/OR radiculitis due to displacement of intervertebral disc,38073003,SNOMED
+4242978,Benign neoplasm of trigeminal nerve,92451008,SNOMED
+4242979,Benign neoplasm of trochlear nerve,92453006,SNOMED
+4243451,Secondary peripheral neuropathy,385006,SNOMED
+4243644,Vagus nerve sensory disorder,59798009,SNOMED
+4243770,Gradenigo's syndrome,37936001,SNOMED
+4244092,Upper brachial plexus neuropathy,38428003,SNOMED
+4244491,Primary malignant neoplasm of abducens nerve,93657007,SNOMED
+4245501,Brachial neuritis AND/OR radiculitis due to displacement of cervical intervertebral disc,60490008,SNOMED
+4245986,Second division of fifth cranial nerve disorder,59979003,SNOMED
+4246013,Primary malignant neoplasm of acoustic nerve,93660000,SNOMED
+4246029,Primary malignant neoplasm of cauda equina,93743001,SNOMED
+4246042,Primary malignant neoplasm of glossopharyngeal nerve,93815003,SNOMED
+4246080,Axonal neuropathy,60703000,SNOMED
+4246137,Primary malignant neoplasm of optic nerve,93931007,SNOMED
+4246246,Primary malignant neoplasm of trochlear nerve,94110001,SNOMED
+4246247,Tongue deviation disorder of twelfth cranial nerve,9412006,SNOMED
+4246248,Primary malignant neoplasm of vagus nerve,94131003,SNOMED
+4246923,Primary malignant neoplasm of facial nerve,93793002,SNOMED
+4247334,Gouty neuritis,9386003,SNOMED
+4247716,Primary malignant neoplasm of accessory nerve,93658002,SNOMED
+4247829,Primary malignant neoplasm of hypoglossal nerve,93828005,SNOMED
+4247847,Primary malignant neoplasm of olfactory nerve,93930008,SNOMED
+4248131,Injury of olfactory nerve,72758005,SNOMED
+4248189,Secondary malignant neoplasm of olfactory nerve,94451009,SNOMED
+4248190,Secondary malignant neoplasm of optic nerve,94452002,SNOMED
+4248551,Injury of peripheral nerve,73590005,SNOMED
+4249573,Compression of optic nerve,72983001,SNOMED
+4251046,Retrosphenoidal space syndrome,74231003,SNOMED
+4252861,Benign neoplasm of autonomic nerve,409661008,SNOMED
+4253627,Herpes zoster conjunctivitis,410509003,SNOMED
+4253668,Tick paralysis,74225001,SNOMED
+4259501,Neuroretinitis,410471004,SNOMED
+4259502,Bartonella henselae neuroretinitis,410472006,SNOMED
+4260193,Benign neoplasm of peripheral nerve,409660009,SNOMED
+4260823,"Familial amyloid polyneuropathy, type II",4463009,SNOMED
+4262282,Diabetic mononeuropathy multiplex,35777006,SNOMED
+4263090,Femoral mononeuropathy due to diabetes mellitus,361216007,SNOMED
+4264613,Third cranial nerve disease,60750009,SNOMED
+4264853,Open injury of nerve,397185006,SNOMED
+4264920,Sphenopalatine neuralgia,61830005,SNOMED
+4265579,Hereditary sensory and autonomic neuropathy type I,397734008,SNOMED
+4265860,Herpes zoster keratitis,397573005,SNOMED
+4266036,Median neuropathy,397828008,SNOMED
+4268260,Tibial nerve palsy,365258000,SNOMED
+4268878,Congenital sixth nerve palsy,400945000,SNOMED
+4268973,Jaw-blinking,36603006,SNOMED
+4270614,Amyotonia congenita,63135006,SNOMED
+4271311,Hereditary insensitivity to pain with anhidrosis,62985007,SNOMED
+4271570,Tongue protrusion disorder of twelfth cranial nerve,63864004,SNOMED
+4271598,Injury of pneumogastric nerve,640003,SNOMED
+4272636,Aganglionosis of parasympathetic nerve ganglia,64370005,SNOMED
+4274480,Alajouanine's syndrome,63900005,SNOMED
+4275414,Paratrigeminal syndrome,64518008,SNOMED
+4275445,Pelizaeus-Merzbacher disease,64855000,SNOMED
+4275753,Drug-induced myasthenia,65242001,SNOMED
+4280953,Degeneration of acoustic nerve,66688008,SNOMED
+4282137,Glossopharyngeal taste disorder,66073004,SNOMED
+4282476,Middle brachial plexus neuropathy,67157003,SNOMED
+4283669,Acrodynia due to mercury,66695004,SNOMED
+4286352,Radicular syndrome of lower limbs,69071001,SNOMED
+4289591,Facial nerve motor disorder,69501006,SNOMED
+4292056,Bilateral superior oblique palsy,400944001,SNOMED
+4292064,Ilio-inguinal nerve entrapment,400983004,SNOMED
+4292375,Familial amyloid polyneuropathy with cutaneous amyloidosis,402460000,SNOMED
+4294272,Vidian neuralgia,75983009,SNOMED
+4295312,Fibrolipomatous hamartoma of nerve,403542008,SNOMED
+4295340,Melkersson's syndrome,37770007,SNOMED
+4295421,Strachan's syndrome,75834006,SNOMED
+4296728,Polyneuritis,76886005,SNOMED
+4298153,Epithelioid malignant nerve sheath tumor,404038007,SNOMED
+4300531,Erb-Duchenne paralysis,78141002,SNOMED
+4300679,Malignant Triton tumor,404040002,SNOMED
+4301699,Neuropathy,386033004,SNOMED
+4303516,Paraneoplastic optic neuropathy,418856006,SNOMED
+4304701,Mononeuropathy simplex due to diabetes mellitus,81830002,SNOMED
+4305174,Glossopharyngeal nerve sensory disorder,81750007,SNOMED
+4305334,Klumpke-Déjerine paralysis as birth trauma,81774005,SNOMED
+4307319,Symmetric proximal motor neuropathy due to diabetes mellitus,39127005,SNOMED
+4307553,Herpes zoster acute retinal necrosis,422471006,SNOMED
+4307721,Primary malignant neoplasm of peripheral nerve,422736007,SNOMED
+4307728,Neoplasm of acoustic nerve,387891008,SNOMED
+4307729,Neoplasm of acoustic vestibular nerve,387893006,SNOMED
+4308142,Acquired neuromuscular ptosis,423771003,SNOMED
+4308256,Mechanical complication of peripheral nerve graft,213056007,SNOMED
+4308406,Disruption of nerve repair,213197002,SNOMED
+4308632,Optic disc edema,423341008,SNOMED
+4308780,Nerve entrapment due to scar,424054000,SNOMED
+4309193,Facial nerve sensory disorder,8443005,SNOMED
+4309357,Pure autonomic failure,84438001,SNOMED
+4309914,Injury to nerve during surgery,213267001,SNOMED
+4310159,Herpes zoster radiculitis,424941009,SNOMED
+4311158,Acute herpes zoster neuropathy,423628002,SNOMED
+4311493,Primary malignant neoplasm of oculomotor nerve,93929003,SNOMED
+4311539,Motor polyneuropathy,85423005,SNOMED
+4311625,Primary malignant neoplasm of trigeminal nerve,94108003,SNOMED
+4311630,Secondary malignant neoplasm of abducens nerve,94153001,SNOMED
+4311631,Secondary malignant neoplasm of accessory nerve,94154007,SNOMED
+4311706,Prepapillary vascular loop,424728002,SNOMED
+4311708,Diabetic peripheral neuropathy,424736006,SNOMED
+4311957,Cholinergic crisis,8563000,SNOMED
+4312039,Secondary malignant neoplasm of acoustic nerve,94156009,SNOMED
+4312426,Secondary malignant neoplasm of glossopharyngeal nerve,94317006,SNOMED
+4312559,Secondary malignant neoplasm of oculomotor nerve,94450005,SNOMED
+4312924,Entrapment neuropathy of upper limb,423023005,SNOMED
+4312937,Secondary malignant neoplasm of cauda equina,94242004,SNOMED
+4312946,Secondary malignant neoplasm of cranial nerve,94266005,SNOMED
+4312956,Secondary malignant neoplasm of facial nerve,94294002,SNOMED
+4313085,Secondary malignant neoplasm of hypoglossal nerve,94331006,SNOMED
+4313218,Secondary malignant neoplasm of trigeminal nerve,94646009,SNOMED
+4313232,Neoplasm of uncertain behavior of abducens nerve,94722009,SNOMED
+4313233,Neoplasm of uncertain behavior of accessory nerve,94723004,SNOMED
+4313354,Neoplasm of uncertain behavior of acoustic nerve,94725006,SNOMED
+4313379,Neoplasm of uncertain behavior of cranial nerve,94807005,SNOMED
+4313439,Bertolotti's syndrome,86345004,SNOMED
+4313505,Neoplasm of uncertain behavior of glossopharyngeal nerve,94855005,SNOMED
+4313507,Neoplasm of uncertain behavior of hypoglossal nerve,94868002,SNOMED
+4313653,Neoplasm of uncertain behavior of optic nerve,94971009,SNOMED
+4313879,Reflex blepharospasm,423753005,SNOMED
+4314002,Injury of celiac ganglion AND/OR plexus,8627007,SNOMED
+4314070,Secondary malignant neoplasm of trochlear nerve,94648005,SNOMED
+4314496,Secondary malignant neoplasm of vagus nerve,94669007,SNOMED
+4315532,Neoplasm of uncertain behavior of olfactory nerve,94970005,SNOMED
+4315939,Neoplasm of uncertain behavior of cauda equina,94782007,SNOMED
+4316209,Injection site nerve damage,95390004,SNOMED
+4316382,Neoplasm of uncertain behavior of facial nerve,94833002,SNOMED
+4316747,Neoplasm of uncertain behavior of vagus nerve,95171000,SNOMED
+4317132,Neoplasm of uncertain behavior of trochlear nerve,95150005,SNOMED
+4317564,Neoplasm of uncertain behavior of oculomotor nerve,94969009,SNOMED
+4317828,Neoplasm of uncertain behavior of trigeminal nerve,95148002,SNOMED
+4317967,Cranial nerve compression,95664006,SNOMED
+4317989,Tolosa-Hunt syndrome,95794005,SNOMED
+4318100,Lesion of the acoustic nerve,95829004,SNOMED
+4318525,Congenital anomaly of optic nerve,95502000,SNOMED
+4318562,Nervus intermedius neuralgia,95670000,SNOMED
+4318677,Cervical nerve root compression,95671001,SNOMED
+4318678,Ulnar neuritis,95675005,SNOMED
+4318703,Retrobulbar optic nerve atrophy,95775000,SNOMED
+4318869,Sensory neuropathy,95662005,SNOMED
+4319256,Traumatic injury of trochlear nerve,222158003,SNOMED
+4319437,Congenital myelin deficiency of the optic disc,95498007,SNOMED
+4319472,Peripheral motor neuropathy,95663000,SNOMED
+4319608,Atrophy of optic disc,95774001,SNOMED
+4320696,Hypoglossal-pyramid syndrome,9638002,SNOMED
+4322033,Toxic amblyopia,965003,SNOMED
+4322638,Diabetes mellitus AND insipidus with optic atrophy AND deafness,70694009,SNOMED
+4322891,Iliohypogastric nerve neuritis,428141001,SNOMED
+4323048,Ilioinguinal nerve neuritis,428359008,SNOMED
+4327957,Polyradiculopathy,75572007,SNOMED
+4328334,Ophthalmic nerve disorder,75962003,SNOMED
+4328365,Septo-optic dysplasia sequence,7611002,SNOMED
+4328422,Laceration of nerve,430047005,SNOMED
+4328943,Peripheral nerve disorder associated with repair of hernia,431043000,SNOMED
+4329158,Nerve plexus disorder,2231001,SNOMED
+4335337,Inflammatory facial neuropathy,232267001,SNOMED
+4336520,Dying back phenomenon,86695008,SNOMED
+4336813,Vagus nerve motor disorder,87058001,SNOMED
+4337830,Claude's syndrome,87555007,SNOMED
+4338235,Celiac plexus syndrome,88219000,SNOMED
+4338900,Proliferative retinopathy with optic disc neovascularization due to diabetes mellitus,232021008,SNOMED
+4338904,Central serous retinopathy with pit of optic disc,232034009,SNOMED
+4345229,Cephalic tetanus,240431004,SNOMED
+4347542,Maxillary herpes zoster infection,240472002,SNOMED
+4347543,Mandibular herpes zoster infection,240473007,SNOMED
+4348435,Nerve root compression syndrome,243338005,SNOMED
+35607977,"Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome",764095005,SNOMED
+35608085,Autosomal dominant Charcot-Marie-Tooth disease type 2 due to KIF5A mutation,764730007,SNOMED
+35608120,Autosomal dominant Charcot-Marie-Tooth disease type 2U,765046002,SNOMED
+35610241,Malignant neoplasm of peripheral nerves of trunk,1090901000000102,SNOMED
+35610439,Cauda equina syndrome with painless urinary retention,1093161000000109,SNOMED
+35621928,Congenital trigeminal anesthesia,763218005,SNOMED
+35621979,"Encephalopathy, hypertrophic cardiomyopathy, renal tubular disease syndrome",763280005,SNOMED
+35622040,Familial dyskinesia and facial myokymia,763352005,SNOMED
+35622286,"Deafness, encephaloneuropathy, obesity, valvulopathy syndrome",763688008,SNOMED
+35622356,Morvan syndrome,763803004,SNOMED
+35622507,Compression of cauda equina co-occurrent and due to lumbar vertebral stenosis,764272007,SNOMED
+35622694,Autosomal dominant Charcot-Marie-Tooth disease type 2A2,764850002,SNOMED
+35623047,"Peripheral demyelinating neuropathy, central dysmyelinating leukodystrophy, Waardenburg syndrome, Hirschsprung disease",765325002,SNOMED
+35623634,Acute sensory ataxic neuropathy,766049000,SNOMED
+35624130,Paraparetic variant of Guillain-Barré syndrome,766722008,SNOMED
+35624152,Neurolymphomatosis,766752000,SNOMED
+35624271,Hypomyelination neuropathy arthrogryposis syndrome,766931003,SNOMED
+35624321,Moebius syndrome,766987006,SNOMED
+35624758,Peripheral neuropathy due to and following antineoplastic therapy,767659008,SNOMED
+35625841,Extraneural perineurioma,768926005,SNOMED
+35625847,Intraneural perineurioma,768934004,SNOMED
+35625955,TUBB4A-related leukodystrophy,769065000,SNOMED
+35626761,Cervical radiculoplexus neuropathy due to diabetes mellitus,770094004,SNOMED
+35626762,Cranial nerve palsy due to diabetes mellitus,770095003,SNOMED
+35626765,Cranial nerve palsy due to type 1 diabetes mellitus,770098001,SNOMED
+36674513,"Microphthalmia, retinitis pigmentosa, foveoschisis, optic disc drusen syndrome",778021002,SNOMED
+36674519,Primary CD59 deficiency,778027003,SNOMED
+36674764,Rippling muscle disease with myasthenia gravis,770596007,SNOMED
+36674787,Combined immunodeficiency with faciooculoskeletal anomalies syndrome,770625006,SNOMED
+36674788,Congenital Horner syndrome,770626007,SNOMED
+36674826,"Polyneuropathy, intellectual disability, acromicria, premature menopause syndrome",770679002,SNOMED
+36674867,"Optic atrophy, intellectual disability syndrome",770723007,SNOMED
+36674914,"Autosomal recessive cerebellar ataxia, epilepsy, intellectual disability syndrome due to WWOX deficiency",770898002,SNOMED
+36675024,Digital extensor muscle aplasia with polyneuropathy,771261002,SNOMED
+36675026,Ptosis and vocal cord paralysis syndrome,771263004,SNOMED
+36675041,Progressive polyneuropathy with bilateral striatal necrosis,771305006,SNOMED
+36675043,Charcot-Marie-Tooth disease type 2B5,771307003,SNOMED
+36675060,Polymicrogyria with optic nerve hypoplasia,771336003,SNOMED
+36675143,"Optic nerve edema, splenomegaly syndrome",771471002,SNOMED
+36675179,"Early-onset progressive neurodegeneration, blindness, ataxia, spasticity syndrome",771514002,SNOMED
+36676493,Autosomal dominant Charcot-Marie-Tooth disease type 2Q,773393001,SNOMED
+36676852,Charcot-Marie-Tooth disease type 2R,774147002,SNOMED
+36680577,Hypomyelination with brain stem and spinal cord involvement and leg spasticity,777999008,SNOMED
+36684203,Immune-mediated neuropathy,782309008,SNOMED
+36684263,Incomplete cauda equina syndrome,782388003,SNOMED
+36684265,Cauda equina syndrome with painless urinary retention,782390002,SNOMED
+36684423,Neoplasm of uncertain behavior of peripheral nerve,19191000119106,SNOMED
+36684609,Entrapment of ulnar nerve at right wrist,330451000119105,SNOMED
+36684610,Entrapment of ulnar nerve at left wrist,330461000119107,SNOMED
+36684651,Ischemic optic neuropathy of right eye,334651000119101,SNOMED
+36684658,Duane's syndrome of right eye,335331000119104,SNOMED
+36684716,Ischemic optic neuropathy of left eye,340251000119108,SNOMED
+36684724,Duane's syndrome of left eye,340941000119101,SNOMED
+36684778,Bilateral ischemic optic neuropathy of eyes,345611000119102,SNOMED
+36685064,Disorder of bilateral acoustic nerves,1082781000119102,SNOMED
+36685117,Bilateral vestibular neuronitis of inner ears,1084691000119100,SNOMED
+36685190,Vestibular neuronitis of left inner ear,1089701000119101,SNOMED
+36685191,Disorder of left vestibular nerve,1089711000119103,SNOMED
+36685261,Vestibular neuronitis of right inner ear,1092311000119106,SNOMED
+36685262,Disorder of right vestibular nerve,1092321000119104,SNOMED
+36686116,Injury of right tibial nerve,10861171000119102,SNOMED
+36686117,Injury of left tibial nerve,10861211000119100,SNOMED
+36686130,Injury of right facial nerve,10901331000119109,SNOMED
+36686162,Injury of left facial nerve,10901371000119107,SNOMED
+36686268,Injury of left musculocutaneous nerve,10962431000119108,SNOMED
+36686269,Injury of right musculocutaneous nerve,10962471000119106,SNOMED
+36686270,Injury of right peroneal nerve,10962511000119102,SNOMED
+36686271,Injury of left peroneal nerve,10962551000119101,SNOMED
+36686332,Injury of digital nerve of finger of right hand,10972861000119106,SNOMED
+36686333,Injury of digital nerve of finger of left hand,10972981000119108,SNOMED
+36686936,Optic atrophy of right eye,15632811000119100,SNOMED
+36686937,Optic atrophy of left eye,15632851000119104,SNOMED
+36686938,Bilateral optic atrophy of eyes,15632891000119109,SNOMED
+36687008,Bilateral inflammation of ulnar nerves,15697241000119105,SNOMED
+36687089,Bilateral Duane's syndrome of eyes,15863931000119108,SNOMED
+36687177,Brachial neuritis of bilateral upper limbs,16005271000119104,SNOMED
+36687189,Bilateral peripheral neuropathy of lower limbs,16026551000119108,SNOMED
+36687226,Bilateral sural neuropathy,16637451000119103,SNOMED
+36687227,Neuritis of bilateral feet,16641561000119107,SNOMED
+36712849,Cranial neuropathy due to Herpes zoster,12551000132107,SNOMED
+36712930,Bilateral sciatica,15633361000119103,SNOMED
+36713167,Idiopathic small fiber peripheral neuropathy,350471000119102,SNOMED
+36713483,Hereditary sensory and autonomic neuropathy type 1B,717825008,SNOMED
+36713484,Hereditary sensory and autonomic neuropathy with deafness and global delay,717826009,SNOMED
+36713563,Optic neuropathy due to folate deficiency,717938001,SNOMED
+36713608,Entrapment of superficial branch of radial nerve,718519003,SNOMED
+36714330,Autosomal dominant Charcot-Marie-Tooth disease type 2F,719510006,SNOMED
+36714331,Autosomal dominant Charcot-Marie-Tooth disease type 2G,719511005,SNOMED
+36714332,Autosomal dominant Charcot-Marie-Tooth disease type 2M,719514002,SNOMED
+36714333,Autosomal dominant Charcot-Marie-Tooth disease type 2N,719515001,SNOMED
+36714335,Autosomal dominant optic atrophy and cataract,719517009,SNOMED
+36714547,Visceral neuropathy and brain anomaly with facial dysmorphism and developmental delay syndrome,719833004,SNOMED
+36714552,X-linked hereditary sensory and autonomic neuropathy with deafness,719838008,SNOMED
+36714655,Haddad syndrome,719972004,SNOMED
+36714663,Charcot-Marie-Tooth disease type 2B2,719981005,SNOMED
+36714971,Acro-oto-ocular syndrome,720410001,SNOMED
+36715138,"Cerebellar ataxia, areflexia, pes cavus, optic atrophy, sensorineural hearing loss syndrome",720634003,SNOMED
+36715333,Foix Chavany Marie syndrome,720956003,SNOMED
+36715501,Polyneuropathy due to classical cystic fibrosis,721197001,SNOMED
+36715503,Early-onset X-linked optic atrophy,721200000,SNOMED
+36715518,Hirschsprung disease with type D brachydactyly syndrome,721222007,SNOMED
+36715519,Hirschsprung disease with nail hypoplasia and dysmorphism,721223002,SNOMED
+36715546,Infection of cranial nerve,721254003,SNOMED
+36715671,Injury of brachial plexus cord,721407004,SNOMED
+36715672,Injury of brachial plexus division,721408009,SNOMED
+36715673,Injury of brachial plexus trunk,721409001,SNOMED
+36715674,Injury of phrenic nerve,721410006,SNOMED
+36715773,Injury of median nerve at upper arm level,721530007,SNOMED
+36715774,Injury of ulnar nerve at forearm level,721532004,SNOMED
+36715775,Injury of median nerve at forearm level,721533009,SNOMED
+36715776,Injury of radial nerve at forearm level,721534003,SNOMED
+36715779,Acquired Horner syndrome,721537005,SNOMED
+36715838,Extensive aganglionosis Hirschsprung disease,721609009,SNOMED
+36716032,GAPO syndrome,721843003,SNOMED
+36716159,Odontoleukodystrophy,722064003,SNOMED
+36716264,Severe X-linked intellectual disability Gustavson type,722213009,SNOMED
+36716396,Congenital hereditary facial paralysis with variable hearing loss syndrome,722389002,SNOMED
+36716429,"Duane anomaly, myopathy, scoliosis syndrome",722432000,SNOMED
+36716493,Primary malignant nerve sheath neoplasm of autonomic nerve,722518004,SNOMED
+36716560,Optic disc dysplasia,722604002,SNOMED
+36716561,Optic neuropathy caused by ionizing radiation following radiotherapy procedure,722606000,SNOMED
+36716599,Injury of radial nerve at upper arm level,722655009,SNOMED
+36716698,Immature ganglionosis of large intestine,722853000,SNOMED
+36716699,Congenital hypoganglionosis of large intestine,722854006,SNOMED
+36716804,Compression of olfactory nerve,722988004,SNOMED
+36716805,Aplasia of optic nerve,722989007,SNOMED
+36716806,Congenital atrophy of optic nerve,722990003,SNOMED
+36716901,Perioperative secondary non-arteritic ischemic optic neuropathy,723132004,SNOMED
+36716912,Injury of anterior cutaneous nerve of neck,723146004,SNOMED
+36716942,Aganglionosis of large intestine,723183004,SNOMED
+36717015,Edema of optic disc of bilateral eyes,15930381000119104,SNOMED
+36717041,Goldberg Shprintzen megacolon syndrome,717822006,SNOMED
+36717042,Hereditary sensory and autonomic neuropathy with spastic paraplegia,717827000,SNOMED
+36717085,Leber plus disease,719430008,SNOMED
+36717089,Autosomal dominant Charcot-Marie-Tooth disease type 2L,719513008,SNOMED
+36717132,Charcot-Marie-Tooth disease type 2H,720637005,SNOMED
+36717151,Hirschsprung disease with deafness and polydactyly syndrome,721221000,SNOMED
+36717190,"Hypomyelination, hypogonadotropic hypogonadism, hypodontia syndrome",721846006,SNOMED
+36717250,Megalopapilla,723131006,SNOMED
+36717345,Hirschsprung disease of rectosigmoid region,721608001,SNOMED
+36717457,Infection causing inflammation of optic nerve,721261004,SNOMED
+36717481,Injury of nerve at forearm level,721531006,SNOMED
+36717573,Optic disc swelling co-occurrent with uveitis,722607009,SNOMED
+36717726,Autosomal dominant Charcot-Marie-Tooth disease type 2K,719512003,SNOMED
+37016354,Neuropathy due to type 2 diabetes mellitus,368581000119106,SNOMED
+37016648,Traumatic injury of optic disk,712733005,SNOMED
+37016748,Segmental neuralgia as late effect of traumatic injury,712857000,SNOMED
+37016767,Autonomic neuropathy due to type 1 diabetes mellitus,712882000,SNOMED
+37016768,Autonomic neuropathy due to type 2 diabetes mellitus,712883005,SNOMED
+37017214,Neuropathy caused by isoniazid,713450000,SNOMED
+37017262,Neuritis co-occurrent with human immunodeficiency virus infection,713506004,SNOMED
+37017429,Gastroparesis due to type 1 diabetes mellitus,713702000,SNOMED
+37017430,Gastroparesis due to diabetes mellitus,713704004,SNOMED
+37017431,Polyneuropathy due to type 1 diabetes mellitus,713705003,SNOMED
+37017432,Polyneuropathy due to type 2 diabetes mellitus,713706002,SNOMED
+37017462,Neoplasm of lumbar spinal nerve,713739004,SNOMED
+37017469,Neoplasm of sacral spinal nerve,713747004,SNOMED
+37017537,Postinfective intercostal neuralgia,713829001,SNOMED
+37017539,Postinfective peripheral neuralgia,713831005,SNOMED
+37017543,Postinfective segmental neuralgia,713837009,SNOMED
+37017545,Intercostal neuralgia as late effect of trauma,713839007,SNOMED
+37017552,Post-surgery obturator neuralgia,713847007,SNOMED
+37017593,Obturator nerve injury during surgery,713895003,SNOMED
+37017608,Lumbosacral spondylosis with root compression,713911007,SNOMED
+37017703,Trigeminal nerve palsy,714027006,SNOMED
+37018566,Peripheral neuropathy due to type 1 diabetes mellitus,71791000119104,SNOMED
+37018714,Radiculitis co-occurrent with human immunodeficiency virus infection,713320007,SNOMED
+37018721,Polyneuropathy co-occurrent with human immunodeficiency virus infection,713489006,SNOMED
+37018728,Gastroparesis due to type 2 diabetes mellitus,713703005,SNOMED
+37018918,Radiculopathy due to lumbar intervertebral disc disorder,311211000119105,SNOMED
+37018987,Neoplasm of thoracic spinal nerve,712858005,SNOMED
+37019034,Neuralgia co-occurrent with human immunodeficiency virus infection,713278001,SNOMED
+37108904,Hereditary bilateral optic atrophy,15699081000119101,SNOMED
+37108905,Hereditary right optic atrophy,15699121000119104,SNOMED
+37108906,Hereditary left optic atrophy,15699161000119109,SNOMED
+37108959,Edema of optic disc of right eye,15930301000119107,SNOMED
+37108965,Low back pain co-occurrent and due to bilateral sciatica,15968741000119100,SNOMED
+37108966,Radiculopathy of lumbosacral spine due to disc disorder,15972821000119108,SNOMED
+37108968,Keratitis of right eye due to herpes zoster,15992271000119100,SNOMED
+37108969,Keratitis of left eye due to herpes zoster,15992311000119100,SNOMED
+37109017,Brachial plexopathy of right upper limb,16058231000119103,SNOMED
+37109018,Brachial plexopathy of left upper limb,16058271000119100,SNOMED
+37109547,Erb Duchenne palsy with neuropraxis due to traction birth trauma,722900008,SNOMED
+37109548,Erb Duchenne palsy with neuroma due to birth trauma,722901007,SNOMED
+37109673,"Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, cataract syndrome",723452007,SNOMED
+37109694,Peripheral neuropathy with sensorineural hearing impairment syndrome,723497003,SNOMED
+37109776,X-linked spastic paraplegia type 2,723622007,SNOMED
+37109793,Microvascular cranial nerve palsy,723644002,SNOMED
+37109811,Length-dependent peripheral neuropathy,723666009,SNOMED
+37109886,Autosomal recessive spastic paraplegia type 55,723825006,SNOMED
+37109887,Autosomal recessive spastic paraplegia type 57,723826007,SNOMED
+37110099,"Moebius syndrome, axonal neuropathy, hypogonadotropic hypogonadism syndrome",724174003,SNOMED
+37110170,Hypomyelinating leukodystrophy with atrophy of basal ganglia and cerebellum,724283004,SNOMED
+37110337,Peripheral neuropathy due to hypervitaminosis B6,724558003,SNOMED
+37110342,Neuropathy due to nutritional deficiency,724563004,SNOMED
+37110346,Neuromuscular junction disorder caused by organic phosphorus compound ingestion,724572007,SNOMED
+37110506,Ataxia co-occurrent and due to phytanic acid storage disease,724769002,SNOMED
+37110529,Injury of nerve at wrist level,724795000,SNOMED
+37110530,Injury of nerve at hand level,724796004,SNOMED
+37110531,Injury of median nerve in hand,724798003,SNOMED
+37110532,Injury of multiple nerves in wrist,724799006,SNOMED
+37110533,Injury of multiple nerves in hand,724800005,SNOMED
+37110534,Injury of nerve at hip level,724801009,SNOMED
+37110535,Injury of nerve at thigh level,724802002,SNOMED
+37110536,Injury of cutaneous sensory nerve at lower leg level,724804001,SNOMED
+37110537,Primary malignant neuroepitheliomatous neoplasm of peripheral nerve,724805000,SNOMED
+37110543,Autonomic neuropathy due to disorder of immune function,724815006,SNOMED
+37110680,Lumbosacral plexopathy due to and following procedure caused by ionizing radiation,724995009,SNOMED
+37110681,Lumbosacral plexopathy due to vasculitis,724996005,SNOMED
+37110682,Polyneuropathy co-occurrent and due to systemic connective tissue disorder,724998006,SNOMED
+37110683,Isolated optic nerve hypoplasia,724999003,SNOMED
+37110720,Autosomal recessive Charcot-Marie-Tooth disease with hoarseness,725047007,SNOMED
+37110771,"Spastic paraplegia, optic atrophy, neuropathy syndrome",725139005,SNOMED
+37111328,CAMOS syndrome,726031001,SNOMED
+37116362,Dermatoleukodystrophy,733044009,SNOMED
+37116378,"Deafness, small bowel diverticulosis, neuropathy syndrome",733071009,SNOMED
+37116393,Isolated hereditary congenital facial paralysis,733091002,SNOMED
+37116696,Arteritic anterior ischemic optic neuropathy,733506009,SNOMED
+37116960,Wolfram-like syndrome,734022008,SNOMED
+37117079,Edema of optic disc of left eye,15930341000119109,SNOMED
+37117236,Charcot-Marie-Tooth disease type 2B1,725048002,SNOMED
+37117750,Acute geniculate ganglionitis caused by Human herpesvirus 3,733167008,SNOMED
+37119156,Injury of median nerve in wrist,724797008,SNOMED
+37119157,Injury of tibial nerve at lower leg level,724803007,SNOMED
+37203915,Muscle eye brain disease with bilateral multicystic leukodystrophy,785298001,SNOMED
+37203958,Congenital pit of optic disc,786076007,SNOMED
+37203960,Acquired pit of optic disc,786078008,SNOMED
+37204178,Familial congenital palsy of trochlear nerve,782679002,SNOMED
+37204221,Autosomal dominant Charcot-Marie-Tooth disease type 2 with giant axons,782742006,SNOMED
+37204229,"Peripheral neuropathy, myopathy, hoarseness, hearing loss syndrome",782752005,SNOMED
+37204233,Familial episodic pain syndrome,782756008,SNOMED
+37204274,Infantile cerebellar and retinal degeneration,782822006,SNOMED
+37204276,Sodium channelopathy-related small fiber neuropathy,782824007,SNOMED
+37204278,Charcot-Marie-Tooth disease type 2P,782826009,SNOMED
+37204281,Autosomal dominant Charcot-Marie-Tooth disease type 2O,782829002,SNOMED
+37204369,Pharyngeal-cervical-brachial variant of Guillain-Barré syndrome,783010003,SNOMED
+37204410,Autosomal recessive optic atrophy type 7,783065004,SNOMED
+37204431,IRVAN syndrome,783090002,SNOMED
+37204432,"46,XY gonadal dysgenesis, motor and sensory neuropathy syndrome",783091003,SNOMED
+37204510,Combined hyperactive dysfunction syndrome of cranial nerves,783180007,SNOMED
+37204522,Hereditary sensory and autonomic neuropathy due to TECPR2 mutation,783198006,SNOMED
+37204541,Acute pure sensory neuropathy,783244002,SNOMED
+37204553,Familial recurrent peripheral facial palsy,783257005,SNOMED
+37204686,Hereditary sensory and autonomic neuropathy type 7,783550006,SNOMED
+37204831,"Hirschsprung disease, ganglioneuroblastoma syndrome",783737007,SNOMED
+37205047,Nerve palsy,784289008,SNOMED
+37205069,"Autosomal recessive spastic ataxia, optic atrophy, dysarthria syndrome",784347002,SNOMED
+37206118,Persistent idiopathic facial pain,785723001,SNOMED
+37207657,Thoracolumbar radiculopathy,77841000119108,SNOMED
+37207850,Pseudopapilledema of right eye,332851000119107,SNOMED
+37207860,Optic papillitis of right eye,333531000119105,SNOMED
+37207910,Pseudopapilledema of left eye,338461000119109,SNOMED
+37207920,Optic papillitis of left eye,339141000119108,SNOMED
+37207971,Bilateral pseudopapilledema of eyes,344231000119109,SNOMED
+37207978,Bilateral optic papillitis,344891000119109,SNOMED
+37208011,Partial optic atrophy of right eye,348131000119109,SNOMED
+37208012,Congenital pit of optic disc of right eye,348151000119103,SNOMED
+37208016,Partial optic atrophy of left eye,348581000119100,SNOMED
+37208017,Congenital pit of optic disc of left eye,348601000119109,SNOMED
+37208021,Bilateral partial optic atrophy,349161000119106,SNOMED
+37208253,Schwannoma of nerve of face,688131000119108,SNOMED
+37209318,Interstitial keratitis of left eye caused by Herpes zoster virus,15685201000119100,SNOMED
+37209319,Interstitial keratitis of right eye caused by Herpes zoster virus,15685281000119108,SNOMED
+37209361,Cupping of left optic disc due to open-angle glaucoma of left eye,15739801000119100,SNOMED
+37209362,Cupping of right optic disc due to open-angle glaucoma of right eye,15739881000119108,SNOMED
+37209437,Congenital anomaly of right optic disc,15986231000119101,SNOMED
+37209438,Bilateral congenital anomaly of optic disc,15986271000119103,SNOMED
+37209439,Congenital anomaly of left optic disc,15986311000119103,SNOMED
+37209443,Conjunctivitis of right eye caused by herpes zoster virus,15989271000119107,SNOMED
+37209444,Bilateral conjunctivitis of eyes caused by herpes zoster virus,15989311000119107,SNOMED
+37209445,Conjunctivitis of left eye caused by herpes zoster virus,15989351000119108,SNOMED
+37209555,Acoustic neuroma of right vestibular nerve,16594841000119106,SNOMED
+37209556,Acoustic neuroma of left vestibular nerve,16594881000119101,SNOMED
+37209559,Bilateral disorder of median nerves,16636821000119106,SNOMED
+37309618,Lumbar radiculitis,16864831000119104,SNOMED
+37309622,Compression of cauda equina,16846261000119106,SNOMED
+37309624,Low back pain co-occurrent with neuralgia of left sciatic nerve,16839401000119104,SNOMED
+37309668,Bilateral disorder of common peroneal nerves,16637761000119107,SNOMED
+37310094,Injury of right abducens nerve,10973901000119108,SNOMED
+37310180,Injury of left hypoglossal nerve,10901771000119106,SNOMED
+37310181,Injury of right hypoglossal nerve,10901731000119108,SNOMED
+37310182,Injury of left acoustic nerve,10901691000119101,SNOMED
+37310183,Injury of right acoustic nerve,10901651000119106,SNOMED
+37310184,Injury of left vagus nerve,10901611000119105,SNOMED
+37310185,Injury of right vagus nerve,10901571000119101,SNOMED
+37310186,Injury of left accessory nerve,10901531000119104,SNOMED
+37310187,Injury of right accessory nerve,10901491000119104,SNOMED
+37310201,Injury of left abducens nerve,10899831000119105,SNOMED
+37310202,Injury of left trochlear nerve,10899791000119104,SNOMED
+37310203,Injury of right trochlear nerve,10899751000119109,SNOMED
+37310208,Injury of left lateral plantar nerve,10846261000119101,SNOMED
+37310209,Injury of right lateral plantar nerve,10846221000119106,SNOMED
+37310572,Retrobulbar optic neuritis of right eye,679711000119102,SNOMED
+37310573,Retrobulbar optic neuritis of left eye,679701000119100,SNOMED
+37311162,Palsy of glossopharyngeal nerve,827050005,SNOMED
+37311163,Palsy of upper motor nerve,827049005,SNOMED
+37311164,Palsy of accessory nerve,827048002,SNOMED
+37311165,Palsy of vagus nerve,827047007,SNOMED
+37311495,Acquired left-sided Horner syndrome,789431002,SNOMED
+37311496,Acquired right-sided Horner syndrome,789430001,SNOMED
+37311885,Toxic radiculopathy,789016002,SNOMED
+37311886,Radiation radiculopathy,789015003,SNOMED
+37311887,Radiculopathy caused by electricity,789014004,SNOMED
+37311989,Dissociative neurological symptom disorder co-occurrent with facial spasm,788909008,SNOMED
+37312091,Lipoma of nerve,792799000,SNOMED
+37312156,SPOAN and SPOAN-related disorder,789674008,SNOMED
+37312197,Peripheral sensory neuropathy,789588003,SNOMED
+37312198,Sensory polyneuropathy due to diabetes mellitus,789585000,SNOMED
+37312218,Neuropathy due to type 1 diabetes mellitus,789542009,SNOMED
+37312612,Spondylosis with radiculopathy,789021004,SNOMED
+37312613,Radiculopathy due to nutritional deficiency,789020003,SNOMED
+37312614,Radiculopathy due to neoplastic disease,789019009,SNOMED
+37312615,Radiculopathy due to metabolic disorder,789018001,SNOMED
+37312616,Radiculopathy due to intervertebral disc disorder,789017006,SNOMED
+37312738,Disorder of gastric branch of vagus nerve,787932009,SNOMED
+37395587,Radiculopathy co-occurrent and due to lumbosacral intervertebral disc disorder,311221000119103,SNOMED
+37396086,Acute motor axonal neuropathy,715770009,SNOMED
+37396221,Waardenburg Shah syndrome,715952000,SNOMED
+37396434,Sellars Beighton syndrome,716243005,SNOMED
+37396785,Acute motor sensory axonal neuropathy,716722005,SNOMED
+37396786,Acute inflammatory demyelinating polyradiculoneuropathy,716723000,SNOMED
+37397000,Autosomal dominant Charcot-Marie-Tooth disease type 2B,717008005,SNOMED
+37397001,Autosomal dominant Charcot-Marie-Tooth disease type 2C,717010007,SNOMED
+37397002,Autosomal dominant Charcot-Marie-Tooth disease type 2D,717011006,SNOMED
+37397003,Autosomal dominant Charcot-Marie-Tooth disease type 2E,717012004,SNOMED
+37397004,Autosomal dominant Charcot-Marie-Tooth disease type 2I,717013009,SNOMED
+37397005,Autosomal dominant Charcot-Marie-Tooth disease type 2J,717014003,SNOMED
+37397007,Autosomal dominant Charcot-Marie-Tooth disease type 2A1,717016001,SNOMED
+37397028,Pelizaeus Merzbacher like disease,717042001,SNOMED
+37397207,Sensory ataxic neuropathy with dysarthria and ophthalmoparesis syndrome,717266001,SNOMED
+37397260,Autosomal dominant optic atrophy classic form,717336005,SNOMED
+37397359,Autosomal dominant optic atrophy and peripheral neuropathy syndrome,717975006,SNOMED
+37397457,Hereditary geniospasm,718103001,SNOMED
+37397549,Polyneuropathy associated with monoclonal immunoglobulin M antibodies to myelin-associated glycoprotein,718213001,SNOMED
+37399444,Autosomal dominant optic atrophy plus syndrome,715374003,SNOMED
+37399460,CANOMAD syndrome,715624006,SNOMED
+37399469,RAVINE syndrome,715794009,SNOMED
+37399736,Radiculopathy co-occurrent and due to thoracic intervertebral disc disorder,311231000119100,SNOMED
+40479564,Contusion of infraorbital nerve,441519008,SNOMED
+40481053,Entrapment of genitofemoral nerve,443353000,SNOMED
+40481904,Entrapment of plantar nerve,443490000,SNOMED
+40482511,Vestibulocochlear nerve palsy,445217002,SNOMED
+40483299,Neuropathy due to ionizing radiation,445339002,SNOMED
+40483619,"Progressive encephalopathy with edema, hypsarrhythmia and optic atrophy syndrome",442511009,SNOMED
+40483696,Radial tunnel syndrome,443876008,SNOMED
+40483791,Paraneoplastic sensorimotor neuropathy,445475001,SNOMED
+40483815,Laceration of digital nerve in toe,445497004,SNOMED
+40485984,Traumatic injury of digital nerve of hand,446028001,SNOMED
+40486652,Paraneoplastic sensory neuropathy,449305009,SNOMED
+40487958,Adult onset autosomal dominant leukodystrophy,448054001,SNOMED
+40490353,Traumatic injury of lumbar plexus,446948006,SNOMED
+40492797,Axonotmesis of peripheral nerve,445869000,SNOMED
+40493211,Neurotmesis of peripheral nerve,445900004,SNOMED
+42534978,Brachial neuritis of left upper limb,12236641000119103,SNOMED
+42535095,Neurogenic thoracic outlet syndrome of right brachial plexus,15968701000119102,SNOMED
+42535099,Left cervical root neuropathy,15978711000119106,SNOMED
+42535101,Myokymia of left superior oblique muscle,15983991000119100,SNOMED
+42535102,Myokymia of right superior oblique muscle,15984031000119101,SNOMED
+42535116,Right axillary neuropathy,16005071000119109,SNOMED
+42535117,Left axillary neuropathy,16005111000119102,SNOMED
+42535118,Right Parsonage Turner syndrome,16005231000119102,SNOMED
+42535151,Disorder of right suprascapular nerve,16026471000119103,SNOMED
+42535152,Bilateral peripheral neuropathy of upper limbs,16026511000119107,SNOMED
+42535153,Right Freys trigeminal nerve syndrome,16026591000119103,SNOMED
+42535154,Left Freys trigeminal nerve syndrome,16026631000119103,SNOMED
+42535155,Radiculopathy of thoracolumbar spine due to disc disorder,16026751000119100,SNOMED
+42535156,Disorder of left suprascapular nerve,16026871000119101,SNOMED
+42535188,Congenital hypoplasia of right optic nerve,16054391000119102,SNOMED
+42535189,Congenital hypoplasia of left optic nerve,16054431000119107,SNOMED
+42535190,Bilateral congenital hypoplasia of optic nerves,16054471000119105,SNOMED
+42535194,Disorder of right facial nerve,16057431000119103,SNOMED
+42535195,Disorder of left facial nerve,16057951000119104,SNOMED
+42535196,Disorder of right trigeminal nerve,16058031000119107,SNOMED
+42535197,Disorder of left lumbosacral plexus,16058311000119100,SNOMED
+42535198,Bilateral brachial plexopathy of upper limbs,16058351000119104,SNOMED
+42535199,Disorder of right lumbosacral plexus,16058391000119109,SNOMED
+42535217,Bilateral neurogenic thoracic outlet syndrome of brachial plexus,16206181000119108,SNOMED
+42535218,Bilateral entrapment of ulnar nerves at wrist,16206261000119105,SNOMED
+42535219,Bilateral entrapment of ulnar nerves at elbow,16206341000119100,SNOMED
+42535220,Bilateral entrapment of ulnar nerves,16206381000119105,SNOMED
+42535221,Bilateral sciatic nerve disorder,16206701000119101,SNOMED
+42535222,Bilateral lower limb piriformis syndrome,16206741000119104,SNOMED
+42535223,Bilateral tarsal tunnel syndrome,16206901000119103,SNOMED
+42535225,Bilateral entrapment of ilioinguinal nerves,16206981000119106,SNOMED
+42535408,Left tarsal tunnel syndrome,290511000119107,SNOMED
+42535409,Right tarsal tunnel syndrome,290521000119100,SNOMED
+42535430,Complex regional pain syndrome type II of left upper limb,291761000119107,SNOMED
+42535431,Complex regional pain syndrome type II of right upper limb,291771000119101,SNOMED
+42535432,Complex regional pain syndrome type II of left lower limb,291781000119103,SNOMED
+42535433,Complex regional pain syndrome type II of right lower limb,291791000119100,SNOMED
+42535434,Left arm peripheral neuropathy,291861000119103,SNOMED
+42535435,Right arm peripheral neuropathy,291871000119109,SNOMED
+42535436,Disorder of left sciatic nerve,291921000119100,SNOMED
+42535437,Disorder of right sciatic nerve,291931000119102,SNOMED
+42535438,Disorder of left femoral nerve,291961000119105,SNOMED
+42535439,Disorder of right femoral nerve,291971000119104,SNOMED
+42535440,Right common peroneal neuropathy,292061000119100,SNOMED
+42535441,Left common peroneal neuropathy,292071000119106,SNOMED
+42535442,Disorder of right superficial peroneal nerve,292121000119106,SNOMED
+42535443,Disorder of left superficial peroneal nerve,292131000119109,SNOMED
+42535446,Right saphenous neuritis,292321000119108,SNOMED
+42535447,Left saphenous neuritis,292331000119106,SNOMED
+42535448,Right foot neuritis,292441000119109,SNOMED
+42535449,Left foot neuritis,292451000119106,SNOMED
+42535451,Right leg peripheral neuropathy,292501000119108,SNOMED
+42535452,Left leg peripheral neuropathy,292511000119106,SNOMED
+42535455,Disorder of right sural nerve,292561000119109,SNOMED
+42535462,Entrapment of right ulnar nerve,292731000119105,SNOMED
+42535463,Entrapment of left ulnar nerve,292741000119101,SNOMED
+42535464,Compression of right median nerve at elbow,292811000119108,SNOMED
+42535469,Complex regional pain syndrome type I of left lower limb,293931000119101,SNOMED
+42535470,Complex regional pain syndrome type I of left upper limb,293941000119105,SNOMED
+42535471,Complex regional pain syndrome type I of bilateral lower limbs,293951000119107,SNOMED
+42535472,Complex regional pain syndrome type I of right upper limb,293971000119103,SNOMED
+42535513,Entrapment of peripheral nerve of right upper limb,329681000119109,SNOMED
+42535514,Entrapment of right median nerve,329721000119103,SNOMED
+42535515,Entrapment of left median nerve,329731000119100,SNOMED
+42535519,Entrapment of right radial nerve,330291000119104,SNOMED
+42535520,Entrapment of left radial nerve,330301000119103,SNOMED
+42535522,Right radial neuropathy,330331000119105,SNOMED
+42535526,Posterior interosseous nerve syndrome of left posterior interosseous nerve,330741000119100,SNOMED
+42535527,Left radial neuropathy,330781000119105,SNOMED
+42535539,Disorder of nerve co-occurrent and due to type 1 diabetes mellitus,368521000119107,SNOMED
+42536258,Complex regional pain syndrome of foot,734987002,SNOMED
+42536259,Complex regional pain syndrome of knee,734988007,SNOMED
+42536260,Complex regional pain syndrome of hand,734989004,SNOMED
+42536697,Bilateral injury of optic nerve,735646005,SNOMED
+42536756,Injury of superior mesenteric plexus,735751009,SNOMED
+42536757,Injury of hypogastric plexus,735752002,SNOMED
+42536758,Injury of abdominopelvic portion of sympathetic nervous system,735753007,SNOMED
+42536759,Injury of peripheral nerve of abdomen,735754001,SNOMED
+42536760,Injury of peripheral nerve of lower back,735755000,SNOMED
+42536761,Injury of peripheral nerve of pelvis,735756004,SNOMED
+42536881,Injury of nerve plexus of trunk,735904003,SNOMED
+42537442,Cupping of optic disc co-occurrent and due to open angle glaucoma,736838001,SNOMED
+42537550,Cupping of optic discs of bilateral eyes co-occurrent and due to open-angle glaucoma,737006004,SNOMED
+42537669,Acquired hypoganglionosis of large intestine,737199001,SNOMED
+42537705,Autonomic neuropathy due to endocrine disease,737240009,SNOMED
+42537706,Autonomic neuropathy due to metabolic disease,737241008,SNOMED
+42538614,Inflammatory neuropathy due to and following vaccination,762356001,SNOMED
+42538615,Traumatic injury of left optic nerve,762357005,SNOMED
+42538616,Traumatic injury of right optic nerve,762358000,SNOMED
+42538791,Chronic painful polyneuropathy following chemotherapy,762595001,SNOMED
+42538839,Stimulation of phrenic nerve as complication of implantation of automatic cardiac defibrillator,762669008,SNOMED
+42538840,Stimulation of phrenic nerve as complication of implantation of cardiac pacemaker,762670009,SNOMED
+42539164,Entrapment of peripheral nerve of left upper limb,329691000119107,SNOMED
+42539169,Complex regional pain syndrome type I of bilateral upper limbs,293921000119104,SNOMED
+42539187,Disorder of right median nerve,292791000119109,SNOMED
+42539188,Disorder of left median nerve,292801000119105,SNOMED
+42539198,Left Parsonage Turner syndrome,16005191000119106,SNOMED
+42539208,Radiation polyneuropathy,16053951000119108,SNOMED
+42539216,Bilateral ulnar nerve disorder,16206301000119102,SNOMED
+42539252,Neurogenic thoracic outlet syndrome of left brachial plexus,15968581000119104,SNOMED
+42539253,Right cervical root neuropathy,15978831000119108,SNOMED
+42539258,Brachial neuritis of right upper limb,12236681000119108,SNOMED
+42539264,Disorder of left trigeminal nerve,16057991000119109,SNOMED
+42539273,Bilateral meralgia paresthetica,16206781000119109,SNOMED
+42539275,Disorder of left sural nerve,292571000119103,SNOMED
+42539277,Posterior interosseous nerve syndrome of right posterior interosseous nerve,330751000119103,SNOMED
+42539280,Compression of left median nerve at elbow,292821000119101,SNOMED
+42539285,Complex regional pain syndrome type I of right lower limb,293961000119109,SNOMED
+42539474,Complex regional pain syndrome of lower limb,734986006,SNOMED
+42710044,Peripheral facial palsy,449916008,SNOMED
+43020789,Type I paratrigeminal syndrome,472697007,SNOMED
+43020790,Type II paratrigeminal syndrome,472698002,SNOMED
+43530607,Musculocutaneous nerve palsy,101461000119102,SNOMED
+43530618,Common peroneal neuropathy at the fibular head,10521000119108,SNOMED
+43530689,Peripheral neuropathy due to type 2 diabetes mellitus,1511000119107,SNOMED
+43530705,Multiple cranial neuropathy,18801000119100,SNOMED
+43530707,Paraneoplastic peripheral neuropathy,21361000119109,SNOMED
+43530713,Acute inflammatory demyelinating polyneuropathy,26261000119109,SNOMED
+43530726,Eaton Lambert syndrome without underlying malignancy,292991000119106,SNOMED
+43530756,Post-traumatic nerve entrapment,47351000119102,SNOMED
+43530862,Injury of somatic nerve plexus,609395005,SNOMED
+43530983,Common peroneal neuropathy at lateral popliteal branch,609530001,SNOMED
+43530984,Femoral nerve paralysis,609531002,SNOMED
+43531026,Radial nerve entrapment,609590004,SNOMED
+43531027,Mononeuropathy of upper limb,609591000,SNOMED
+43531028,Mononeuropathy of lower limb,609592007,SNOMED
+43531029,Injury of branch of median nerve,609593002,SNOMED
+43531030,Injury of branch of radial nerve,609595009,SNOMED
+43531033,Neuropathy of upper limb,609599003,SNOMED
+43531034,Neuropathy of lower limb,609600000,SNOMED
+43531035,Suprascapular neuropathy,609601001,SNOMED
+43531039,Sural neuropathy in calf,609605005,SNOMED
+43531047,Entrapment of common peroneal nerve,609613006,SNOMED
+43531048,Entrapment neuropathy of lower limb,609614000,SNOMED
+43531074,Compression neuropathy of genitofemoral nerve,609640006,SNOMED
+43531075,Compression neuropathy of ilioinguinal nerve,609641005,SNOMED
+43531077,Genitofemoral neuropathy,68711000119109,SNOMED
+43531078,Ulnar neuropathy at wrist,68861000119103,SNOMED
+43531175,Eaton Lambert syndrome with underlying malignancy,608874000,SNOMED
+43531560,Myasthenia gravis with exacerbation,77461000119109,SNOMED
+43531561,Myasthenia gravis without exacerbation,77471000119103,SNOMED
+43531563,Neuropathic arthropathy due to type 2 diabetes mellitus,781000119106,SNOMED
+43531649,Injury of branch of ulnar nerve,609594008,SNOMED
+43531652,Ilioinguinal neuropathy,68721000119102,SNOMED
+43531654,Cervical plexopathy,5181000119108,SNOMED
+43531692,Anterior interosseous neuritis,609383005,SNOMED
+44782526,Facial palsy House-Brackmann grade II,68121000119103,SNOMED
+44782794,Facial palsy House-Brackmann grade III,68131000119100,SNOMED
+44782795,Facial palsy House-Brackmann grade IV,68141000119109,SNOMED
+44782796,Facial palsy House-Brackmann grade V,68151000119106,SNOMED
+44783024,Injury of nerve of pelvic girdle,699058000,SNOMED
+44783025,Injury to superficial nerves of head,699059008,SNOMED
+44783026,Injury of superficial nerves of neck,699060003,SNOMED
+44783143,Paroxysmal extreme pain disorder,699190008,SNOMED
+44783201,Neuropathy due to vitamin B12 deficiency,699258007,SNOMED
+44783202,Neuropathy due to vitamin B deficiency,699259004,SNOMED
+44783873,Brown-Vialetto-Van Laere syndrome,699866005,SNOMED
+44783874,Duane-radial ray syndrome,699867001,SNOMED
+44784628,Facial palsy House-Brackmann grade VI,87651000119100,SNOMED
+44805212,Symptomatic diabetic peripheral neuropathy,773001000000103,SNOMED
+44809714,Anterior opercular syndrome,864471000000106,SNOMED
+45757202,Acoustic neuritis in infectious disease,1082421000119105,SNOMED
+45757236,Diphtheria radiculomyelitis,1086061000119109,SNOMED
+45757257,Meningococcal retrobulbar neuritis,1089801000119108,SNOMED
+45757271,Tuberculous neuritis,1092771000119104,SNOMED
+45757278,Peripheral sensory neuropathy due to type 2 diabetes mellitus,110181000119105,SNOMED
+45765490,Arts syndrome,702441001,SNOMED
+45765491,Ataxia with vitamin E deficiency,702442008,SNOMED
+45766388,Mowat-Wilson syndrome,703535000,SNOMED
+45768456,Neuropathy due to unstable diabetes mellitus type 1,706891008,SNOMED
+45769830,Neuropathic arthropathy due to type 1 diabetes mellitus,71771000119100,SNOMED
+45769894,Cranial nerve palsy due to type 2 diabetes mellitus,87921000119104,SNOMED
+45770924,Herpes zoster iritis,331071000119101,SNOMED
+45773567,Sensory neuropathy due to type 1 diabetes mellitus,102781000119107,SNOMED
+46269858,Polyneuropathy due to cytomegaloviral mononucleosis,1085371000119105,SNOMED
+46270109,Harlequin syndrome,14070001000004105,SNOMED
+46270482,Polyneuropathy due to systemic sclerosis,322461000119108,SNOMED
+46271082,Injury of nerve at lower leg level,709118002,SNOMED
+46271103,Peripheral neuropathy caused by toxin,709143008,SNOMED
+46271104,Peripheral neuropathy of upper limb caused by toxin,709144002,SNOMED
+46271105,Peripheral neuropathy due to inflammation,709145001,SNOMED
+46271149,Benign neoplasm of brachial plexus,709203006,SNOMED
+46271211,Secondary malignant neoplasm of lumbosacral plexus,709285002,SNOMED
+46271378,Small fiber neuropathy,709489006,SNOMED
+46271935,Neoplasm of cervical spinal nerve,710212007,SNOMED
+46272050,Neuropathy of upper limb due to metabolic disorder,710349003,SNOMED
+46272057,Neuropathy of upper limb due to inflammatory disease,710357000,SNOMED
+46272058,Neuropathy of upper limb due to infection,710359002,SNOMED
+46272059,Peripheral neuropathy due to metabolic disorder,710360007,SNOMED
+46272949,Autosomal recessive axonal neuropathy with neuromyotonia,711406009,SNOMED
+46273207,Complex regional pain syndrome of upper limb,712537009,SNOMED
+46273291,RNA polymerase III-related leukodystrophy,712637001,SNOMED
+46273297,Inflammation of obturator nerve,712644005,SNOMED
+46273298,Inflammation of femoral nerve,712645006,SNOMED
+46274079,Polyneuropathy due to infectious mononucleosis,1090231000119107,SNOMED

@@ -1,0 +1,372 @@
+concept_id,concept_name,concept_code,vocabulary_id
+441269,Autoimmune hemolytic anemia,413603009,SNOMED
+4104541,Anemia due to pentose phosphate pathway defect,29177004,SNOMED
+4088386,Acquired Heinz body anemia,18662002,SNOMED
+433168,Iron deficiency anemia secondary to inadequate dietary iron intake,371315009,SNOMED
+4048205,Homozygous hemoglobinopathy,123772008,SNOMED
+4296149,Hemoglobin C trait,76050008,SNOMED
+4151502,Hemolytic anemia due to Clostridium welchii,28147001,SNOMED
+438722,Non megaloblastic anemia associated with nutritional deficiency,52565000,SNOMED
+4311673,HPFH deletion type,85557000,SNOMED
+4264909,Thalassemia-hemoglobin C disease,61777009,SNOMED
+4101917,HNSHA due to gamma glutamyl cysteine synthetase deficiency,25251008,SNOMED
+4098746,Hemolytic anemia due to pyruvate kinase deficiency,191178002,SNOMED
+4200254,Hemoglobin Bart's hydrops syndrome,5300004,SNOMED
+45773071,Thalassemia in mother complicating pregnancy,72331000119105,SNOMED
+4139551,Duffy isoimmunization of the newborn,307337003,SNOMED
+4098015,Hereditary persistence of fetal hemoglobin,191201002,SNOMED
+4209085,Hemoglobin SS disease with vasoocclusive crisis,440206000,SNOMED
+4131128,Chronic cold agglutinin disease,127055007,SNOMED
+4137763,Sulfhemoglobinemia,32117000,SNOMED
+4143895,Rhesus isoimmunization due to anti-E,307335006,SNOMED
+36713168,Hemolytic disease of newborn co-occurrent and due to ABO immunization,350601000119109,SNOMED
+444289,Anemia due to protein deficiency,85746008,SNOMED
+4130680,"Autoimmune hemolytic anemia, categorized by antibody class AND/OR complement",127061005,SNOMED
+3657471,HbE (haemoglobin E) beta zero thalassaemia,1239371000000103,SNOMED
+37399441,Alpha thalassemia X-linked intellectual disability syndrome,715342005,SNOMED
+4195271,Megaloblastic anemia due to vegetarianism,78997000,SNOMED
+4166115,Hemoglobin S sickling disorder without crisis,416290001,SNOMED
+4318674,Chronic idiopathic autoimmune hemolytic anemia,22098000,SNOMED
+36717581,Familial hemolytic uremic syndrome,722721004,SNOMED
+4121110,Selective malabsorption of cyanocobalamin,234363001,SNOMED
+4203291,HNSHA due to increased adenosine deaminase activity,5315003,SNOMED
+40485018,Acute sickle cell splenic sequestration crisis,444108000,SNOMED
+4258685,HNSHA due to triosephosphate isomerase deficiency,44641000,SNOMED
+4243676,Hereditary elliptocytosis due to deficiency of protein 4.1,5994005,SNOMED
+4187034,HNSHA due to phosphofructokinase deficiency,41387000,SNOMED
+4125493,Vegan's anemia,234360003,SNOMED
+4269919,Autoimmune hemolytic anemia due to IgG plus complement,62609001,SNOMED
+432868,Hemoglobinopathy,80141007,SNOMED
+436820,Late anemia due to isoimmunization,68361004,SNOMED
+4039536,Autoimmune hemolytic anemia due to complement,11781007,SNOMED
+28396,Hereditary hemolytic anemia,38911009,SNOMED
+24909,Hereditary spherocytosis,55995005,SNOMED
+4082917,"Drug-induced immune hemolytic anemia, immune complex type",18323000,SNOMED
+4320651,Hereditary spherocytosis due to beta spectrin defect,69981004,SNOMED
+4269764,Glucose-6-phosphate dehydrogenase deficiency anemia,62403005,SNOMED
+4131915,Primary (idiopathic) autoimmune hemolytic anemia,127049002,SNOMED
+4147911,Megaloblastic anemia due to inborn errors of metabolism,34925000,SNOMED
+434616,Hemoglobinuria due to hemolysis from external causes,191222008,SNOMED
+4213628,Sickling disorder due to hemoglobin S,417357006,SNOMED
+4079181,G-6-PD class III variant anemia,24661004,SNOMED
+4135713,Megaloblastic anemia due to fish tapeworm,32094009,SNOMED
+4121116,Low affinity hemoglobin,234393007,SNOMED
+4184603,Megaloblastic anemia due to Zollinger-Ellison syndrome,54698001,SNOMED
+432882,Methemoglobinemia,38959009,SNOMED
+4311538,"alpha^+^ Thalassemia, nondeletion type",85422000,SNOMED
+4271197,Idiopathic paroxysmal cold hemoglobinuria,62871001,SNOMED
+4101131,Familial methemoglobinemia,191388008,SNOMED
+4021911,Megaloblastic anemia due to poor nutrition,10619002,SNOMED
+36713571,Megaloblastic anemia due to vitamin B12 deficiency secondary to intestinal disease,717946000,SNOMED
+4125628,Hemoglobin Constant Spring trait,234386008,SNOMED
+4035316,Goats' milk anemia,15332004,SNOMED
+4265915,HNSHA due to diphosphoglycerate mutase deficiency,62268000,SNOMED
+4122929,Kell isoimmunization of the newborn,234380002,SNOMED
+4090690,Megaloblastic anemia of premature infant,18637002,SNOMED
+36715493,Megaloblastic anemia due to folate deficiency in pregnancy and lactation,721185002,SNOMED
+4223384,Hemoglobinopathy with cyanosis,84260001,SNOMED
+4242111,HNSHA due to phosphoglycerate kinase deficiency,59644002,SNOMED
+4218100,Hemolytic anemia due to drugs,81711008,SNOMED
+4098009,Folate deficiency anemia due to liver disorders,191150003,SNOMED
+4291002,Megaloblastic anemia due to drugs,37370005,SNOMED
+4247579,Thalassemia intermedia,934007,SNOMED
+4302298,"Hemolytic uremic syndrome, adult type",78209002,SNOMED
+4100985,Iron deficiency anemia due to dietary causes,191128004,SNOMED
+4167364,Sickle cell-hemoglobin D disease with crisis,417748003,SNOMED
+4098008,Folate deficiency anemia due to malabsorption,191149003,SNOMED
+4120454,Homozygous alpha thalassemia,234383000,SNOMED
+435789,Megaloblastic anemia,53165003,SNOMED
+4242755,A>gamma< beta^+^ HPFH AND beta^0^ thalassemia in cis,5967006,SNOMED
+4178677,Congenital nonspherocytic hemolytic anemia due to inborn error of metabolism,363041004,SNOMED
+4188474,Thalassemia with other hemoglobinopathy,47047009,SNOMED
+4098749,Alpha trait thalassemia,191187006,SNOMED
+4287574,Megaloblastic anemia due to error of cobalamin metabolism,68700003,SNOMED
+23988,Hemolytic anemia due to glutathione metabolism disorder,191170009,SNOMED
+4222774,Thalassemia syndrome,84188003,SNOMED
+4131127,Secondary autoimmune hemolytic anemia,127050002,SNOMED
+37204550,Hereditary persistence of fetal hemoglobin with sickle cell disease syndrome,783254003,SNOMED
+4282785,Megaloblastic anemia due to nontropical sprue,6659005,SNOMED
+4052711,Epsilon gamma delta beta thalassemia,23371004,SNOMED
+4157495,Sideropenic anemia with reticuloendothelial siderosis,290246007,SNOMED
+4201444,Anemia due to riboflavin deficiency,51667002,SNOMED
+36674478,Neonatal autoimmune hemolytic anemia,774083009,SNOMED
+4139549,Rhesus isoimmunization due to anti-c,307334005,SNOMED
+4131911,Toxic methemoglobinemia with cyanosis,127037003,SNOMED
+4125491,Megaloblastic anemia due to dietary causes,234358000,SNOMED
+4158891,Anemia due to isoimmunization,273985002,SNOMED
+4178731,HNSHA due to glutathione reductase deficiency,52212006,SNOMED
+4303199,Anemia due to pantothenic deficiency,78677008,SNOMED
+4149681,Beta thalassemia trait,269175006,SNOMED
+197253,Hemolytic uremic syndrome,111407006,SNOMED
+42536530,Hereditary vitamin B12 deficiency anemia,735452003,SNOMED
+4100992,Beta thalassemia intermedia,191189009,SNOMED
+4099603,Megaloblastic anemia due to hemodialysis,27366005,SNOMED
+4139552,Kidd isoimmunization of the newborn,307338008,SNOMED
+40491316,Hemoglobin H constant spring thalassemia,447117006,SNOMED
+4206913,HPFH nondeletion type,56205004,SNOMED
+4268894,Acute megaloblastic anemia due to severe illness,62389006,SNOMED
+4235788,Familial megaloblastic anemia,360495000,SNOMED
+36713763,Autoimmune hemolytic anemia mixed type,718716008,SNOMED
+4100994,Hemoglobin Zurich disease,191202009,SNOMED
+4125633,Hereditary elliptocytosis with transient poikilocytosis,234410008,SNOMED
+437834,Non-autoimmune hemolytic anemia,191216004,SNOMED
+4009304,"beta^0^ Thalassemia, nondeletion type",111572002,SNOMED
+4173192,Atypical isoimmunization of newborn,276580005,SNOMED
+4120455,Hemoglobin E/beta thalassemia disease,234392002,SNOMED
+4211932,Sickle cell-hemoglobin E disease without crisis,416638004,SNOMED
+4103123,Idiopathic methemoglobinemia,191389000,SNOMED
+4130195,Paroxysmal cold hemoglobinuria associated with tertiary syphilis,127058009,SNOMED
+254062,Acute chest syndrome,372146004,SNOMED
+4147600,Megaloblastic anemia due to pancreatic insufficiency,3571004,SNOMED
+4297017,Delta beta zero thalassemia,76336008,SNOMED
+4122934,Congenital methemoglobinaema with defective methemoglobin-reducing system,234395000,SNOMED
+4298975,Hemolytic anemia due to malaria,77663007,SNOMED
+760844,Homozygous hemoglobin H constant spring thalassemia,119641000119103,SNOMED
+436659,Iron deficiency anemia,87522002,SNOMED
+30683,Hemoglobin SS disease without crisis,416180004,SNOMED
+4181743,Megaloblastic anemia due to hyperalimentation,5430006,SNOMED
+4149183,Megaloblastic anemia due to error of folate metabolism,35778001,SNOMED
+22281,Sickle cell-hemoglobin SS disease,127040003,SNOMED
+315523,Sickle cell-thalassemia disease,36472007,SNOMED
+30978,Thalassemia,40108008,SNOMED
+4099005,"beta^0^ Thalassemia, deletion type",27080008,SNOMED
+4338976,Megaloblastic anemia due to tropical sprue,87806008,SNOMED
+4132431,Homozygous beta thalassemia,26682008,SNOMED
+26942,Hemoglobin SS disease with crisis,417425009,SNOMED
+37110336,Acquired iron deficiency anemia due to decreased absorption,724557008,SNOMED
+4029726,Transcobalamin II deficiency,237934001,SNOMED
+760845,Hemoglobin C/beta thalassemia disease,119691000119106,SNOMED
+4166099,Sickle cell-hemoglobin D disease without crisis,416214006,SNOMED
+4176884,Hemolytic anemia due to nonlymphoid neoplasm,4939006,SNOMED
+40481595,Congenital hemolytic uremic syndrome,444976001,SNOMED
+4035988,"beta^+^ Thalassemia, normal Hb A>2<, type 2",15326009,SNOMED
+4327189,Hemoglobin M disease,74912001,SNOMED
+4311397,"alpha^+^ Thalassemia, deletion type",86242003,SNOMED
+4267646,Hemolytic uremic syndrome of childhood,36568005,SNOMED
+4171201,Juvenile type megaloblastic anemia,49284006,SNOMED
+4228444,Acquired hemolytic anemia associated with AIDS,421851008,SNOMED
+4034963,"Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness",237617006,SNOMED
+45757189,Thalassemia in mother complicating childbirth,10806241000119108,SNOMED
+4009306,Anemia due to copper deficiency,111574001,SNOMED
+40484201,Hemoglobin O-Arab trait,445542007,SNOMED
+4149042,Post-viral paroxysmal cold hemoglobinuria,35703006,SNOMED
+25518,Sickle cell trait,16402000,SNOMED
+4209139,Autoimmune hemolytic anemia due to IgG,5603006,SNOMED
+37017285,Acquired hemolytic anemia co-occurrent with human immunodeficiency virus infection,713533000,SNOMED
+37116301,Secondary autoimmune hemolytic anemia co-occurrent and due to ulcerative colitis,732966008,SNOMED
+4219568,Sickle cell-hemoglobin E disease with crisis,416484003,SNOMED
+4098753,Primary warm-type hemolytic anemia,191211009,SNOMED
+4336555,G-6-PD variant enzyme deficiency anemia,86859003,SNOMED
+4098019,Toxic hemolytic anemia,191218003,SNOMED
+4131917,Paroxysmal cold hemoglobinuria,127057004,SNOMED
+4101458,Combined B12 and folate deficiency anemia,191154007,SNOMED
+4271753,Alpha plus thalassemia,36467003,SNOMED
+4122933,High affinity hemoglobin,234394001,SNOMED
+4098740,Vitamin B12 deficiency anemia due to malabsorption with proteinuria,191142007,SNOMED
+4101578,Secondary warm-type hemolytic anemia,191213007,SNOMED
+4047524,Heterozygous hemoglobinopathy,123773003,SNOMED
+4121109,Congenital deficiency of intrinsic factor,234361004,SNOMED
+4168286,Anemia due to starvation,48580008,SNOMED
+4098759,"Pyknocytosis, infantile",191229004,SNOMED
+36713573,Acquired iron deficiency anemia due to increased iron requirement,717948004,SNOMED
+4170982,Acquired methemoglobinemia,295315008,SNOMED
+35624651,Autosomal recessive congenital methemoglobinemia,767497003,SNOMED
+4122926,Biermer's congenital pernicious anemia,234362006,SNOMED
+4121114,Hemoglobin Lepore trait,234387004,SNOMED
+45773070,Sickle cell trait in mother complicating pregnancy,72321000119107,SNOMED
+4290233,Hb Lepore thalassemia,69216008,SNOMED
+4122932,Gamma thalassemia,234390005,SNOMED
+4187256,"beta^+^ Thalassemia, normal Hb A>2<, type 1, silent",47084006,SNOMED
+4097961,Acute megaloblastic anemia due to dialysis,26944003,SNOMED
+4211545,Stokvis' disease,57020009,SNOMED
+4238904,Autoimmune hemolytic anemia due to IgA,91411007,SNOMED
+4145277,HNSHA due to pyrimidine-5'-nucleotidase deficiency,34194007,SNOMED
+4297024,Hemolytic anemia due to Bartonella,76366001,SNOMED
+42536531,Hereditary folate deficiency anemia,735453008,SNOMED
+45772084,Iron deficiency anemia in mother complicating childbirth,10812081000119108,SNOMED
+4167291,Acquired methemoglobinuria,294303000,SNOMED
+4193514,HNSHA due to decreased adenosine deaminase activity,78908001,SNOMED
+432588,Megaloblastic anemia due to vitamin B>12< deficiency,49472006,SNOMED
+443721,Sickle cell-hemoglobin C disease with crisis,417517009,SNOMED
+4147491,Vitamin B12 deficiency anemia due to dietary causes,267517008,SNOMED
+3657472,HbE (haemoglobin E) beta plus thalassaemia,1239381000000101,SNOMED
+4098157,Drug-induced methemoglobinemia,191390009,SNOMED
+45757147,Sickle cell trait in mother complicating childbirth,10759401000119105,SNOMED
+4023612,Heterozygous thalassemia,19442009,SNOMED
+37116297,Secondary autoimmune hemolytic anemia co-occurrent and due to chronic inflammatory disease,732962005,SNOMED
+4101573,Vitamin C deficiency anemia,191161006,SNOMED
+4093515,Mild hereditary spherocytosis due to combined deficiency of spectrin AND ankyrin,24975009,SNOMED
+4130192,Post-infectious cold agglutinin disease,127053000,SNOMED
+4103763,Sickle cell-hemoglobin D disease,25472008,SNOMED
+4220697,Acute megaloblastic anemia,82430007,SNOMED
+4146093,Congenital methemoglobinemia,267550008,SNOMED
+4021466,Severe hereditary spherocytosis due to combined deficiency of spectrin AND ankyrin,10564005,SNOMED
+4213820,HPFH A gamma beta^+^ thalassemia,39586009,SNOMED
+4143351,Folate deficiency anemia due to dietary causes,267518003,SNOMED
+4035974,Drug-induced enzyme deficiency anemia,15276008,SNOMED
+3661626,Megaloblastic anemia due to dihydrofolate reductase deficiency,866092006,SNOMED
+443738,Sickle cell-thalassemia disease with crisis,416826005,SNOMED
+437090,Hemolytic disease of fetus OR newborn due to ABO immunization,32858009,SNOMED
+4034711,Hereditary elliptocytosis due to glycophorin C deficiency,15121005,SNOMED
+4312853,Anemia due to vitamin B>6< deficiency,86448001,SNOMED
+4139556,Acquired hemoglobin H disease,307343001,SNOMED
+4190190,Diarrhea-associated hemolytic uremic syndrome,373421000,SNOMED
+4009788,HNSHA due to glutathione synthetase deficiency,111579006,SNOMED
+4094597,Hemoglobin E disease,25065001,SNOMED
+4311676,Anemia due to vitamin A deficiency,85570009,SNOMED
+4196102,Hapten type low affinity hemolytic anemia,44206008,SNOMED
+4130066,Hereditary hemoglobinopathy due to globin chain mutation,127038008,SNOMED
+37116300,Secondary autoimmune hemolytic anemia co-occurrent and due to rheumatic disorder,732965007,SNOMED
+4130190,Sickle cell-Hemoglobin O Arab disease,127048005,SNOMED
+4009787,HNSHA due to aldolase A deficiency,111578003,SNOMED
+4138560,Mild hereditary spherocytosis due to spectrin deficiency,32648007,SNOMED
+4131913,Sickle cell-delta beta^0^-thalassemia,127044007,SNOMED
+4216915,Hemoglobin S sickling disorder with crisis,417279003,SNOMED
+433603,Hemolytic disease of fetus OR newborn due to RhD isoimmunization,86986002,SNOMED
+24006,Sickle cell-hemoglobin C disease,35434009,SNOMED
+4221567,Megaloblastic anemia due to disease of small intestine,82895008,SNOMED
+4159967,Diarrhea-negative hemolytic uremic syndrome,373422007,SNOMED
+37204287,Hemoglobinopathy Toms River,782880001,SNOMED
+4132085,Anemia due to alloimmune destruction of transfused red cells,127319005,SNOMED
+4278816,Alpha zero thalassemia,66055002,SNOMED
+4120456,Congenital methemoglobinemia with abnormal methemoglobins,234396004,SNOMED
+4121113,Alpha thalassemia-2 trait,234385007,SNOMED
+36714258,Lethal hemolytic anemia and genital anomaly syndrome,719402008,SNOMED
+37396761,Dominant beta-thalassemia,716682000,SNOMED
+4248254,epsilon gamma delta beta^0^ Thalassemia,73190000,SNOMED
+4281394,Hereditary elliptocytosis due to beta spectrin-ankyrin interaction,66262001,SNOMED
+4130194,Chronic cold agglutinin disease associated with B-cell neoplasm,127056008,SNOMED
+4122931,Alpha-beta thalassemia,234389001,SNOMED
+4232474,^A^gamma delta beta^0^ thalassemia,89810003,SNOMED
+4100962,Megaloblastic anemia due to impaired absorption of folate,27798002,SNOMED
+4130678,Sickle cell beta plus thalassemia,127042006,SNOMED
+4174701,HNSHA due to hexokinase deficiency,42484009,SNOMED
+4099224,Hereditary spherocytosis due to spectrin deficiency,25266006,SNOMED
+4168772,Megaloblastic anemia due to chronic hemolytic anemia,47844003,SNOMED
+4144956,Hereditary spherocytosis due to deficiency of protein 4.2,33905008,SNOMED
+4015896,Anemia due to niacin deficiency,11491000,SNOMED
+3661615,Primaquine sensitivity anemia,863953007,SNOMED
+4190447,High oxygen affinity hemoglobin polycythemia,3947004,SNOMED
+4008663,Megaloblastic anemia due to exfoliative dermatitis,10205009,SNOMED
+4238731,Megaloblastic anemia due to pregnancy,91217009,SNOMED
+4219359,G-6-PD class IV variant anemia,82003006,SNOMED
+4098018,Mechanical hemolytic anemia,191217008,SNOMED
+37119138,Iron deficiency anemia due to blood loss,724556004,SNOMED
+37311954,Gamma delta beta thalassemia,788944005,SNOMED
+4130189,Sickle cell trait with coexistent alpha-thalassemia,127046009,SNOMED
+37116298,Secondary autoimmune hemolytic anemia co-occurrent and due to lymphoproliferative disorder,732963000,SNOMED
+4298813,Severe hereditary spherocytosis due to spectrin deficiency,77413008,SNOMED
+4131919,"Drug-induced immune hemolytic anemia, hapten type",127060006,SNOMED
+4250028,Acute megaloblastic anemia due to nitrous oxide,73891003,SNOMED
+4327824,Hereditary elliptocytosis due to abnormal protein 4.1,75443009,SNOMED
+4315393,Beta zero thalassemia,86715000,SNOMED
+4284415,Megaloblastic anemia due to increased requirements,67894009,SNOMED
+4231453,HPFH linked to beta-globulin gene cluster,89459006,SNOMED
+4130068,Sickle cell-beta^0^-thalassemia,127043001,SNOMED
+4122930,Delta-beta-Lepore thalassemia,234388009,SNOMED
+4150499,Refractory megaloblastic anemia,31206006,SNOMED
+35626024,Vaso-occlusive pain episode in sickle cell disease,769167005,SNOMED
+4024671,Paroxysmal nocturnal hemoglobinuria,1963002,SNOMED
+4280354,Nutritional anemia,66612000,SNOMED
+4121112,Maternal autoimmune hemolytic anemia,234381003,SNOMED
+4203904,Hereditary persistence of fetal hemoglobin delta beta plus thalassemia,54006005,SNOMED
+4174376,Secondary paroxysmal cold hemoglobinuria,50253007,SNOMED
+4168911,Hemoglobin H disease,48553001,SNOMED
+4264046,Sickle cell-hemoglobin E disease,47024008,SNOMED
+4228681,Hereditary elliptocytosis due to alpha spectrin defect,8857001,SNOMED
+4144811,Anemia due to zinc deficiency,34629009,SNOMED
+37117740,Secondary autoimmune hemolytic anemia co-occurrent and due to systemic lupus erythematosus,732960002,SNOMED
+4130191,Secondary warm autoimmune hemolytic anemia,127052005,SNOMED
+4327045,Thalassemia major,75451007,SNOMED
+36715494,Megaloblastic anemia due to folate deficiency in prematurity,721186001,SNOMED
+4264017,Hereditary persistence of fetal hemoglobin G gamma beta plus thalassemia,61395005,SNOMED
+37312165,Atypical hemolytic uremic syndrome,789660001,SNOMED
+4044728,Thiamine-responsive megaloblastic anemia,12907000,SNOMED
+4098017,Primary cold-type hemolytic anemia,191210005,SNOMED
+4338370,Megaloblastic anemia due to alcoholism,87810006,SNOMED
+4143167,Autoimmune hemolytic anemia due to IgA plus complement,33491002,SNOMED
+35624653,Autosomal recessive congenital methemoglobinemia type I,767499000,SNOMED
+4252396,Hemoglobin D trait,7391009,SNOMED
+440977,Megaloblastic anemia due to folate deficiency,85649008,SNOMED
+35624317,Hemolytic anemia due to adenylate kinase deficiency,766982000,SNOMED
+36715580,Acquired thiamine deficiency anemia,721295000,SNOMED
+4049095,Double heterozygous sickling disorder,23269001,SNOMED
+4218794,Hereditary elliptocytosis due to beta spectrin defect in self-association,73073009,SNOMED
+4098007,Congenital folate malabsorption anemia,191146005,SNOMED
+45757146,Sickle cell anemia in mother complicating childbirth,10759351000119103,SNOMED
+4131125,Acquired hemoglobinopathy,127039000,SNOMED
+4145893,Rhesus isoimmunization due to anti-D,307333004,SNOMED
+4176425,Hemoglobin C disease,51053007,SNOMED
+4262394,Hemoglobin E trait,46248003,SNOMED
+37110727,Nonspherocytic hemolytic anemia due to deficiency of adenosinetriphosphatase,725057008,SNOMED
+4171026,HNSHA due to NADH diaphorase deficiency,47526003,SNOMED
+4115393,Hereditary nonspherocytic hemolytic anemia,301317008,SNOMED
+321263,Sickle cell-thalassemia disease without crisis,417048006,SNOMED
+4144077,G-6-PD class II variant anemia,34852006,SNOMED
+4215791,Acute megaloblastic anemia secondary to total parenteral nutrition,71855000,SNOMED
+4278669,Beta thalassemia,65959000,SNOMED
+4100987,"Folate deficiency anemia, drug-induced",191148006,SNOMED
+4058246,Iron deficiency anemia of pregnancy,199248002,SNOMED
+4295183,Mixed hemoglobin disorder,38589006,SNOMED
+4219853,Warm autoimmune hemolytic anemia,3978000,SNOMED
+4082253,Unstable hemoglobin disease,18273004,SNOMED
+36713572,Vitamin B12 deficiency anemia caused by drug,717947009,SNOMED
+36714965,Cystic fibrosis with gastritis and megaloblastic anemia syndrome,720401009,SNOMED
+4273847,Idiopathic chronic cold agglutinin disease,6398009,SNOMED
+444238,Anemia due to enzyme deficiency,111577008,SNOMED
+4267282,Delta zero thalassemia,62074008,SNOMED
+22288,Hereditary elliptocytosis,191169008,SNOMED
+440979,Acquired hemolytic anemia,4854004,SNOMED
+4261354,Megaloblastic anemia due to decreased intake of vitamin B>12<,44910003,SNOMED
+42539413,Alpha-thalassemia intellectual disability syndrome linked to chromosome 16,734349003,SNOMED
+4327329,Hemoglobinopathy with erythrocytosis,75063005,SNOMED
+765385,Acute chest syndrome due to sickle cell-hemoglobin C disease with crisis,128431000119106,SNOMED
+436956,Evans syndrome,75331009,SNOMED
+4280961,Hemoglobin D disease,66729008,SNOMED
+4247416,Megaloblastic anemia due to congenital deficiency of intrinsic factor,60504009,SNOMED
+4254249,HNSHA due to pyruvate kinase deficiency,74703006,SNOMED
+4098747,Anemia due to disorders of nucleotide metabolism,191180008,SNOMED
+4045142,Megaloblastic anemia due to gastrectomy,12238007,SNOMED
+4144746,Hereditary hemoglobinopathy,427306008,SNOMED
+4092893,Anemia due to vitamin E deficiency,24962009,SNOMED
+4131914,Sickle cell anemia with coexistent alpha-thalassemia,127045008,SNOMED
+4313581,Hapten type high affinity hemolytic anemia,86225009,SNOMED
+4347537,Oroya fever,240453002,SNOMED
+4121115,Sickle cell anemia with high hemoglobin F,234391009,SNOMED
+4009645,"Hemolytic disease of the newborn due to non-ABO, non-Rh isoimmunization",111469006,SNOMED
+4287844,Alpha thalassemia,68913001,SNOMED
+4181143,HNSHA due to glucose phosphate isomerase deficiency,52413004,SNOMED
+440218,Hemolytic disease of fetus OR newborn due to isoimmunization,387705004,SNOMED
+4131126,Sickle cell-hemoglobin Lepore disease,127047000,SNOMED
+4160887,Cold autoimmune hemolytic anemia,398937006,SNOMED
+36715492,Megaloblastic anemia due to folate deficiency due to increased requirement,721184003,SNOMED
+4215784,Autoimmune hemolytic anemia due to IgM,71832003,SNOMED
+4146936,Drug-induced autoimmune hemolytic anemia,309742004,SNOMED
+4098758,Acquired spherocytosis,191228007,SNOMED
+4096927,Megaloblastic anemia due to vitamin B>12< malabsorption with proteinuria,26333003,SNOMED
+35624652,Autosomal recessive congenital methemoglobinemia type II,767498008,SNOMED
+443726,Sickle cell-hemoglobin C disease without crisis,417683006,SNOMED
+432295,Pernicious anemia,84027009,SNOMED
+37397537,Beta thalassemia X-linked thrombocytopenia syndrome,718196002,SNOMED
+4120449,von Jaksch's anemia,234345001,SNOMED
+4168441,Hereditary spherocytosis due to combined deficiency of spectrin AND ankyrin,47516005,SNOMED
+4243950,Megaloblastic anemia due to blind loop syndrome,60164003,SNOMED
+765176,Hemoglobin D/beta thalassemia disease,119701000119106,SNOMED
+4061151,Hereditary persistence of fetal hemoglobin thalassemia,16964007,SNOMED
+4297537,Hemolytic anemia due to infection,38689004,SNOMED
+4139550,Rhesus isoimmunization due to anti-Cw,307336007,SNOMED
+4130067,Sickle cell-beta-thalassemia,127041004,SNOMED
+4231981,Methemoglobinemia due to nitrate poisoning,406593009,SNOMED
+4214191,Hereditary hemoglobin S,416417002,SNOMED
+36715351,"Alport syndrome, intellectual disability, midface hypoplasia, elliptocytosis syndrome",720982007,SNOMED
+36716126,Iron-refractory iron deficiency anemia,722005000,SNOMED
+4098754,Secondary cold-type hemolytic anemia,191212002,SNOMED
+4196206,Beta plus thalassemia,79592006,SNOMED
+4038772,Delta beta thalassemia,16360009,SNOMED
+4198185,Plummer-Vinson syndrome,80126007,SNOMED
+4100991,Hemolytic anemia due to triose phosphate isomerase deficiency,191179005,SNOMED
+4130193,Cold agglutinin disease due to Epstein-Barr virus infection,127054006,SNOMED
+4214023,G-6-PD class V variant anemia,80963002,SNOMED
+4046563,G-6-PD class I variant anemia,22933009,SNOMED
+4140101,HPFH unlinked to beta-globulin gene cluster,32855007,SNOMED
+4039785,Delta thalassemia,16427007,SNOMED

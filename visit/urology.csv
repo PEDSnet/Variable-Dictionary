@@ -1,0 +1,8 @@
+﻿concept_id,concept_name,concept_code,vocabulary_id
+45756821,Pediatric Urology,OMOP4822018,ABMS
+44777747,Urology,101,HES Specialty
+44777750,Paediatric Urology,211,HES Specialty
+38004474,Urology,34,Medicare Specialty
+38004019,"Allopathic & Osteopathic Physicians, Urology",208800000X,NUCC
+43125861,Urology,2088F0040X,NUCC
+38004020,"Allopathic & Osteopathic Physicians, Urology, Pediatric Urology",2088P0231X,NUCC

@@ -1,0 +1,13 @@
+﻿concept_id,concept_name,concept_code,vocabulary_id
+44777732,Ophthalmology,130,HES Specialty
+44777755,Paediatric Ophthalmology,216,HES Specialty
+44777733,Medical ophthalmology,460,HES Specialty
+38004463,Ophthalmology,18,Medicare Specialty
+38003907,"Allopathic & Osteopathic Physicians, Ophthalmology",207W00000X,NUCC
+903238,Glaucoma Ophthalmology,207WX0009X,NUCC
+903239,Retina Ophthalmology,207WX0107X,NUCC
+903240,Uveitis and Ocular Inflammatory Disease Ophthalmology,207WX0108X,NUCC
+903241,Neuro-Ophthalmology,207WX0109X,NUCC
+903242,Pediatric Ophthalmology and Strabismus,207WX0110X,NUCC
+903243,Cornea and External Ophthalmology,207WX0120X,NUCC
+903244,Ophthalmic Plastic and Reconstructive Surgery,207WX0200X,NUCC

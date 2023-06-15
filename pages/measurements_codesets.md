@@ -1,5 +1,17 @@
-### Measurements
+# Measurements
 
+### This section contains codeset metadata and links to each codeset csv.
+
+#### For each codeset, the following is provided:
+* **Name**: Name of codeset
+* **Codeset link**: Link to codeset csv
+* **Data source(s)**: e.g. PCORnet CDM, PEDSnet CDM
+* **Description**: Description of and information about codeset
+* **Vocabularies**: e.g. ICD10CM, SNOMED
+* **Last updated**: YYYY-MM last updated
+* **Primary developer**:
+* **Status**: Development status
+* **Other**: Other technical notes
 
 | Name/Codeset link | Target Data Model | Description | Vocabularies | Last Updated | Primary Developer | Status | Metadata |
 |-------------------|-------------------|-------------|--------------|--------------|-------------------|--------|-------|

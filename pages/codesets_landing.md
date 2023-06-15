@@ -18,7 +18,7 @@
 |[rx_arb](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/rx_arb.csv) |  Medication codeset for the following ingredients:<br> Azilsartan,<br> Candesartan,<br> Eprosartan,<br> Irbesartan,<br> Losartan,<br> Olmesartan,<br> Telmisartan,<br> Valsartan | N/A |
 | [rx_bb](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/rx_bb.csv) | Medication codeset for the following ingredients:<br> Acebutolol,<br> Atenolol,<br> Betaxolol,<br>Bisoprolol,<br> Carteolol,<br> Carvediol,<br> Labetalol,<br> Metoprolol,<br> Nadolol,<br> Nebivolol,<br> Penbutolol,<br> Pindolol,<br> Propanolol,<br> Sotalol,<br> Timolol | N/A |
 |[rx_ccb](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/rx_ccb.csv) | Medication codeset for the following ingredients: Amlodipine,<br> Diltiazem,<br> Felodipine,<br> Isradipine,<br> Nicardipine,<br> Nifedipine,<br> Nisoldipine,<br> Verapamil | N/A |
-| [rx_loop_diuretic](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/rx_loop_diuretic.csv) | | Medication codeset for the following ingredients: Furosemide,<br> Bumetanide,<br> Ethacrynic acid,<br> Torsemide | N/A |
+| [rx_loop_diuretic](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/rx_loop_diuretic.csv) | Medication codeset for the following ingredients: Furosemide,<br> Bumetanide,<br> Ethacrynic acid,<br> Torsemide | N/A |
 | [rx_thiazide](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/drug/rx_thiazide.csv) | Medication codeset for the following ingredients: Chlorothiazide,<br> Chlorthalidone,<br> Hydrochlorothiazide,<br> Indapamide,<br> Metolazone | N/A |
 
 

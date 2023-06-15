@@ -15,7 +15,7 @@ The variables page includes variable definitions for PEDSnet studies organized i
 ## CODESETS PAGE:
 The codesets page include a list of codesets organized by data domain. 
 
-[CODESETS PAGE](./pages/codesets_landing.md)
+[CODESETS PAGE](./pages/codesets_landing.html)
 
 ## .csv DOWNLOAD INSTRUCTIONS:
 This page provides step-by-step instruction for downloading a .csv codeset file from GitHub.

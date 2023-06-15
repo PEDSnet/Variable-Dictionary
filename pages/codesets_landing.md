@@ -26,7 +26,7 @@
 
 | Name/Codeset link | Description | Intent |
 |-------------------|-------------------|-------------|
-| [px_kidney_transplant](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/procedure/px_kidney_transplant.csv) | Kidney transplant diagnosis codes	| CPT4, HCPCS, ICD10PCS, ICD9Proc, SNOMED | N/A |
+| [px_kidney_transplant](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/procedure/px_kidney_transplant.csv) | Kidney transplant diagnosis codes	| N/A |
 | [px_kidney_dialysis](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/procedure/px_kidney_dialysis.csv) | Kidney dialysis diagnosis codes | N/A |
 
 ### [Conditions](https://github.com/PEDSnet/Variable-Dictionary/blob/redevelopment/pages/conditions.md)

@@ -14,8 +14,6 @@
 * **Other**: Other technical notes
 
 
-### Medications
-
 
 | Name/Codeset link | Target Data Model | Description | Vocabularies | Last Updated | Primary Developer | Status | Metadata |
 |-------------------|-------------------|-------------|--------------|--------------|-------------------|--------|----------|

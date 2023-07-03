@@ -1,21 +1,27 @@
-# Conditions
 
-### This section contains codeset metadata and links to each codeset csv.
 
-#### For each codeset, the following is provided:
-* **Name**: Name of codeset
-* **Codeset link**: Link to codeset csv
-* **Data source(s)**: e.g. PCORnet CDM, PEDSnet CDM
-* **Description**: Description of and information about codeset
-* **Vocabularies**: e.g. ICD10CM, SNOMED
-* **Last updated**: YYYY-MM last updated
-* **Primary developer**:
-* **Status**: Development status
-* **Other**: Other technical notes
+### Conditions
+
 
 | Name/Codeset link | Target Data Model | Description | Vocabularies | Last Updated | Primary Developer | Status | Metadata |
 |-------------------|-------------------|-------------|--------------|--------------|-------------------|--------|-------|
-| [dx_ckd_stage23](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/dx_ckd_stage23.csv) | PCORnet CDM | Diagnoses for chronic kidney disease stages 2 and 3 | ICD10, ICD10CM, ICD9CM, SNOMED | 2021-11 | Levon Utidjian | vocab based | N/A |
-| [dx_kidney_transplant](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/dx_kidney_transplant.csv) | PCORnet CDM | Kidney transplant condition codes | ICD10, ICD10CM, ICD9CM, SNOMED | 2021-11 | Levon Utidjian | vocab based | N/A |
-| [dx_kidney_dialysis](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/dx_kidney_dialysis.csv) | PCORnet CDM | Kidney dialysis condition codes | ICD10, ICD10CM, ICD9CM, SNOMED | 2021-11 | Levon Utidjian | vocab based | N/A |
-| [dx_hypertension_codes](https://github.com/PRESERVE-Coordinating-Center/preserve_codesets/blob/main/condition/dx_hypertension_codes.csv) | PCORnet CDM | Hypertension condition codes | ICD10, ICD10CM, ICD9CM, SNOMED | 2021-11 | Levon Utidjian | vocab based | N/A |
+|[dx_hsp](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_hsp.csv)|Diagnosis of Henoch-Schonlein purpura (HSP), also known as Immunoglobulin vasculitis (IgAV)|NA|
+|[dx_ckd_stage23](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/NA)|Diagnoses for chronic kidney disease stages 2 and 3|Identify patients with at least one diagnosis for chronic kidney disease stages 2 and 3|
+|[dx_hyperoxaluria](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/NA)|Diagnoses for or related to primary hyperoxaluria|Identify patients with hyperoxaluria for inclusion. The type column informs the tier system for assigning diagnosis specificity.|
+|[dx_anemia](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/NA)|Anemia diagnoses|NA|
+|[dx_cystic_fibrosis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/NA)|diagnoses of cystic fibrosis|NA|
+|[dx_cystitis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/NA)|diagnoses of cystitis|NA|
+|[dx_diabetes](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/NA)|diagnoses of diabetes|NA|
+|[dx_malabsorption](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/NA)|diagnoses related to malabsorption|NA|
+|[dx_malignancy](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/NA)|diagnoses related to malignancy/neoplasm|NA|
+|[dx_neurogenic_bladder](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/NA)|diagnoses related to neurogenic bladder|NA|
+|[dx_peripheral_neuropathy](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/NA)|diagnoses related to peripheral neuropathy|NA|
+|[dx_premature](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/NA)|diagnoses indicating premature birth|NA|
+|[dx_retinopathy](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/NA)|diagnoses related to retinopathy / retinal conditions|NA|
+|[dx_urinary_tract_obstruction](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/NA)|diagnoses of congenital and acquired urinary tract obstruction|NA|
+|[dx_uti](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/NA)|diagnoses of urinary tract infection|NA|
+|[dx_asthma](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_asthma.csv)|asthma|comparing patients with asthma between PEDSnet, National and Texas|
+|[dx_ADHD](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_ADHD.csv)|ADHD|Compare occurrence in ADHD between sites|
+|[dx_developmemental](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_developmental.csv)|Developmental issues|Compare occurrence between sites|
+|[dx_developmemental](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_developmental.csv)|Developmental issues|Compare occurrence between sites|
+|[dx_autism](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_autism.csv)|Autism|Compare occurrence between sites|

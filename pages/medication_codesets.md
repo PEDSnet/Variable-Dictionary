@@ -1,3 +1,10 @@
+
+
+### [Medications](https://pedsnet.github.io/Variable-Dictionary/pages/medication_codesets.html)
+
+
+| Name/Codeset link | Target Data Model | Description | Vocabularies | Last Updated | Primary Developer | Status | Metadata |
+|-------------------|-------------------|-------------|--------------|--------------|-------------------|--------|-------|
 |[rx_ras](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_ras.csv)|PEDSnet|Renin-angiotensin-aldosterone system blocking medications including angiotension-converting enzyme (ACE) inhibitors, angiotension II receptor blockers (ARBs), and other agents acting on the renin-angiotension system|NA|2021-03-01|Levon Utidjian|NA||
 |[rx_azathioprine](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_azathioprine.csv)|PEDSnet|Immunosuppressive medication azathioprine|NA|2019-11-01|Hanieh Razzaghi|NA||
 |[rx_cyclophosphamide](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_cyclophosphamide.csv)|PEDSnet|Immunosuppressive medication cyclophosphamide|NA|2019-11-01|Hanieh Razzaghi|NA||
@@ -29,34 +36,3 @@
 |[rx_antibiotic_injectables](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_antibiotic_injectables.csv)|PEDSnet|injectable antibiotic drugs for neonates|RxNorm|2023-05-01|Nicole Marchesani|at clinical dose group level||
 |[rx_paxlovid](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_paxlovid.csv)|PEDSnet|Codeset used to identify Paxlovid prescriptions. Note: the code_type column specifies whether the concept_id refers to nirmatrelvir, ritonavir, or paxlovid (nirmatrelvir/ritonavir). To identify Paxlovid, a nirmatrelvir and ritonavir code needed to occur on the same day.|NDC,RxNorm,Other|2022-10-10|Kathryn Hirabayashi|Link to repo of study for which the codeset was developed: https://atlassian.chop.edu/bitbucket/projects/COV/repos/paxlovid_brief/browse||
 |[rx_sglt2_medications](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/sglt2_codeset_vals.csv)|PEDSnet|codeset to capture all sglt2 inhibitor prescription codes|RxNorm|2023-06-29|Rodrigo Azuero-Dajud|NA||
-|[rx_ras](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_ras.csv)|Renin-angiotensin-aldosterone system blocking medications including angiotension-converting enzyme (ACE) inhibitors, angiotension II receptor blockers (ARBs), and other agents acting on the renin-angiotension system|NA|
-|[rx_azathioprine](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_azathioprine.csv)|Immunosuppressive medication azathioprine|NA|
-|[rx_cyclophosphamide](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_cyclophosphamide.csv)|Immunosuppressive medication cyclophosphamide|NA|
-|[rx_mycophenolate](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_mycophenolate.csv)|Immunosuppressive medication mycophenolate|NA|
-|[rx_other_antihtn](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_other_antihtn.csv)|Other antihypertensive medications not otherwise classified (exclusive of RAS blockers, calcium channel blockers, beta blockers, diuretics)|NA|
-|[rx_rituximab](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_rituximab.csv)|Immunosuppressive medication rituximab|NA|
-|[rx_steroids](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_steroids.csv)|Systemic steroids including prednisone, prednisolone, and methylprednisolone|NA|
-|[rx_tacrolimus_cyclosporine](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_tacrolimus_cyclosporine.csv)|Calcineurin inhibitors tacrolimus cyclosporine|NA|
-|[rx_ace_inhibitor](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_ace_inhibitor.csv)|Medication codeset for the following ingredients: Benazepril, Captopril, Enalapril, Fosinopril, Lisinopril, Moexipril, Periondopril, Quinapril,Ramipril, Trandolapril|NA|
-|[rx_arb](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/NA)|Medication codeset for the following ingredients: Azilsartan, Candesartan,Eprosartan,Irbesartan,Losartan,Olmesartan,Telmisartan, Valsartan|NA|
-|[rx_bb](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/NA)|Medication codeset for the following ingredients:, Acebutolol, Atenolol, Betaxolol,Bisoprolol, Carteolol, Carvediol, Labetalol, Metoprolol, Nadolol, Nebivolol, Penbutolol, Pindolol, Propanolol, Sotalol, Timolol|NA|
-|[rx_ccb](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/NA)|Medication codeset for the following ingredients: Amlodipine, Diltiazem, Felodipine, Isradipine, Nicardipine, Nifedipine, Nisoldipine ,Verapamil|NA|
-|[rx_loop_diuretic](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/NA)|Medication codeset for the following ingredients: Furosemide, Bumetanide, Ethacrynic acid, Torsemide|NA|
-|[rx_thiazide](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/NA)|Medication codeset for the following ingredients: Chlorothiazide, Chlorthalidone, Hydrochlorothiazide, Indapamide, Metolazone|NA|
-|[rx_anesthesia](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/NA)|General anesthesia: Propofol (intravenous), Etomidate (intravenous), Ketamine (intravenous), Midazolam (intravenous), Fentanyl (intravenous), Nitrous oxide (inhaled), Sevoflurane (inhaled), Desflurane (inhaled), Isoflurane (inhaled)|NA|
-|[rx_fludrocortisone](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/NA)|Oral fludrocortisone|NA|
-|[rx_deflazacort](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/NA)|Oral deflazacort|NA|
-|[rx_ace_inhibitor](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/NA)|Angiotensin-converting enzyme (ACE) inhibitor medications (ingredients: Benazepril, Captopril, Enalapril, Fosinopril, Lisinopril, Moexipril, Periondopril, Quinapril, Ramipril, Trandolapril).|To identify patients with exposure to Angiotensin-converting enzyme (ACE) inhibitor medications.|
-|[rx_acetazolamide](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/NA)|Acetazolamide drug exposures: oral, injectable, and topical|NA|
-|[rx_b6](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/NA)|Vitamin B6 / pyridoxine exposures: oral|NA|
-|[rx_citrate](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/NA)|Citrate drug exposures|NA|
-|[rx_diuretics_thiazides](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/NA)|thiazides and thiazide-like diuretics: oral|NA|
-|[rx_furosemide](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/NA)|furosemide drug exposures: oral, injectable|NA|
-|[rx_opioids](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/NA)|exposures to one of the following opioids: tilidine, tramadol, buprenorphine, butorphanol, dezocine, codeine, fentanyl, dihydrocodeine,  morphine, hydromorphone, Ketobemidone, meperidine, methadone, nalbuphine, opium, oxycodone, papaveretum, pentazocine, pirinitramide, propoxyphene, tapentadol|NA|
-|[rx_ppi](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/NA)|exposures to one of the following proton-pump inhibitors: omeprazole, esomeprazole, lansoprazole, pantoprazole, rabeprazole, dexlansoprazole|NA|
-|[rx_topiramate](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/NA)|Exposures to topiramate: oral|NA|
-|[rx_zonisamide](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/NA)|exposures to zonisamide: oral|NA|
-|[rx_anesthesia](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/NA)|Anesthesia including Propofol (intravenous), Etomidate (intravenous), Ketamine (intravenous), Midazolam (intravenous), Fentanyl (intravenous), Nitrous oxide (inhaled), Sevoflurane (inhaled), Desflurane (inhaled), Isoflurane (inhaled)|Blood pressure medications within 30 days of an outpatient procedure during which anesthesia was administered were excluded from analyses.|
-|[rx_antibiotic_injectables](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_antibiotic_injectables.csv)|injectable antibiotic drugs for neonates|purpose is to evaluate use of injectable antibiotic medications during hospitalization|
-|[rx_paxlovid](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_paxlovid.csv)|Codeset used to identify Paxlovid prescriptions. Note: the code_type column specifies whether the concept_id refers to nirmatrelvir, ritonavir, or paxlovid (nirmatrelvir/ritonavir). To identify Paxlovid, a nirmatrelvir and ritonavir code needed to occur on the same day.|Used to identify pediatric patients aged <18 who were prescribed Paxlovid in the EHR, for a descriptive brief report characterizing these patients. Only data available locally for 8 PEDSnet sites was employed (not the full RECOVER cohort).|
-|[rx_sglt2_medications](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/sglt2_codeset_vals.csv)|codeset to capture all sglt2 inhibitor prescription codes|to find number of pediatric patients receiving a prescription for an sglt2 inhibitor from 2018-2022|

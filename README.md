@@ -17,8 +17,6 @@ The codesets page include a list of codesets organized by data domain.
 
 [CODESETS PAGE](./pages/codesets_landing.md)
 
-[Codessets](https://pedsnet.github.io/Variable-Dictionary/pages/codesets_landing.html)
-
 ## .csv DOWNLOAD INSTRUCTIONS:
 This page provides step-by-step instruction for downloading a .csv codeset file from GitHub.
 

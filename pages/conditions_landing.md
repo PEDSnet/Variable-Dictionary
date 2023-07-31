@@ -1,0 +1,22 @@
+|report_data.pages_link       |
+|:----------------------------|
+|[dx_ADHD](https://pedsnet.github.io/Variable-Dictionary/pages/condition/dx_ADHD.md)|
+|[dx_anemia](https://pedsnet.github.io/Variable-Dictionary/pages/condition/dx_anemia.md)|
+|[dx_asthma](https://pedsnet.github.io/Variable-Dictionary/pages/condition/dx_asthma.md)|
+|[dx_autism](https://pedsnet.github.io/Variable-Dictionary/pages/condition/dx_autism.md)|
+|[dx_ckd_stage23](https://pedsnet.github.io/Variable-Dictionary/pages/condition/dx_ckd_stage23.md)|
+|[dx_cystic_fibrosis](https://pedsnet.github.io/Variable-Dictionary/pages/condition/dx_cystic_fibrosis.md)|
+|[dx_cystitis](https://pedsnet.github.io/Variable-Dictionary/pages/condition/dx_cystitis.md)|
+|[dx_developmemental](https://pedsnet.github.io/Variable-Dictionary/pages/condition/dx_developmemental.md)|
+|[dx_developmemental](https://pedsnet.github.io/Variable-Dictionary/pages/condition/dx_developmemental.md)|
+|[dx_diabetes](https://pedsnet.github.io/Variable-Dictionary/pages/condition/dx_diabetes.md)|
+|[dx_hsp](https://pedsnet.github.io/Variable-Dictionary/pages/condition/dx_hsp.md)|
+|[dx_hyperoxaluria](https://pedsnet.github.io/Variable-Dictionary/pages/condition/dx_hyperoxaluria.md)|
+|[dx_malabsorption](https://pedsnet.github.io/Variable-Dictionary/pages/condition/dx_malabsorption.md)|
+|[dx_malignancy](https://pedsnet.github.io/Variable-Dictionary/pages/condition/dx_malignancy.md)|
+|[dx_neurogenic_bladder](https://pedsnet.github.io/Variable-Dictionary/pages/condition/dx_neurogenic_bladder.md)|
+|[dx_peripheral_neuropathy](https://pedsnet.github.io/Variable-Dictionary/pages/condition/dx_peripheral_neuropathy.md)|
+|[dx_premature](https://pedsnet.github.io/Variable-Dictionary/pages/condition/dx_premature.md)|
+|[dx_retinopathy](https://pedsnet.github.io/Variable-Dictionary/pages/condition/dx_retinopathy.md)|
+|[dx_urinary_tract_obstruction](https://pedsnet.github.io/Variable-Dictionary/pages/condition/dx_urinary_tract_obstruction.md)|
+|[dx_uti](https://pedsnet.github.io/Variable-Dictionary/pages/condition/dx_uti.md)|

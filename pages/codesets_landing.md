@@ -5,7 +5,7 @@
 ## DATA DOMAINS
 
 
-### [Medications](https://pedsnet.github.io/Variable-Dictionary/pages/medication_landing.html)
+### [Medications](https://pedsnet.github.io/Variable-Dictionary/pages/medications_landing.html)
 
 
 ### [Procedures](https://pedsnet.github.io/Variable-Dictionary/pages/procedures_landing.html)

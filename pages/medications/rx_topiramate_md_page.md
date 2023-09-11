@@ -1,6 +1,6 @@
 |Field            |Value                         |
 |:----------------|:-----------------------------|
-|codeset_name     |rx_topiramate                 |
+|codeset_name     |NA                            |
 |codeset_link     |[rx_topiramate](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_topiramate.csv)|
 |cdm              |PEDSnet                       |
 |clinical_concept |Exposures to topiramate: oral |

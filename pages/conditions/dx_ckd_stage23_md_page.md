@@ -1,6 +1,6 @@
 |Field            |Value                                               |
 |:----------------|:---------------------------------------------------|
-|codeset_name     |dx_ckd_stage23                                      |
+|codeset_name     |Chronic Kidney Disease (stage 2 and 3)              |
 |codeset_link     |[dx_ckd_stage23](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_ckd_stage23.csv)|
 |cdm              |PEDSnet,PCORnet                                     |
 |clinical_concept |Diagnoses for chronic kidney disease stages 2 and 3 |

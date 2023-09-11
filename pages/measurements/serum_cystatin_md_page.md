@@ -1,6 +1,6 @@
 |Field            |Value                       |
 |:----------------|:---------------------------|
-|codeset_name     |serum_cystatin              |
+|codeset_name     |Serum cystatin              |
 |codeset_link     |[serum_cystatin](https://github.com/PEDSnet/Variable-Dictionary/blob/main/measurement/serum_cystatin.csv)|
 |cdm              |Other                       |
 |clinical_concept |Serum cystatin measurements |

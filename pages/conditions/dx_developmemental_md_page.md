@@ -1,6 +1,6 @@
 |Field            |Value                |
 |:----------------|:--------------------|
-|codeset_name     |dx_developmemental   |
+|codeset_name     |Developmental issues |
 |codeset_link     |[dx_developmemental](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_developmemental.csv)|
 |cdm              |PEDSnet              |
 |clinical_concept |Developmental issues |

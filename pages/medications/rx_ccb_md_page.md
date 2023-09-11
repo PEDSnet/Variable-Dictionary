@@ -1,6 +1,6 @@
 |Field            |Value                                                                                                                                            |
 |:----------------|:------------------------------------------------------------------------------------------------------------------------------------------------|
-|codeset_name     |rx_ccb                                                                                                                                           |
+|codeset_name     |Calcium channel blockers                                                                                                                         |
 |codeset_link     |[rx_ccb](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_ccb.csv)                                                               |
 |cdm              |PEDSnet,PCORnet                                                                                                                                  |
 |clinical_concept |Medication codeset for the following ingredients: Amlodipine, Diltiazem, Felodipine, Isradipine, Nicardipine, Nifedipine, Nisoldipine ,Verapamil |

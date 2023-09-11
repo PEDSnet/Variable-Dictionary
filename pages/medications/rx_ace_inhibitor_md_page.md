@@ -1,6 +1,6 @@
 |Field            |Value                                                                                                                                                                                          |
 |:----------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|codeset_name     |rx_ace_inhibitor                                                                                                                                                                               |
+|codeset_name     |ACE Inhibitors                                                                                                                                                                                 |
 |codeset_link     |[rx_ace_inhibitor](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_ace_inhibitor.csv)                                                                                         |
 |cdm              |PEDSnet,PCORnet                                                                                                                                                                                |
 |clinical_concept |Angiotensin-converting enzyme (ACE) inhibitor medications (ingredients: Benazepril, Captopril, Enalapril, Fosinopril, Lisinopril, Moexipril, Periondopril, Quinapril, Ramipril, Trandolapril). |

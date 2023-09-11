@@ -1,6 +1,6 @@
 |Field            |Value                                                 |
 |:----------------|:-----------------------------------------------------|
-|codeset_name     |vital_diastolic_field                                 |
+|codeset_name     |Diastolic blood pressure                              |
 |codeset_link     |[vital_diastolic_field](https://github.com/PEDSnet/Variable-Dictionary/blob/main/measurement/vital_diastolic_field.csv)|
 |cdm              |PCORnet                                               |
 |clinical_concept |Patient diastolic blood pressure measurements in mmHg |

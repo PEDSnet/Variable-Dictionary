@@ -1,6 +1,6 @@
 |Field            |Value                   |
 |:----------------|:-----------------------|
-|codeset_name     |lab_bicarb              |
+|codeset_name     |Sodium bicarbonate labs |
 |codeset_link     |[lab_bicarb](https://github.com/PEDSnet/Variable-Dictionary/blob/main/measurement/lab_bicarb.csv)|
 |cdm              |PEDSnet                 |
 |clinical_concept |Sodium bicarbonate labs |

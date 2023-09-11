@@ -1,6 +1,6 @@
 |Field            |Value                                                                         |
 |:----------------|:-----------------------------------------------------------------------------|
-|codeset_name     |outpatient_visits                                                             |
+|codeset_name     |Outpatient visits                                                             |
 |codeset_link     |[outpatient_visits](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visit/outpatient_visits.csv)|
 |cdm              |PCORnet                                                                       |
 |clinical_concept |Outpatient visit types in the PCORnet data model using established value sets |

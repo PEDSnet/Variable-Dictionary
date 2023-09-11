@@ -1,6 +1,6 @@
 |Field            |Value      |
 |:----------------|:----------|
-|codeset_name     |dx_asthma  |
+|codeset_name     |Asthma     |
 |codeset_link     |[dx_asthma](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_asthma.csv)|
 |cdm              |PEDSnet    |
 |clinical_concept |asthma     |

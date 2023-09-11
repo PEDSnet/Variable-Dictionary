@@ -1,6 +1,6 @@
 |Field            |Value                                                                                                                                        |
 |:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------|
-|codeset_name     |rx_ppi                                                                                                                                       |
+|codeset_name     |Proton-pump inhibitors                                                                                                                       |
 |codeset_link     |[rx_ppi](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_ppi.csv)                                                           |
 |cdm              |PEDSnet                                                                                                                                      |
 |clinical_concept |exposures to one of the following proton-pump inhibitors: omeprazole, esomeprazole, lansoprazole, pantoprazole, rabeprazole, dexlansoprazole |

@@ -1,6 +1,6 @@
 |Field            |Value                                      |
 |:----------------|:------------------------------------------|
-|codeset_name     |dx_peripheral_neuropathy                   |
+|codeset_name     |Peripheral neuropathy                      |
 |codeset_link     |[dx_peripheral_neuropathy](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_peripheral_neuropathy.csv)|
 |cdm              |PEDSnet                                    |
 |clinical_concept |diagnoses related to peripheral neuropathy |

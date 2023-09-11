@@ -1,6 +1,6 @@
 |Field            |Value                                                                        |
 |:----------------|:----------------------------------------------------------------------------|
-|codeset_name     |rx_steroids                                                                  |
+|codeset_name     |Systemic steroids                                                            |
 |codeset_link     |[rx_steroids](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_steroids.csv)|
 |cdm              |PEDSnet                                                                      |
 |clinical_concept |Systemic steroids including prednisone, prednisolone, and methylprednisolone |

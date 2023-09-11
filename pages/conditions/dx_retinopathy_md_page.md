@@ -1,6 +1,6 @@
 |Field            |Value                                                 |
 |:----------------|:-----------------------------------------------------|
-|codeset_name     |dx_retinopathy                                        |
+|codeset_name     |Retinopathy                                           |
 |codeset_link     |[dx_retinopathy](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_retinopathy.csv)|
 |cdm              |PEDSnet                                               |
 |clinical_concept |diagnoses related to retinopathy / retinal conditions |

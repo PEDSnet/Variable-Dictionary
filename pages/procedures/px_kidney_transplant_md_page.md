@@ -1,6 +1,6 @@
 |Field            |Value                               |
 |:----------------|:-----------------------------------|
-|codeset_name     |px_kidney_transplant                |
+|codeset_name     |Kidney transplant procedures        |
 |codeset_link     |[px_kidney_transplant](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedure/px_kidney_transplant.csv)|
 |cdm              |PEDSnet,PCORnet                     |
 |clinical_concept |Kidney transplant procedures        |

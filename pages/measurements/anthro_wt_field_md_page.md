@@ -1,6 +1,6 @@
 |Field            |Value                 |
 |:----------------|:---------------------|
-|codeset_name     |anthro_wt_field       |
+|codeset_name     |Weight                |
 |codeset_link     |[anthro_wt_field](https://github.com/PEDSnet/Variable-Dictionary/blob/main/measurement/anthro_wt_field.csv)|
 |cdm              |PCORnet               |
 |clinical_concept |Patient weight in lbs |

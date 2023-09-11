@@ -1,6 +1,6 @@
 |Field            |Value      |
 |:----------------|:----------|
-|codeset_name     |dx_autism  |
+|codeset_name     |Autism     |
 |codeset_link     |[dx_autism](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_autism.csv)|
 |cdm              |PEDSnet    |
 |clinical_concept |Autism     |

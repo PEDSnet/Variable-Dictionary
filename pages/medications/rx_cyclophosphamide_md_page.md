@@ -1,6 +1,6 @@
 |Field            |Value                                         |
 |:----------------|:---------------------------------------------|
-|codeset_name     |rx_cyclophosphamide                           |
+|codeset_name     |Cyclophosphamide                              |
 |codeset_link     |[rx_cyclophosphamide](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_cyclophosphamide.csv)|
 |cdm              |PEDSnet                                       |
 |clinical_concept |Immunosuppressive medication cyclophosphamide |

@@ -1,6 +1,6 @@
 |Field            |Value                              |
 |:----------------|:----------------------------------|
-|codeset_name     |dx_malabsorption                   |
+|codeset_name     |Malabsorption                      |
 |codeset_link     |[dx_malabsorption](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_malabsorption.csv)|
 |cdm              |PEDSnet                            |
 |clinical_concept |diagnoses related to malabsorption |

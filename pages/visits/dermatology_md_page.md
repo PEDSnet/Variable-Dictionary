@@ -1,6 +1,6 @@
 |Field            |Value                                |
 |:----------------|:------------------------------------|
-|codeset_name     |dermatology                          |
+|codeset_name     |Dermatology                          |
 |codeset_link     |[dermatology](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visit/dermatology.csv)|
 |cdm              |PEDSnet                              |
 |clinical_concept |dermatology providers and care sites |

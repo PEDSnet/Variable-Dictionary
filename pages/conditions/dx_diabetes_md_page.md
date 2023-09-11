@@ -1,6 +1,6 @@
 |Field            |Value                 |
 |:----------------|:---------------------|
-|codeset_name     |dx_diabetes           |
+|codeset_name     |Diabetes              |
 |codeset_link     |[dx_diabetes](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_diabetes.csv)|
 |cdm              |PEDSnet               |
 |clinical_concept |diagnoses of diabetes |

@@ -1,6 +1,6 @@
 |Field            |Value                                     |
 |:----------------|:-----------------------------------------|
-|codeset_name     |rx_azathioprine                           |
+|codeset_name     |Azathioprine                              |
 |codeset_link     |[rx_azathioprine](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_azathioprine.csv)|
 |cdm              |PEDSnet                                   |
 |clinical_concept |Immunosuppressive medication azathioprine |

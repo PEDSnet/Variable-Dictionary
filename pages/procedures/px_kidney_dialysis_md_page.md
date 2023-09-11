@@ -1,6 +1,6 @@
 |Field            |Value                           |
 |:----------------|:-------------------------------|
-|codeset_name     |px_kidney_dialysis              |
+|codeset_name     |Kidney dialysis procedures      |
 |codeset_link     |[px_kidney_dialysis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedure/px_kidney_dialysis.csv)|
 |cdm              |PEDSnet,PCORnet                 |
 |clinical_concept |Kidney dialysis procedure codes |

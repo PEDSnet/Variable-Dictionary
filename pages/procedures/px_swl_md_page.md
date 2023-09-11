@@ -1,6 +1,6 @@
 |Field            |Value                            |
 |:----------------|:--------------------------------|
-|codeset_name     |px_swl                           |
+|codeset_name     |Shockwave Lithotripsy procedures |
 |codeset_link     |[px_swl](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedure/px_swl.csv)|
 |cdm              |PEDSnet                          |
 |clinical_concept |Shockwave Lithotripsy procedures |

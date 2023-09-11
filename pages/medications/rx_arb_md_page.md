@@ -1,6 +1,6 @@
 |Field            |Value                                                                                                                                      |
 |:----------------|:------------------------------------------------------------------------------------------------------------------------------------------|
-|codeset_name     |rx_arb                                                                                                                                     |
+|codeset_name     |ARB                                                                                                                                        |
 |codeset_link     |[rx_arb](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_arb.csv)                                                         |
 |cdm              |PEDSnet,PCORnet                                                                                                                            |
 |clinical_concept |Medication codeset for the following ingredients: Azilsartan, Candesartan,Eprosartan,Irbesartan,Losartan,Olmesartan,Telmisartan, Valsartan |

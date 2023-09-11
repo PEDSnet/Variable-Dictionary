@@ -1,6 +1,6 @@
 |Field            |Value                                |
 |:----------------|:------------------------------------|
-|codeset_name     |dx_uti                               |
+|codeset_name     |Urinary tract infection              |
 |codeset_link     |[dx_uti](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_uti.csv)|
 |cdm              |PEDSnet                              |
 |clinical_concept |diagnoses of urinary tract infection |

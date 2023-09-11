@@ -1,6 +1,6 @@
 |Field            |Value                         |
 |:----------------|:-----------------------------|
-|codeset_name     |urine_creatinine              |
+|codeset_name     |Urine creatinine              |
 |codeset_link     |[urine_creatinine](https://github.com/PEDSnet/Variable-Dictionary/blob/main/measurement/urine_creatinine.csv)|
 |cdm              |Other                         |
 |clinical_concept |Urine creatinine measurements |

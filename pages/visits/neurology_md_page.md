@@ -1,6 +1,6 @@
 |Field            |Value                                     |
 |:----------------|:-----------------------------------------|
-|codeset_name     |neurology                                 |
+|codeset_name     |Neurology (providers and care sites)      |
 |codeset_link     |[neurology](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visit/neurology.csv)|
 |cdm              |PEDSnet                                   |
 |clinical_concept |neurology providers and care sites        |

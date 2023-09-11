@@ -1,6 +1,6 @@
 |Field            |Value            |
 |:----------------|:----------------|
-|codeset_name     |dx_anemia        |
+|codeset_name     |Anemia           |
 |codeset_link     |[dx_anemia](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_anemia.csv)|
 |cdm              |PEDSnet          |
 |clinical_concept |Anemia diagnoses |

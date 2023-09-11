@@ -1,6 +1,6 @@
 |Field            |Value                                  |
 |:----------------|:--------------------------------------|
-|codeset_name     |ophthalmology                          |
+|codeset_name     |Opthalmology                           |
 |codeset_link     |[ophthalmology](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visit/ophthalmology.csv)|
 |cdm              |PEDSnet                                |
 |clinical_concept |ophthalmology providers and care sites |

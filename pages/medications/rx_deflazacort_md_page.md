@@ -1,6 +1,6 @@
 |Field            |Value            |
 |:----------------|:----------------|
-|codeset_name     |rx_deflazacort   |
+|codeset_name     |Deflazacort      |
 |codeset_link     |[rx_deflazacort](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_deflazacort.csv)|
 |cdm              |PEDSnet,PCORnet  |
 |clinical_concept |Oral deflazacort |

@@ -1,6 +1,6 @@
 |Field            |Value                                   |
 |:----------------|:---------------------------------------|
-|codeset_name     |rx_b6                                   |
+|codeset_name     |Vitamin B6                              |
 |codeset_link     |[rx_b6](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_b6.csv)|
 |cdm              |PEDSnet                                 |
 |clinical_concept |Vitamin B6 / pyridoxine exposures: oral |

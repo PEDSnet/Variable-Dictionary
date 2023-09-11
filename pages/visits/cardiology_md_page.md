@@ -1,6 +1,6 @@
 |Field            |Value                               |
 |:----------------|:-----------------------------------|
-|codeset_name     |cardiology                          |
+|codeset_name     |Cardiology                          |
 |codeset_link     |[cardiology](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visit/cardiology.csv)|
 |cdm              |PEDSnet                             |
 |clinical_concept |cardiology providers and care sites |

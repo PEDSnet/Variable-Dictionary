@@ -1,6 +1,6 @@
 |Field            |Value                 |
 |:----------------|:---------------------|
-|codeset_name     |dx_cystitis           |
+|codeset_name     |Cystitis              |
 |codeset_link     |[dx_cystitis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_cystitis.csv)|
 |cdm              |PEDSnet               |
 |clinical_concept |diagnoses of cystitis |

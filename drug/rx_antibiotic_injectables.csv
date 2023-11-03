@@ -1,0 +1,32 @@
+concept_id,concept_code,concept_name,vocabulary_id,concept_class_id
+36216159,1151588,amikacin Injectable Product,RxNorm,Clinical Dose Group
+36216550,1151777,cilastatin / imipenem Injectable Product,RxNorm,Clinical Dose Group
+36217128,1152090,cefamandole Injectable Product,RxNorm,Clinical Dose Group
+36217132,1152094,cefazolin Injectable Product,RxNorm,Clinical Dose Group
+36217273,1152100,cefoperazone Injectable Product,RxNorm,Clinical Dose Group
+36217274,1152101,cefotaxime Injectable Product,RxNorm,Clinical Dose Group
+36217275,1152102,cefotetan Injectable Product,RxNorm,Clinical Dose Group
+36217278,1152105,cefoxitin Injectable Product,RxNorm,Clinical Dose Group
+36217279,1152106,ceftazidime Injectable Product,RxNorm,Clinical Dose Group
+36217280,1152107,ceftizoxime Injectable Product,RxNorm,Clinical Dose Group
+36217281,1152108,ceftriaxone Injectable Product,RxNorm,Clinical Dose Group
+36217282,1152109,cefuroxime Injectable Product,RxNorm,Clinical Dose Group
+36217369,1153190,ampicillin / sulbactam Injectable Product,RxNorm,Clinical Dose Group
+36217373,1153194,ampicillin Injectable Product,RxNorm,Clinical Dose Group
+36212959,1155008,azithromycin Injectable Product,RxNorm,Clinical Dose Group
+36212966,1155015,aztreonam Injectable Product,RxNorm,Clinical Dose Group
+36214119,1157109,tobramycin Injectable Product,RxNorm,Clinical Dose Group
+36227051,1159278,piperacillin / tazobactam Injectable Product,RxNorm,Clinical Dose Group
+36227052,1159279,piperacillin Injectable Product,RxNorm,Clinical Dose Group
+36224743,1159775,itraconazole Injectable Product,RxNorm,Clinical Dose Group
+36223610,1160499,vancomycin Injectable Product,RxNorm,Clinical Dose Group
+36223937,1160606,cefepime Injectable Product,RxNorm,Clinical Dose Group
+36224176,1160642,doripenem Injectable Product,RxNorm,Clinical Dose Group
+36226063,1162505,ertapenem Injectable Product,RxNorm,Clinical Dose Group
+36220245,1164500,erythromycin Injectable Product,RxNorm,Clinical Dose Group
+36221413,1164764,penicillin G Injectable Product,RxNorm,Clinical Dose Group
+36220870,1165713,meropenem Injectable Product,RxNorm,Clinical Dose Group
+36248926,1597612,ceftolozane / tazobactam Injectable Product,RxNorm,Clinical Dose Group
+36248849,1603837,avibactam / ceftazidime Injectable Product,RxNorm,Clinical Dose Group
+36248202,1722411,ceftaroline fosamil Injectable Product,RxNorm,Clinical Dose Group
+1594372,1870215,gentamicin Injectable Product,RxNorm,Clinical Dose Group

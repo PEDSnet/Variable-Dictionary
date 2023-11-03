@@ -1,9 +1,9 @@
 |Field            |Value                   |
 |:----------------|:-----------------------|
-|codeset_name     |Ureteroscopy procedures |
-|codeset_link     |[px_urs](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedure/px_urs.csv)|
-|cdm              |PEDSnet                 |
-|clinical_concept |Ureteroscopy procedures |
-|vocab            |CPT4,HCPCS,SNOMED       |
-|data_uploaded    |2022-04-01              |
-|other_metadata   |NA                      |
+|Codeset Name     |Ureteroscopy procedures |
+|Codeset Link     |[px_urs](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedure/px_urs.csv)|
+|CDM              |PEDSnet                 |
+|Clinical Concept |Ureteroscopy procedures |
+|Vocab            |CPT4,HCPCS,SNOMED       |
+|Date Uploaded    |2022-04-01              |
+|Metadata         |NA                      |

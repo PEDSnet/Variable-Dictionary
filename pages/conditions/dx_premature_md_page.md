@@ -1,9 +1,9 @@
 |Field            |Value                                |
 |:----------------|:------------------------------------|
-|codeset_name     |Premature birth                      |
-|codeset_link     |[dx_premature](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_premature.csv)|
-|cdm              |PEDSnet                              |
-|clinical_concept |diagnoses indicating premature birth |
-|vocab            |SNOMED                               |
-|data_uploaded    |2021-03-08                           |
-|other_metadata   |NA                                   |
+|Codeset Name     |Premature birth                      |
+|Codeset Link     |[dx_premature](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_premature.csv)|
+|CDM              |PEDSnet                              |
+|Clinical Concept |diagnoses indicating premature birth |
+|Vocab            |SNOMED                               |
+|Date Uploaded    |2021-03-08                           |
+|Metadata         |NA                                   |

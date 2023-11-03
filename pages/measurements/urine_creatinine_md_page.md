@@ -1,9 +1,9 @@
 |Field            |Value                         |
 |:----------------|:-----------------------------|
-|codeset_name     |Urine creatinine              |
-|codeset_link     |[urine_creatinine](https://github.com/PEDSnet/Variable-Dictionary/blob/main/measurement/urine_creatinine.csv)|
-|cdm              |Other                         |
-|clinical_concept |Urine creatinine measurements |
-|vocab            |LOINC                         |
-|data_uploaded    |2021-10-01                    |
-|other_metadata   |N/A                           |
+|Codeset Name     |Urine creatinine              |
+|Codeset Link     |[urine_creatinine](https://github.com/PEDSnet/Variable-Dictionary/blob/main/measurement/urine_creatinine.csv)|
+|CDM              |Other                         |
+|Clinical Concept |Urine creatinine measurements |
+|Vocab            |LOINC                         |
+|Date Uploaded    |2021-10-01                    |
+|Metadata         |N/A                           |

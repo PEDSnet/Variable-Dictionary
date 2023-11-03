@@ -1,9 +1,9 @@
 |Field            |Value                 |
 |:----------------|:---------------------|
-|codeset_name     |Diabetes              |
-|codeset_link     |[dx_diabetes](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_diabetes.csv)|
-|cdm              |PEDSnet               |
-|clinical_concept |diagnoses of diabetes |
-|vocab            |SNOMED                |
-|data_uploaded    |2021-11-03            |
-|other_metadata   |NA                    |
+|Codeset Name     |Diabetes              |
+|Codeset Link     |[dx_diabetes](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_diabetes.csv)|
+|CDM              |PEDSnet               |
+|Clinical Concept |diagnoses of diabetes |
+|Vocab            |SNOMED                |
+|Date Uploaded    |2021-11-03            |
+|Metadata         |NA                    |

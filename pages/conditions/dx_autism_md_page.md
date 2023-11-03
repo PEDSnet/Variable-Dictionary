@@ -1,9 +1,9 @@
 |Field            |Value      |
 |:----------------|:----------|
-|codeset_name     |Autism     |
-|codeset_link     |[dx_autism](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_autism.csv)|
-|cdm              |PEDSnet    |
-|clinical_concept |Autism     |
-|vocab            |LOINC      |
-|data_uploaded    |2023-06-29 |
-|other_metadata   |NA         |
+|Codeset Name     |Autism     |
+|Codeset Link     |[dx_autism](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_autism.csv)|
+|CDM              |PEDSnet    |
+|Clinical Concept |Autism     |
+|Vocab            |LOINC      |
+|Date Uploaded    |2023-06-29 |
+|Metadata         |NA         |

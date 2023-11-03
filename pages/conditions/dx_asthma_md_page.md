@@ -1,9 +1,9 @@
 |Field            |Value      |
 |:----------------|:----------|
-|codeset_name     |Asthma     |
-|codeset_link     |[dx_asthma](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_asthma.csv)|
-|cdm              |PEDSnet    |
-|clinical_concept |asthma     |
-|vocab            |SNOMED     |
-|data_uploaded    |2023-06-29 |
-|other_metadata   |NA         |
+|Codeset Name     |Asthma     |
+|Codeset Link     |[dx_asthma](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_asthma.csv)|
+|CDM              |PEDSnet    |
+|Clinical Concept |asthma     |
+|Vocab            |SNOMED     |
+|Date Uploaded    |2023-06-29 |
+|Metadata         |NA         |

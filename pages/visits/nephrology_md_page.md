@@ -1,9 +1,9 @@
 |Field            |Value                                 |
 |:----------------|:-------------------------------------|
-|codeset_name     |Nephrology (providers and care sites) |
-|codeset_link     |[nephrology](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visit/nephrology.csv)|
-|cdm              |PEDSnet                               |
-|clinical_concept |nephrology providers and care sites   |
-|vocab            |ABMS,Medicare Specialty,NUCC,Other    |
-|data_uploaded    |2021-02-09                            |
-|other_metadata   |NA                                    |
+|Codeset Name     |Nephrology (providers and care sites) |
+|Codeset Link     |[nephrology](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visit/nephrology.csv)|
+|CDM              |PEDSnet                               |
+|Clinical Concept |nephrology providers and care sites   |
+|Vocab            |ABMS,Medicare Specialty,NUCC,Other    |
+|Date Uploaded    |2021-02-09                            |
+|Metadata         |NA                                    |

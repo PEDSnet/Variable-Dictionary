@@ -1,9 +1,9 @@
 |Field            |Value                                  |
 |:----------------|:--------------------------------------|
-|codeset_name     |Rituximab                              |
-|codeset_link     |[rx_rituximab](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_rituximab.csv)|
-|cdm              |PEDSnet                                |
-|clinical_concept |Immunosuppressive medication rituximab |
-|vocab            |NA                                     |
-|data_uploaded    |2019-11-01                             |
-|other_metadata   |NA                                     |
+|Codeset Name     |Rituximab                              |
+|Codeset Link     |[rx_rituximab](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_rituximab.csv)|
+|CDM              |PEDSnet                                |
+|Clinical Concept |Immunosuppressive medication rituximab |
+|Vocab            |NA                                     |
+|Date Uploaded    |2019-11-01                             |
+|Metadata         |NA                                     |

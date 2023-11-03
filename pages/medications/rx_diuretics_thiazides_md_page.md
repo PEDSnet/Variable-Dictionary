@@ -1,9 +1,9 @@
 |Field            |Value                                       |
 |:----------------|:-------------------------------------------|
-|codeset_name     |Thiazides                                   |
-|codeset_link     |[rx_diuretics_thiazides](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_diuretics_thiazides.csv)|
-|cdm              |PEDSnet                                     |
-|clinical_concept |thiazides and thiazide-like diuretics: oral |
-|vocab            |RxNorm,RxNorm Extension                     |
-|data_uploaded    |2021-05-12                                  |
-|other_metadata   |NA                                          |
+|Codeset Name     |Thiazides                                   |
+|Codeset Link     |[rx_diuretics_thiazides](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_diuretics_thiazides.csv)|
+|CDM              |PEDSnet                                     |
+|Clinical Concept |thiazides and thiazide-like diuretics: oral |
+|Vocab            |RxNorm,RxNorm Extension                     |
+|Date Uploaded    |2021-05-12                                  |
+|Metadata         |NA                                          |

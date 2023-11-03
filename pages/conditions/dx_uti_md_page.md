@@ -1,9 +1,9 @@
 |Field            |Value                                |
 |:----------------|:------------------------------------|
-|codeset_name     |Urinary tract infection              |
-|codeset_link     |[dx_uti](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_uti.csv)|
-|cdm              |PEDSnet                              |
-|clinical_concept |diagnoses of urinary tract infection |
-|vocab            |SNOMED                               |
-|data_uploaded    |2022-03-15                           |
-|other_metadata   |NA                                   |
+|Codeset Name     |Urinary tract infection              |
+|Codeset Link     |[dx_uti](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_uti.csv)|
+|CDM              |PEDSnet                              |
+|Clinical Concept |diagnoses of urinary tract infection |
+|Vocab            |SNOMED                               |
+|Date Uploaded    |2022-03-15                           |
+|Metadata         |NA                                   |

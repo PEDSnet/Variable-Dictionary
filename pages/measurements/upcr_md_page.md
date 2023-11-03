@@ -1,9 +1,9 @@
 |Field            |Value                             |
 |:----------------|:---------------------------------|
-|codeset_name     |Urine protein to creatinine ratio |
-|codeset_link     |[upcr](https://github.com/PEDSnet/Variable-Dictionary/blob/main/measurement/upcr.csv)|
-|cdm              |Other                             |
-|clinical_concept |Urine protein to creatinine ratio |
-|vocab            |LOINC                             |
-|data_uploaded    |2021-10-01                        |
-|other_metadata   |NA                                |
+|Codeset Name     |Urine protein to creatinine ratio |
+|Codeset Link     |[upcr](https://github.com/PEDSnet/Variable-Dictionary/blob/main/measurement/upcr.csv)|
+|CDM              |Other                             |
+|Clinical Concept |Urine protein to creatinine ratio |
+|Vocab            |LOINC                             |
+|Date Uploaded    |2021-10-01                        |
+|Metadata         |NA                                |

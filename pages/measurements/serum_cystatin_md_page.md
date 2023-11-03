@@ -1,9 +1,9 @@
 |Field            |Value                       |
 |:----------------|:---------------------------|
-|codeset_name     |Serum cystatin              |
-|codeset_link     |[serum_cystatin](https://github.com/PEDSnet/Variable-Dictionary/blob/main/measurement/serum_cystatin.csv)|
-|cdm              |Other                       |
-|clinical_concept |Serum cystatin measurements |
-|vocab            |LOINC                       |
-|data_uploaded    |2021-11-01                  |
-|other_metadata   |NA                          |
+|Codeset Name     |Serum cystatin              |
+|Codeset Link     |[serum_cystatin](https://github.com/PEDSnet/Variable-Dictionary/blob/main/measurement/serum_cystatin.csv)|
+|CDM              |Other                       |
+|Clinical Concept |Serum cystatin measurements |
+|Vocab            |LOINC                       |
+|Date Uploaded    |2021-11-01                  |
+|Metadata         |NA                          |

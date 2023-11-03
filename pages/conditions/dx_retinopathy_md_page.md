@@ -1,9 +1,9 @@
 |Field            |Value                                                 |
 |:----------------|:-----------------------------------------------------|
-|codeset_name     |Retinopathy                                           |
-|codeset_link     |[dx_retinopathy](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_retinopathy.csv)|
-|cdm              |PEDSnet                                               |
-|clinical_concept |diagnoses related to retinopathy / retinal conditions |
-|vocab            |SNOMED                                                |
-|data_uploaded    |2022-03-15                                            |
-|other_metadata   |NA                                                    |
+|Codeset Name     |Retinopathy                                           |
+|Codeset Link     |[dx_retinopathy](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_retinopathy.csv)|
+|CDM              |PEDSnet                                               |
+|Clinical Concept |diagnoses related to retinopathy / retinal conditions |
+|Vocab            |SNOMED                                                |
+|Date Uploaded    |2022-03-15                                            |
+|Metadata         |NA                                                    |

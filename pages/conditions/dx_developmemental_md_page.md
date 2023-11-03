@@ -1,9 +1,9 @@
 |Field            |Value                |
 |:----------------|:--------------------|
-|codeset_name     |Developmental issues |
-|codeset_link     |[dx_developmemental](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_developmemental.csv)|
-|cdm              |PEDSnet              |
-|clinical_concept |Developmental issues |
-|vocab            |LOINC                |
-|data_uploaded    |2023-06-29           |
-|other_metadata   |NA                   |
+|Codeset Name     |Developmental issues |
+|Codeset Link     |[dx_developmemental](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_developmemental.csv)|
+|CDM              |PEDSnet              |
+|Clinical Concept |Developmental issues |
+|Vocab            |LOINC                |
+|Date Uploaded    |2023-06-29           |
+|Metadata         |NA                   |

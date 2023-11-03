@@ -1,9 +1,9 @@
 |Field            |Value                                                |
 |:----------------|:----------------------------------------------------|
-|codeset_name     |Systolic blood pressure                              |
-|codeset_link     |[vital_systolic_field](https://github.com/PEDSnet/Variable-Dictionary/blob/main/measurement/vital_systolic_field.csv)|
-|cdm              |PCORnet                                              |
-|clinical_concept |Patient systolic blood pressure measurements in mmHg |
-|vocab            |Other                                                |
-|data_uploaded    |NA                                                   |
-|other_metadata   |NA                                                   |
+|Codeset Name     |Systolic blood pressure                              |
+|Codeset Link     |[vital_systolic_field](https://github.com/PEDSnet/Variable-Dictionary/blob/main/measurement/vital_systolic_field.csv)|
+|CDM              |PCORnet                                              |
+|Clinical Concept |Patient systolic blood pressure measurements in mmHg |
+|Vocab            |Other                                                |
+|Date Uploaded    |NA                                                   |
+|Metadata         |NA                                                   |

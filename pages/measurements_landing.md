@@ -4,6 +4,9 @@
 |[Body Mass Index (calculated by source)](https://pedsnet.github.io/Variable-Dictionary/pages/measurements/anthro_original_bmi_field_md_page.html)|
 |[Weight](https://pedsnet.github.io/Variable-Dictionary/pages/measurements/anthro_wt_field_md_page.html)|
 |[Sodium bicarbonate labs](https://pedsnet.github.io/Variable-Dictionary/pages/measurements/lab_bicarb_md_page.html)|
+|[Respiratory syncytial virus (RSV) Labs](https://pedsnet.github.io/Variable-Dictionary/pages/measurements/lab_rsv_md_page.html)|
+|[SARS-CoV-2 Test result codes](https://pedsnet.github.io/Variable-Dictionary/pages/measurements/lab_sarscov2_md_page.html)|
+|[SARS-CoV-2 Serology tests](https://pedsnet.github.io/Variable-Dictionary/pages/measurements/lab_sarscov2_serology_md_page.html)|
 |[Serum creatinine](https://pedsnet.github.io/Variable-Dictionary/pages/measurements/serum_creatinine_md_page.html)|
 |[Serum cystatin](https://pedsnet.github.io/Variable-Dictionary/pages/measurements/serum_cystatin_md_page.html)|
 |[Urine protein to creatinine ratio](https://pedsnet.github.io/Variable-Dictionary/pages/measurements/upcr_md_page.html)|

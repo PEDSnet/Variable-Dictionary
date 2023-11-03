@@ -1,0 +1,21 @@
+concept_id,concept_code,concept_name,codeset
+4172822,423191000,Cardiac arrest due to cardiac disorder,shock
+4173446,423168004,Cardiac arrest due to respiratory disorder,shock
+4120088,233927002,Cardiac arrest with successful resuscitation,shock
+198571,89138009,Cardiogenic shock,shock
+4256374,410430005,Cardiorespiratory arrest,shock
+44783658,699748007,Cardiorespiratory arrest with successful resuscitation,shock
+4309155,213215000,Cardiorespiratory failure as a complication of care,shock
+4192647,39419009,Hypovolemic shock,shock
+37017187,713419002,Intraoperative cardiorespiratory arrest,shock
+4106274,180906006,Neonatal cardiac arrest,shock
+4110550,181869007,Neonatal cardiorespiratory arrest,shock
+318856,95634003,Neonatal respiratory arrest,shock
+4037861,162712007,O/E - collapse - asphyxia,shock
+4037507,162711000,On examination - collapse - respiratory arrest,shock
+4166914,274282003,On examination - respiratory arrest,shock
+317109,87317003,Respiratory arrest,shock
+4077195,276259003,Respiratory arrest preceding cardiac arrest,shock
+196236,76571007,Septic shock,shock
+201965,27942005,Shock,shock
+4219288,417343009,Vasogenic shock,shock

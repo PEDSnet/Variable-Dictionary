@@ -1,0 +1,9 @@
+concept_id,concept_code,concept_name,codeset
+3656668,1.20E+14,Conjunctivitis due to disease caused by Severe acute respiratory syndrome coronavirus 2,covid_dx
+439676,186747009,Coronavirus infection,covid_dx
+37311061,840539006,COVID-19,covid_dx
+4100065,27619001,Disease due to Coronaviridae,covid_dx
+3656669,1.20E+14,Dyspnea caused by Severe acute respiratory syndrome coronavirus 2,covid_dx
+3661885,1.20E+14,Fever caused by Severe acute respiratory syndrome coronavirus 2,covid_dx
+37310286,1.24E+15,Infection of upper respiratory tract caused by Severe acute respiratory syndrome coronavirus 2,covid_dx
+37310254,1.24E+15,Otitis media due to disease caused by Severe acute respiratory syndrome coronavirus 2,covid_dx

@@ -1,0 +1,22 @@
+concept_id,concept_code,concept_name,codeset
+437113,13791008,Asthenia,malaise_fatigue
+765190,1131000175106,Asthenia due to disease,malaise_fatigue
+4093848,248278004,Attacks of weakness,malaise_fatigue
+4158491,272036004,C/O - debility - malaise,malaise_fatigue
+4223659,84229001,Fatigue,malaise_fatigue
+4060217,161874006,Heavy feeling,malaise_fatigue
+4059010,161873000,Heavy legs,malaise_fatigue
+4272240,367391008,Malaise,malaise_fatigue
+439926,271795006,Malaise and fatigue,malaise_fatigue
+4214612,80449002,Muscle fatigue,malaise_fatigue
+79908,26544005,Muscle weakness,malaise_fatigue
+37017268,713514005,Muscle weakness of limb,malaise_fatigue
+37017267,713512009,Muscle weakness of upper limb,malaise_fatigue
+37017316,713568000,Occasionally tired,malaise_fatigue
+4063119,17099003,Peripheral muscle fatigue,malaise_fatigue
+4202045,51771007,Postviral fatigue syndrome,malaise_fatigue
+4161600,373931001,Sensation of heaviness in limbs,malaise_fatigue
+4074624,224960004,Tired,malaise_fatigue
+4149857,267032009,Tired all the time,malaise_fatigue
+4086973,248269005,Tired on least exertion,malaise_fatigue
+4012382,162236007,Weakness present,malaise_fatigue

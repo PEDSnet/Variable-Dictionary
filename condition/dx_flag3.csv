@@ -1,0 +1,342 @@
+concept_id,concept_code,concept_name,codeset
+4191650,373895009,Acute respiratory distress,ards
+4195694,67782005,Acute respiratory distress syndrome,ards
+3661406,6.75E+17,Acute respiratory distress syndrome due to disease caused by Severe acute respiratory syndrome coronavirus 2,ards
+4060710,162892000,O/E - respiratory distress,ards
+4158346,271825005,Respiratory distress,ards
+4154698,371044001,Transient respiratory distress with sepsis,ards
+4031959,238159008,Desaturation of blood,ards
+4248811,408688009,Healthcare associated severe acute respiratory syndrome,ards
+437390,389087006,Hypoxemia,ards
+756044,4873911,Acute respiratory distress syndrome (ARDS) caused by severe acute respiratory syndrome coronavirus 2,ards
+762148,2.93E+14,Acute deep vein thrombosis of bilateral iliac veins,c19notresp
+35616028,2.93E+14,Acute deep vein thrombosis of left iliac vein,c19notresp
+43531681,6.51E+11,Acute deep vein thrombosis of lower limb,c19notresp
+35616027,2.93E+14,Acute deep vein thrombosis of right iliac vein,c19notresp
+44782746,1.32E+14,Acute deep venous thrombosis,c19notresp
+44782751,1.35E+14,Acute deep venous thrombosis of axillary vein,c19notresp
+762008,2.85E+14,Acute deep venous thrombosis of bilateral axillary veins,c19notresp
+762417,3.50E+14,Acute deep venous thrombosis of bilateral legs,c19notresp
+762004,2.85E+14,Acute deep venous thrombosis of both upper extremities,c19notresp
+44782742,1.32E+14,Acute deep venous thrombosis of calf,c19notresp
+44782747,1.32E+14,Acute deep venous thrombosis of femoral vein,c19notresp
+44782752,1.35E+14,Acute deep venous thrombosis of internal jugular vein,c19notresp
+762009,2.85E+14,Acute deep venous thrombosis of left axillary vein,c19notresp
+760876,1.22E+16,Acute deep venous thrombosis of left calf,c19notresp
+765540,2.85E+14,Acute deep venous thrombosis of left femoral vein,c19notresp
+765922,2.86E+14,Acute deep venous thrombosis of left internal jugular vein,c19notresp
+762418,3.50E+14,Acute deep venous thrombosis of left lower extremity,c19notresp
+765537,2.85E+14,Acute deep venous thrombosis of left upper extremity,c19notresp
+44782761,1.33E+14,Acute deep venous thrombosis of pelvic vein,c19notresp
+762022,2.86E+14,Acute deep venous thrombosis of politeal vein of right leg,c19notresp
+44782743,1.32E+14,Acute deep venous thrombosis of popliteal vein,c19notresp
+762021,2.86E+14,Acute deep venous thrombosis of popliteal vein of left leg,c19notresp
+762010,2.85E+14,Acute deep venous thrombosis of right axillary vein,c19notresp
+760877,1.22E+16,Acute deep venous thrombosis of right calf,c19notresp
+762013,2.85E+14,Acute deep venous thrombosis of right femoral vein,c19notresp
+762018,2.86E+14,Acute deep venous thrombosis of right internal jugular vein,c19notresp
+762419,3.50E+14,Acute deep venous thrombosis of right lower extremity,c19notresp
+762005,2.85E+14,Acute deep venous thrombosis of right upper extremity,c19notresp
+44782745,1.32E+14,Acute deep venous thrombosis of thigh,c19notresp
+44782744,1.32E+14,Acute deep venous thrombosis of tibial vein,c19notresp
+762026,2.86E+14,Acute deep venous thrombosis of tibial vein of left leg,c19notresp
+765156,2.86E+14,Acute deep venous thrombosis of tibial vein of right leg,c19notresp
+44782421,1.32E+14,Acute deep venous thrombosis of upper extremity,c19notresp
+314381,75053002,Acute febrile mucocutaneous lymph node syndrome,c19notresp
+315293,266235007,Acute idiopathic pericarditis,c19notresp
+4121476,233881003,Acute infective pericarditis,c19notresp
+3661748,870589006,Acute kidney injury due to disease caused by Severe acute respiratory syndrome coronavirus 2,c19notresp
+312653,46701001,Acute myocarditis,c19notresp
+320745,194942007,Acute myocarditis associated with another disorder,c19notresp
+4006483,11176009,Acute myopericarditis,c19notresp
+320116,15555002,Acute pericarditis,c19notresp
+3661406,6.75E+17,Acute respiratory distress syndrome due to disease caused by Severe acute respiratory syndrome coronavirus 2,c19notresp
+46273494,1.57E+16,Acute thrombosis of inferior vena cava,c19notresp
+762049,2.86E+14,Acute thrombosis of right subclavian vein,c19notresp
+44782762,1.33E+14,Acute thrombosis of subclavian vein,c19notresp
+761453,1.57E+16,Acute thrombosis of superficial vein of left lower extremity,c19notresp
+36712810,1.22E+16,Acute thrombosis of superficial vein of left upper limb,c19notresp
+46271471,709597002,Acute thrombosis of superficial vein of lower limb,c19notresp
+761452,1.57E+16,Acute thrombosis of superficial vein of right lower extremity,c19notresp
+36712811,1.22E+16,Acute thrombosis of superficial vein of right upper limb,c19notresp
+44782760,1.33E+14,Acute thrombosis of superficial vein of upper extremity,c19notresp
+761454,1.57E+16,Acute thrombosis of superficial veins of both lower extremities,c19notresp
+44782757,1.35E+14,Acute thrombosis of superior vena cava,c19notresp
+4165259,40959008,Acute viral pericarditis,c19notresp
+312928,37715009,Adhesive pericarditis,c19notresp
+35615119,1.60E+16,Aneurysm of coronary artery due to and following acute febrile mucocutaneous lymph node syndrome,c19notresp
+316427,50570003,Aneurysm of coronary vessels,c19notresp
+312337,266262004,Arterial embolus and thrombosis,c19notresp
+4278217,65198009,Arterial thrombosis,c19notresp
+4125011,234205007,Arteriovenous fistula thrombosis,c19notresp
+4108352,195147006,Atrial thrombosis,c19notresp
+4179911,297156001,Axillary vein thrombosis,c19notresp
+4338227,88174006,Basilar artery thrombosis,c19notresp
+37109253,2.85E+14,Bilateral acute deep vein thrombosis of femoral veins,c19notresp
+35611569,1.22E+16,Bilateral acute thrombosis of superficial vein of upper limbs,c19notresp
+762420,3.50E+14,Bilateral chronic deep venous thrombosis of lower extremities,c19notresp
+40478951,444325005,Bilateral deep vein thrombosis of lower extremities,c19notresp
+4179907,297146000,Brachial artery thrombosis,c19notresp
+4084942,281597009,Brachiocephalic vein thrombosis,c19notresp
+4074987,17810004,Capillary thrombosis,c19notresp
+4311124,86003009,Carotid artery thrombosis,c19notresp
+4317292,95459002,Cerebellar artery thrombosis,c19notresp
+4110189,195185009,Cerebral infarct due to thrombosis of precerebral arteries,c19notresp
+762937,4.34E+14,Cerebral infarction due to cerebral venous thrombosis,c19notresp
+4111714,195230003,"Cerebral infarction due to cerebral venous thrombosis, non-pyogenic",c19notresp
+4110192,195189003,Cerebral infarction due to thrombosis of cerebral arteries,c19notresp
+45767658,705130002,Cerebral infarction due to thrombosis of middle cerebral artery,c19notresp
+441874,71444005,Cerebral thrombosis,c19notresp
+4102202,192759008,Cerebral venous sinus thrombosis,c19notresp
+4046443,230722002,Cerebral venous thrombosis of cortical vein,c19notresp
+762938,4.34E+14,Cerebral venous thrombosis of cortical vein with infarction,c19notresp
+762811,4.32E+14,Cerebral venous thrombosis of cortical vein without infarction,c19notresp
+4048787,230723007,Cerebral venous thrombosis of great cerebral vein,c19notresp
+4048786,230721009,Cerebral venous thrombosis of sigmoid sinus,c19notresp
+4175569,297149007,Common femoral artery thrombosis,c19notresp
+4178399,297150007,Common iliac artery thrombosis,c19notresp
+312334,85598007,Constrictive pericarditis,c19notresp
+4134723,398274000,Coronary artery thrombosis,c19notresp
+4108215,194821006,Coronary thrombosis not resulting in myocardial infarction,c19notresp
+46271778,710027002,Cytokine release syndrome,c19notresp
+4133004,128053003,Deep venous thrombosis,c19notresp
+763942,4.49E+14,Deep venous thrombosis of left lower extremity,c19notresp
+761980,2.58E+16,Deep venous thrombosis of left upper extremity,c19notresp
+443537,404223003,Deep venous thrombosis of lower extremity,c19notresp
+4133975,128055005,Deep venous thrombosis of pelvic vein,c19notresp
+40480555,443210003,Deep venous thrombosis of peroneal vein,c19notresp
+4322565,427775006,Deep venous thrombosis of profunda femoris vein,c19notresp
+763941,4.49E+14,Deep venous thrombosis of right lower extremity,c19notresp
+761928,2.09E+16,Deep venous thrombosis of right upper extremity,c19notresp
+4207899,438785004,Deep venous thrombosis of tibial vein,c19notresp
+4028057,128054009,Deep venous thrombosis of upper extremity,c19notresp
+4147982,30496006,Dilated cardiomyopathy secondary to viral myocarditis,c19notresp
+4111850,195335005,Embolism and/or thrombosis of the common iliac artery,c19notresp
+314965,195318006,Embolism and thrombosis of an arm or leg artery,c19notresp
+198446,266263009,Embolism and thrombosis of the abdominal aorta,c19notresp
+4112162,195325004,Embolism and thrombosis of the anterior tibial artery,c19notresp
+4108376,195323006,Embolism and thrombosis of the femoral artery,c19notresp
+4110333,195324000,Embolism and thrombosis of the popliteal artery,c19notresp
+193512,195438008,Embolism and thrombosis of the renal vein,c19notresp
+432656,195317001,Embolism and thrombosis of the thoracic aorta,c19notresp
+435565,195437003,Embolism and thrombosis of the vena cava,c19notresp
+4258295,439162001,Embolism from thrombosis of vein of distal lower extremity,c19notresp
+40481089,444816006,Embolism from thrombosis of vein of lower extremity,c19notresp
+40479840,444549009,Embolism from thrombosis of vein of thigh,c19notresp
+37310284,1.24E+15,Encephalopathy due to disease caused by Severe acute respiratory syndrome coronavirus 2,c19notresp
+4178400,297151006,External iliac artery thrombosis,c19notresp
+4178609,52156004,Femoral artery thrombosis,c19notresp
+4194719,312594005,Head and neck arterial thrombosis,c19notresp
+4223098,83940008,Hepatic artery thrombosis,c19notresp
+4301208,38739001,Hepatic vein thrombosis,c19notresp
+317307,91025000,Idiopathic myocarditis,c19notresp
+4119760,234044007,Iliofemoral deep vein thrombosis,c19notresp
+4217075,41739008,Infectious pericarditis,c19notresp
+4179908,297152004,Internal iliac artery thrombosis,c19notresp
+4179912,297157005,Intracranial venous thrombosis,c19notresp
+4209308,56276002,Left main coronary artery thrombosis,c19notresp
+762345,3.30E+14,Left vertebral artery thrombosis with stroke,c19notresp
+3661631,866151004,Lymphocytopenia due to Severe acute respiratory syndrome coronavirus 2,c19notresp
+703578,5042964,Multisystem inflammatory syndrome (MIS),c19notresp
+314383,50920009,Myocarditis,c19notresp
+37310287,1.24E+15,Myocarditis due to disease caused by Severe acute respiratory syndrome coronavirus 2,c19notresp
+4331309,22653005,Myocarditis due to infectious agent,c19notresp
+37109914,723863003,Myopericarditis,c19notresp
+36717594,722930000,Neonatal thrombosis of cerebral venous sinus,c19notresp
+761790,1.60E+16,Nonpyogenic cerebral venous thrombosis with stroke,c19notresp
+314667,42970005,Nonpyogenic thrombosis of intracranial venous sinus,c19notresp
+4138837,3238004,Pericarditis,c19notresp
+4337367,87239004,Popliteal artery thrombosis,c19notresp
+199837,17920008,Portal vein thrombosis,c19notresp
+4240612,57834008,Pulmonary artery thrombosis,c19notresp
+4239826,69357003,Pulmonary thrombosis,c19notresp
+46271900,710167004,Recurrent deep vein thrombosis,c19notresp
+42536629,735566005,Rupture of coronary artery co-occurrent and due to aneurysm of coronary artery,c19notresp
+4033521,14534009,Splenic vein thrombosis,c19notresp
+4077218,275517008,Superficial vein thrombosis,c19notresp
+761039,1.37E+16,Superficial venous thrombosis of upper extremity,c19notresp
+4025854,197000003,Superior mesenteric artery thrombosis,c19notresp
+4055089,197001004,Superior mesenteric vein thrombosis,c19notresp
+4334183,432805000,Suspected deep vein thrombosis,c19notresp
+3661632,866152006,Thrombocytopenia due to Severe acute respiratory syndrome coronavirus 2,c19notresp
+4231363,439127006,Thrombosis,c19notresp
+4223670,84272007,Thrombosis of abdominal aorta,c19notresp
+35615124,1.60E+16,Thrombosis of aorta,c19notresp
+4236905,90958004,Thrombosis of arteries of lower extremity,c19notresp
+4141106,33591000,Thrombosis of arteries of the extremities,c19notresp
+4136335,31529002,Thrombosis of arteries of upper extremity,c19notresp
+35615094,1.60E+16,Thrombosis of artery of left lower extremity,c19notresp
+35615093,1.60E+16,Thrombosis of artery of right lower extremity,c19notresp
+35615080,1.60E+16,Thrombosis of artery of right upper extremity,c19notresp
+4208466,439129009,Thrombosis of blood vessel,c19notresp
+4234264,89980009,Thrombosis of cavernous venous sinus,c19notresp
+763795,4.46E+14,Thrombosis of cephalic vein,c19notresp
+762828,4.32E+14,Thrombosis of cerebral medullary veins,c19notresp
+4319329,95455008,Thrombosis of cerebral veins,c19notresp
+444264,82453008,Thrombosis of iliac artery,c19notresp
+42538533,762256003,Thrombosis of iliac vein,c19notresp
+4048890,15742000,Thrombosis of inferior sagittal sinus,c19notresp
+4084446,281595001,Thrombosis of inferior vena cava,c19notresp
+44811347,8.64E+14,Thrombosis of internal jugular vein,c19notresp
+764882,7.60E+15,Thrombosis of jugular vein,c19notresp
+4057329,21258007,Thrombosis of lateral venous sinus,c19notresp
+42539416,734374000,Thrombosis of left carotid artery,c19notresp
+761098,1.46E+16,Thrombosis of left cephalic vein,c19notresp
+35615097,1.60E+16,Thrombosis of left femoral artery,c19notresp
+35615061,1.60E+16,Thrombosis of left iliac artery,c19notresp
+42535874,734383005,Thrombosis of left middle cerebral artery,c19notresp
+35615095,1.60E+16,Thrombosis of left popliteal artery,c19notresp
+761456,1.57E+16,Thrombosis of left renal vein,c19notresp
+42535097,1.60E+16,Thrombosis of left vertebral artery,c19notresp
+4348039,243410003,Thrombosis of mesenteric artery,c19notresp
+4317289,95446005,Thrombosis of mesenteric vein,c19notresp
+4319327,95448006,Thrombosis of pelvic vein,c19notresp
+4295878,76598006,Thrombosis of penile vein,c19notresp
+4259275,44902004,Thrombosis of penis,c19notresp
+4171853,48601002,Thrombosis of precerebral artery,c19notresp
+4316367,95579008,Thrombosis of renal artery,c19notresp
+4049318,15842009,Thrombosis of renal vein,c19notresp
+4096157,26214006,Thrombosis of retinal artery,c19notresp
+4187790,46085004,Thrombosis of retinal vein,c19notresp
+42539417,734382000,Thrombosis of right carotid artery,c19notresp
+35615099,1.60E+16,Thrombosis of right common femoral artery,c19notresp
+35615098,1.60E+16,Thrombosis of right femoral artery,c19notresp
+35615062,1.60E+16,Thrombosis of right iliac artery,c19notresp
+42538998,734384004,Thrombosis of right middle cerebral artery,c19notresp
+35615096,1.60E+16,Thrombosis of right popliteal artery,c19notresp
+761457,1.57E+16,Thrombosis of right renal vein,c19notresp
+765284,1.60E+16,Thrombosis of right ulnar artery,c19notresp
+42535096,1.60E+16,Thrombosis of right vertebral artery,c19notresp
+4203836,438647008,Thrombosis of subclavian vein,c19notresp
+4323778,429434005,Thrombosis of superficial vein of lower limb,c19notresp
+762443,3.68E+14,Thrombosis of superficial vein of penis,c19notresp
+4290940,70607008,Thrombosis of superior sagittal sinus,c19notresp
+4084941,281596000,Thrombosis of superior vena cava,c19notresp
+4175649,427776007,Thrombosis of the popliteal vein,c19notresp
+4181314,42878004,Thrombosis of thoracic aorta,c19notresp
+4140616,427184002,Thrombosis of ulnar artery,c19notresp
+4149782,309735004,Thrombosis of vein of lower limb,c19notresp
+4207615,312584000,Thrombosis of vein of trunk,c19notresp
+46273489,1.37E+16,Thrombosis of vein of upper limb,c19notresp
+4222639,83938003,Thrombosis of vena cava,c19notresp
+4105338,192761004,Thrombosis transverse sinus,c19notresp
+444247,111293003,Venous thrombosis,c19notresp
+44782425,1.01E+14,Venous thrombosis due to central venous access device,c19notresp
+4207616,312585004,"Venous thrombosis, phlebitis and thrombophlebitis",c19notresp
+4273526,64775002,Vertebral artery thrombosis,c19notresp
+4231274,89141000,Viral myocarditis,c19notresp
+4289908,70189005,Viral pericarditis,c19notresp
+37111372,726099002,Visceral venous thrombosis,c19notresp
+44784623,7.87E+13,Acute coronary artery occlusion not resulting in myocardial infarction,c19notresp
+374021,83942000,Acute disseminated encephalomyelitis,c19notresp
+43530701,1.83E+14,Acute disseminated encephalomyelitis following infectious disease,c19notresp
+4026032,197270009,Acute hepatic failure,c19notresp
+36716183,722096006,Acute kidney injury due to hypovolemia,c19notresp
+36716312,722278006,Acute kidney injury due to sepsis,c19notresp
+312327,57054005,Acute myocardial infarction,c19notresp
+44782712,2.33E+13,Acute myocardial infarction due to right coronary artery occlusion,c19notresp
+434376,54329005,Acute myocardial infarction of anterior wall,c19notresp
+438438,70211005,Acute myocardial infarction of anterolateral wall,c19notresp
+438170,73795002,Acute myocardial infarction of inferior wall,c19notresp
+438447,65547006,Acute myocardial infarction of inferolateral wall,c19notresp
+441579,76593002,Acute myocardial infarction of inferoposterior wall,c19notresp
+436706,58612006,Acute myocardial infarction of lateral wall,c19notresp
+4009332,111897007,Acute necrotizing encephalitis,c19notresp
+4270024,401314000,Acute non-ST segment elevation myocardial infarction,c19notresp
+4296653,401303003,Acute ST segment elevation myocardial infarction,c19notresp
+46270163,1.57E+16,Acute ST segment elevation myocardial infarction due to right coronary artery occlusion,c19notresp
+43020460,2.86E+14,Acute ST segment elevation myocardial infarction involving left anterior descending coronary artery,c19notresp
+139803,47000000,Acute transverse myelitis,c19notresp
+4047619,230161000,Acute viral encephalitis,c19notresp
+4047628,230197009,Acute viral transverse myelitis,c19notresp
+44784217,698247007,Cardiac arrhythmia,c19notresp
+378143,45170000,Encephalitis,c19notresp
+4147498,267576008,"Encephalitis, myelitis and encephalomyelitis",c19notresp
+4047626,230189002,Focal encephalitis,c19notresp
+4121123,234437005,Hemophagocytic lymphohistiocytosis,c19notresp
+4098617,190959006,Hemophagocytic lymphohistiocytosis due to infection,c19notresp
+374020,312215006,Infective encephalitis,c19notresp
+4325546,430478003,Macrophage activation syndrome,c19notresp
+4329847,22298006,Myocardial infarction,c19notresp
+42872891,450886002,Posterior reversible encephalopathy syndrome,c19notresp
+37109911,723859005,Pulmonary embolism due to and following acute myocardial infarction,c19notresp
+765132,3.80E+14,Subendocardial myocardial infarction,c19notresp
+4108680,194868001,"Thrombosis of atrium, auricular appendage, and ventricle due to and following acute myocardial infarction",c19notresp
+372547,34476008,Viral encephalitis,c19notresp
+4040990,16561007,Acute anoxic encephalopathy,c19notresp
+377845,389098007,Anoxic encephalopathy,c19notresp
+4306575,389101006,Anoxic-ischemic encephalopathy,c19notresp
+45766189,703300001,Hypoxic ischemic encephalopathy,c19notresp
+4305274,389100007,Ischemic encephalopathy,c19notresp
+45766190,703301002,Mild hypoxic ischemic encephalopathy,c19notresp
+42535008,1.35E+14,Mild hypoxic ischemic encephalopathy of newborn,c19notresp
+45766191,703302009,Moderate hypoxic ischemic encephalopathy,c19notresp
+4046106,230361008,Sepsis-associated encephalopathy,c19notresp
+45766192,703303004,Severe hypoxic ischemic encephalopathy,c19notresp
+43530754,4.73E+13,Static encephalopathy,c19notresp
+373764,28394000,Toxic encephalopathy,c19notresp
+43021132,472916000,Toxic metabolic encephalopathy,c19notresp
+46273719,709110009,Acute hypercapnic respiratory failure,respiratory_failure
+46269690,1.01E+14,Acute hypercapnic respiratory failure due to obstructive sleep apnea,respiratory_failure
+42539533,735386008,Acute hypoxemic and hypercapnic respiratory failure,respiratory_failure
+46271075,709111008,Acute hypoxemic respiratory failure,respiratory_failure
+3655976,870590002,Acute hypoxemic respiratory failure due to disease caused by Severe acute respiratory syndrome coronavirus 2,respiratory_failure
+36716978,7.36E+12,Acute on chronic hypercapnic respiratory failure,respiratory_failure
+35615340,2.01E+13,Acute on chronic hypoxemic and hypercapnic respiratory failure,respiratory_failure
+37016114,1.07E+16,Acute on chronic hypoxemic respiratory failure,respiratory_failure
+312940,67905004,Acute-on-chronic respiratory failure,respiratory_failure
+319049,65710008,Acute respiratory failure,respiratory_failure
+4266019,397767007,Acute respiratory failure requiring reintubation,respiratory_failure
+4259490,410431009,Cardiorespiratory failure,respiratory_failure
+46271074,709109004,Hypercapnic respiratory failure,respiratory_failure
+37395564,1.07E+16,Hypoxemic respiratory failure,respiratory_failure
+4317960,95619009,Neonatal respiratory failure,respiratory_failure
+313590,91581004,Perinatal respiratory failure,respiratory_failure
+4256228,409622000,Respiratory failure,respiratory_failure
+4119934,233765002,Respiratory failure without hypercapnia,respiratory_failure
+36716312,722278006,Acute kidney injury due to sepsis,sepsis
+40487101,447931005,Clinical sepsis,sepsis
+40484176,443980004,Neutropenic sepsis,sepsis
+132797,91302008,Sepsis,sepsis
+4046106,230361008,Sepsis-associated encephalopathy,sepsis
+4078317,276229008,Sepsis-associated gastrointestinal hemorrhage,sepsis
+4079695,277638005,Sepsis-associated left ventricular failure,sepsis
+4080898,276741000,Sepsis-associated myocardial dysfunction,sepsis
+4031168,238151006,Sepsis-associated organ dysfunction,sepsis
+4079296,277639002,Sepsis-associated right ventricular failure,sepsis
+36674642,770349000,Sepsis caused by virus,sepsis
+3655975,870588003,Sepsis due to disease caused by Severe acute respiratory syndrome coronavirus 2,sepsis
+4071063,206376005,Sepsis of the newborn,sepsis
+4340675,235657005,Sepsis-related gastritis,sepsis
+4262317,397843005,Sepsis-related gastrointestinal lesions,sepsis
+4031169,238152004,Sepsis-related gastrointestinal ulceration,sepsis
+4029281,238150007,Sepsis syndrome,sepsis
+44782631,700055009,Sepsis with cutaneous manifestations,sepsis
+36717263,1.09E+15,Sepsis without acute organ dysfunction,sepsis
+760981,1.27E+14,Sepsis without acute organ dysfunction caused by Serratia species,sepsis
+760984,1.27E+14,Sepsis without acute organ dysfunction caused by Streptococcus pneumoniae,sepsis
+37312594,789043007,Sepsis without septic shock,sepsis
+37394658,1.04E+15,Severe sepsis,sepsis
+36674642,770349000,Sepsis caused by virus,sepsis
+4071063,206376005,Sepsis of the newborn,sepsis
+46284901,9.57E+14,Uncomplicated sepsis,sepsis
+4172822,423191000,Cardiac arrest due to cardiac disorder,shock
+4173446,423168004,Cardiac arrest due to respiratory disorder,shock
+4120088,233927002,Cardiac arrest with successful resuscitation,shock
+198571,89138009,Cardiogenic shock,shock
+4256374,410430005,Cardiorespiratory arrest,shock
+44783658,699748007,Cardiorespiratory arrest with successful resuscitation,shock
+4309155,213215000,Cardiorespiratory failure as a complication of care,shock
+4192647,39419009,Hypovolemic shock,shock
+37017187,713419002,Intraoperative cardiorespiratory arrest,shock
+4106274,180906006,Neonatal cardiac arrest,shock
+4110550,181869007,Neonatal cardiorespiratory arrest,shock
+318856,95634003,Neonatal respiratory arrest,shock
+4037861,162712007,O/E - collapse - asphyxia,shock
+4037507,162711000,On examination - collapse - respiratory arrest,shock
+4166914,274282003,On examination - respiratory arrest,shock
+317109,87317003,Respiratory arrest,shock
+4077195,276259003,Respiratory arrest preceding cardiac arrest,shock
+196236,76571007,Septic shock,shock
+201965,27942005,Shock,shock
+4219288,417343009,Vasogenic shock,shock

@@ -1,0 +1,18 @@
+﻿concept_id,concept_code,concept_name,codeset
+4008081,111880001,Acute HIV infection,hiv_aids
+4267414,62479008,AIDS,hiv_aids
+4221489,420721002,AIDS-associated disorder,hiv_aids
+4241530,91947003,Asymptomatic human immunodeficiency virus infection,hiv_aids
+4223032,420544002,Bacterial pneumonia associated with AIDS,hiv_aids
+4013106,165816005,HIV positive,hiv_aids
+44783356,699433000,Human immunodeficiency virus carrier,hiv_aids
+432554,79019005,Human immunodeficiency virus II infection,hiv_aids
+4253472,40780007,Human immunodeficiency virus I infection,hiv_aids
+439727,86406008,Human immunodeficiency virus infection,hiv_aids
+4211956,416729007,Neutropenia associated with AIDS,hiv_aids
+4298853,402901009,Oral hairy leukoplakia associated with HIV disease,hiv_aids
+4228277,421671002,Pneumonia associated with AIDS,hiv_aids
+4225643,421874007,Respiratory disorder associated with AIDS,hiv_aids
+45769864,8.0191E+13,Symptomatic human immunodeficiency virus (HIV) I infection,hiv_aids
+43531586,81000119104,Symptomatic human immunodeficiency virus infection,hiv_aids
+4226905,421766003,Thrombocytopenia associated with AIDS,hiv_aids

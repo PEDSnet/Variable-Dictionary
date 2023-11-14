@@ -4,18 +4,20 @@
 
 ## DATA DOMAINS
 
+### [Anthropometrics]
+
+### [Area-Level Variables]
+
+### [Health Conditions](https://pedsnet.github.io/Variable-Dictionary/pages/conditions_landing.html)
+
+### [Labratory Measurements](https://pedsnet.github.io/Variable-Dictionary/pages/measurements_landing.html)
 
 ### [Medications](https://pedsnet.github.io/Variable-Dictionary/pages/medications_landing.html)
 
+### [Physiological Measurements](https://pedsnet.github.io/Variable-Dictionary/pages/measurements_landing.html)
 
 ### [Procedures](https://pedsnet.github.io/Variable-Dictionary/pages/procedures_landing.html)
 
+### [Sociodemographics]
 
-### [Conditions](https://pedsnet.github.io/Variable-Dictionary/pages/conditions_landing.html)
-
-
-### [Measurements](https://pedsnet.github.io/Variable-Dictionary/pages/measurements_landing.html)
-
-
-### [Visits](https://pedsnet.github.io/Variable-Dictionary/pages/visits_landing.html)
-
+### [Utilizations, costs, payers](https://pedsnet.github.io/Variable-Dictionary/pages/visits_landing.html)

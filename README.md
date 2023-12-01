@@ -1,4 +1,4 @@
-# PEDSnet VARIABLE DICTIONARY
+# **PEDSnet VARIABLE DICTIONARY**
 
 ### PEDSnet includes rich clinical, environmental, and health data from over 13 million children. The number of variables that can be created are too numerous to fully explicate. Nonetheless, the PEDSnet Coordinating Center compiles a list of variables and associated codesets created for specific studies and lists them in this repository. The purpose of this repository is to give investigators an idea of the types of variables that have been used previously. 
 

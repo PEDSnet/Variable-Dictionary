@@ -4,20 +4,37 @@
 
 ## DATA DOMAINS
 
+### [Anthropometrics](https://pedsnet.github.io/Variable-Dictionary/pages/anthropometrics_landing.html)
+
+
+### [Area-level Variables](https://pedsnet.github.io/Variable-Dictionary/pages/alv_landing.html)
+
+
+### [Devices](https://pedsnet.github.io/Variable-Dictionary/pages/devices.html)
+
+
+### [Health Conditions](https://pedsnet.github.io/Variable-Dictionary/pages/conditions_landing.html)
+
+
+### [Laboratory Measurements](https://pedsnet.github.io/Variable-Dictionary/pages/lab_measurements_landing.html)
+
 
 ### [Medications](https://pedsnet.github.io/Variable-Dictionary/pages/medications_landing.html)
+
+
+### [Physiological Measurements](https://pedsnet.github.io/Variable-Dictionary/pages/phys_measurements_landing.html)
 
 
 ### [Procedures](https://pedsnet.github.io/Variable-Dictionary/pages/procedures_landing.html)
 
 
-### [Conditions](https://pedsnet.github.io/Variable-Dictionary/pages/conditions_landing.html)
+### [Sociodemographics](https://pedsnet.github.io/Variable-Dictionary/pages/sociodemographics_landing.html)
 
 
-### [Measurements](https://pedsnet.github.io/Variable-Dictionary/pages/measurements_landing.html)
+### [Utilization, costs, payers](https://pedsnet.github.io/Variable-Dictionary/pages/visits_landing.html)
 
 
-### [Visits](https://pedsnet.github.io/Variable-Dictionary/pages/visits_landing.html)
+### [Other](https://pedsnet.github.io/Variable-Dictionary/pages/other_landing.html)
 
 
 #### [Home Page](https://pedsnet.github.io/Variable-Dictionary/)

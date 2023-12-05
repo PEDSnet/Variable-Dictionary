@@ -1,0 +1,554 @@
+concept_id,concept_code,concept_name,vocabulary_id,pcornet_vocabulary_id,cc_decimal_removal
+132685,198985009,Severe pre-eclampsia - not delivered,SNOMED,SM,FALSE
+134414,199000005,Pre-eclampsia or eclampsia with pre-existing hypertension - delivered with postnatal complication,SNOMED,SM,FALSE
+135601,198999008,Pre-eclampsia or eclampsia with pre-existing hypertension - delivered,SNOMED,SM,FALSE
+136743,199002002,Pre-eclampsia or eclampsia with pre-existing hypertension - not delivered,SNOMED,SM,FALSE
+136760,198967002,Transient hypertension of pregnancy - not delivered,SNOMED,SM,FALSE
+137940,198965005,Transient hypertension of pregnancy - delivered,SNOMED,SM,FALSE
+141084,198997005,Pre-eclampsia or eclampsia with pre-existing hypertension,SNOMED,SM,FALSE
+141639,198966006,Transient hypertension of pregnancy - delivered with postnatal complication,SNOMED,SM,FALSE
+192684,198953006,"Renal hypertension complicating pregnancy, childbirth and the puerperium - not delivered",SNOMED,SM,FALSE
+197930,198949009,"Renal hypertension complicating pregnancy, childbirth and the puerperium",SNOMED,SM,FALSE
+200157,198951008,"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered",SNOMED,SM,FALSE
+201912,198952001,"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication",SNOMED,SM,FALSE
+312648,1201005,Benign essential hypertension,SNOMED,SM,FALSE
+314090,41114007,Mild pre-eclampsia,SNOMED,SM,FALSE
+314103,198944004,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered",SNOMED,SM,FALSE
+314423,198946002,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - not delivered",SNOMED,SM,FALSE
+314958,194785008,Benign secondary hypertension,SNOMED,SM,FALSE
+316866,38341003,Hypertensive disorder,SNOMED,SM,FALSE
+317895,123799005,Renovascular hypertension,SNOMED,SM,FALSE
+317898,78975002,Malignant essential hypertension,SNOMED,SM,FALSE
+318437,89242004,Malignant secondary hypertension,SNOMED,SM,FALSE
+319826,31992008,Secondary hypertension,SNOMED,SM,FALSE
+320128,59621000,Essential hypertension,SNOMED,SM,FALSE
+320456,198945003,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication",SNOMED,SM,FALSE
+321074,199005000,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium",SNOMED,SM,FALSE
+321080,198941007,"Hypertension complicating pregnancy, childbirth and the puerperium",SNOMED,SM,FALSE
+321638,198942000,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium",SNOMED,SM,FALSE
+433536,46764007,Severe pre-eclampsia,SNOMED,SM,FALSE
+438490,198983002,Severe pre-eclampsia - delivered,SNOMED,SM,FALSE
+439077,198984008,Severe pre-eclampsia - delivered with postnatal complication,SNOMED,SM,FALSE
+439393,398254007,Pre-eclampsia,SNOMED,SM,FALSE
+441922,237279007,Transient hypertension of pregnancy,SNOMED,SM,FALSE
+443771,28119000,Renal hypertension,SNOMED,SM,FALSE
+762994,434711000124103,Perioperative hypertension,SNOMED,SM,FALSE
+1569120,I11,Hypertensive heart disease,ICD10CM,10,FALSE
+1569121,I12,Hypertensive chronic kidney disease,ICD10CM,10,FALSE
+1569122,I13,Hypertensive heart and chronic kidney disease,ICD10CM,10,FALSE
+1569123,I13.1,Hypertensive heart and chronic kidney disease without heart failure,ICD10CM,10,FALSE
+1569123,I131,Hypertensive heart and chronic kidney disease without heart failure,ICD10CM,10,TRUE
+1569124,I15,Secondary hypertension,ICD10CM,10,FALSE
+1571634,O10,"Pre-existing hypertension complicating pregnancy, childbirth and the puerperium",ICD10CM,10,FALSE
+1571635,O10.0,"Pre-existing essential hypertension complicating pregnancy, childbirth and the puerperium",ICD10CM,10,FALSE
+1571635,O100,"Pre-existing essential hypertension complicating pregnancy, childbirth and the puerperium",ICD10CM,10,TRUE
+1571636,O10.01,"Pre-existing essential hypertension complicating pregnancy,",ICD10CM,10,FALSE
+1571636,O1001,"Pre-existing essential hypertension complicating pregnancy,",ICD10CM,10,TRUE
+1571637,O10.1,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium",ICD10CM,10,FALSE
+1571637,O101,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium",ICD10CM,10,TRUE
+1571638,O10.11,Pre-existing hypertensive heart disease complicating pregnancy,ICD10CM,10,FALSE
+1571638,O1011,Pre-existing hypertensive heart disease complicating pregnancy,ICD10CM,10,TRUE
+1571639,O10.2,"Pre-existing hypertensive chronic kidney disease complicating pregnancy, childbirth and the puerperium",ICD10CM,10,FALSE
+1571639,O102,"Pre-existing hypertensive chronic kidney disease complicating pregnancy, childbirth and the puerperium",ICD10CM,10,TRUE
+1571640,O10.21,Pre-existing hypertensive chronic kidney disease complicating pregnancy,ICD10CM,10,FALSE
+1571640,O1021,Pre-existing hypertensive chronic kidney disease complicating pregnancy,ICD10CM,10,TRUE
+1571641,O10.3,"Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy, childbirth and the puerperium",ICD10CM,10,FALSE
+1571641,O103,"Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy, childbirth and the puerperium",ICD10CM,10,TRUE
+1571642,O10.31,Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy,ICD10CM,10,FALSE
+1571642,O1031,Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy,ICD10CM,10,TRUE
+1571643,O10.4,"Pre-existing secondary hypertension complicating pregnancy, childbirth and the puerperium",ICD10CM,10,FALSE
+1571643,O104,"Pre-existing secondary hypertension complicating pregnancy, childbirth and the puerperium",ICD10CM,10,TRUE
+1571644,O10.41,Pre-existing secondary hypertension complicating pregnancy,ICD10CM,10,FALSE
+1571644,O1041,Pre-existing secondary hypertension complicating pregnancy,ICD10CM,10,TRUE
+1571645,O10.9,"Unspecified pre-existing hypertension complicating pregnancy, childbirth and the puerperium",ICD10CM,10,FALSE
+1571645,O109,"Unspecified pre-existing hypertension complicating pregnancy, childbirth and the puerperium",ICD10CM,10,TRUE
+1571646,O10.91,Unspecified pre-existing hypertension complicating pregnancy,ICD10CM,10,FALSE
+1571646,O1091,Unspecified pre-existing hypertension complicating pregnancy,ICD10CM,10,TRUE
+1571647,O11,Pre-existing hypertension with pre-eclampsia,ICD10CM,10,FALSE
+1571652,O13,Gestational [pregnancy-induced] hypertension without significant proteinuria,ICD10CM,10,FALSE
+1571659,O16,Unspecified maternal hypertension,ICD10CM,10,FALSE
+3656115,871642009,Hypertension due to aortic arch obstruction,SNOMED,SM,FALSE
+4006325,111438007,Hypertension secondary to renal disease in obstetric context,SNOMED,SM,FALSE
+4023318,10562009,Malignant hypertension complicating AND/OR reason for care during childbirth,SNOMED,SM,FALSE
+4028741,10725009,Benign hypertension,SNOMED,SM,FALSE
+4028951,23786008,Malignant hypertension complicating AND/OR reason for care during puerperium,SNOMED,SM,FALSE
+4032952,14973001,Renal sclerosis with hypertension,SNOMED,SM,FALSE
+4034031,23717007,Benign essential hypertension complicating AND/OR reason for care during pregnancy,SNOMED,SM,FALSE
+4034094,237281009,Moderate proteinuric hypertension of pregnancy,SNOMED,SM,FALSE
+4034095,237282002,Impending eclampsia,SNOMED,SM,FALSE
+4035655,15394000,Toxemia of pregnancy,SNOMED,SM,FALSE
+4048212,123800009,Goldblatt hypertension,SNOMED,SM,FALSE
+4049389,23130000,Paroxysmal hypertension,SNOMED,SM,FALSE
+4057976,198986005,Severe pre-eclampsia with postnatal complication,SNOMED,SM,FALSE
+4057978,199007008,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium",SNOMED,SM,FALSE
+4057979,199008003,"Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium",SNOMED,SM,FALSE
+4058987,19769006,High-renin essential hypertension,SNOMED,SM,FALSE
+4061667,169465000,Hypertension induced by oral contraceptive pill,SNOMED,SM,FALSE
+4062550,199003007,Pre-eclampsia or eclampsia with pre-existing hypertension with postnatal complication,SNOMED,SM,FALSE
+4062811,198947006,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication",SNOMED,SM,FALSE
+4062906,198968007,Transient hypertension of pregnancy with postnatal complication,SNOMED,SM,FALSE
+4071202,206596003,Neonatal hypertension,SNOMED,SM,FALSE
+4080325,24042004,Chronic hypertension complicating AND/OR reason for care during puerperium,SNOMED,SM,FALSE
+4083723,18416000,Essential hypertension complicating AND/OR reason for care during childbirth,SNOMED,SM,FALSE
+4094374,26078007,Hypertension secondary to renal disease complicating AND/OR reason for care during childbirth,SNOMED,SM,FALSE
+4108213,194791005,Hypertension secondary to drug,SNOMED,SM,FALSE
+4110947,194783001,Malignant secondary renovascular hypertension,SNOMED,SM,FALSE
+4110948,194788005,Hypertension secondary to endocrine disorder,SNOMED,SM,FALSE
+4118910,288250001,Maternal hypertension,SNOMED,SM,FALSE
+4146627,307632004,Non-proteinuric hypertension of pregnancy,SNOMED,SM,FALSE
+4146816,34694006,Pre-existing hypertension complicating AND/OR reason for care during childbirth,SNOMED,SM,FALSE
+4148205,35303009,Benign essential hypertension complicating AND/OR reason for care during puerperium,SNOMED,SM,FALSE
+4151903,31407004,Pre-existing hypertension complicating AND/OR reason for care during puerperium,SNOMED,SM,FALSE
+4159755,371125006,Labile essential hypertension,SNOMED,SM,FALSE
+4162306,29259002,Malignant hypertension complicating AND/OR reason for care during pregnancy,SNOMED,SM,FALSE
+4167358,48146000,Diastolic hypertension,SNOMED,SM,FALSE
+4167493,48194001,Pregnancy-induced hypertension,SNOMED,SM,FALSE
+4174979,48552006,Hypertension secondary to renal disease complicating AND/OR reason for care during pregnancy,SNOMED,SM,FALSE
+4178312,428575007,Hypertension secondary to kidney transplant,SNOMED,SM,FALSE
+4179379,429198000,Exertional hypertension,SNOMED,SM,FALSE
+4180283,429457004,Systolic essential hypertension,SNOMED,SM,FALSE
+4199306,52698002,Transient hypertension,SNOMED,SM,FALSE
+4209293,56218007,Systolic hypertension,SNOMED,SM,FALSE
+4212496,57684003,Parenchymal renal hypertension,SNOMED,SM,FALSE
+4215640,71874008,Benign essential hypertension complicating AND/OR reason for care during childbirth,SNOMED,SM,FALSE
+4217486,72022006,Essential hypertension in obstetric context,SNOMED,SM,FALSE
+4218088,81626002,Malignant hypertension in obstetric context,SNOMED,SM,FALSE
+4219323,39727004,Hypertension secondary to renal disease complicating AND/OR reason for care during puerperium,SNOMED,SM,FALSE
+4221991,84094009,Rebound hypertension,SNOMED,SM,FALSE
+4227607,8762007,Chronic hypertension in obstetric context,SNOMED,SM,FALSE
+4242878,59720008,Sustained diastolic hypertension,SNOMED,SM,FALSE
+4249016,73410007,Benign secondary renovascular hypertension,SNOMED,SM,FALSE
+4253928,74451002,Secondary diastolic hypertension,SNOMED,SM,FALSE
+4262182,397748008,Hypertension with albuminuria,SNOMED,SM,FALSE
+4263067,46481004,Low-renin essential hypertension,SNOMED,SM,FALSE
+4269358,63287004,Benign essential hypertension in obstetric context,SNOMED,SM,FALSE
+4276511,65518004,Labile diastolic hypertension,SNOMED,SM,FALSE
+4277110,65402008,Pre-existing hypertension complicating AND/OR reason for care during pregnancy,SNOMED,SM,FALSE
+4279525,367390009,Hypertension in the obstetric context,SNOMED,SM,FALSE
+4283352,67359005,Pre-eclampsia added to pre-existing hypertension,SNOMED,SM,FALSE
+4289142,69909000,Eclampsia added to pre-existing hypertension,SNOMED,SM,FALSE
+4289933,70272006,Malignant hypertension,SNOMED,SM,FALSE
+4291933,37618003,Chronic hypertension complicating AND/OR reason for care during pregnancy,SNOMED,SM,FALSE
+4302591,78808002,Essential hypertension complicating AND/OR reason for care during pregnancy,SNOMED,SM,FALSE
+4304837,8218002,Chronic hypertension complicating AND/OR reason for care during childbirth,SNOMED,SM,FALSE
+4305599,39018007,Renal arterial hypertension,SNOMED,SM,FALSE
+4311246,86041002,Pre-existing hypertension in obstetric context,SNOMED,SM,FALSE
+4316372,95605009,HELLP syndrome,SNOMED,SM,FALSE
+4321603,9901000,Essential hypertension complicating AND/OR reason for care during puerperium,SNOMED,SM,FALSE
+4322735,427889009,Hypertension associated with transplantation,SNOMED,SM,FALSE
+35207668,I10,Essential (primary) hypertension,ICD10CM,10,FALSE
+35207669,I11.0,Hypertensive heart disease with heart failure,ICD10CM,10,FALSE
+35207669,I110,Hypertensive heart disease with heart failure,ICD10CM,10,TRUE
+35207670,I11.9,Hypertensive heart disease without heart failure,ICD10CM,10,FALSE
+35207670,I119,Hypertensive heart disease without heart failure,ICD10CM,10,TRUE
+35207671,I12.0,Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease,ICD10CM,10,FALSE
+35207671,I120,Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease,ICD10CM,10,TRUE
+35207672,I12.9,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",ICD10CM,10,FALSE
+35207672,I129,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",ICD10CM,10,TRUE
+35207673,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",ICD10CM,10,FALSE
+35207673,I130,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",ICD10CM,10,TRUE
+35207674,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease",ICD10CM,10,FALSE
+35207674,I132,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease",ICD10CM,10,TRUE
+35207675,I15.0,Renovascular hypertension,ICD10CM,10,FALSE
+35207675,I150,Renovascular hypertension,ICD10CM,10,TRUE
+35207676,I15.1,Hypertension secondary to other renal disorders,ICD10CM,10,FALSE
+35207676,I151,Hypertension secondary to other renal disorders,ICD10CM,10,TRUE
+35207677,I15.2,Hypertension secondary to endocrine disorders,ICD10CM,10,FALSE
+35207677,I152,Hypertension secondary to endocrine disorders,ICD10CM,10,TRUE
+35207678,I15.8,Other secondary hypertension,ICD10CM,10,FALSE
+35207678,I158,Other secondary hypertension,ICD10CM,10,TRUE
+35207679,I15.9,"Secondary hypertension, unspecified",ICD10CM,10,FALSE
+35207679,I159,"Secondary hypertension, unspecified",ICD10CM,10,TRUE
+35207832,I67.4,Hypertensive encephalopathy,ICD10CM,10,FALSE
+35207832,I674,Hypertensive encephalopathy,ICD10CM,10,TRUE
+35210395,P00.0,Newborn affected by maternal hypertensive disorders,ICD10CM,10,FALSE
+35210395,P000,Newborn affected by maternal hypertensive disorders,ICD10CM,10,TRUE
+35210518,P29.2,Neonatal hypertension,ICD10CM,10,FALSE
+35210518,P292,Neonatal hypertension,ICD10CM,10,TRUE
+35622939,765182005,Postpartum pre-eclampsia,SNOMED,SM,FALSE
+35624277,766937004,Hypertension due to gain-of-function mutation in mineralocorticoid receptor,SNOMED,SM,FALSE
+36713024,16229371000119100,Labile systemic arterial hypertension,SNOMED,SM,FALSE
+36715087,720568003,Brachydactyly and arterial hypertension syndrome,SNOMED,SM,FALSE
+37016726,712832005,Supine hypertension,SNOMED,SM,FALSE
+37200492,I16,Hypertensive crisis,ICD10CM,10,FALSE
+37200493,I16.0,Hypertensive urgency,ICD10CM,10,FALSE
+37200493,I160,Hypertensive urgency,ICD10CM,10,TRUE
+37200494,I16.1,Hypertensive emergency,ICD10CM,10,FALSE
+37200494,I161,Hypertensive emergency,ICD10CM,10,TRUE
+37200495,I16.9,"Hypertensive crisis, unspecified",ICD10CM,10,FALSE
+37200495,I169,"Hypertensive crisis, unspecified",ICD10CM,10,TRUE
+37200957,O11.4,"Pre-existing hypertension with pre-eclampsia, complicating childbirth",ICD10CM,10,FALSE
+37200957,O114,"Pre-existing hypertension with pre-eclampsia, complicating childbirth",ICD10CM,10,TRUE
+37200958,O11.5,"Pre-existing hypertension with pre-eclampsia, complicating the puerperium",ICD10CM,10,FALSE
+37200958,O115,"Pre-existing hypertension with pre-eclampsia, complicating the puerperium",ICD10CM,10,TRUE
+37200965,O13.4,"Gestational [pregnancy-induced] hypertension without significant proteinuria, complicating childbirth",ICD10CM,10,FALSE
+37200965,O134,"Gestational [pregnancy-induced] hypertension without significant proteinuria, complicating childbirth",ICD10CM,10,TRUE
+37200966,O13.5,"Gestational [pregnancy-induced] hypertension without significant proteinuria, complicating the puerperium",ICD10CM,10,FALSE
+37200966,O135,"Gestational [pregnancy-induced] hypertension without significant proteinuria, complicating the puerperium",ICD10CM,10,TRUE
+37200975,O16.4,"Unspecified maternal hypertension, complicating childbirth",ICD10CM,10,FALSE
+37200975,O164,"Unspecified maternal hypertension, complicating childbirth",ICD10CM,10,TRUE
+37200976,O16.5,"Unspecified maternal hypertension, complicating the puerperium",ICD10CM,10,FALSE
+37200976,O165,"Unspecified maternal hypertension, complicating the puerperium",ICD10CM,10,TRUE
+37208172,461301000124109,Resistant hypertensive disorder,SNOMED,SM,FALSE
+37208293,1078301000112100,Multiple drug intolerant hypertension,SNOMED,SM,FALSE
+40481896,443482000,Hypertensive urgency,SNOMED,SM,FALSE
+42538697,762463000,Diastolic hypertension and systolic hypertension,SNOMED,SM,FALSE
+42538946,82771000119102,Hypertension complicating pregnancy,SNOMED,SM,FALSE
+42873163,541000119105,"Hypertension complicating pregnancy, childbirth and the puerperium, antepartum",SNOMED,SM,FALSE
+43020424,132721000119104,Hypertensive emergency,SNOMED,SM,FALSE
+43021830,5501000119106,Postoperative hypertension,SNOMED,SM,FALSE
+44783643,697929007,Intermittent hypertension,SNOMED,SM,FALSE
+44783644,697930002,Labile hypertension due to being in a clinical environment,SNOMED,SM,FALSE
+44784483,698638005,Pregnancy induced hypertension with pulmonary edema,SNOMED,SM,FALSE
+44784484,698640000,Hypertension in the puerperium with pulmonary edema,SNOMED,SM,FALSE
+44809026,843821000000102,Stage 1 hypertension (NICE - National Institute for Health and Clinical Excellence 2011),SNOMED,SM,FALSE
+44809027,843841000000109,Severe hypertension (NICE - National Institute for Health and Clinical Excellence 2011),SNOMED,SM,FALSE
+44809548,845891000000103,Hypertension resistant to drug therapy,SNOMED,SM,FALSE
+44809569,846371000000103,Stage 2 hypertension (NICE - National Institute for Health and Clinical Excellence 2011),SNOMED,SM,FALSE
+44811110,863191000000102,Nocturnal hypertension,SNOMED,SM,FALSE
+44811932,908631000000108,Stage 1 hypertension (NICE 2011) without evidence of end organ damage,SNOMED,SM,FALSE
+44811933,908651000000101,Stage 1 hypertension (NICE 2011) with evidence of end organ damage,SNOMED,SM,FALSE
+44819692,404.01,"Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified",ICD9CM,09,FALSE
+44819692,40401,"Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified",ICD9CM,09,TRUE
+44819693,404.03,"Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage V or end stage renal disease",ICD9CM,09,FALSE
+44819693,40403,"Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage V or end stage renal disease",ICD9CM,09,TRUE
+44819694,404.1,"Hypertensive heart and chronic kidney disease, benign, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified",ICD9CM,09,FALSE
+44819694,4041,"Hypertensive heart and chronic kidney disease, benign, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified",ICD9CM,09,TRUE
+44819695,404.11,"Hypertensive heart and chronic kidney disease, benign, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified",ICD9CM,09,FALSE
+44819695,40411,"Hypertensive heart and chronic kidney disease, benign, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified",ICD9CM,09,TRUE
+44819696,404.91,"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified",ICD9CM,09,FALSE
+44819696,40491,"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified",ICD9CM,09,TRUE
+44819849,642.1,"Hypertension secondary to renal disease, complicating pregnancy, childbirth, and the puerperium, unspecified as to episode of care or not applicable",ICD9CM,09,FALSE
+44819849,6421,"Hypertension secondary to renal disease, complicating pregnancy, childbirth, and the puerperium, unspecified as to episode of care or not applicable",ICD9CM,09,TRUE
+44819850,642.13,"Hypertension secondary to renal disease, complicating pregnancy, childbirth, and the puerperium, antepartum condition or complication",ICD9CM,09,FALSE
+44819850,64213,"Hypertension secondary to renal disease, complicating pregnancy, childbirth, and the puerperium, antepartum condition or complication",ICD9CM,09,TRUE
+44820856,404.13,"Hypertensive heart and chronic kidney disease, benign, with heart failure and chronic kidney disease stage V or end stage renal disease",ICD9CM,09,FALSE
+44820856,40413,"Hypertensive heart and chronic kidney disease, benign, with heart failure and chronic kidney disease stage V or end stage renal disease",ICD9CM,09,TRUE
+44821019,642.34,"Transient hypertension of pregnancy, postpartum condition or complication",ICD9CM,09,FALSE
+44821019,64234,"Transient hypertension of pregnancy, postpartum condition or complication",ICD9CM,09,TRUE
+44821949,401.9,Unspecified essential hypertension,ICD9CM,09,FALSE
+44821949,4019,Unspecified essential hypertension,ICD9CM,09,TRUE
+44821950,404.92,"Hypertensive heart and chronic kidney disease, unspecified, without heart failure and with chronic kidney disease stage V or end stage renal disease",ICD9CM,09,FALSE
+44821950,40492,"Hypertensive heart and chronic kidney disease, unspecified, without heart failure and with chronic kidney disease stage V or end stage renal disease",ICD9CM,09,TRUE
+44822083,642.92,"Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication",ICD9CM,09,FALSE
+44822083,64292,"Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication",ICD9CM,09,TRUE
+44822084,642.93,"Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication",ICD9CM,09,FALSE
+44822084,64293,"Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication",ICD9CM,09,TRUE
+44823041,362.11,Hypertensive retinopathy,ICD9CM,09,FALSE
+44823041,36211,Hypertensive retinopathy,ICD9CM,09,TRUE
+44823109,401,Malignant essential hypertension,ICD9CM,09,FALSE
+44823110,402.11,Benign hypertensive heart disease with heart failure,ICD9CM,09,FALSE
+44823110,40211,Benign hypertensive heart disease with heart failure,ICD9CM,09,TRUE
+44823229,642.01,"Benign essential hypertension complicating pregnancy, childbirth, and the puerperium, delivered, with or without mention of antepartum condition",ICD9CM,09,FALSE
+44823229,64201,"Benign essential hypertension complicating pregnancy, childbirth, and the puerperium, delivered, with or without mention of antepartum condition",ICD9CM,09,TRUE
+44823230,642.72,"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, delivered, with mention of postpartum complication",ICD9CM,09,FALSE
+44823230,64272,"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, delivered, with mention of postpartum complication",ICD9CM,09,TRUE
+44823231,642.9,"Unspecified hypertension complicating pregnancy, childbirth, or the puerperium",ICD9CM,09,FALSE
+44823231,6429,"Unspecified hypertension complicating pregnancy, childbirth, or the puerperium",ICD9CM,09,TRUE
+44824235,404.93,"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and chronic kidney disease stage V or end stage renal disease",ICD9CM,09,FALSE
+44824235,40493,"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and chronic kidney disease stage V or end stage renal disease",ICD9CM,09,TRUE
+44824236,405.09,Other malignant secondary hypertension,ICD9CM,09,FALSE
+44824236,40509,Other malignant secondary hypertension,ICD9CM,09,TRUE
+44824389,642,"Benign essential hypertension complicating pregnancy, childbirth, and the puerperium, unspecified as to episode of care or not applicable",ICD9CM,09,FALSE
+44824390,642.03,"Benign essential hypertension complicating pregnancy, childbirth, and the puerperium, antepartum condition or complication",ICD9CM,09,FALSE
+44824390,64203,"Benign essential hypertension complicating pregnancy, childbirth, and the puerperium, antepartum condition or complication",ICD9CM,09,TRUE
+44824391,642.1,"Hypertension secondary to renal disease, complicating pregnancy, childbirth, and the puerperium",ICD9CM,09,FALSE
+44824391,6421,"Hypertension secondary to renal disease, complicating pregnancy, childbirth, and the puerperium",ICD9CM,09,TRUE
+44824392,642.12,"Hypertension secondary to renal disease, complicating pregnancy, childbirth, and the puerperium, delivered, with mention of postpartum complication",ICD9CM,09,FALSE
+44824392,64212,"Hypertension secondary to renal disease, complicating pregnancy, childbirth, and the puerperium, delivered, with mention of postpartum complication",ICD9CM,09,TRUE
+44824394,642.7,Pre-eclampsia or eclampsia superimposed on pre-existing hypertension,ICD9CM,09,FALSE
+44824394,6427,Pre-eclampsia or eclampsia superimposed on pre-existing hypertension,ICD9CM,09,TRUE
+44824395,642.91,"Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition",ICD9CM,09,FALSE
+44824395,64291,"Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition",ICD9CM,09,TRUE
+44825426,403.01,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",ICD9CM,09,FALSE
+44825426,40301,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",ICD9CM,09,TRUE
+44825427,403.1,"Hypertensive renal disease, benign",ICD9CM,09,FALSE
+44825427,4031,"Hypertensive renal disease, benign",ICD9CM,09,TRUE
+44825591,642.73,"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, antepartum condition or complication",ICD9CM,09,FALSE
+44825591,64273,"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, antepartum condition or complication",ICD9CM,09,TRUE
+44825592,642.94,"Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, postpartum condition or complication",ICD9CM,09,FALSE
+44825592,64294,"Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, postpartum condition or complication",ICD9CM,09,TRUE
+44826570,360.42,Blind hypertensive eye,ICD9CM,09,FALSE
+44826570,36042,Blind hypertensive eye,ICD9CM,09,TRUE
+44826634,404.9,"Hypertensive heart and renal disease, unspecified",ICD9CM,09,FALSE
+44826634,4049,"Hypertensive heart and renal disease, unspecified",ICD9CM,09,TRUE
+44826774,642.3,Transient hypertension of pregnancy,ICD9CM,09,FALSE
+44826774,6423,Transient hypertension of pregnancy,ICD9CM,09,TRUE
+44826776,642.7,"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, unspecified as to episode of care or not applicable",ICD9CM,09,FALSE
+44826776,6427,"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, unspecified as to episode of care or not applicable",ICD9CM,09,TRUE
+44827778,402,Malignant hypertensive heart disease without heart failure,ICD9CM,09,FALSE
+44827779,402.9,Unspecified hypertensive heart disease without heart failure,ICD9CM,09,FALSE
+44827779,4029,Unspecified hypertensive heart disease without heart failure,ICD9CM,09,TRUE
+44827780,404,Hypertensive heart and chronic kidney disease,ICD9CM,09,FALSE
+44827781,405.19,Other benign secondary hypertension,ICD9CM,09,FALSE
+44827781,40519,Other benign secondary hypertension,ICD9CM,09,TRUE
+44827929,642.02,"Benign essential hypertension, complicating pregnancy, childbirth, and the puerperium, delivered, with mention of postpartum complication",ICD9CM,09,FALSE
+44827929,64202,"Benign essential hypertension, complicating pregnancy, childbirth, and the puerperium, delivered, with mention of postpartum complication",ICD9CM,09,TRUE
+44827930,642.11,"Hypertension secondary to renal disease, complicating pregnancy, childbirth, and the puerperium, delivered, with or without mention of antepartum condition",ICD9CM,09,FALSE
+44827930,64211,"Hypertension secondary to renal disease, complicating pregnancy, childbirth, and the puerperium, delivered, with or without mention of antepartum condition",ICD9CM,09,TRUE
+44827931,642.2,"Other pre-existing hypertension complicating pregnancy, childbirth, and the puerperium",ICD9CM,09,FALSE
+44827931,6422,"Other pre-existing hypertension complicating pregnancy, childbirth, and the puerperium",ICD9CM,09,TRUE
+44827932,642.22,"Other pre-existing hypertension, complicating pregnancy, childbirth, and the puerperium, delivered, with mention of postpartum complication",ICD9CM,09,FALSE
+44827932,64222,"Other pre-existing hypertension, complicating pregnancy, childbirth, and the puerperium, delivered, with mention of postpartum complication",ICD9CM,09,TRUE
+44828970,402.1,Benign hypertensive heart disease without heart failure,ICD9CM,09,FALSE
+44828970,4021,Benign hypertensive heart disease without heart failure,ICD9CM,09,TRUE
+44828971,403.91,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",ICD9CM,09,FALSE
+44828971,40391,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",ICD9CM,09,TRUE
+44830076,402.1,Benign hypertensive heart disease,ICD9CM,09,FALSE
+44830076,4021,Benign hypertensive heart disease,ICD9CM,09,TRUE
+44830077,403.9,"Hypertensive renal disease, unspecified",ICD9CM,09,FALSE
+44830077,4039,"Hypertensive renal disease, unspecified",ICD9CM,09,TRUE
+44830078,405.91,Unspecified renovascular hypertension,ICD9CM,09,FALSE
+44830078,40591,Unspecified renovascular hypertension,ICD9CM,09,TRUE
+44830210,642.04,"Benign essential hypertension complicating pregnancy, childbirth, and the puerperium, postpartum condition or complication",ICD9CM,09,FALSE
+44830210,64204,"Benign essential hypertension complicating pregnancy, childbirth, and the puerperium, postpartum condition or complication",ICD9CM,09,TRUE
+44830211,642.23,"Other pre-existing hypertension, complicating pregnancy, childbirth, and the puerperium, antepartum condition or complication",ICD9CM,09,FALSE
+44830211,64223,"Other pre-existing hypertension, complicating pregnancy, childbirth, and the puerperium, antepartum condition or complication",ICD9CM,09,TRUE
+44830637,997.91,"Complications affecting other specified body systems, not elsewhere classified, hypertension",ICD9CM,09,FALSE
+44830637,99791,"Complications affecting other specified body systems, not elsewhere classified, hypertension",ICD9CM,09,TRUE
+44831229,402,Malignant hypertensive heart disease,ICD9CM,09,FALSE
+44831230,402.91,Unspecified hypertensive heart disease with heart failure,ICD9CM,09,FALSE
+44831230,40291,Unspecified hypertensive heart disease with heart failure,ICD9CM,09,TRUE
+44831231,403.11,"Hypertensive chronic kidney disease, benign, with chronic kidney disease stage V or end stage renal disease",ICD9CM,09,FALSE
+44831231,40311,"Hypertensive chronic kidney disease, benign, with chronic kidney disease stage V or end stage renal disease",ICD9CM,09,TRUE
+44831232,404.02,"Hypertensive heart and chronic kidney disease, malignant, without heart failure and with chronic kidney disease stage V or end stage renal disease",ICD9CM,09,FALSE
+44831232,40402,"Hypertensive heart and chronic kidney disease, malignant, without heart failure and with chronic kidney disease stage V or end stage renal disease",ICD9CM,09,TRUE
+44831233,405,Malignant secondary hypertension,ICD9CM,09,FALSE
+44831234,405.01,Malignant renovascular hypertension,ICD9CM,09,FALSE
+44831234,40501,Malignant renovascular hypertension,ICD9CM,09,TRUE
+44831235,405.1,Benign secondary hypertension,ICD9CM,09,FALSE
+44831235,4051,Benign secondary hypertension,ICD9CM,09,TRUE
+44831376,642,"Benign essential hypertension complicating pregnancy, childbirth, and the puerperium",ICD9CM,09,FALSE
+44831562,760,Maternal hypertensive disorders affecting fetus or newborn,ICD9CM,09,FALSE
+44832366,402,Hypertensive heart disease,ICD9CM,09,FALSE
+44832367,403,Hypertensive chronic kidney disease,ICD9CM,09,FALSE
+44832368,403,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage I through stage IV, or unspecified",ICD9CM,09,FALSE
+44832369,404,"Hypertensive heart and chronic kidney disease, malignant, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified",ICD9CM,09,FALSE
+44832370,405,Secondary hypertension,ICD9CM,09,FALSE
+44832371,405.11,Benign renovascular hypertension,ICD9CM,09,FALSE
+44832371,40511,Benign renovascular hypertension,ICD9CM,09,TRUE
+44832523,642.71,"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, delivered, with or without mention of antepartum condition",ICD9CM,09,FALSE
+44832523,64271,"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, delivered, with or without mention of antepartum condition",ICD9CM,09,TRUE
+44832524,642.74,"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, postpartum condition or complication",ICD9CM,09,FALSE
+44832524,64274,"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, postpartum condition or complication",ICD9CM,09,TRUE
+44833556,401,Essential hypertension,ICD9CM,09,FALSE
+44833557,402.01,Malignant hypertensive heart disease with heart failure,ICD9CM,09,FALSE
+44833557,40201,Malignant hypertensive heart disease with heart failure,ICD9CM,09,TRUE
+44833558,403,"Hypertensive chronic kidney disease, malignant",ICD9CM,09,FALSE
+44833559,404,"Hypertensive heart and chronic kidney disease, malignant",ICD9CM,09,FALSE
+44833560,404.12,"Hypertensive heart and chronic kidney disease, benign, without heart failure and with chronic kidney disease stage V or end stage renal disease",ICD9CM,09,FALSE
+44833560,40412,"Hypertensive heart and chronic kidney disease, benign, without heart failure and with chronic kidney disease stage V or end stage renal disease",ICD9CM,09,TRUE
+44833713,642,"Hypertension complicating pregnancy, childbirth, and the puerperium",ICD9CM,09,FALSE
+44833714,642.14,"Hypertension secondary to renal disease, complicating pregnancy, childbirth, and the puerperium, postpartum condition or complication",ICD9CM,09,FALSE
+44833714,64214,"Hypertension secondary to renal disease, complicating pregnancy, childbirth, and the puerperium, postpartum condition or complication",ICD9CM,09,TRUE
+44833715,642.33,"Transient hypertension of pregnancy, antepartum condition or complication",ICD9CM,09,FALSE
+44833715,64233,"Transient hypertension of pregnancy, antepartum condition or complication",ICD9CM,09,TRUE
+44834715,401.1,Benign essential hypertension,ICD9CM,09,FALSE
+44834715,4011,Benign essential hypertension,ICD9CM,09,TRUE
+44834716,402.9,Unspecified hypertensive heart disease,ICD9CM,09,FALSE
+44834716,4029,Unspecified hypertensive heart disease,ICD9CM,09,TRUE
+44834717,404.1,"Hypertensive heart and renal disease, benign",ICD9CM,09,FALSE
+44834717,4041,"Hypertensive heart and renal disease, benign",ICD9CM,09,TRUE
+44834876,642.32,"Transient hypertension of pregnancy, delivered, with mention of postpartum complication",ICD9CM,09,FALSE
+44834876,64232,"Transient hypertension of pregnancy, delivered, with mention of postpartum complication",ICD9CM,09,TRUE
+44835922,403.1,"Hypertensive chronic kidney disease, benign, with chronic kidney disease stage I through stage IV, or unspecified",ICD9CM,09,FALSE
+44835922,4031,"Hypertensive chronic kidney disease, benign, with chronic kidney disease stage I through stage IV, or unspecified",ICD9CM,09,TRUE
+44835923,403.9,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",ICD9CM,09,FALSE
+44835923,4039,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",ICD9CM,09,TRUE
+44835924,404.9,"Hypertensive heart and chronic kidney disease, unspecified, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified",ICD9CM,09,FALSE
+44835924,4049,"Hypertensive heart and chronic kidney disease, unspecified, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified",ICD9CM,09,TRUE
+44835925,405.99,Other unspecified secondary hypertension,ICD9CM,09,FALSE
+44835925,40599,Other unspecified secondary hypertension,ICD9CM,09,TRUE
+44835953,437.2,Hypertensive encephalopathy,ICD9CM,09,FALSE
+44835953,4372,Hypertensive encephalopathy,ICD9CM,09,TRUE
+44836074,642.21,"Other pre-existing hypertension, complicating pregnancy, childbirth, and the puerperium, delivered, with or without mention of antepartum condition",ICD9CM,09,FALSE
+44836074,64221,"Other pre-existing hypertension, complicating pregnancy, childbirth, and the puerperium, delivered, with or without mention of antepartum condition",ICD9CM,09,TRUE
+44836075,642.24,"Other pre-existing hypertension,complicating pregnancy, childbirth, and the puerperium, , postpartum condition or complication",ICD9CM,09,FALSE
+44836075,64224,"Other pre-existing hypertension,complicating pregnancy, childbirth, and the puerperium, , postpartum condition or complication",ICD9CM,09,TRUE
+44836076,642.3,"Transient hypertension of pregnancy, unspecified as to episode of care or not applicable",ICD9CM,09,FALSE
+44836076,6423,"Transient hypertension of pregnancy, unspecified as to episode of care or not applicable",ICD9CM,09,TRUE
+44836077,642.31,"Transient hypertension of pregnancy, delivered , with or without mention of antepartum condition",ICD9CM,09,FALSE
+44836077,64231,"Transient hypertension of pregnancy, delivered , with or without mention of antepartum condition",ICD9CM,09,TRUE
+44837098,405.9,Unspecified secondary hypertension,ICD9CM,09,FALSE
+44837098,4059,Unspecified secondary hypertension,ICD9CM,09,TRUE
+44837233,642.2,"Other pre-existing hypertension complicating pregnancy, childbirth, and the puerperium, unspecified as to episode of care or not applicable",ICD9CM,09,FALSE
+44837233,6422,"Other pre-existing hypertension complicating pregnancy, childbirth, and the puerperium, unspecified as to episode of care or not applicable",ICD9CM,09,TRUE
+44837235,642.9,"Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, unspecified as to episode of care or not applicable",ICD9CM,09,FALSE
+44837235,6429,"Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, unspecified as to episode of care or not applicable",ICD9CM,09,TRUE
+45534169,O10.1,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium",ICD10,10,FALSE
+45534169,O101,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium",ICD10,10,TRUE
+45534170,O10.12,Pre-existing hypertensive heart disease complicating childbirth,ICD10CM,10,FALSE
+45534170,O1012,Pre-existing hypertensive heart disease complicating childbirth,ICD10CM,10,TRUE
+45534171,O10.219,"Pre-existing hypertensive chronic kidney disease complicating pregnancy, unspecified trimester",ICD10CM,10,FALSE
+45534171,O10219,"Pre-existing hypertensive chronic kidney disease complicating pregnancy, unspecified trimester",ICD10CM,10,TRUE
+45534172,O10.22,Pre-existing hypertensive chronic kidney disease complicating childbirth,ICD10CM,10,FALSE
+45534172,O1022,Pre-existing hypertensive chronic kidney disease complicating childbirth,ICD10CM,10,TRUE
+45534173,O10.42,Pre-existing secondary hypertension complicating childbirth,ICD10CM,10,FALSE
+45534173,O1042,Pre-existing secondary hypertension complicating childbirth,ICD10CM,10,TRUE
+45534174,O11.2,"Pre-existing hypertension with pre-eclampsia, second trimester",ICD10CM,10,FALSE
+45534174,O112,"Pre-existing hypertension with pre-eclampsia, second trimester",ICD10CM,10,TRUE
+45538369,I11.0,Hypertensive heart disease with (congestive) heart failure,ICD10,10,FALSE
+45538369,I110,Hypertensive heart disease with (congestive) heart failure,ICD10,10,TRUE
+45539085,O10.113,"Pre-existing hypertensive heart disease complicating pregnancy, third trimester",ICD10CM,10,FALSE
+45539085,O10113,"Pre-existing hypertensive heart disease complicating pregnancy, third trimester",ICD10CM,10,TRUE
+45539086,O10.23,Pre-existing hypertensive chronic kidney disease complicating the puerperium,ICD10CM,10,FALSE
+45539086,O1023,Pre-existing hypertensive chronic kidney disease complicating the puerperium,ICD10CM,10,TRUE
+45539087,O10.319,"Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy, unspecified trimester",ICD10CM,10,FALSE
+45539087,O10319,"Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy, unspecified trimester",ICD10CM,10,TRUE
+45539088,O10.4,"Pre-existing secondary hypertension complicating pregnancy, childbirth and the puerperium",ICD10,10,FALSE
+45539088,O104,"Pre-existing secondary hypertension complicating pregnancy, childbirth and the puerperium",ICD10,10,TRUE
+45539089,O10.913,"Unspecified pre-existing hypertension complicating pregnancy, third trimester",ICD10CM,10,FALSE
+45539089,O10913,"Unspecified pre-existing hypertension complicating pregnancy, third trimester",ICD10CM,10,TRUE
+45539090,O10.92,Unspecified pre-existing hypertension complicating childbirth,ICD10CM,10,FALSE
+45539090,O1092,Unspecified pre-existing hypertension complicating childbirth,ICD10CM,10,TRUE
+45539091,O13,Gestational [pregnancy-induced] hypertension,ICD10,10,FALSE
+45543026,H35.03,Hypertensive retinopathy,ICD10CM,10,FALSE
+45543026,H3503,Hypertensive retinopathy,ICD10CM,10,TRUE
+45543164,I13.10,"Hypertensive heart and chronic kidney disease without heart failure, with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",ICD10CM,10,FALSE
+45543164,I1310,"Hypertensive heart and chronic kidney disease without heart failure, with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",ICD10CM,10,TRUE
+45543165,I13.9,"Hypertensive heart and renal disease, unspecified",ICD10,10,FALSE
+45543165,I139,"Hypertensive heart and renal disease, unspecified",ICD10,10,TRUE
+45543913,O10.013,"Pre-existing essential hypertension complicating pregnancy, third trimester",ICD10CM,10,FALSE
+45543913,O10013,"Pre-existing essential hypertension complicating pregnancy, third trimester",ICD10CM,10,TRUE
+45547866,H35.039,"Hypertensive retinopathy, unspecified eye",ICD10CM,10,FALSE
+45547866,H35039,"Hypertensive retinopathy, unspecified eye",ICD10CM,10,TRUE
+45548007,I11,Hypertensive heart disease,ICD10,10,FALSE
+45548008,I15.8,Other secondary hypertension,ICD10,10,FALSE
+45548008,I158,Other secondary hypertension,ICD10,10,TRUE
+45548697,O10.212,"Pre-existing hypertensive chronic kidney disease complicating pregnancy, second trimester",ICD10CM,10,FALSE
+45548697,O10212,"Pre-existing hypertensive chronic kidney disease complicating pregnancy, second trimester",ICD10CM,10,TRUE
+45548698,O10.3,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium",ICD10,10,FALSE
+45548698,O103,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium",ICD10,10,TRUE
+45548699,O10.419,"Pre-existing secondary hypertension complicating pregnancy, unspecified trimester",ICD10CM,10,FALSE
+45548699,O10419,"Pre-existing secondary hypertension complicating pregnancy, unspecified trimester",ICD10CM,10,TRUE
+45548700,O10.9,"Unspecified pre-existing hypertension complicating pregnancy, childbirth and the puerperium",ICD10,10,FALSE
+45548700,O109,"Unspecified pre-existing hypertension complicating pregnancy, childbirth and the puerperium",ICD10,10,TRUE
+45548703,O13.2,"Gestational [pregnancy-induced] hypertension without significant proteinuria, second trimester",ICD10CM,10,FALSE
+45548703,O132,"Gestational [pregnancy-induced] hypertension without significant proteinuria, second trimester",ICD10CM,10,TRUE
+45548704,O13.9,"Gestational [pregnancy-induced] hypertension without significant proteinuria, unspecified trimester",ICD10CM,10,FALSE
+45548704,O139,"Gestational [pregnancy-induced] hypertension without significant proteinuria, unspecified trimester",ICD10CM,10,TRUE
+45548707,O16.3,"Unspecified maternal hypertension, third trimester",ICD10CM,10,FALSE
+45548707,O163,"Unspecified maternal hypertension, third trimester",ICD10CM,10,TRUE
+45552669,H35.032,"Hypertensive retinopathy, left eye",ICD10CM,10,FALSE
+45552669,H35032,"Hypertensive retinopathy, left eye",ICD10CM,10,TRUE
+45552780,I13.2,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,ICD10,10,FALSE
+45552780,I132,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,ICD10,10,TRUE
+45553475,O10.112,"Pre-existing hypertensive heart disease complicating pregnancy, second trimester",ICD10CM,10,FALSE
+45553475,O10112,"Pre-existing hypertensive heart disease complicating pregnancy, second trimester",ICD10CM,10,TRUE
+45557535,I15.1,Hypertension secondary to other renal disorders,ICD10,10,FALSE
+45557535,I151,Hypertension secondary to other renal disorders,ICD10,10,TRUE
+45558200,O10.13,Pre-existing hypertensive heart disease complicating the puerperium,ICD10CM,10,FALSE
+45558200,O1013,Pre-existing hypertensive heart disease complicating the puerperium,ICD10CM,10,TRUE
+45558201,O10.313,"Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy, third trimester",ICD10CM,10,FALSE
+45558201,O10313,"Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy, third trimester",ICD10CM,10,TRUE
+45558202,O10.32,Pre-existing hypertensive heart and chronic kidney disease complicating childbirth,ICD10CM,10,FALSE
+45558202,O1032,Pre-existing hypertensive heart and chronic kidney disease complicating childbirth,ICD10CM,10,TRUE
+45558203,O10.411,"Pre-existing secondary hypertension complicating pregnancy, first trimester",ICD10CM,10,FALSE
+45558203,O10411,"Pre-existing secondary hypertension complicating pregnancy, first trimester",ICD10CM,10,TRUE
+45562228,H35.033,"Hypertensive retinopathy, bilateral",ICD10CM,10,FALSE
+45562228,H35033,"Hypertensive retinopathy, bilateral",ICD10CM,10,TRUE
+45562338,I15,Secondary hypertension,ICD10,10,FALSE
+45563047,O10.111,"Pre-existing hypertensive heart disease complicating pregnancy, first trimester",ICD10CM,10,FALSE
+45563047,O10111,"Pre-existing hypertensive heart disease complicating pregnancy, first trimester",ICD10CM,10,TRUE
+45563048,O10.43,Pre-existing secondary hypertension complicating the puerperium,ICD10CM,10,FALSE
+45563048,O1043,Pre-existing secondary hypertension complicating the puerperium,ICD10CM,10,TRUE
+45563051,O13.1,"Gestational [pregnancy-induced] hypertension without significant proteinuria, first trimester",ICD10CM,10,FALSE
+45563051,O131,"Gestational [pregnancy-induced] hypertension without significant proteinuria, first trimester",ICD10CM,10,TRUE
+45563052,O13.3,"Gestational [pregnancy-induced] hypertension without significant proteinuria, third trimester",ICD10CM,10,FALSE
+45563052,O133,"Gestational [pregnancy-induced] hypertension without significant proteinuria, third trimester",ICD10CM,10,TRUE
+45563054,O16,Unspecified maternal hypertension,ICD10,10,FALSE
+45567040,H35.031,"Hypertensive retinopathy, right eye",ICD10CM,10,FALSE
+45567040,H35031,"Hypertensive retinopathy, right eye",ICD10CM,10,TRUE
+45567162,I12,Hypertensive renal disease,ICD10,10,FALSE
+45567163,I15.9,"Secondary hypertension, unspecified",ICD10,10,FALSE
+45567163,I159,"Secondary hypertension, unspecified",ICD10,10,TRUE
+45567885,O10.02,Pre-existing essential hypertension complicating childbirth,ICD10CM,10,FALSE
+45567885,O1002,Pre-existing essential hypertension complicating childbirth,ICD10CM,10,TRUE
+45567886,O10.211,"Pre-existing hypertensive chronic kidney disease complicating pregnancy, first trimester",ICD10CM,10,FALSE
+45567886,O10211,"Pre-existing hypertensive chronic kidney disease complicating pregnancy, first trimester",ICD10CM,10,TRUE
+45567887,O10.93,Unspecified pre-existing hypertension complicating the puerperium,ICD10CM,10,FALSE
+45567887,O1093,Unspecified pre-existing hypertension complicating the puerperium,ICD10CM,10,TRUE
+45572075,I13.0,Hypertensive heart and renal disease with (congestive) heart failure,ICD10,10,FALSE
+45572075,I130,Hypertensive heart and renal disease with (congestive) heart failure,ICD10,10,TRUE
+45572076,I13.1,Hypertensive heart and renal disease with renal failure,ICD10,10,FALSE
+45572076,I131,Hypertensive heart and renal disease with renal failure,ICD10,10,TRUE
+45572077,I15.0,Renovascular hypertension,ICD10,10,FALSE
+45572077,I150,Renovascular hypertension,ICD10,10,TRUE
+45572762,O11,Pre-eclampsia superimposed on chronic hypertension,ICD10,10,FALSE
+45572765,O16.1,"Unspecified maternal hypertension, first trimester",ICD10CM,10,FALSE
+45572765,O161,"Unspecified maternal hypertension, first trimester",ICD10CM,10,TRUE
+45576863,I11.9,Hypertensive heart disease without (congestive) heart failure,ICD10,10,FALSE
+45576863,I119,Hypertensive heart disease without (congestive) heart failure,ICD10,10,TRUE
+45576864,I13,Hypertensive heart and renal disease,ICD10,10,FALSE
+45577557,O10.312,"Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy, second trimester",ICD10CM,10,FALSE
+45577557,O10312,"Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy, second trimester",ICD10CM,10,TRUE
+45577558,O10.919,"Unspecified pre-existing hypertension complicating pregnancy, unspecified trimester",ICD10CM,10,FALSE
+45577558,O10919,"Unspecified pre-existing hypertension complicating pregnancy, unspecified trimester",ICD10CM,10,TRUE
+45577559,O11.3,"Pre-existing hypertension with pre-eclampsia, third trimester",ICD10CM,10,FALSE
+45577559,O113,"Pre-existing hypertension with pre-eclampsia, third trimester",ICD10CM,10,TRUE
+45577680,P00.0,Fetus and newborn affected by maternal hypertensive disorders,ICD10,10,FALSE
+45577680,P000,Fetus and newborn affected by maternal hypertensive disorders,ICD10,10,TRUE
+45577702,P29.2,Neonatal hypertension,ICD10,10,FALSE
+45577702,P292,Neonatal hypertension,ICD10,10,TRUE
+45582442,O10.011,"Pre-existing essential hypertension complicating pregnancy, first trimester",ICD10CM,10,FALSE
+45582442,O10011,"Pre-existing essential hypertension complicating pregnancy, first trimester",ICD10CM,10,TRUE
+45582443,O10.2,"Pre-existing hypertensive renal disease complicating pregnancy, childbirth and the puerperium",ICD10,10,FALSE
+45582443,O102,"Pre-existing hypertensive renal disease complicating pregnancy, childbirth and the puerperium",ICD10,10,TRUE
+45582444,O10.33,Pre-existing hypertensive heart and chronic kidney disease complicating the puerperium,ICD10CM,10,FALSE
+45582444,O1033,Pre-existing hypertensive heart and chronic kidney disease complicating the puerperium,ICD10CM,10,TRUE
+45582445,O10.412,"Pre-existing secondary hypertension complicating pregnancy, second trimester",ICD10CM,10,FALSE
+45582445,O10412,"Pre-existing secondary hypertension complicating pregnancy, second trimester",ICD10CM,10,TRUE
+45582446,O10.911,"Unspecified pre-existing hypertension complicating pregnancy, first trimester",ICD10CM,10,FALSE
+45582446,O10911,"Unspecified pre-existing hypertension complicating pregnancy, first trimester",ICD10CM,10,TRUE
+45587280,O10.213,"Pre-existing hypertensive chronic kidney disease complicating pregnancy, third trimester",ICD10CM,10,FALSE
+45587280,O10213,"Pre-existing hypertensive chronic kidney disease complicating pregnancy, third trimester",ICD10CM,10,TRUE
+45587281,O10.311,"Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy, first trimester",ICD10CM,10,FALSE
+45587281,O10311,"Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy, first trimester",ICD10CM,10,TRUE
+45591453,I10,Essential (primary) hypertension,ICD10,10,FALSE
+45591479,I67.4,Hypertensive encephalopathy,ICD10,10,FALSE
+45591479,I674,Hypertensive encephalopathy,ICD10,10,TRUE
+45592183,O10.03,Pre-existing essential hypertension complicating the puerperium,ICD10CM,10,FALSE
+45592183,O1003,Pre-existing essential hypertension complicating the puerperium,ICD10CM,10,TRUE
+45592184,O10.119,"Pre-existing hypertensive heart disease complicating pregnancy, unspecified trimester",ICD10CM,10,FALSE
+45592184,O10119,"Pre-existing hypertensive heart disease complicating pregnancy, unspecified trimester",ICD10CM,10,TRUE
+45592185,O10.413,"Pre-existing secondary hypertension complicating pregnancy, third trimester",ICD10CM,10,FALSE
+45592185,O10413,"Pre-existing secondary hypertension complicating pregnancy, third trimester",ICD10CM,10,TRUE
+45592191,O16.2,"Unspecified maternal hypertension, second trimester",ICD10CM,10,FALSE
+45592191,O162,"Unspecified maternal hypertension, second trimester",ICD10CM,10,TRUE
+45596187,I12.0,Hypertensive renal disease with renal failure,ICD10,10,FALSE
+45596187,I120,Hypertensive renal disease with renal failure,ICD10,10,TRUE
+45596188,I13.11,"Hypertensive heart and chronic kidney disease without heart failure, with stage 5 chronic kidney disease, or end stage renal disease",ICD10CM,10,FALSE
+45596188,I1311,"Hypertensive heart and chronic kidney disease without heart failure, with stage 5 chronic kidney disease, or end stage renal disease",ICD10CM,10,TRUE
+45596189,I15.2,Hypertension secondary to endocrine disorders,ICD10,10,FALSE
+45596189,I152,Hypertension secondary to endocrine disorders,ICD10,10,TRUE
+45596915,O10.019,"Pre-existing essential hypertension complicating pregnancy, unspecified trimester",ICD10CM,10,FALSE
+45596915,O10019,"Pre-existing essential hypertension complicating pregnancy, unspecified trimester",ICD10CM,10,TRUE
+45596916,O11.1,"Pre-existing hypertension with pre-eclampsia, first trimester",ICD10CM,10,FALSE
+45596916,O111,"Pre-existing hypertension with pre-eclampsia, first trimester",ICD10CM,10,TRUE
+45596917,O11.9,"Pre-existing hypertension with pre-eclampsia, unspecified trimester",ICD10CM,10,FALSE
+45596917,O119,"Pre-existing hypertension with pre-eclampsia, unspecified trimester",ICD10CM,10,TRUE
+45596923,O16.9,"Unspecified maternal hypertension, unspecified trimester",ICD10CM,10,FALSE
+45596923,O169,"Unspecified maternal hypertension, unspecified trimester",ICD10CM,10,TRUE
+45601777,O10.0,"Pre-existing essential hypertension complicating pregnancy, childbirth and the puerperium",ICD10,10,FALSE
+45601777,O100,"Pre-existing essential hypertension complicating pregnancy, childbirth and the puerperium",ICD10,10,TRUE
+45601778,O10.012,"Pre-existing essential hypertension complicating pregnancy, second trimester",ICD10CM,10,FALSE
+45601778,O10012,"Pre-existing essential hypertension complicating pregnancy, second trimester",ICD10CM,10,TRUE
+45605778,I12.9,Hypertensive renal disease without renal failure,ICD10,10,FALSE
+45605778,I129,Hypertensive renal disease without renal failure,ICD10,10,TRUE
+45605875,I97.3,Postprocedural hypertension,ICD10CM,10,FALSE
+45605875,I973,Postprocedural hypertension,ICD10CM,10,TRUE
+45606537,O10.912,"Unspecified pre-existing hypertension complicating pregnancy, second trimester",ICD10CM,10,FALSE
+45606537,O10912,"Unspecified pre-existing hypertension complicating pregnancy, second trimester",ICD10CM,10,TRUE
+45755599,O10,"Pre-existing hypertension complicating pregnancy, childbirth and the puerperium",ICD10,10,FALSE
+45757119,10752641000119100,Eclampsia with pre-existing hypertension in childbirth,SNOMED,SM,FALSE
+45757137,10757401000119100,Pre-existing hypertensive heart and chronic kidney disease in mother complicating childbirth,SNOMED,SM,FALSE
+45757356,118781000119108,Pre-existing hypertensive chronic kidney disease in mother complicating pregnancy,SNOMED,SM,FALSE
+45757444,140101000119109,Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus,SNOMED,SM,FALSE
+45757445,140111000119107,Hypertension in chronic kidney disease stage 4 due to type 2 diabetes mellitus,SNOMED,SM,FALSE
+45757446,140121000119100,Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus,SNOMED,SM,FALSE
+45757447,140131000119102,Hypertension in chronic kidney disease stage 2 due to type 2 diabetes mellitus,SNOMED,SM,FALSE
+45757787,40511000119107,Postpartum pre-existing essential hypertension,SNOMED,SM,FALSE
+45757788,40521000119100,Postpartum pregnancy-induced hypertension,SNOMED,SM,FALSE
+45768449,706882009,Hypertensive crisis,SNOMED,SM,FALSE
+45771064,71421000119105,Hypertension in chronic kidney disease due to type 2 diabetes mellitus,SNOMED,SM,FALSE
+45771067,71701000119105,Hypertension in chronic kidney disease due to type 1 diabetes mellitus,SNOMED,SM,FALSE

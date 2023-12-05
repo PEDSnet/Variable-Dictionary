@@ -1,0 +1,1781 @@
+concept_id,concept_code,concept_name,vocabulary_id,pcornet_vocabulary_id,cc_decimal_removal
+8689,J11.1,Influenza due to unidentified influenza virus with other respiratory manifestations,ICD10CM,10,FALSE
+8689,J111,Influenza due to unidentified influenza virus with other respiratory manifestations,ICD10CM,10,TRUE
+23137,232403001,Chlamydial pharyngitis,SNOMED,SM,FALSE
+26899,70341005,Tuberculous laryngitis,SNOMED,SM,FALSE
+26908,186963008,Vincent's angina,SNOMED,SM,FALSE
+28060,43878008,Streptococcal sore throat,SNOMED,SM,FALSE
+30333,74372003,Gonorrhea of pharynx,SNOMED,SM,FALSE
+132553,186659004,Herpangina,SNOMED,SM,FALSE
+252235,29731002,Tuberculous pneumothorax,SNOMED,SM,FALSE
+252351,41381004,Pneumonia due to Pseudomonas,SNOMED,SM,FALSE
+252548,195902009,Anthrax pneumonia,SNOMED,SM,FALSE
+252552,81164001,Ornithosis with pneumonia,SNOMED,SM,FALSE
+252655,195886008,Group B streptococcal pneumonia,SNOMED,SM,FALSE
+252949,7678002,Cytomegaloviral pneumonia,SNOMED,SM,FALSE
+253121,186194007,"Tuberculosis of lung, confirmed by culture only",SNOMED,SM,FALSE
+253235,59475000,Pneumonia in pertussis,SNOMED,SM,FALSE
+253790,64479007,Pneumonia due to Klebsiella pneumoniae,SNOMED,SM,FALSE
+253954,154283005,Pulmonary tuberculosis,SNOMED,SM,FALSE
+254058,195739001,Acute bronchiolitis due to respiratory syncytial virus,SNOMED,SM,FALSE
+254066,233609002,Pneumonia caused by Chlamydiaceae,SNOMED,SM,FALSE
+254266,80003002,Tuberculous pneumonia,SNOMED,SM,FALSE
+254388,312403005,Legionnaire's disease,SNOMED,SM,FALSE
+254561,38976008,Pneumonic plague,SNOMED,SM,FALSE
+254576,187042003,Histoplasma capsulatum with pneumonia,SNOMED,SM,FALSE
+254677,41207000,Adenoviral pneumonia,SNOMED,SM,FALSE
+254852,186188004,Isolated tracheal or bronchial tuberculosis,SNOMED,SM,FALSE
+255175,80602006,Nodular tuberculosis of lung,SNOMED,SM,FALSE
+255454,186193001,"Tuberculosis of lung, confirmed by sputum microscopy with or without culture",SNOMED,SM,FALSE
+255477,75388006,Echinococcus granulosus infection of lung,SNOMED,SM,FALSE
+255735,35339003,Primary pneumonic plague,SNOMED,SM,FALSE
+256018,186195008,"Tuberculosis of lung, confirmed histologically",SNOMED,SM,FALSE
+256023,65095005,Amebic lung abscess,SNOMED,SM,FALSE
+256036,31920006,Hemorrhagic varicella pneumonitis,SNOMED,SM,FALSE
+256622,84353005,Pulmonary disease due to Mycobacteria,SNOMED,SM,FALSE
+256723,195878008,Pneumonia and influenza,SNOMED,SM,FALSE
+256896,186178000,Tuberculosis of bronchus,SNOMED,SM,FALSE
+256909,88036000,Primary pulmonary coccidioidomycosis,SNOMED,SM,FALSE
+257011,54398005,Acute upper respiratory infection,SNOMED,SM,FALSE
+257315,53084003,Bacterial pneumonia,SNOMED,SM,FALSE
+257778,27836007,Pertussis,SNOMED,SM,FALSE
+257905,74417001,Mucopurulent chronic bronchitis,SNOMED,SM,FALSE
+257908,409664000,Pneumonia due to anaerobic bacteria,SNOMED,SM,FALSE
+258061,45556008,Pulmonary tularemia,SNOMED,SM,FALSE
+258079,187061004,Histoplasmosis with pneumonia,SNOMED,SM,FALSE
+258180,430395005,Pneumonia due to Gram negative bacteria,SNOMED,SM,FALSE
+258333,2523007,Salmonella pneumonia,SNOMED,SM,FALSE
+258335,90117007,Tuberculous fibrosis of lung,SNOMED,SM,FALSE
+258354,187052004,Pulmonary African histoplasmosis,SNOMED,SM,FALSE
+258453,78337007,Acute upper respiratory infection of multiple sites,SNOMED,SM,FALSE
+258458,85426002,Bacterial pleurisy with effusion,SNOMED,SM,FALSE
+258675,186172004,Tuberculous pleurisy in primary progressive tuberculosis,SNOMED,SM,FALSE
+258684,20953001,Pulmonary cryptococcosis,SNOMED,SM,FALSE
+258785,233607000,Pneumococcal pneumonia,SNOMED,SM,FALSE
+258955,82670009,Whooping cough due to organism other than Bordetella pertussis,SNOMED,SM,FALSE
+259048,84753008,Pneumonia in systemic mycosis,SNOMED,SM,FALSE
+259849,266351001,Pneumonia with infectious diseases EC,SNOMED,SM,FALSE
+259852,22754005,Staphylococcal pneumonia,SNOMED,SM,FALSE
+260026,21846001,Pulmonary actinomycosis,SNOMED,SM,FALSE
+260034,233615002,Chronic pulmonary coccidioidomycosis,SNOMED,SM,FALSE
+260041,3487004,Candidiasis of lung,SNOMED,SM,FALSE
+260134,71186008,Croup,SNOMED,SM,FALSE
+260315,186177005,Tuberculosis of lung with cavitation,SNOMED,SM,FALSE
+260427,82272006,Common cold,SNOMED,SM,FALSE
+260430,51530003,Pneumonia due to Escherichia coli,SNOMED,SM,FALSE
+260630,186204008,"Tuberculosis of lung, bacteriological and histological examination not done",SNOMED,SM,FALSE
+260754,70036007,Haemophilus influenzae pneumonia,SNOMED,SM,FALSE
+260936,186175002,Infiltrative lung tuberculosis,SNOMED,SM,FALSE
+261053,111900000,Pneumonia in aspergillosis,SNOMED,SM,FALSE
+261324,34020007,Pneumonia due to Streptococcus,SNOMED,SM,FALSE
+261326,75570004,Viral pneumonia,SNOMED,SM,FALSE
+261327,271504004,Pleural empyema with no fistula,SNOMED,SM,FALSE
+261495,186182003,Tuberculosis of pleura,SNOMED,SM,FALSE
+261774,186202007,"Respiratory tuberculosis, not confirmed bacteriologically or histologically",SNOMED,SM,FALSE
+261883,271503005,Empyema with fistula,SNOMED,SM,FALSE
+312664,63039003,Influenza with respiratory manifestation other than pneumonia,SNOMED,SM,FALSE
+314979,55604004,Avian influenza,SNOMED,SM,FALSE
+320651,398447004,Severe acute respiratory syndrome,SNOMED,SM,FALSE
+320752,61700007,Influenza with non-respiratory manifestation,SNOMED,SM,FALSE
+380944,70385007,Adenoviral pharyngoconjunctivitis,SNOMED,SM,FALSE
+436145,195881003,Pneumonia due to respiratory syncytial virus,SNOMED,SM,FALSE
+437486,15682004,Anterior nasal diphtheria,SNOMED,SM,FALSE
+438063,72409005,Rhinoscleroma,SNOMED,SM,FALSE
+438680,50215002,Laryngeal diphtheria,SNOMED,SM,FALSE
+439857,64917006,Parainfluenza virus pneumonia,SNOMED,SM,FALSE
+440431,46970008,Mycoplasma pneumonia,SNOMED,SM,FALSE
+442550,75589004,Nasopharyngeal diphtheria,SNOMED,SM,FALSE
+442637,67525007,Secondary pneumonic plague,SNOMED,SM,FALSE
+443410,312342009,Infective pneumonia,SNOMED,SM,FALSE
+443775,24078009,Gangosa of yaws,SNOMED,SM,FALSE
+444099,46207001,Pneumonitis due to acquired toxoplasmosis,SNOMED,SM,FALSE
+444294,8555001,Syphilis of lung,SNOMED,SM,FALSE
+605192,1010615002,Late syphilis of lung,SNOMED,SM,FALSE
+605196,1010620002,Infection of lung caused by Mycobacterium malmoense,SNOMED,SM,FALSE
+605197,1010622005,Infection of lung caused by Mycobacterium xenopi,SNOMED,SM,FALSE
+605209,1010634002,Pneumonia caused by Acinetobacter,SNOMED,SM,FALSE
+605234,1010662009,Infection of lung caused by Mycobacterium kansasii,SNOMED,SM,FALSE
+607085,1149091008,Influenza caused by Influenza A virus subtype H2,SNOMED,SM,FALSE
+607087,1149093006,Pneumonia caused by vancomycin resistant Enterococcus,SNOMED,SM,FALSE
+710658,J98.7,"Respiratory infections, not elsewhere classified",ICD10,10,FALSE
+710658,J987,"Respiratory infections, not elsewhere classified",ICD10,10,TRUE
+713857,J12.82,Pneumonia due to coronavirus disease 2019,ICD10CM,10,FALSE
+713857,J1282,Pneumonia due to coronavirus disease 2019,ICD10CM,10,TRUE
+759815,10271000175107,Pneumonia caused by Enterococcus faecium,SNOMED,SM,FALSE
+759816,10281000175105,Pneumonia caused by Enterococcus faecalis,SNOMED,SM,FALSE
+759817,10291000175108,Pneumonia caused by Enterococcus,SNOMED,SM,FALSE
+759818,10301000175109,Pneumonia caused by Serratia,SNOMED,SM,FALSE
+759821,10311000175107,Pneumonia caused by Enterobacter,SNOMED,SM,FALSE
+759843,10629271000119107,Acute tonsillitis caused by Streptococcus,SNOMED,SM,FALSE
+761988,26941000119100,Infection of larynx,SNOMED,SM,FALSE
+763012,434931000124106,Pneumonia due to Influenza A virus subtype H1N1,SNOMED,SM,FALSE
+765178,129211000119108,Isoniazid resistant tuberculosis of lung,SNOMED,SM,FALSE
+765607,435051000124104,Influenza due to Influenza A virus with upper respiratory signs,SNOMED,SM,FALSE
+920135,J21.1,Acute bronchiolitis due to human metapneumovirus,ICD10CM,10,FALSE
+920135,J211,Acute bronchiolitis due to human metapneumovirus,ICD10CM,10,TRUE
+1567249,A15,Respiratory tuberculosis,ICD10CM,10,FALSE
+1567276,A37,Whooping cough,ICD10CM,10,FALSE
+1567277,A37.0,Whooping cough due to Bordetella pertussis,ICD10CM,10,FALSE
+1567277,A370,Whooping cough due to Bordetella pertussis,ICD10CM,10,TRUE
+1567279,A37.8,Whooping cough due to other Bordetella species,ICD10CM,10,FALSE
+1567279,A378,Whooping cough due to other Bordetella species,ICD10CM,10,TRUE
+1567280,A37.9,"Whooping cough, unspecified species",ICD10CM,10,FALSE
+1567280,A379,"Whooping cough, unspecified species",ICD10CM,10,TRUE
+1569449,J03.0,Streptococcal tonsillitis,ICD10CM,10,FALSE
+1569449,J030,Streptococcal tonsillitis,ICD10CM,10,TRUE
+1569455,J05,Acute obstructive laryngitis [croup] and epiglottitis,ICD10CM,10,FALSE
+1569457,J06,Acute upper respiratory infections of multiple and unspecified sites,ICD10CM,10,FALSE
+1569458,J09.X,Influenza due to identified novel influenza A virus,ICD10CM,10,FALSE
+1569458,J09X,Influenza due to identified novel influenza A virus,ICD10CM,10,TRUE
+1569459,J10,Influenza due to other identified influenza virus,ICD10CM,10,FALSE
+1569460,J10.0,Influenza due to other identified influenza virus with pneumonia,ICD10CM,10,FALSE
+1569460,J100,Influenza due to other identified influenza virus with pneumonia,ICD10CM,10,TRUE
+1569461,J10.8,Influenza due to other identified influenza virus with other manifestations,ICD10CM,10,FALSE
+1569461,J108,Influenza due to other identified influenza virus with other manifestations,ICD10CM,10,TRUE
+1569462,J11,Influenza due to unidentified influenza virus,ICD10CM,10,FALSE
+1569463,J11.0,Influenza due to unidentified influenza virus with pneumonia,ICD10CM,10,FALSE
+1569463,J110,Influenza due to unidentified influenza virus with pneumonia,ICD10CM,10,TRUE
+1569464,J11.8,Influenza due to unidentified influenza virus with other manifestations,ICD10CM,10,FALSE
+1569464,J118,Influenza due to unidentified influenza virus with other manifestations,ICD10CM,10,TRUE
+1569465,J12,"Viral pneumonia, not elsewhere classified",ICD10CM,10,FALSE
+1569466,J15,"Bacterial pneumonia, not elsewhere classified",ICD10CM,10,FALSE
+1569467,J15.2,Pneumonia due to staphylococcus,ICD10CM,10,FALSE
+1569467,J152,Pneumonia due to staphylococcus,ICD10CM,10,TRUE
+1569468,J16,"Pneumonia due to other infectious organisms, not elsewhere classified",ICD10CM,10,FALSE
+1569504,J86,Pyothorax,ICD10CM,10,FALSE
+3519185,280331000000102,Avian influenza,SNOMED,SM,FALSE
+3519316,505131000000104,Influenza due to Influenza A virus subtype H1N1,SNOMED,SM,FALSE
+3519794,570791000000100,Whooping cough - other specified organism,SNOMED,SM,FALSE
+3521426,810711000000102,Acute bronchiolitis due to human metapneumovirus,SNOMED,SM,FALSE
+3521427,810721000000108,Pneumonia due to Human metapneumovirus,SNOMED,SM,FALSE
+3522814,78601000000102,Severe acute respiratory syndrome,SNOMED,SM,FALSE
+3522947,83381000000100,Severe acute respiratory syndrome,SNOMED,SM,FALSE
+3526661,292631000000106,Avian influenza,SNOMED,SM,FALSE
+3526922,309421000000105,Pulmonary blastomycosis,SNOMED,SM,FALSE
+3530039,510671000000104,Influenza due to Influenza A virus subtype H1N1,SNOMED,SM,FALSE
+3531249,538321000000103,Streptococcal sore throat NOS,SNOMED,SM,FALSE
+3531375,540121000000103,Influenza with other manifestations,SNOMED,SM,FALSE
+3531376,540131000000101,Influenza with other manifestations NOS,SNOMED,SM,FALSE
+3533614,576581000000107,Acute viral laryngitis unspecified,SNOMED,SM,FALSE
+3533774,579421000000102,Other respiratory tuberculosis,SNOMED,SM,FALSE
+3535265,603071000000106,Pneumonia due to specified organism NOS,SNOMED,SM,FALSE
+3535266,603081000000108,Acute bacterial laryngitis unspecified,SNOMED,SM,FALSE
+3535272,603141000000104,Other acute upper respiratory infections,SNOMED,SM,FALSE
+3536139,616091000000100,Pneumonia with other systemic mycoses,SNOMED,SM,FALSE
+3536140,616101000000108,Pneumonia with systemic mycosis NOS,SNOMED,SM,FALSE
+3536142,616121000000104,Lung empyema NOS,SNOMED,SM,FALSE
+3536143,616131000000102,Pneumonia with infectious diseases EC NOS,SNOMED,SM,FALSE
+3536147,616181000000103,Influenza with respiratory manifestations NOS,SNOMED,SM,FALSE
+3536263,617941000000107,Viral pneumonia NEC,SNOMED,SM,FALSE
+3536264,617951000000105,Viral pneumonia NOS,SNOMED,SM,FALSE
+3536265,617961000000108,Pneumonia due to other specified bacteria,SNOMED,SM,FALSE
+3536266,617971000000101,Pneumonia due to bacteria NOS,SNOMED,SM,FALSE
+3536267,617981000000104,Bacterial pneumonia NOS,SNOMED,SM,FALSE
+3536487,621021000000100,Acute bronchiolitis due to other specified organisms,SNOMED,SM,FALSE
+3536663,623451000000102,Other bacterial pneumonia,SNOMED,SM,FALSE
+3536664,623461000000104,Acute bacterial tonsillitis NOS,SNOMED,SM,FALSE
+3536889,627101000000100,Bacterial pleurisy with effusion NOS,SNOMED,SM,FALSE
+3537620,637911000000102,Other specified acute respiratory infections,SNOMED,SM,FALSE
+3538075,644251000000101,Viral upper respiratory tract infection NOS,SNOMED,SM,FALSE
+3538609,651951000000105,Acute bacterial bronchitis unspecified,SNOMED,SM,FALSE
+3540942,686051000000106,Vincent's angina NOS,SNOMED,SM,FALSE
+3541451,693581000000101,Upper respiratory infection NOS,SNOMED,SM,FALSE
+3542047,701361000000105,Chest infection NOS,SNOMED,SM,FALSE
+3542056,701461000000102,Pleural empyema NOS,SNOMED,SM,FALSE
+3542457,707151000000103,Aspergilloma,SNOMED,SM,FALSE
+3545126,812311000000102,Hantavirus pulmonary syndrome,SNOMED,SM,FALSE
+3545211,823151000000103,Hospital acquired pneumonia,SNOMED,SM,FALSE
+3545332,831801000000108,Acute bronchiolitis due to human metapneumovirus,SNOMED,SM,FALSE
+3545333,831811000000105,Pneumonia due to human metapneumovirus,SNOMED,SM,FALSE
+3545379,832441000000100,Hantavirus pulmonary syndrome,SNOMED,SM,FALSE
+3545534,834861000000109,Hospital acquired pneumonia,SNOMED,SM,FALSE
+3546251,877901000000109,Pharyngeal lymphogranuloma venereum,SNOMED,SM,FALSE
+3547909,1033061000000103,Influenza due to zoonotic influenza virus,SNOMED,SM,FALSE
+3547910,1033081000000107,Influenza due to pandemic influenza virus,SNOMED,SM,FALSE
+3547911,1033101000000101,Influenza due to seasonal influenza virus,SNOMED,SM,FALSE
+3547912,1033121000000105,Influenzal bronchopneumonia due to seasonal influenza virus,SNOMED,SM,FALSE
+3547913,1033131000000107,Pneumonia due to Gram negative bacteria,SNOMED,SM,FALSE
+3547914,1033141000000103,Pneumonia due to Gram negative bacteria,SNOMED,SM,FALSE
+3547987,1050601000000101,Influenza due to seasonal influenza virus,SNOMED,SM,FALSE
+3547998,1050981000000100,Influenza due to seasonal influenza virus,SNOMED,SM,FALSE
+3562681,645631000000105,Other upper respiratory infections of multiple sites,SNOMED,SM,FALSE
+3564571,616081000000102,Pneumonia due to other specified organisms,SNOMED,SM,FALSE
+3569461,554071000000106,Isolated tracheal or bronchial tuberculosis NOS,SNOMED,SM,FALSE
+3573034,564541000000102,Other specified pulmonary tuberculosis,SNOMED,SM,FALSE
+3573201,603111000000100,Pneumonia with other infectious diseases EC,SNOMED,SM,FALSE
+3573260,616111000000105,Pneumonia with other infectious diseases EC NOS,SNOMED,SM,FALSE
+3573522,670551000000108,Influenza NOS,SNOMED,SM,FALSE
+3661405,138389411000119105,Acute bronchitis caused by SARS-CoV-2,SNOMED,SM,FALSE
+3661408,882784691000119100,Pneumonia caused by SARS-CoV-2,SNOMED,SM,FALSE
+3663281,880529761000119102,Lower respiratory infection caused by SARS-CoV-2,SNOMED,SM,FALSE
+4008725,111849006,Adenoviral bronchitis,SNOMED,SM,FALSE
+4009327,111816002,Pneumococcal tonsillitis,SNOMED,SM,FALSE
+4013413,10345003,Primary syphilis of tonsils,SNOMED,SM,FALSE
+4014329,10351008,Suppurative tonsillitis,SNOMED,SM,FALSE
+4014884,10446001,Aspergilloma,SNOMED,SM,FALSE
+4016743,11461005,Staphylococcal tonsillitis,SNOMED,SM,FALSE
+4026113,120639003,Hantavirus pulmonary syndrome,SNOMED,SM,FALSE
+4028389,128601007,Infectious disease of lung,SNOMED,SM,FALSE
+4029337,128940004,Parasitic infection of lung,SNOMED,SM,FALSE
+4030792,10809006,Parainfluenza virus laryngotracheitis,SNOMED,SM,FALSE
+4032637,14527007,Tuberculous empyema,SNOMED,SM,FALSE
+4032765,23698009,Staphylococcal pleurisy with effusion,SNOMED,SM,FALSE
+4034608,11389007,Inhalational anthrax,SNOMED,SM,FALSE
+4035987,1532007,Viral pharyngitis,SNOMED,SM,FALSE
+4043934,16810008,AIDS with viral pneumonia,SNOMED,SM,FALSE
+4045589,13089009,Adenoviral bronchiolitis,SNOMED,SM,FALSE
+4048147,206284006,Congenital group A hemolytic streptococcal pneumonia,SNOMED,SM,FALSE
+4048148,206286008,Congenital Escherichia coli pneumonia,SNOMED,SM,FALSE
+4048149,206287004,Congenital pseudomonal pneumonia,SNOMED,SM,FALSE
+4048187,232399005,Acute herpes simplex pharyngitis,SNOMED,SM,FALSE
+4048188,232406009,Chronic pharyngeal candidiasis,SNOMED,SM,FALSE
+4048190,232417005,Vincent's tonsillitis,SNOMED,SM,FALSE
+4048528,123620007,Hantanvirus pulmonary syndrome,SNOMED,SM,FALSE
+4049232,232400003,Acute herpes zoster pharyngitis,SNOMED,SM,FALSE
+4049238,232418000,Acute infection of tonsillar remnant,SNOMED,SM,FALSE
+4049243,232434002,Chronic fungal laryngitis,SNOMED,SM,FALSE
+4049797,2087000,Pulmonary nocardiosis,SNOMED,SM,FALSE
+4049963,233597004,Chest infection - unspecified bronchitis,SNOMED,SM,FALSE
+4049964,233598009,Acute bacterial bronchitis,SNOMED,SM,FALSE
+4049965,233613009,Fungal pneumonia,SNOMED,SM,FALSE
+4050381,21060003,Acute bacterial epiglottitis,SNOMED,SM,FALSE
+4050869,233606009,Atypical pneumonia,SNOMED,SM,FALSE
+4050871,233616001,Pulmonary blastomycosis,SNOMED,SM,FALSE
+4050872,233620002,Pneumonia due to parasitic infestation,SNOMED,SM,FALSE
+4050874,233621003,Rickettsial pneumonia,SNOMED,SM,FALSE
+4051239,16036000,Acute empyema of frontal sinus,SNOMED,SM,FALSE
+4051332,233599001,Acute mycoplasmal bronchitis,SNOMED,SM,FALSE
+4051333,233610007,Neonatal chlamydial pneumonia,SNOMED,SM,FALSE
+4051334,233614003,Pulmonary mucormycosis,SNOMED,SM,FALSE
+4051336,233618000,Mycobacterial pneumonia,SNOMED,SM,FALSE
+4051338,233624006,Herpes simplex pneumonia,SNOMED,SM,FALSE
+4051339,233625007,Giant cell pneumonia,SNOMED,SM,FALSE
+4051340,233626008,Chronic bronchial sepsis,SNOMED,SM,FALSE
+4051344,233649005,Tuberculous chylothorax,SNOMED,SM,FALSE
+4051481,232367004,Nasal syphilis,SNOMED,SM,FALSE
+4051490,232401004,Glandular fever pharyngitis,SNOMED,SM,FALSE
+4051491,232402006,Meningococcal pharyngitis,SNOMED,SM,FALSE
+4051492,232404007,Acute pharyngeal candidiasis,SNOMED,SM,FALSE
+4052541,233596008,Viral upper respiratory tract infection NOS,SNOMED,SM,FALSE
+4052542,233600003,Acute chlamydial bronchitis,SNOMED,SM,FALSE
+4052543,233601004,Acute viral bronchitis,SNOMED,SM,FALSE
+4052544,233602006,Acute viral bronchiolitis,SNOMED,SM,FALSE
+4052545,233603001,Acute bronchiolitis due to adenovirus,SNOMED,SM,FALSE
+4052546,233608005,Meningococcal pneumonia,SNOMED,SM,FALSE
+4052547,233622005,Infectious mononucleosis pneumonia,SNOMED,SM,FALSE
+4052548,233623000,Mononuclear interstitial pneumonia,SNOMED,SM,FALSE
+4055633,196090004,Bacterial pleurisy with effusion NOS,SNOMED,SM,FALSE
+4058712,16146001,Viral bronchitis,SNOMED,SM,FALSE
+4070540,206289001,Congenital chlamydial pneumonia,SNOMED,SM,FALSE
+4070651,206359006,Neonatal candidiasis of lung,SNOMED,SM,FALSE
+4071610,206283000,Congenital staphylococcal pneumonia,SNOMED,SM,FALSE
+4071611,206285007,Congenital group B hemolytic streptococcal pneumonia,SNOMED,SM,FALSE
+4080435,240635003,Leishmanial pneumonia,SNOMED,SM,FALSE
+4080451,240704003,Pharyngeal candidiasis,SNOMED,SM,FALSE
+4080680,24662006,Influenza due to Influenza B virus,SNOMED,SM,FALSE
+4080743,240702004,Chronic necrotizing pulmonary aspergillosis,SNOMED,SM,FALSE
+4080749,240735009,Classical histoplasmosis nasal ulceration,SNOMED,SM,FALSE
+4080753,240747003,Chronic pulmonary blastomycosis,SNOMED,SM,FALSE
+4080772,240547000,Lymphonodular coxsackie pharyngitis,SNOMED,SM,FALSE
+4080886,276700005,Congenital syphilitic rhinitis,SNOMED,SM,FALSE
+4081402,240913009,Halzoun,SNOMED,SM,FALSE
+4081994,278484009,Tropical pulmonary eosinophilia,SNOMED,SM,FALSE
+4082051,240705002,Candidiasis of trachea,SNOMED,SM,FALSE
+4082065,240741002,Acute pulmonary African histoplasmosis,SNOMED,SM,FALSE
+4084795,24235005,Tuberculous hydrothorax,SNOMED,SM,FALSE
+4084955,240629003,Malarial shock lung,SNOMED,SM,FALSE
+4084973,240742009,Chronic pulmonary African histoplasmosis,SNOMED,SM,FALSE
+4085100,281794004,Viral upper respiratory tract infection,SNOMED,SM,FALSE
+4085253,24302002,Pneumococcal pleurisy with effusion,SNOMED,SM,FALSE
+4085637,186181005,Other respiratory tuberculosis,SNOMED,SM,FALSE
+4085638,186191004,Isolated tracheal or bronchial tuberculosis NOS,SNOMED,SM,FALSE
+4087282,186212000,Other specified respiratory tuberculosis NOS,SNOMED,SM,FALSE
+4087426,186356003,Whooping cough NOS,SNOMED,SM,FALSE
+4087776,187027001,Acute pulmonary coccidioidomycosis,SNOMED,SM,FALSE
+4087778,187054003,Pulmonary histoplasmosis,SNOMED,SM,FALSE
+4088071,186179008,Other specified pulmonary tuberculosis,SNOMED,SM,FALSE
+4088072,186180006,Pulmonary tuberculosis NOS,SNOMED,SM,FALSE
+4088074,186197000,"Tuberculosis of lung, confirmed by unspecified means",SNOMED,SM,FALSE
+4088229,186353006,Whooping cough - other specified organism,SNOMED,SM,FALSE
+4089507,187196002,Toxoplasma pneumonitis,SNOMED,SM,FALSE
+4090096,187066009,Primary pulmonary blastomycosis,SNOMED,SM,FALSE
+4090099,187084006,Tonsillar aspergillosis,SNOMED,SM,FALSE
+4090202,187222000,Nasopharyngeal myiasis,SNOMED,SM,FALSE
+4090539,186200004,"Tuberculous pleurisy, confirmed bacteriologically and histologically",SNOMED,SM,FALSE
+4090670,186283004,"Pneumonic plague, unspecified",SNOMED,SM,FALSE
+4091161,186186000,Tuberculous pleurisy NOS,SNOMED,SM,FALSE
+4091163,186192006,"Respiratory tuberculosis, bacteriologically and histologically confirmed",SNOMED,SM,FALSE
+4091166,186201000,"Primary respiratory tuberculosis, confirmed bacteriologically and histologically",SNOMED,SM,FALSE
+4091167,186203002,"Tuberculosis of lung, bacteriologically and histologically negative",SNOMED,SM,FALSE
+4091168,186207001,Other specified respiratory tuberculosis,SNOMED,SM,FALSE
+4091317,186355004,Other whooping cough NOS,SNOMED,SM,FALSE
+4091318,186361001,Streptococcal sore throat NOS,SNOMED,SM,FALSE
+4092983,187100003,Rhinocerebral mucormycosis,SNOMED,SM,FALSE
+4093292,186675001,Viral pharyngoconjunctivitis,SNOMED,SM,FALSE
+4093414,2585002,Pneumococcal pleurisy,SNOMED,SM,FALSE
+4093433,25831001,Tuberculosis of nasal septum,SNOMED,SM,FALSE
+4093475,187069002,Acute pulmonary blastomycosis,SNOMED,SM,FALSE
+4096917,26427008,Chronic pulmonary histoplasmosis,SNOMED,SM,FALSE
+4099298,27278006,Acute empyema of sphenoidal sinus,SNOMED,SM,FALSE
+4099911,27475006,Parainfluenza virus bronchitis,SNOMED,SM,FALSE
+4101872,28085001,Empyema with bronchopleural fistula,SNOMED,SM,FALSE
+4105601,29591002,Purulent bronchitis,SNOMED,SM,FALSE
+4109894,195660001,Acute staphylococcal pharyngitis,SNOMED,SM,FALSE
+4109895,195661002,Acute bacterial pharyngitis NOS,SNOMED,SM,FALSE
+4109899,195686006,Acute suppurative laryngitis,SNOMED,SM,FALSE
+4110020,195688007,Acute viral laryngitis unspecified,SNOMED,SM,FALSE
+4110023,195721005,Acute haemophilus influenzae bronchitis,SNOMED,SM,FALSE
+4110027,195770009,Chronic infective rhinitis,SNOMED,SM,FALSE
+4110038,195898003,Pneumonia due to specified organism NOS,SNOMED,SM,FALSE
+4110039,195900001,Pneumonia due to measles,SNOMED,SM,FALSE
+4110040,195903004,Pneumonia with other systemic mycoses,SNOMED,SM,FALSE
+4110041,195913007,Pneumonia with infectious diseases EC NOS,SNOMED,SM,FALSE
+4110042,195925005,Influenza with respiratory manifestations NOS,SNOMED,SM,FALSE
+4110043,195930009,Influenza with other manifestations NOS,SNOMED,SM,FALSE
+4110056,196001008,Chronic obstructive pulmonary disease with acute lower respiratory infection,SNOMED,SM,FALSE
+4110360,195672007,Acute pneumococcal tonsillitis,SNOMED,SM,FALSE
+4110361,195676005,Acute viral tonsillitis,SNOMED,SM,FALSE
+4110475,195684009,Acute haemophilus influenzae laryngitis,SNOMED,SM,FALSE
+4110476,195689004,Acute bacterial laryngitis unspecified,SNOMED,SM,FALSE
+4110479,195708003,Recurrent upper respiratory tract infection,SNOMED,SM,FALSE
+4110481,195722003,Acute Moraxella catarrhalis bronchitis,SNOMED,SM,FALSE
+4110483,195725001,Acute coxsackievirus bronchitis,SNOMED,SM,FALSE
+4110484,195727009,Acute respiratory syncytial virus bronchitis,SNOMED,SM,FALSE
+4110485,195729007,Acute echovirus bronchitis,SNOMED,SM,FALSE
+4110487,195748006,Other specified acute respiratory infections,SNOMED,SM,FALSE
+4110505,195885007,Other bacterial pneumonia,SNOMED,SM,FALSE
+4110506,195896004,Pneumonia due to pleuropneumonia-like organism,SNOMED,SM,FALSE
+4110507,195904005,Pneumonia with coccidioidomycosis,SNOMED,SM,FALSE
+4110508,195906007,Pneumonia with systemic mycosis NOS,SNOMED,SM,FALSE
+4110509,195909000,Nocardial pneumonia,SNOMED,SM,FALSE
+4110510,195911009,Chickenpox pneumonia,SNOMED,SM,FALSE
+4110511,195921001,Influenza with pneumonia NOS,SNOMED,SM,FALSE
+4110512,195924009,Influenza with pharyngitis,SNOMED,SM,FALSE
+4110634,195927002,Influenza with other manifestations,SNOMED,SM,FALSE
+4111559,196070008,Lung empyema NOS,SNOMED,SM,FALSE
+4112006,195658003,Acute bacterial pharyngitis,SNOMED,SM,FALSE
+4112007,195659006,Acute pneumococcal pharyngitis,SNOMED,SM,FALSE
+4112011,195685005,Acute pneumococcal laryngitis,SNOMED,SM,FALSE
+4112015,195720006,Acute streptococcal bronchitis,SNOMED,SM,FALSE
+4112341,195647007,Acute respiratory infections,SNOMED,SM,FALSE
+4112343,195662009,Acute viral pharyngitis,SNOMED,SM,FALSE
+4112345,195671000,Acute bacterial tonsillitis,SNOMED,SM,FALSE
+4112346,195673002,Acute staphylococcal tonsillitis,SNOMED,SM,FALSE
+4112347,195674008,Acute bacterial tonsillitis NOS,SNOMED,SM,FALSE
+4112353,195704001,Other acute upper respiratory infections,SNOMED,SM,FALSE
+4112354,195710001,Other upper respiratory infections of multiple sites,SNOMED,SM,FALSE
+4112357,195717003,Acute purulent bronchitis,SNOMED,SM,FALSE
+4112358,195719000,Acute pneumococcal bronchitis,SNOMED,SM,FALSE
+4112359,195726000,Acute parainfluenza virus bronchitis,SNOMED,SM,FALSE
+4112360,195731003,Acute viral bronchitis unspecified,SNOMED,SM,FALSE
+4112361,195740004,Acute bronchiolitis due to other specified organisms,SNOMED,SM,FALSE
+4112363,195749003,Acute respiratory infection NOS,SNOMED,SM,FALSE
+4112521,195728004,Acute bronchitis due to rhinovirus,SNOMED,SM,FALSE
+4112522,195732005,Acute bacterial bronchitis unspecified,SNOMED,SM,FALSE
+4112526,195747001,Chest cold,SNOMED,SM,FALSE
+4112654,195883000,Viral pneumonia NOS,SNOMED,SM,FALSE
+4112655,195888009,Proteus pneumonia,SNOMED,SM,FALSE
+4112656,195891009,Pneumonia due to bacteria NOS,SNOMED,SM,FALSE
+4112657,195892002,Bacterial pneumonia NOS,SNOMED,SM,FALSE
+4112658,195893007,Pneumonia due to other specified organisms,SNOMED,SM,FALSE
+4112659,195907003,Pneumonia with other infectious diseases EC,SNOMED,SM,FALSE
+4112660,195912002,Pneumonia with other infectious diseases EC NOS,SNOMED,SM,FALSE
+4112661,195915000,Pneumonia due to unspecified organism,SNOMED,SM,FALSE
+4112662,195920000,"Influenza with pneumonia, influenza virus identified",SNOMED,SM,FALSE
+4112663,195922008,Influenza with other respiratory manifestation,SNOMED,SM,FALSE
+4112664,195923003,Influenza with laryngitis,SNOMED,SM,FALSE
+4112665,195933006,Other specified pneumonia or influenza,SNOMED,SM,FALSE
+4112667,195947005,Mucopurulent chronic bronchitis NOS,SNOMED,SM,FALSE
+4112818,195882005,Viral pneumonia NEC,SNOMED,SM,FALSE
+4112819,195887004,Pneumonia due to other specified bacteria,SNOMED,SM,FALSE
+4112820,195889001,Legionella pneumonia,SNOMED,SM,FALSE
+4112821,195905006,Pneumonia with histoplasmosis,SNOMED,SM,FALSE
+4112822,195908008,Actinomycotic pneumonia,SNOMED,SM,FALSE
+4112825,195934000,Pneumonia or influenza NOS,SNOMED,SM,FALSE
+4112841,196063008,Empyema with pleural fistula NOS,SNOMED,SM,FALSE
+4112922,196067009,Loculated empyema,SNOMED,SM,FALSE
+4115044,285381006,Acute infective exacerbation of chronic obstructive airways disease,SNOMED,SM,FALSE
+4121450,233785003,Infectious disorder of trachea,SNOMED,SM,FALSE
+4121455,233797002,Infected bronchogenic cyst,SNOMED,SM,FALSE
+4124542,233747001,Diaphragmatic trichiniasis,SNOMED,SM,FALSE
+4124676,233794009,Tuberculous bronchopleural fistula,SNOMED,SM,FALSE
+4124677,233795005,Infectious disorder of bronchus,SNOMED,SM,FALSE
+4136096,32179007,Furuncle of nasal septum,SNOMED,SM,FALSE
+4137435,32286006,Pneumonia in Q fever,SNOMED,SM,FALSE
+4137770,3214003,Invasive pulmonary aspergillosis,SNOMED,SM,FALSE
+4138244,32204007,Pulmonary actinobacillosis,SNOMED,SM,FALSE
+4139430,32904004,Pneumococcal laryngitis,SNOMED,SM,FALSE
+4141120,33631007,Pyopneumothorax,SNOMED,SM,FALSE
+4141404,307763005,Basal pneumonia due to unspecified organism,SNOMED,SM,FALSE
+4141504,266338006,Upper respiratory infection NOS,SNOMED,SM,FALSE
+4141505,266339003,Chest infection NOS,SNOMED,SM,FALSE
+4141619,266350000,Pneumococcal lobar pneumonia,SNOMED,SM,FALSE
+4142174,34290009,Pulmonary nematodiasis,SNOMED,SM,FALSE
+4143092,425464007,Hospital acquired pneumonia,SNOMED,SM,FALSE
+4144103,266353003,Influenza NOS,SNOMED,SM,FALSE
+4145425,34286007,Empyema with hepatopleural fistula,SNOMED,SM,FALSE
+4145545,308130008,Recurrent chest infection,SNOMED,SM,FALSE
+4146838,35377009,Parainfluenza virus laryngotracheobronchitis,SNOMED,SM,FALSE
+4147855,30437004,Empyema with bronchocutaneous fistula,SNOMED,SM,FALSE
+4148105,266146001,Vincent's angina NOS,SNOMED,SM,FALSE
+4149333,35168006,Acute empyema of ethmoidal sinus,SNOMED,SM,FALSE
+4150370,31309002,Respiratory syncytial virus pharyngitis,SNOMED,SM,FALSE
+4150982,3144005,Staphylococcal pleurisy,SNOMED,SM,FALSE
+4153304,271506002,Pleural empyema NOS,SNOMED,SM,FALSE
+4154776,271567008,Whooping cough-like syndrome,SNOMED,SM,FALSE
+4160438,399095008,Fusospirochetal pharyngitis,SNOMED,SM,FALSE
+4164792,41048006,Haemophilus influenzae laryngitis,SNOMED,SM,FALSE
+4166057,45263007,Pulmonary sporotrichosis,SNOMED,SM,FALSE
+4166072,45312009,Pneumonia in typhoid fever,SNOMED,SM,FALSE
+4167920,275376007,Congenital syphilitic chronic coryza,SNOMED,SM,FALSE
+4170143,275498002,Respiratory tract infection,SNOMED,SM,FALSE
+4170235,418122003,Bronchomoniliasis,SNOMED,SM,FALSE
+4171577,4225003,Tuberculosis of nose,SNOMED,SM,FALSE
+4173813,275497007,Infection of lower respiratory tract and mediastinum,SNOMED,SM,FALSE
+4174281,277869007,Non-tuberculous mycobacterial pneumonia,SNOMED,SM,FALSE
+4174308,276692000,Congenital viral pneumonia,SNOMED,SM,FALSE
+4174309,276693005,Congenital bacterial pneumonia,SNOMED,SM,FALSE
+4175297,50417007,Lower respiratory tract infection,SNOMED,SM,FALSE
+4176753,428697002,Inactive tuberculosis of lung,SNOMED,SM,FALSE
+4176911,427873006,"Influenza due to influenza virus type A, avian, H5N1 strain",SNOMED,SM,FALSE
+4177516,50694005,Empyema with mediastinal fistula,SNOMED,SM,FALSE
+4178450,50997000,Pulmonary dirofilariasis,SNOMED,SM,FALSE
+4178772,429427008,Invasive fungal sinusitis,SNOMED,SM,FALSE
+4181583,54150009,Upper respiratory infection,SNOMED,SM,FALSE
+4183609,43692000,Influenzal acute upper respiratory infection,SNOMED,SM,FALSE
+4185761,414304001,Furuncle of nasal cavity,SNOMED,SM,FALSE
+4186568,41269000,Influenzal bronchopneumonia,SNOMED,SM,FALSE
+4188480,47082005,Congenital rubella pneumonitis,SNOMED,SM,FALSE
+4189258,389075004,Tuberculous pneumonia of humans,SNOMED,SM,FALSE
+4189300,373435003,Battey disease,SNOMED,SM,FALSE
+4190647,415125002,Pneumocystosis pneumonia,SNOMED,SM,FALSE
+4193169,312133006,Viral respiratory infection,SNOMED,SM,FALSE
+4193174,312149008,Fungal respiratory infection,SNOMED,SM,FALSE
+4193318,312422001,Infective pharyngitis,SNOMED,SM,FALSE
+4193914,78887005,Seropurulent pleurisy,SNOMED,SM,FALSE
+4193918,78911000,Parainfluenza virus pharyngitis,SNOMED,SM,FALSE
+4193964,39172002,Pneumonia due to Proteus mirabilis,SNOMED,SM,FALSE
+4195736,79479005,Respiratory syncytial virus bronchitis,SNOMED,SM,FALSE
+4198045,80010008,Isolated bronchial tuberculosis,SNOMED,SM,FALSE
+4198126,314042000,Infective pleurisy,SNOMED,SM,FALSE
+4198127,314043005,Viral pleurisy,SNOMED,SM,FALSE
+4198240,51209006,Viral tonsillitis,SNOMED,SM,FALSE
+4200018,301824001,Acute viral laryngotracheitis,SNOMED,SM,FALSE
+4200072,51960003,Secondary syphilis of pharynx,SNOMED,SM,FALSE
+4203768,52721006,Tuberculosis of nasal sinus,SNOMED,SM,FALSE
+4204819,308906005,Secondary bacterial pneumonia,SNOMED,SM,FALSE
+4207184,312117008,Bacterial respiratory infection,SNOMED,SM,FALSE
+4207185,312118003,Bacterial upper respiratory infection,SNOMED,SM,FALSE
+4207187,312134000,Viral lower respiratory infection,SNOMED,SM,FALSE
+4207471,312423006,Infective laryngitis,SNOMED,SM,FALSE
+4207953,55419007,Tuberculosis of glottis,SNOMED,SM,FALSE
+4208662,312119006,Bacterial lower respiratory infection,SNOMED,SM,FALSE
+4208807,312371005,Acute infective bronchitis,SNOMED,SM,FALSE
+4208810,312400008,Acute infective tracheobronchitis,SNOMED,SM,FALSE
+4209565,56498009,Tuberculosis of nasopharynx,SNOMED,SM,FALSE
+4212727,41582007,Streptococcal tonsillitis,SNOMED,SM,FALSE
+4215807,71926009,Infective pneumonia acquired prenatally,SNOMED,SM,FALSE
+4218289,72204002,Respiratory syncytial virus laryngotracheobronchitis,SNOMED,SM,FALSE
+4218560,81339006,Secondary syphilis of tonsil,SNOMED,SM,FALSE
+4218659,415724006,Tonsillitis due to Gram negative bacteria,SNOMED,SM,FALSE
+4219067,82454002,Carbuncle of nasal septum,SNOMED,SM,FALSE
+4220386,82690000,Suppurative laryngitis,SNOMED,SM,FALSE
+4221483,420706008,Nasopharyngeal fascioliasis,SNOMED,SM,FALSE
+4221503,420787001,Pneumococcal pneumonia associated with AIDS,SNOMED,SM,FALSE
+4221767,417688002,Chronic progressive coccidioidal pneumonia,SNOMED,SM,FALSE
+4222062,421047005,Candidiasis of lung associated with AIDS,SNOMED,SM,FALSE
+4223032,420544002,Bacterial pneumonia associated with AIDS,SNOMED,SM,FALSE
+4223225,84037004,Swine influenza,SNOMED,SM,FALSE
+4225318,421508002,Viral pneumonia associated with AIDS,SNOMED,SM,FALSE
+4225421,85083002,Streptococcal laryngitis,SNOMED,SM,FALSE
+4233054,40766000,Enteroviral lymphonodular pharyngitis,SNOMED,SM,FALSE
+4233924,40600002,Pneumococcal bronchitis,SNOMED,SM,FALSE
+4236903,9095002,Adiaspiromycosis due to Emmonsia crescens,SNOMED,SM,FALSE
+4237183,408679000,Healthcare associated pneumonia,SNOMED,SM,FALSE
+4237921,57089007,Respiratory syncytial virus bronchiolitis,SNOMED,SM,FALSE
+4238808,58554001,Empyema of pleura,SNOMED,SM,FALSE
+4240333,58763001,Acute empyema of nasal sinus,SNOMED,SM,FALSE
+4240452,58890000,Adenoviral bronchopneumonia,SNOMED,SM,FALSE
+4240728,58031004,Suppurative pharyngitis,SNOMED,SM,FALSE
+4241693,58524006,Acute pulmonary histoplasmosis,SNOMED,SM,FALSE
+4242412,58576005,Haemophilus influenzae epiglottitis,SNOMED,SM,FALSE
+4243567,9228003,Pulmonary schistosomiasis,SNOMED,SM,FALSE
+4244268,59221008,Parainfluenza virus rhinopharyngitis,SNOMED,SM,FALSE
+4245409,6042001,Pulmonary aspergillosis,SNOMED,SM,FALSE
+4245453,9312005,Necrotic rhinitis,SNOMED,SM,FALSE
+4246729,60916008,Cardiopulmonary schistosomiasis,SNOMED,SM,FALSE
+4248807,408680002,Healthcare associated bacterial pneumonia,SNOMED,SM,FALSE
+4248810,408687004,Healthcare associated influenza disease,SNOMED,SM,FALSE
+4248811,408688009,Healthcare associated severe acute respiratory syndrome,SNOMED,SM,FALSE
+4249017,73414003,Haemophilus influenzae laryngotracheobronchitis,SNOMED,SM,FALSE
+4250160,73995006,Pulmonary paracoccidioidomycosis,SNOMED,SM,FALSE
+4250335,73198007,Bacterial pleurisy,SNOMED,SM,FALSE
+4251772,74387008,Tuberculosis of hilar lymph nodes,SNOMED,SM,FALSE
+4252538,408682005,Healthcare associated pertussis,SNOMED,SM,FALSE
+4252885,74644004,Influenza with encephalopathy,SNOMED,SM,FALSE
+4256236,409665004,Pneumonia due to aerobic bacteria,SNOMED,SM,FALSE
+4256894,408681003,Healthcare associated Legionnaires' disease,SNOMED,SM,FALSE
+4261801,46171006,"Influenza due to Influenza virus, type A, porcine",SNOMED,SM,FALSE
+4266367,6142004,Influenza,SNOMED,SM,FALSE
+4267135,61884008,Achromobacter pneumonia,SNOMED,SM,FALSE
+4267155,61958003,Adenoviral respiratory disease,SNOMED,SM,FALSE
+4270197,63741006,Fungal infection of lung,SNOMED,SM,FALSE
+4274802,64880000,Parainfluenza virus bronchopneumonia,SNOMED,SM,FALSE
+4278083,66011008,Viral tracheitis,SNOMED,SM,FALSE
+4278975,65102004,Adiaspiromycosis due to Emmonsia parva,SNOMED,SM,FALSE
+4279922,65878001,Septic bronchitis,SNOMED,SM,FALSE
+4294404,76090006,Pittsburgh pneumonia,SNOMED,SM,FALSE
+4294548,75498004,Acute bacterial sinusitis,SNOMED,SM,FALSE
+4295288,76630008,Fibrinopurulent pleurisy,SNOMED,SM,FALSE
+4296469,76653009,Acute empyema of maxillary sinus,SNOMED,SM,FALSE
+4297292,76651006,Pneumococcal pharyngitis,SNOMED,SM,FALSE
+4298421,77668003,Isolated tracheal tuberculosis,SNOMED,SM,FALSE
+4299862,38699009,Pneumonia due to Histoplasma capsulatum,SNOMED,SM,FALSE
+4301754,78430008,Adenoviral pharyngitis,SNOMED,SM,FALSE
+4301755,78431007,"Influenza due to Influenza virus, type A, human",SNOMED,SM,FALSE
+4304374,81524006,Influenza due to Influenza C virus,SNOMED,SM,FALSE
+4304867,81554001,Tuberculosis of lung with involvement of bronchus,SNOMED,SM,FALSE
+4305659,82228008,Staphylococcal pharyngitis,SNOMED,SM,FALSE
+4306185,419502003,Chest infection,SNOMED,SM,FALSE
+4307774,195742007,Acute lower respiratory tract infection,SNOMED,SM,FALSE
+4308875,83492008,Congenital syphilitic coryza,SNOMED,SM,FALSE
+4309161,213225005,Postoperative chest infection,SNOMED,SM,FALSE
+4309214,8442000,Purulent rhinitis,SNOMED,SM,FALSE
+4309800,85420008,Streptococcal pleurisy,SNOMED,SM,FALSE
+4312196,85832003,Parainfluenza virus laryngitis,SNOMED,SM,FALSE
+4312636,424327005,Tonsillar actinomycosis,SNOMED,SM,FALSE
+4317694,9505000,Infestation by Pneumonyssus simicola,SNOMED,SM,FALSE
+4318117,95885008,Mycoplasmal pharyngitis,SNOMED,SM,FALSE
+4320830,95886009,Mycoplasmal tracheobronchitis,SNOMED,SM,FALSE
+4321232,7097001,Streptococcal pleurisy with effusion,SNOMED,SM,FALSE
+4321233,70976000,Viral epiglottitis,SNOMED,SM,FALSE
+4322815,71255007,Adenoviral laryngotracheobronchitis,SNOMED,SM,FALSE
+4333885,432381000,Human papilloma virus infection of vocal cord,SNOMED,SM,FALSE
+4345215,240391001,Pulmonary melioidosis,SNOMED,SM,FALSE
+4345699,240387006,Pulmonary glanders,SNOMED,SM,FALSE
+4345707,240422004,Tracheobronchial diphtheria,SNOMED,SM,FALSE
+4345712,240444009,Fusobacterial necrotizing tonsillitis,SNOMED,SM,FALSE
+35205435,A06.5,Amebic lung abscess,ICD10CM,10,FALSE
+35205435,A065,Amebic lung abscess,ICD10CM,10,TRUE
+35205451,A15.0,Tuberculosis of lung,ICD10CM,10,FALSE
+35205451,A150,Tuberculosis of lung,ICD10CM,10,TRUE
+35205453,A15.5,"Tuberculosis of larynx, trachea and bronchus",ICD10CM,10,FALSE
+35205453,A155,"Tuberculosis of larynx, trachea and bronchus",ICD10CM,10,TRUE
+35205454,A15.6,Tuberculous pleurisy,ICD10CM,10,FALSE
+35205454,A156,Tuberculous pleurisy,ICD10CM,10,TRUE
+35205455,A15.7,Primary respiratory tuberculosis,ICD10CM,10,FALSE
+35205455,A157,Primary respiratory tuberculosis,ICD10CM,10,TRUE
+35205456,A15.8,Other respiratory tuberculosis,ICD10CM,10,FALSE
+35205456,A158,Other respiratory tuberculosis,ICD10CM,10,TRUE
+35205457,A15.9,Respiratory tuberculosis unspecified,ICD10CM,10,FALSE
+35205457,A159,Respiratory tuberculosis unspecified,ICD10CM,10,TRUE
+35205472,A20.2,Pneumonic plague,ICD10CM,10,FALSE
+35205472,A202,Pneumonic plague,ICD10CM,10,TRUE
+35205479,A21.2,Pulmonary tularemia,ICD10CM,10,FALSE
+35205479,A212,Pulmonary tularemia,ICD10CM,10,TRUE
+35205485,A22.1,Pulmonary anthrax,ICD10CM,10,FALSE
+35205485,A221,Pulmonary anthrax,ICD10CM,10,TRUE
+35205522,A31.0,Pulmonary mycobacterial infection,ICD10CM,10,FALSE
+35205522,A310,Pulmonary mycobacterial infection,ICD10CM,10,TRUE
+35205532,A36.0,Pharyngeal diphtheria,ICD10CM,10,FALSE
+35205532,A360,Pharyngeal diphtheria,ICD10CM,10,TRUE
+35205533,A36.1,Nasopharyngeal diphtheria,ICD10CM,10,FALSE
+35205533,A361,Nasopharyngeal diphtheria,ICD10CM,10,TRUE
+35205534,A36.2,Laryngeal diphtheria,ICD10CM,10,FALSE
+35205534,A362,Laryngeal diphtheria,ICD10CM,10,TRUE
+35205554,A42.0,Pulmonary actinomycosis,ICD10CM,10,FALSE
+35205554,A420,Pulmonary actinomycosis,ICD10CM,10,TRUE
+35205559,A43.0,Pulmonary nocardiosis,ICD10CM,10,FALSE
+35205559,A430,Pulmonary nocardiosis,ICD10CM,10,TRUE
+35205569,A48.1,Legionnaires' disease,ICD10CM,10,FALSE
+35205569,A481,Legionnaires' disease,ICD10CM,10,TRUE
+35205597,A54.5,Gonococcal pharyngitis,ICD10CM,10,FALSE
+35205597,A545,Gonococcal pharyngitis,ICD10CM,10,TRUE
+35205603,A56.4,Chlamydial infection of pharynx,ICD10CM,10,FALSE
+35205603,A564,Chlamydial infection of pharynx,ICD10CM,10,TRUE
+35205620,A66.5,Gangosa,ICD10CM,10,FALSE
+35205620,A665,Gangosa,ICD10CM,10,TRUE
+35205735,B01.2,Varicella pneumonia,ICD10CM,10,FALSE
+35205735,B012,Varicella pneumonia,ICD10CM,10,TRUE
+35205746,B05.2,Measles complicated by pneumonia,ICD10CM,10,FALSE
+35205746,B052,Measles complicated by pneumonia,ICD10CM,10,TRUE
+35205756,B08.5,Enteroviral vesicular pharyngitis,ICD10CM,10,FALSE
+35205756,B085,Enteroviral vesicular pharyngitis,ICD10CM,10,TRUE
+35205777,B25.0,Cytomegaloviral pneumonitis,ICD10CM,10,FALSE
+35205777,B250,Cytomegaloviral pneumonitis,ICD10CM,10,TRUE
+35205789,B30.2,Viral pharyngoconjunctivitis,ICD10CM,10,FALSE
+35205789,B302,Viral pharyngoconjunctivitis,ICD10CM,10,TRUE
+35205796,B33.4,Hantavirus (cardio)-pulmonary syndrome [HPS] [HCPS],ICD10CM,10,FALSE
+35205796,B334,Hantavirus (cardio)-pulmonary syndrome [HPS] [HCPS],ICD10CM,10,TRUE
+35205821,B37.1,Pulmonary candidiasis,ICD10CM,10,FALSE
+35205821,B371,Pulmonary candidiasis,ICD10CM,10,TRUE
+35205828,B38.0,Acute pulmonary coccidioidomycosis,ICD10CM,10,FALSE
+35205828,B380,Acute pulmonary coccidioidomycosis,ICD10CM,10,TRUE
+35205829,B38.1,Chronic pulmonary coccidioidomycosis,ICD10CM,10,FALSE
+35205829,B381,Chronic pulmonary coccidioidomycosis,ICD10CM,10,TRUE
+35205835,B39.0,Acute pulmonary histoplasmosis capsulati,ICD10CM,10,FALSE
+35205835,B390,Acute pulmonary histoplasmosis capsulati,ICD10CM,10,TRUE
+35205836,B39.1,Chronic pulmonary histoplasmosis capsulati,ICD10CM,10,FALSE
+35205836,B391,Chronic pulmonary histoplasmosis capsulati,ICD10CM,10,TRUE
+35205837,B39.2,"Pulmonary histoplasmosis capsulati, unspecified",ICD10CM,10,FALSE
+35205837,B392,"Pulmonary histoplasmosis capsulati, unspecified",ICD10CM,10,TRUE
+35205842,B40.0,Acute pulmonary blastomycosis,ICD10CM,10,FALSE
+35205842,B400,Acute pulmonary blastomycosis,ICD10CM,10,TRUE
+35205843,B40.1,Chronic pulmonary blastomycosis,ICD10CM,10,FALSE
+35205843,B401,Chronic pulmonary blastomycosis,ICD10CM,10,TRUE
+35205844,B40.2,"Pulmonary blastomycosis, unspecified",ICD10CM,10,FALSE
+35205844,B402,"Pulmonary blastomycosis, unspecified",ICD10CM,10,TRUE
+35205848,B41.0,Pulmonary paracoccidioidomycosis,ICD10CM,10,FALSE
+35205848,B410,Pulmonary paracoccidioidomycosis,ICD10CM,10,TRUE
+35205852,B42.0,Pulmonary sporotrichosis,ICD10CM,10,FALSE
+35205852,B420,Pulmonary sporotrichosis,ICD10CM,10,TRUE
+35205861,B44.0,Invasive pulmonary aspergillosis,ICD10CM,10,FALSE
+35205861,B440,Invasive pulmonary aspergillosis,ICD10CM,10,TRUE
+35205862,B44.1,Other pulmonary aspergillosis,ICD10CM,10,FALSE
+35205862,B441,Other pulmonary aspergillosis,ICD10CM,10,TRUE
+35205863,B44.2,Tonsillar aspergillosis,ICD10CM,10,FALSE
+35205863,B442,Tonsillar aspergillosis,ICD10CM,10,TRUE
+35205866,B45.0,Pulmonary cryptococcosis,ICD10CM,10,FALSE
+35205866,B450,Pulmonary cryptococcosis,ICD10CM,10,TRUE
+35205873,B46.0,Pulmonary mucormycosis,ICD10CM,10,FALSE
+35205873,B460,Pulmonary mucormycosis,ICD10CM,10,TRUE
+35205874,B46.1,Rhinocerebral mucormycosis,ICD10CM,10,FALSE
+35205874,B461,Rhinocerebral mucormycosis,ICD10CM,10,TRUE
+35205917,B58.3,Pulmonary toxoplasmosis,ICD10CM,10,FALSE
+35205917,B583,Pulmonary toxoplasmosis,ICD10CM,10,TRUE
+35205939,B67.1,Echinococcus granulosus infection of lung,ICD10CM,10,FALSE
+35205939,B671,Echinococcus granulosus infection of lung,ICD10CM,10,TRUE
+35206002,B87.3,Nasopharyngeal myiasis,ICD10CM,10,FALSE
+35206002,B873,Nasopharyngeal myiasis,ICD10CM,10,TRUE
+35207921,J00,Acute nasopharyngitis [common cold],ICD10CM,10,FALSE
+35207922,J02.0,Streptococcal pharyngitis,ICD10CM,10,FALSE
+35207922,J020,Streptococcal pharyngitis,ICD10CM,10,TRUE
+35207927,J05.0,Acute obstructive laryngitis [croup],ICD10CM,10,FALSE
+35207927,J050,Acute obstructive laryngitis [croup],ICD10CM,10,TRUE
+35207929,J06.9,"Acute upper respiratory infection, unspecified",ICD10CM,10,FALSE
+35207929,J069,"Acute upper respiratory infection, unspecified",ICD10CM,10,TRUE
+35207930,J09,Influenza due to certain identified influenza viruses,ICD10CM,10,FALSE
+35207931,J10.1,Influenza due to other identified influenza virus with other respiratory manifestations,ICD10CM,10,FALSE
+35207931,J101,Influenza due to other identified influenza virus with other respiratory manifestations,ICD10CM,10,TRUE
+35207932,J12.0,Adenoviral pneumonia,ICD10CM,10,FALSE
+35207932,J120,Adenoviral pneumonia,ICD10CM,10,TRUE
+35207933,J12.1,Respiratory syncytial virus pneumonia,ICD10CM,10,FALSE
+35207933,J121,Respiratory syncytial virus pneumonia,ICD10CM,10,TRUE
+35207934,J12.2,Parainfluenza virus pneumonia,ICD10CM,10,FALSE
+35207934,J122,Parainfluenza virus pneumonia,ICD10CM,10,TRUE
+35207935,J12.3,Human metapneumovirus pneumonia,ICD10CM,10,FALSE
+35207935,J123,Human metapneumovirus pneumonia,ICD10CM,10,TRUE
+35207936,J12.8,Other viral pneumonia,ICD10CM,10,FALSE
+35207936,J128,Other viral pneumonia,ICD10CM,10,TRUE
+35207937,J12.9,"Viral pneumonia, unspecified",ICD10CM,10,FALSE
+35207937,J129,"Viral pneumonia, unspecified",ICD10CM,10,TRUE
+35207938,J13,Pneumonia due to Streptococcus pneumoniae,ICD10CM,10,FALSE
+35207939,J14,Pneumonia due to Hemophilus influenzae,ICD10CM,10,FALSE
+35207940,J15.0,Pneumonia due to Klebsiella pneumoniae,ICD10CM,10,FALSE
+35207940,J150,Pneumonia due to Klebsiella pneumoniae,ICD10CM,10,TRUE
+35207941,J15.1,Pneumonia due to Pseudomonas,ICD10CM,10,FALSE
+35207941,J151,Pneumonia due to Pseudomonas,ICD10CM,10,TRUE
+35207942,J15.3,"Pneumonia due to streptococcus, group B",ICD10CM,10,FALSE
+35207942,J153,"Pneumonia due to streptococcus, group B",ICD10CM,10,TRUE
+35207943,J15.4,Pneumonia due to other streptococci,ICD10CM,10,FALSE
+35207943,J154,Pneumonia due to other streptococci,ICD10CM,10,TRUE
+35207944,J15.5,Pneumonia due to Escherichia coli,ICD10CM,10,FALSE
+35207944,J155,Pneumonia due to Escherichia coli,ICD10CM,10,TRUE
+35207945,J15.6,Pneumonia due to other Gram-negative bacteria,ICD10CM,10,FALSE
+35207945,J156,Pneumonia due to other Gram-negative bacteria,ICD10CM,10,TRUE
+35207946,J15.7,Pneumonia due to Mycoplasma pneumoniae,ICD10CM,10,FALSE
+35207946,J157,Pneumonia due to Mycoplasma pneumoniae,ICD10CM,10,TRUE
+35207947,J15.8,Pneumonia due to other specified bacteria,ICD10CM,10,FALSE
+35207947,J158,Pneumonia due to other specified bacteria,ICD10CM,10,TRUE
+35207948,J15.9,Unspecified bacterial pneumonia,ICD10CM,10,FALSE
+35207948,J159,Unspecified bacterial pneumonia,ICD10CM,10,TRUE
+35207949,J16.0,Chlamydial pneumonia,ICD10CM,10,FALSE
+35207949,J160,Chlamydial pneumonia,ICD10CM,10,TRUE
+35207950,J16.8,Pneumonia due to other specified infectious organisms,ICD10CM,10,FALSE
+35207950,J168,Pneumonia due to other specified infectious organisms,ICD10CM,10,TRUE
+35207957,J20.0,Acute bronchitis due to Mycoplasma pneumoniae,ICD10CM,10,FALSE
+35207957,J200,Acute bronchitis due to Mycoplasma pneumoniae,ICD10CM,10,TRUE
+35207958,J20.1,Acute bronchitis due to Hemophilus influenzae,ICD10CM,10,FALSE
+35207958,J201,Acute bronchitis due to Hemophilus influenzae,ICD10CM,10,TRUE
+35207959,J20.2,Acute bronchitis due to streptococcus,ICD10CM,10,FALSE
+35207959,J202,Acute bronchitis due to streptococcus,ICD10CM,10,TRUE
+35207960,J20.3,Acute bronchitis due to coxsackievirus,ICD10CM,10,FALSE
+35207960,J203,Acute bronchitis due to coxsackievirus,ICD10CM,10,TRUE
+35207961,J20.4,Acute bronchitis due to parainfluenza virus,ICD10CM,10,FALSE
+35207961,J204,Acute bronchitis due to parainfluenza virus,ICD10CM,10,TRUE
+35207962,J20.5,Acute bronchitis due to respiratory syncytial virus,ICD10CM,10,FALSE
+35207962,J205,Acute bronchitis due to respiratory syncytial virus,ICD10CM,10,TRUE
+35207963,J20.6,Acute bronchitis due to rhinovirus,ICD10CM,10,FALSE
+35207963,J206,Acute bronchitis due to rhinovirus,ICD10CM,10,TRUE
+35207964,J20.7,Acute bronchitis due to echovirus,ICD10CM,10,FALSE
+35207964,J207,Acute bronchitis due to echovirus,ICD10CM,10,TRUE
+35207967,J21.0,Acute bronchiolitis due to respiratory syncytial virus,ICD10CM,10,FALSE
+35207967,J210,Acute bronchiolitis due to respiratory syncytial virus,ICD10CM,10,TRUE
+35207970,J22,Unspecified acute lower respiratory infection,ICD10CM,10,FALSE
+35208015,J41.1,Mucopurulent chronic bronchitis,ICD10CM,10,FALSE
+35208015,J411,Mucopurulent chronic bronchitis,ICD10CM,10,TRUE
+35208023,J44.0,Chronic obstructive pulmonary disease with (acute) lower respiratory infection,ICD10CM,10,FALSE
+35208023,J440,Chronic obstructive pulmonary disease with (acute) lower respiratory infection,ICD10CM,10,TRUE
+35208079,J86.0,Pyothorax with fistula,ICD10CM,10,FALSE
+35208079,J860,Pyothorax with fistula,ICD10CM,10,TRUE
+35208080,J86.9,Pyothorax without fistula,ICD10CM,10,FALSE
+35208080,J869,Pyothorax without fistula,ICD10CM,10,TRUE
+35210488,P23.0,Congenital pneumonia due to viral agent,ICD10CM,10,FALSE
+35210488,P230,Congenital pneumonia due to viral agent,ICD10CM,10,TRUE
+35210489,P23.1,Congenital pneumonia due to Chlamydia,ICD10CM,10,FALSE
+35210489,P231,Congenital pneumonia due to Chlamydia,ICD10CM,10,TRUE
+35210490,P23.2,Congenital pneumonia due to staphylococcus,ICD10CM,10,FALSE
+35210490,P232,Congenital pneumonia due to staphylococcus,ICD10CM,10,TRUE
+35210491,P23.3,"Congenital pneumonia due to streptococcus, group B",ICD10CM,10,FALSE
+35210491,P233,"Congenital pneumonia due to streptococcus, group B",ICD10CM,10,TRUE
+35210492,P23.4,Congenital pneumonia due to Escherichia coli,ICD10CM,10,FALSE
+35210492,P234,Congenital pneumonia due to Escherichia coli,ICD10CM,10,TRUE
+35210493,P23.5,Congenital pneumonia due to Pseudomonas,ICD10CM,10,FALSE
+35210493,P235,Congenital pneumonia due to Pseudomonas,ICD10CM,10,TRUE
+35210494,P23.6,Congenital pneumonia due to other bacterial agents,ICD10CM,10,FALSE
+35210494,P236,Congenital pneumonia due to other bacterial agents,ICD10CM,10,TRUE
+35622404,763888005,Necrotizing pneumonia caused by Panton-Valentine leukocidin producing Staphylococcus aureus,SNOMED,SM,FALSE
+36674821,770674007,Ghon complex,SNOMED,SM,FALSE
+36676221,772810003,Influenza caused by Influenza A virus subtype H3N2,SNOMED,SM,FALSE
+36676233,772828001,Influenza caused by Influenza A virus subtype H5N1,SNOMED,SM,FALSE
+36676238,772839003,Pneumonia caused by Influenza A virus,SNOMED,SM,FALSE
+36712850,12571000132104,Pneumonitis due to Herpes zoster,SNOMED,SM,FALSE
+36714339,719522009,Candidiasis of upper respiratory tract co-occurrent with human immunodeficiency virus infection,SNOMED,SM,FALSE
+36714388,719590007,Influenza caused by seasonal influenza virus,SNOMED,SM,FALSE
+36714570,719865001,Influenza caused by pandemic influenza virus,SNOMED,SM,FALSE
+36715408,721076000,Siegler Brewer Carey syndrome,SNOMED,SM,FALSE
+36715818,721586007,Pharyngotonsillitis caused by Human herpes simplex virus,SNOMED,SM,FALSE
+36715947,721741006,Sinusitis caused by Streptococcus pneumoniae,SNOMED,SM,FALSE
+36715959,721755003,Sinusitis caused by Haemophilus influenzae,SNOMED,SM,FALSE
+36715997,721804002,Infection of lung caused by Pneumocystis,SNOMED,SM,FALSE
+37016926,713083002,Influenza caused by Influenza A virus subtype H5,SNOMED,SM,FALSE
+37016927,713084008,Pneumonia caused by Human coronavirus,SNOMED,SM,FALSE
+37017277,713525001,Recurrent bacterial pneumonia,SNOMED,SM,FALSE
+37017278,713526000,Recurrent bacterial pneumonia co-occurrent with human immunodeficiency virus infection,SNOMED,SM,FALSE
+37017755,714084001,Infection of respiratory tract caused by parasite,SNOMED,SM,FALSE
+37019058,713544008,Bacterial pneumonia co-occurrent with human immunodeficiency virus infection,SNOMED,SM,FALSE
+37111252,725916003,Acute sinusitis caused by fungus,SNOMED,SM,FALSE
+37116366,733051000,Pneumonia caused by Gram positive bacteria,SNOMED,SM,FALSE
+37116455,733170007,Chronic aspergillosis of paranasal sinus,SNOMED,SM,FALSE
+37116690,733497009,Chronic suppuration of bronchus,SNOMED,SM,FALSE
+37117932,725917007,Acute sinusitis caused by virus,SNOMED,SM,FALSE
+37118654,733171006,Chronic pulmonary aspergillosis,SNOMED,SM,FALSE
+37119233,724498004,Pneumonia caused by Chlamydia pneumoniae,SNOMED,SM,FALSE
+37203790,782761005,Subacute invasive pulmonary aspergillosis,SNOMED,SM,FALSE
+37310285,1240551000000105,Pneumonia caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2),SNOMED,SM,FALSE
+37310286,1240541000000107,Infection of upper respiratory tract caused by Severe acute respiratory syndrome coronavirus 2,SNOMED,SM,FALSE
+37311903,788997004,Obstructing Aspergillus tracheobronchitis,SNOMED,SM,FALSE
+37311934,788964000,Laryngeal myiasis,SNOMED,SM,FALSE
+37394476,1033051000000101,Influenza due to zoonotic influenza virus,SNOMED,SM,FALSE
+37394477,1033071000000105,Influenza due to pandemic influenza virus,SNOMED,SM,FALSE
+37394478,1033091000000109,Influenza due to seasonal influenza virus,SNOMED,SM,FALSE
+37394479,1033111000000104,Influenza with pneumonia due to seasonal influenza virus,SNOMED,SM,FALSE
+37395957,715593000,Candidiasis of nose,SNOMED,SM,FALSE
+37396003,715659006,Respiratory diphtheria,SNOMED,SM,FALSE
+37396171,715882005,Severe acute respiratory syndrome of upper respiratory tract,SNOMED,SM,FALSE
+37396756,716673006,Infection of upper respiratory tract caused by fungus,SNOMED,SM,FALSE
+40258141,17540007,Anthrax,SNOMED,SM,FALSE
+40276903,111876006,Influenza due to other Influenza virus,SNOMED,SM,FALSE
+40290286,128486005,Upper respiratory bacterial infection,SNOMED,SM,FALSE
+40298689,14009004,Battey disease,SNOMED,SM,FALSE
+40305132,141458004,Inflamed throat,SNOMED,SM,FALSE
+40316040,155496000,Respiratory infection: [acute] or [upper],SNOMED,SM,FALSE
+40316056,155510007,Acute laryngotracheobronchitis,SNOMED,SM,FALSE
+40316061,155514003,Acute lower respiratory tract infection,SNOMED,SM,FALSE
+40316063,155516001,Acute upper respiratory infection,SNOMED,SM,FALSE
+40316064,155517005,Acute respiratory infection: [NOS] or [pharyngotracheitis] or [tracheopharyngitis],SNOMED,SM,FALSE
+40316513,155547007,Infection of the upper respiratory tract,SNOMED,SM,FALSE
+40316515,155549005,Viral pneumonia,SNOMED,SM,FALSE
+40316516,155550005,Pneumonia: [lobar] or [pneumococcal],SNOMED,SM,FALSE
+40316520,155553007,Bacterial pneumonia NOS,SNOMED,SM,FALSE
+40316521,155554001,Mycoplasmal pneumonia,SNOMED,SM,FALSE
+40316522,155555000,Measles pneumonia,SNOMED,SM,FALSE
+40316523,155556004,Pertussis pneumonia,SNOMED,SM,FALSE
+40316524,155557008,Pneumocystis carinii pneumonia,SNOMED,SM,FALSE
+40316526,155559006,Influenza,SNOMED,SM,FALSE
+40316527,155560001,Influenzal pneumonia,SNOMED,SM,FALSE
+40316529,155561002,Influenza with encephalopathy,SNOMED,SM,FALSE
+40316532,155564005,Pneumonia or influenza NOS,SNOMED,SM,FALSE
+40316536,155568008,Mucopurulent chronic bronchitis,SNOMED,SM,FALSE
+40316577,155604003,Pleural empyema,SNOMED,SM,FALSE
+40316580,155607005,Bacterial pleurisy with effusion,SNOMED,SM,FALSE
+40316600,155625003,Chest infection (& NOS),SNOMED,SM,FALSE
+40316601,155626002,Infection of lower respiratory tract,SNOMED,SM,FALSE
+40319139,154284004,Other respiratory tuberculosis,SNOMED,SM,FALSE
+40319552,154300007,Whooping cough,SNOMED,SM,FALSE
+40319556,154302004,Streptococcal sore throat,SNOMED,SM,FALSE
+40319617,154358007,(Other coxsackie disease) or (herpangina),SNOMED,SM,FALSE
+40326220,15995006,Empyema of pleura without fistula,SNOMED,SM,FALSE
+40333778,171699006,Tuberculous pleuritis,SNOMED,SM,FALSE
+40344455,266087002,Pulmonary mycobacterial infection,SNOMED,SM,FALSE
+40344565,266186009,(Legionella) or (Legionnaire's disease),SNOMED,SM,FALSE
+40345075,266197009,(Other coxsackie disease) or (herpangina),SNOMED,SM,FALSE
+40345735,266375001,Respiratory infection: [acute] or [upper],SNOMED,SM,FALSE
+40345742,266381009,Acute respiratory infection: [NOS] or [pharyngotracheitis] or [tracheopharyngitis],SNOMED,SM,FALSE
+40345755,266393000,(Influenza NOS) or (influenza-like illness),SNOMED,SM,FALSE
+40352366,267734002,(Acute conjunctivitis) or (Newcastle's disease) or (viral pharyngoconjunctivitis) or (pink eye) or (sticky eye),SNOMED,SM,FALSE
+40358300,271424002,Pulmonary anthrax,SNOMED,SM,FALSE
+40358738,271502000,Pleural empyema,SNOMED,SM,FALSE
+40362521,276493002,Schistosomiasis - pulmonary,SNOMED,SM,FALSE
+40365652,28105000,Influenzal laryngitis,SNOMED,SM,FALSE
+40376535,186654009,Ornithosis with pneumonia,SNOMED,SM,FALSE
+40376581,186696008,Cytomegalovirus pneumonia,SNOMED,SM,FALSE
+40376619,186730008,Chlamydial pharyngitis,SNOMED,SM,FALSE
+40377659,186960006,(Vincent's angina) or (trench mouth),SNOMED,SM,FALSE
+40377664,186964002,Vincent's: [angina NOS] or [laryngitis] or [tonsillitis],SNOMED,SM,FALSE
+40378115,187006006,Candidiasis: [oral and esophagus] or [pharyngeal],SNOMED,SM,FALSE
+40378129,187019005,Candidiasis: [lung] or [pneumonia],SNOMED,SM,FALSE
+40378137,187026005,Primary pulmonary coccidioidomycosis,SNOMED,SM,FALSE
+40378139,187028006,Chronic pulmonary coccidioidomycosis,SNOMED,SM,FALSE
+40378156,187043008,Acute pulmonary histoplasmosis capsulati,SNOMED,SM,FALSE
+40378157,187044002,Chronic pulmonary histoplasmosis capsulati,SNOMED,SM,FALSE
+40378185,187070001,Chronic pulmonary blastomycosis,SNOMED,SM,FALSE
+40378589,187083000,Acute invasive pulmonary aspergillosis,SNOMED,SM,FALSE
+40378592,187086008,Pulmonary aspergillus disease,SNOMED,SM,FALSE
+40378606,187099006,Pulmonary mucormycosis,SNOMED,SM,FALSE
+40378621,187111006,Schistosomiasis: [bilharziasis] or [pulmonary],SNOMED,SM,FALSE
+40378646,187134002,Lung echinococcus granulosus,SNOMED,SM,FALSE
+40382320,186176001,Nodular lung tuberculosis,SNOMED,SM,FALSE
+40382328,186183008,Tuberculosis of pleura,SNOMED,SM,FALSE
+40382329,186184002,Tuberculous empyema (& pleural),SNOMED,SM,FALSE
+40382330,186185001,Tuberculous hydrothorax,SNOMED,SM,FALSE
+40382334,186189007,Isolated tracheal tuberculosis,SNOMED,SM,FALSE
+40382335,186190003,Isolated bronchial tuberculosis,SNOMED,SM,FALSE
+40382736,186209003,Tuberculosis of nasopharynx,SNOMED,SM,FALSE
+40382737,186210008,Tuberculosis of nasal septum,SNOMED,SM,FALSE
+40382739,186211007,Tuberculosis of nasal sinus,SNOMED,SM,FALSE
+40382833,186297007,Pulmonary tularemia,SNOMED,SM,FALSE
+40382839,186301003,Wool-sorters' disease (& pulmonary anthrax),SNOMED,SM,FALSE
+40383285,186341007,Pulmonary mycobacterial infection (& [Battey disease]),SNOMED,SM,FALSE
+40383286,186342000,Pulmonary Mycobacterium avium complex infection,SNOMED,SM,FALSE
+40383294,186350009,(Whooping cough) or (Bordetella),SNOMED,SM,FALSE
+40383303,186358002,Streptococcal angina,SNOMED,SM,FALSE
+40383304,186359005,Streptococcal laryngitis,SNOMED,SM,FALSE
+40383305,186360000,Streptococcal pharyngitis,SNOMED,SM,FALSE
+40383335,186387001,Fusobacterial necrotizing tonsillitis,SNOMED,SM,FALSE
+40383349,186400001,Pulmonary nocardiosis,SNOMED,SM,FALSE
+40383882,186510007,Chickenpox pneumonia,SNOMED,SM,FALSE
+40384318,186553007,Herpes simplex pneumonia,SNOMED,SM,FALSE
+40390540,19287005,North American pulmonary blastomycosis,SNOMED,SM,FALSE
+40391904,191573004,Boil in nose,SNOMED,SM,FALSE
+40394568,195648002,(Acute nasopharyngitis or rhinitis) or (common cold),SNOMED,SM,FALSE
+40394575,195654001,Throat: [acute pharyngitis] or [sore NOS (& viral)] or [infection],SNOMED,SM,FALSE
+40394917,200583007,Carbuncle of nasal septum,SNOMED,SM,FALSE
+40394953,195702002,Acute laryngotracheobronchitis,SNOMED,SM,FALSE
+40394956,195705000,Acute upper respiratory infection,SNOMED,SM,FALSE
+40394976,195723008,Acute mycoplasmal bronchitis,SNOMED,SM,FALSE
+40394999,195744008,Chest infection (& NOS),SNOMED,SM,FALSE
+40395000,195745009,Respiratory tract infection (& [acute lower] or [lower]),SNOMED,SM,FALSE
+40395001,195746005,Recurrent chest infection,SNOMED,SM,FALSE
+40395413,195824008,(Boil in nose) or (nasal septum abscess),SNOMED,SM,FALSE
+40395474,195880002,Viral pneumonia (& chest infection),SNOMED,SM,FALSE
+40395479,195884006,Pneumococcal pneumonia (& lobar),SNOMED,SM,FALSE
+40395490,195894001,Mycoplasmal pneumonia,SNOMED,SM,FALSE
+40395491,195895000,Mycoplasmal pneumonia,SNOMED,SM,FALSE
+40395493,195897008,Chlamydial pneumonia,SNOMED,SM,FALSE
+40395495,195899006,(Pneumonia) or (chest infection) with infectious diseases EC,SNOMED,SM,FALSE
+40395499,195901002,Ornithosis with pneumonia,SNOMED,SM,FALSE
+40395508,195910005,Salmonella pneumonia,SNOMED,SM,FALSE
+40395513,195914001,Bronchopneumonia: [unspecified organism] or [chest infection - unspecified],SNOMED,SM,FALSE
+40395528,195928007,Influenza with encephalopathy,SNOMED,SM,FALSE
+40395532,195931008,(Influenza like illness) or (influenza NOS),SNOMED,SM,FALSE
+40395533,195932001,Atypical pneumonia,SNOMED,SM,FALSE
+40395546,195944003,Mucopurulent chronic bronchitis,SNOMED,SM,FALSE
+40396379,196058009,Empyema (& pleural),SNOMED,SM,FALSE
+40396380,196059001,Empyema with fistula (& pleural),SNOMED,SM,FALSE
+40396381,196060006,Empyema with bronchopleural fistula,SNOMED,SM,FALSE
+40396383,196061005,Empyema with hepatopleural fistula,SNOMED,SM,FALSE
+40396384,196062003,Empyema with mediastinal fistula,SNOMED,SM,FALSE
+40396387,196065001,Empyema with fistula NOS (& pleural),SNOMED,SM,FALSE
+40396388,196066000,Empyema with no fistula (& pleural),SNOMED,SM,FALSE
+40396391,196069007,Pleural empyema,SNOMED,SM,FALSE
+40396394,196071007,Pleural empyema,SNOMED,SM,FALSE
+40396395,196072000,Pleural empyema,SNOMED,SM,FALSE
+40396397,196074004,Empyema NOS (& pleural),SNOMED,SM,FALSE
+40396406,196082004,Pneumococcal pleurisy,SNOMED,SM,FALSE
+40396407,196083009,Staphylococcal pleurisy,SNOMED,SM,FALSE
+40396408,196084003,Streptococcal pleurisy,SNOMED,SM,FALSE
+40396410,196086001,Bacterial pleurisy with effusion,SNOMED,SM,FALSE
+40396411,196087005,Pneumococcal pleurisy with effusion,SNOMED,SM,FALSE
+40396412,196088000,Staphylococcal pleurisy with effusion,SNOMED,SM,FALSE
+40396413,196089008,Streptococcal pleurisy with effusion,SNOMED,SM,FALSE
+40396469,196139002,Lung disease with syphilis,SNOMED,SM,FALSE
+40396477,196146006,Tropical eosinophilia,SNOMED,SM,FALSE
+40396920,196195006,Acute upper respiratory infection,SNOMED,SM,FALSE
+40405006,206288009,Congenital viral pneumonia,SNOMED,SM,FALSE
+40410702,20906004,Mycosis leptothrica,SNOMED,SM,FALSE
+40429765,232341009,Acute rhinitis,SNOMED,SM,FALSE
+40429766,232342002,Common cold,SNOMED,SM,FALSE
+40430269,232431005,Viral epiglottitis,SNOMED,SM,FALSE
+40435884,233605008,Pneumonia due to other specified organisms,SNOMED,SM,FALSE
+40435891,233611006,Fetal pneumonia,SNOMED,SM,FALSE
+40435892,233612004,Fetal pneumonia,SNOMED,SM,FALSE
+40436456,233722003,Giant cell interstitial pneumonitis,SNOMED,SM,FALSE
+40468330,42964004,Influenza with pneumonia,SNOMED,SM,FALSE
+40477345,43570006,Empyema with pleural fistula,SNOMED,SM,FALSE
+40479600,441551009,Viral laryngitis,SNOMED,SM,FALSE
+40479642,441590008,Pneumonia due to Severe acute respiratory syndrome coronavirus,SNOMED,SM,FALSE
+40480033,441658007,Pneumonia due to Staphylococcus aureus,SNOMED,SM,FALSE
+40480687,444745000,Infection of mucous cyst of nasal sinus,SNOMED,SM,FALSE
+40481087,444814009,Viral sinusitis,SNOMED,SM,FALSE
+40481335,441942006,Pneumonia due to infection by Streptococcus pyogenes,SNOMED,SM,FALSE
+40481431,443378001,Lady Windermere syndrome,SNOMED,SM,FALSE
+40481839,442094008,Pneumonia due to Histoplasma,SNOMED,SM,FALSE
+40482019,445058002,Aspergillus bronchitis,SNOMED,SM,FALSE
+40482061,445096001,Pneumonia due to Human metapneumovirus,SNOMED,SM,FALSE
+40482069,445102008,Bronchiolitis due to Human metapneumovirus,SNOMED,SM,FALSE
+40482414,445130008,Acute infective adenoiditis,SNOMED,SM,FALSE
+40483537,442438000,Influenza due to Influenza A virus,SNOMED,SM,FALSE
+40484544,442696006,Influenza due to Influenza A virus subtype H1N1,SNOMED,SM,FALSE
+40488321,446543007,Tuberculous abscess of lung,SNOMED,SM,FALSE
+40488377,446594000,Infection of pharynx due to Chlamydia trachomatis,SNOMED,SM,FALSE
+40489337,446753005,Tuberculosis of oropharynx,SNOMED,SM,FALSE
+40490351,446946005,Reinfection pulmonary tuberculosis,SNOMED,SM,FALSE
+40490395,446986002,Tuberculous pleural effusion,SNOMED,SM,FALSE
+40490814,447006007,Relapse pulmonary tuberculosis,SNOMED,SM,FALSE
+40491451,448719004,Postoperative lower respiratory tract infection,SNOMED,SM,FALSE
+40491473,448739000,Recurrent lower respiratory tract infection,SNOMED,SM,FALSE
+40505902,30360006,Pulmonary anthrax,SNOMED,SM,FALSE
+40510121,304521001,Sore throat,SNOMED,SM,FALSE
+40513316,313094006,Cold - thermal agent,SNOMED,SM,FALSE
+40514480,313433007,Tuberculous cavity of lung,SNOMED,SM,FALSE
+40527956,34050004,Respiratory syncytial virus pneumonia,SNOMED,SM,FALSE
+40530729,32994007,Tuberculosis of lung with cavitation,SNOMED,SM,FALSE
+40540364,36379004,Primary progressive tuberculosis with tuberculous pleurisy,SNOMED,SM,FALSE
+40553892,37721008,AIDS with pneumococcal pneumonia,SNOMED,SM,FALSE
+40556957,37428001,Enteroviral vesicular pharyngitis,SNOMED,SM,FALSE
+40572753,397190009,Respiratory tuberculosis,SNOMED,SM,FALSE
+40582648,41354004,Empyema with fistula,SNOMED,SM,FALSE
+40598412,50648007,Tropical eosinophilia,SNOMED,SM,FALSE
+40605924,54339004,Pneumococcal pneumonia,SNOMED,SM,FALSE
+40607612,60696005,AIDS with bacterial pneumonia,SNOMED,SM,FALSE
+40610569,61437000,Furuncle of nose,SNOMED,SM,FALSE
+40610793,57541005,Pulmonary pneumocystosis,SNOMED,SM,FALSE
+40615180,56507008,Tea-tasters' disease,SNOMED,SM,FALSE
+40621217,69947005,Abscess of thorax,SNOMED,SM,FALSE
+40624639,68706009,Tuberculosis of pleura,SNOMED,SM,FALSE
+40627673,75952005,Purulent pleurisy,SNOMED,SM,FALSE
+40631864,74701008,Infiltrative tuberculosis of lung,SNOMED,SM,FALSE
+40635689,88693009,AIDS with candidiasis of lung,SNOMED,SM,FALSE
+40636737,84512003,Influenzal pharyngitis,SNOMED,SM,FALSE
+42534820,10629231000119109,Recurrent acute streptococcal tonsillitis,SNOMED,SM,FALSE
+42536541,735465007,Protracted bronchitis caused by bacterium,SNOMED,SM,FALSE
+42536599,735532001,Infection of lung caused by Echinococcus,SNOMED,SM,FALSE
+42536748,735740009,Infection causing tracheitis in neonate,SNOMED,SM,FALSE
+42872408,1731000119106,Atypical mycobacterial infection of lung,SNOMED,SM,FALSE
+42872723,450715004,Influenza due to Influenza A virus subtype H7,SNOMED,SM,FALSE
+42872724,450716003,Influenza due to Influenza A virus subtype H9,SNOMED,SM,FALSE
+44794497,399311000000106,"[X]Respiratory tuberculosis unspecified, confirmed bacteriologically and histologically",SNOMED,SM,FALSE
+44794931,400631000000109,"[X]Other pneumonia, organism unspecified",SNOMED,SM,FALSE
+44795032,402101000000108,[X]Other abscess of pharynx,SNOMED,SM,FALSE
+44795677,412671000000108,[X]Other acute lower respiratory infections,SNOMED,SM,FALSE
+44795721,411271000000104,[X]Other acute upper respiratory infections of multiple sites,SNOMED,SM,FALSE
+44795734,414341000000100,[X]Pneumonia in viral diseases classified elsewhere,SNOMED,SM,FALSE
+44795895,409081000000107,[X]Congenital pneumonia due to other bacterial agents,SNOMED,SM,FALSE
+44796183,418181000000104,"[X]Influenza with other respiratory manifestations, influenza virus identified",SNOMED,SM,FALSE
+44796184,418191000000102,"[X]Influenza with other manifestations, influenza virus identified",SNOMED,SM,FALSE
+44797302,432151000000100,[X]Pneumonia in bacterial diseases classified elsewhere,SNOMED,SM,FALSE
+44797463,431681000000108,[X]Acute bronchitis due to other specified organisms,SNOMED,SM,FALSE
+44797578,430891000000103,"[X]Influenza with other respiratory manifestations, virus not identified",SNOMED,SM,FALSE
+44798256,441141000000108,[X]Pneumonia due to other aerobic gram-negative bacteria,SNOMED,SM,FALSE
+44798443,444061000000106,[X]Whooping cough due to other Bordetella species,SNOMED,SM,FALSE
+44798590,441131000000104,"[X]Influenza with other manifestations, virus not identified",SNOMED,SM,FALSE
+44799053,456031000000108,[X]Pneumonia in mycoses classified elsewhere,SNOMED,SM,FALSE
+44800514,471471000000106,[X]Pneumonia due to other specified infectious organisms,SNOMED,SM,FALSE
+44800558,478351000000102,[X]Congenital pneumonia due to other organisms,SNOMED,SM,FALSE
+44801375,468671000000107,[X]Other bacterial pneumonia,SNOMED,SM,FALSE
+44801611,469801000000105,[X]Pneumonia in parasitic diseases classified elsewhere,SNOMED,SM,FALSE
+44808497,849571000000102,Acute bacterial laryngitis,SNOMED,SM,FALSE
+44810165,877891000000108,Pharyngeal lymphogranuloma venereum,SNOMED,SM,FALSE
+44812652,402461000000101,[X]Other pulmonary aspergillosis,SNOMED,SM,FALSE
+44812733,429381000000103,[X]Other viral pneumonia,SNOMED,SM,FALSE
+44813316,456041000000104,"[X]Whooping cough, unspecified",SNOMED,SM,FALSE
+44819312,011.24,"Tuberculosis of lung with cavitation, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,FALSE
+44819312,01124,"Tuberculosis of lung with cavitation, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,TRUE
+44819313,011.26,"Tuberculosis of lung with cavitation, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,FALSE
+44819313,01126,"Tuberculosis of lung with cavitation, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,TRUE
+44819315,011.7,Tuberculous pneumothorax,ICD9CM,09,FALSE
+44819315,0117,Tuberculous pneumothorax,ICD9CM,09,TRUE
+44819316,012,Other respiratory tuberculosis,ICD9CM,09,FALSE
+44819317,012.21,"Isolated tracheal or bronchial tuberculosis, bacteriological or histological examination not done",ICD9CM,09,FALSE
+44819317,01221,"Isolated tracheal or bronchial tuberculosis, bacteriological or histological examination not done",ICD9CM,09,TRUE
+44819318,012.23,"Isolated tracheal or bronchial tuberculosis, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,FALSE
+44819318,01223,"Isolated tracheal or bronchial tuberculosis, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,TRUE
+44819355,033.8,Whooping cough due to other specified organism,ICD9CM,09,FALSE
+44819355,0338,Whooping cough due to other specified organism,ICD9CM,09,TRUE
+44819403,112.4,Candidiasis of lung,ICD9CM,09,FALSE
+44819403,1124,Candidiasis of lung,ICD9CM,09,TRUE
+44819407,115.95,"Histoplasmosis, unspecified, pneumonia",ICD9CM,09,FALSE
+44819407,11595,"Histoplasmosis, unspecified, pneumonia",ICD9CM,09,TRUE
+44819743,482.32,"Pneumonia due to Streptococcus, group B",ICD9CM,09,FALSE
+44819743,48232,"Pneumonia due to Streptococcus, group B",ICD9CM,09,TRUE
+44819744,482.84,Pneumonia due to Legionnaires' disease,ICD9CM,09,FALSE
+44819744,48284,Pneumonia due to Legionnaires' disease,ICD9CM,09,TRUE
+44819745,483.8,Pneumonia due to other specified organism,ICD9CM,09,FALSE
+44819745,4838,Pneumonia due to other specified organism,ICD9CM,09,TRUE
+44819746,488.01,Influenza due to identified avian influenza virus with pneumonia,ICD9CM,09,FALSE
+44819746,48801,Influenza due to identified avian influenza virus with pneumonia,ICD9CM,09,TRUE
+44820522,010.11,"Tuberculous pleurisy in primary progressive tuberculosis, bacteriological or histological examination not done",ICD9CM,09,FALSE
+44820522,01011,"Tuberculous pleurisy in primary progressive tuberculosis, bacteriological or histological examination not done",ICD9CM,09,TRUE
+44820523,010.13,"Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,FALSE
+44820523,01013,"Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,TRUE
+44820524,011.13,"Tuberculosis of lung, nodular, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,FALSE
+44820524,01113,"Tuberculosis of lung, nodular, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,TRUE
+44820525,011.85,"Other specified pulmonary tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,FALSE
+44820525,01185,"Other specified pulmonary tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,TRUE
+44820526,012.0,Tuberculous pleurisy,ICD9CM,09,FALSE
+44820526,0120,Tuberculous pleurisy,ICD9CM,09,TRUE
+44820528,012.30,"Tuberculous laryngitis, unspecified",ICD9CM,09,FALSE
+44820528,01230,"Tuberculous laryngitis, unspecified",ICD9CM,09,TRUE
+44820546,034.0,Streptococcal sore throat,ICD9CM,09,FALSE
+44820546,0340,Streptococcal sore throat,ICD9CM,09,TRUE
+44820566,077.2,Pharyngoconjunctival fever,ICD9CM,09,FALSE
+44820566,0772,Pharyngoconjunctival fever,ICD9CM,09,TRUE
+44820590,130.4,Pneumonitis due to toxoplasmosis,ICD9CM,09,FALSE
+44820590,1304,Pneumonitis due to toxoplasmosis,ICD9CM,09,TRUE
+44820885,482,Other bacterial pneumonia,ICD9CM,09,FALSE
+44820886,482.30,"Pneumonia due to Streptococcus, unspecified",ICD9CM,09,FALSE
+44820886,48230,"Pneumonia due to Streptococcus, unspecified",ICD9CM,09,TRUE
+44821633,006.4,Amebic lung abscess,ICD9CM,09,FALSE
+44821633,0064,Amebic lung abscess,ICD9CM,09,TRUE
+44821635,011.00,"Tuberculosis of lung, infiltrative, unspecified",ICD9CM,09,FALSE
+44821635,01100,"Tuberculosis of lung, infiltrative, unspecified",ICD9CM,09,TRUE
+44821636,011.20,"Tuberculosis of lung with cavitation, unspecified",ICD9CM,09,FALSE
+44821636,01120,"Tuberculosis of lung with cavitation, unspecified",ICD9CM,09,TRUE
+44821637,011.31,"Tuberculosis of bronchus, bacteriological or histological examination not done",ICD9CM,09,FALSE
+44821637,01131,"Tuberculosis of bronchus, bacteriological or histological examination not done",ICD9CM,09,TRUE
+44821638,011.36,"Tuberculosis of bronchus, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,FALSE
+44821638,01136,"Tuberculosis of bronchus, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,TRUE
+44821639,011.42,"Tuberculous fibrosis of lung, bacteriological or histological examination unknown (at present)",ICD9CM,09,FALSE
+44821639,01142,"Tuberculous fibrosis of lung, bacteriological or histological examination unknown (at present)",ICD9CM,09,TRUE
+44821640,011.72,"Tuberculous pneumothorax, bacteriological or histological examination unknown (at present)",ICD9CM,09,FALSE
+44821640,01172,"Tuberculous pneumothorax, bacteriological or histological examination unknown (at present)",ICD9CM,09,TRUE
+44821641,011.83,"Other specified pulmonary tuberculosis, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,FALSE
+44821641,01183,"Other specified pulmonary tuberculosis, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,TRUE
+44821642,011.86,"Other specified pulmonary tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,FALSE
+44821642,01186,"Other specified pulmonary tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,TRUE
+44821643,011.96,"Pulmonary tuberculosis, unspecified, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,FALSE
+44821643,01196,"Pulmonary tuberculosis, unspecified, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,TRUE
+44821644,012.00,"Tuberculous pleurisy, unspecified",ICD9CM,09,FALSE
+44821644,01200,"Tuberculous pleurisy, unspecified",ICD9CM,09,TRUE
+44821646,012.3,Tuberculous laryngitis,ICD9CM,09,FALSE
+44821646,0123,Tuberculous laryngitis,ICD9CM,09,TRUE
+44821691,073.0,Ornithosis with pneumonia,ICD9CM,09,FALSE
+44821691,0730,Ornithosis with pneumonia,ICD9CM,09,TRUE
+44821695,079.82,SARS-associated coronavirus,ICD9CM,09,FALSE
+44821695,07982,SARS-associated coronavirus,ICD9CM,09,TRUE
+44821977,466.11,Acute bronchiolitis due to respiratory syncytial virus (RSV),ICD9CM,09,FALSE
+44821977,46611,Acute bronchiolitis due to respiratory syncytial virus (RSV),ICD9CM,09,TRUE
+44821983,482.3,Pneumonia due to Streptococcus,ICD9CM,09,FALSE
+44821983,4823,Pneumonia due to Streptococcus,ICD9CM,09,TRUE
+44821984,482.9,"Bacterial pneumonia, unspecified",ICD9CM,09,FALSE
+44821984,4829,"Bacterial pneumonia, unspecified",ICD9CM,09,TRUE
+44822776,010.14,"Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,FALSE
+44822776,01014,"Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,TRUE
+44822780,011.04,"Tuberculosis of lung, infiltrative, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,FALSE
+44822780,01104,"Tuberculosis of lung, infiltrative, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,TRUE
+44822781,011.05,"Tuberculosis of lung, infiltrative, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,FALSE
+44822781,01105,"Tuberculosis of lung, infiltrative, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,TRUE
+44822782,011.1,"Tuberculosis of lung, nodular",ICD9CM,09,FALSE
+44822782,0111,"Tuberculosis of lung, nodular",ICD9CM,09,TRUE
+44822783,011.23,"Tuberculosis of lung with cavitation, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,FALSE
+44822783,01123,"Tuberculosis of lung with cavitation, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,TRUE
+44822784,011.30,"Tuberculosis of bronchus, unspecified",ICD9CM,09,FALSE
+44822784,01130,"Tuberculosis of bronchus, unspecified",ICD9CM,09,TRUE
+44822785,011.93,"Pulmonary tuberculosis, unspecified, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,FALSE
+44822785,01193,"Pulmonary tuberculosis, unspecified, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,TRUE
+44822786,011.94,"Pulmonary tuberculosis, unspecified, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,FALSE
+44822786,01194,"Pulmonary tuberculosis, unspecified, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,TRUE
+44822787,012.31,"Tuberculous laryngitis, bacteriological or histological examination not done",ICD9CM,09,FALSE
+44822787,01231,"Tuberculous laryngitis, bacteriological or histological examination not done",ICD9CM,09,TRUE
+44822811,033.0,Whooping cough due to bordetella pertussis [B. pertussis],ICD9CM,09,FALSE
+44822811,0330,Whooping cough due to bordetella pertussis [B. pertussis],ICD9CM,09,TRUE
+44822852,102.5,Gangosa,ICD9CM,09,FALSE
+44822852,1025,Gangosa,ICD9CM,09,TRUE
+44823137,460,Acute nasopharyngitis [common cold],ICD9CM,09,FALSE
+44823143,482.41,Methicillin susceptible pneumonia due to Staphylococcus aureus,ICD9CM,09,FALSE
+44823143,48241,Methicillin susceptible pneumonia due to Staphylococcus aureus,ICD9CM,09,TRUE
+44823933,011.43,"Tuberculous fibrosis of lung, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,FALSE
+44823933,01143,"Tuberculous fibrosis of lung, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,TRUE
+44823934,011.9,Unspecified pulmonary tuberculosis,ICD9CM,09,FALSE
+44823934,0119,Unspecified pulmonary tuberculosis,ICD9CM,09,TRUE
+44823935,012.2,Isolated tracheal or bronchial tuberculosis,ICD9CM,09,FALSE
+44823935,0122,Isolated tracheal or bronchial tuberculosis,ICD9CM,09,TRUE
+44823936,012.22,"Isolated tracheal or bronchial tuberculosis, bacteriological or histological examination unknown (at present)",ICD9CM,09,FALSE
+44823936,01222,"Isolated tracheal or bronchial tuberculosis, bacteriological or histological examination unknown (at present)",ICD9CM,09,TRUE
+44823937,012.33,"Tuberculous laryngitis, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,FALSE
+44823937,01233,"Tuberculous laryngitis, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,TRUE
+44823938,012.80,"Other specified respiratory tuberculosis, unspecified",ICD9CM,09,FALSE
+44823938,01280,"Other specified respiratory tuberculosis, unspecified",ICD9CM,09,TRUE
+44823962,020.3,Primary pneumonic plague,ICD9CM,09,FALSE
+44823962,0203,Primary pneumonic plague,ICD9CM,09,TRUE
+44823963,021.2,Pulmonary tularemia,ICD9CM,09,FALSE
+44823963,0212,Pulmonary tularemia,ICD9CM,09,TRUE
+44824281,482.0,Pneumonia due to Klebsiella pneumoniae,ICD9CM,09,FALSE
+44824281,4820,Pneumonia due to Klebsiella pneumoniae,ICD9CM,09,TRUE
+44824282,482.1,Pneumonia due to Pseudomonas,ICD9CM,09,FALSE
+44824282,4821,Pneumonia due to Pseudomonas,ICD9CM,09,TRUE
+44824283,484.8,Pneumonia in other infectious diseases classified elsewhere,ICD9CM,09,FALSE
+44824283,4848,Pneumonia in other infectious diseases classified elsewhere,ICD9CM,09,TRUE
+44824284,487,Influenza,ICD9CM,09,FALSE
+44824285,488.19,Influenza due to identified 2009 H1N1 influenza virus with other manifestations,ICD9CM,09,FALSE
+44824285,48819,Influenza due to identified 2009 H1N1 influenza virus with other manifestations,ICD9CM,09,TRUE
+44824286,488.81,Influenza due to identified novel influenza A virus with pneumonia,ICD9CM,09,FALSE
+44824286,48881,Influenza due to identified novel influenza A virus with pneumonia,ICD9CM,09,TRUE
+44825098,010.12,"Tuberculous pleurisy in primary progressive tuberculosis, bacteriological or histological examination unknown (at present)",ICD9CM,09,FALSE
+44825098,01012,"Tuberculous pleurisy in primary progressive tuberculosis, bacteriological or histological examination unknown (at present)",ICD9CM,09,TRUE
+44825100,011.22,"Tuberculosis of lung with cavitation, bacteriological or histological examination unknown (at present)",ICD9CM,09,FALSE
+44825100,01122,"Tuberculosis of lung with cavitation, bacteriological or histological examination unknown (at present)",ICD9CM,09,TRUE
+44825103,011.6,Tuberculous pneumonia [any form],ICD9CM,09,FALSE
+44825103,0116,Tuberculous pneumonia [any form],ICD9CM,09,TRUE
+44825104,012.34,"Tuberculous laryngitis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,FALSE
+44825104,01234,"Tuberculous laryngitis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,TRUE
+44825105,012.83,"Other specified respiratory tuberculosis, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,FALSE
+44825105,01283,"Other specified respiratory tuberculosis, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,TRUE
+44825140,033,Whooping cough,ICD9CM,09,FALSE
+44825157,074.0,Herpangina,ICD9CM,09,FALSE
+44825157,0740,Herpangina,ICD9CM,09,TRUE
+44825176,115.15,"Infection by Histoplasma duboisii, pneumonia",ICD9CM,09,FALSE
+44825176,11515,"Infection by Histoplasma duboisii, pneumonia",ICD9CM,09,TRUE
+44825178,122.1,Echinococcus granulosus infection of lung,ICD9CM,09,FALSE
+44825178,1221,Echinococcus granulosus infection of lung,ICD9CM,09,TRUE
+44825466,480.0,Pneumonia due to adenovirus,ICD9CM,09,FALSE
+44825466,4800,Pneumonia due to adenovirus,ICD9CM,09,TRUE
+44825467,481,Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia],ICD9CM,09,FALSE
+44825468,482.49,Other Staphylococcus pneumonia,ICD9CM,09,FALSE
+44825468,48249,Other Staphylococcus pneumonia,ICD9CM,09,TRUE
+44825469,482.82,Pneumonia due to escherichia coli [E. coli],ICD9CM,09,FALSE
+44825469,48282,Pneumonia due to escherichia coli [E. coli],ICD9CM,09,TRUE
+44825470,484.7,Pneumonia in other systemic mycoses,ICD9CM,09,FALSE
+44825470,4847,Pneumonia in other systemic mycoses,ICD9CM,09,TRUE
+44825471,487.1,Influenza with other respiratory manifestations,ICD9CM,09,FALSE
+44825471,4871,Influenza with other respiratory manifestations,ICD9CM,09,TRUE
+44825472,488.02,Influenza due to identified avian influenza virus with other respiratory manifestations,ICD9CM,09,FALSE
+44825472,48802,Influenza due to identified avian influenza virus with other respiratory manifestations,ICD9CM,09,TRUE
+44825473,488.82,Influenza due to identified novel influenza A virus with other respiratory manifestations,ICD9CM,09,FALSE
+44825473,48882,Influenza due to identified novel influenza A virus with other respiratory manifestations,ICD9CM,09,TRUE
+44826291,011.33,"Tuberculosis of bronchus, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,FALSE
+44826291,01133,"Tuberculosis of bronchus, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,TRUE
+44826294,011.65,"Tuberculous pneumonia [any form], tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,FALSE
+44826294,01165,"Tuberculous pneumonia [any form], tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,TRUE
+44826323,022.1,Pulmonary anthrax,ICD9CM,09,FALSE
+44826323,0221,Pulmonary anthrax,ICD9CM,09,TRUE
+44826327,032.3,Laryngeal diphtheria,ICD9CM,09,FALSE
+44826327,0323,Laryngeal diphtheria,ICD9CM,09,TRUE
+44826373,115.05,"Infection by Histoplasma capsulatum, pneumonia",ICD9CM,09,FALSE
+44826373,11505,"Infection by Histoplasma capsulatum, pneumonia",ICD9CM,09,TRUE
+44826660,464.4,Croup,ICD9CM,09,FALSE
+44826660,4644,Croup,ICD9CM,09,TRUE
+44826672,480.3,Pneumonia due to SARS-associated coronavirus,ICD9CM,09,FALSE
+44826672,4803,Pneumonia due to SARS-associated coronavirus,ICD9CM,09,TRUE
+44826673,484.3,Pneumonia in whooping cough,ICD9CM,09,FALSE
+44826673,4843,Pneumonia in whooping cough,ICD9CM,09,TRUE
+44826674,484.5,Pneumonia in anthrax,ICD9CM,09,FALSE
+44826674,4845,Pneumonia in anthrax,ICD9CM,09,TRUE
+44826675,488,Influenza due to certain identified influenza viruses,ICD9CM,09,FALSE
+44826676,488.12,Influenza due to identified 2009 H1N1 influenza virus with other respiratory manifestations,ICD9CM,09,FALSE
+44826676,48812,Influenza due to identified 2009 H1N1 influenza virus with other respiratory manifestations,ICD9CM,09,TRUE
+44827451,010.15,"Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,FALSE
+44827451,01015,"Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,TRUE
+44827453,011.11,"Tuberculosis of lung, nodular, bacteriological or histological examination not done",ICD9CM,09,FALSE
+44827453,01111,"Tuberculosis of lung, nodular, bacteriological or histological examination not done",ICD9CM,09,TRUE
+44827454,011.21,"Tuberculosis of lung with cavitation, bacteriological or histological examination not done",ICD9CM,09,FALSE
+44827454,01121,"Tuberculosis of lung with cavitation, bacteriological or histological examination not done",ICD9CM,09,TRUE
+44827455,011.25,"Tuberculosis of lung with cavitation, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,FALSE
+44827455,01125,"Tuberculosis of lung with cavitation, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,TRUE
+44827456,011.3,Tuberculosis of bronchus,ICD9CM,09,FALSE
+44827456,0113,Tuberculosis of bronchus,ICD9CM,09,TRUE
+44827457,011.35,"Tuberculosis of bronchus, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,FALSE
+44827457,01135,"Tuberculosis of bronchus, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,TRUE
+44827458,011.4,Tuberculous fibrosis of lung,ICD9CM,09,FALSE
+44827458,0114,Tuberculous fibrosis of lung,ICD9CM,09,TRUE
+44827459,011.60,"Tuberculous pneumonia [any form], unspecified",ICD9CM,09,FALSE
+44827459,01160,"Tuberculous pneumonia [any form], unspecified",ICD9CM,09,TRUE
+44827460,011.70,"Tuberculous pneumothorax, unspecified",ICD9CM,09,FALSE
+44827460,01170,"Tuberculous pneumothorax, unspecified",ICD9CM,09,TRUE
+44827461,011.91,"Pulmonary tuberculosis, unspecified, bacteriological or histological examination not done",ICD9CM,09,FALSE
+44827461,01191,"Pulmonary tuberculosis, unspecified, bacteriological or histological examination not done",ICD9CM,09,TRUE
+44827462,012.02,"Tuberculous pleurisy, bacteriological or histological examination unknown (at present)",ICD9CM,09,FALSE
+44827462,01202,"Tuberculous pleurisy, bacteriological or histological examination unknown (at present)",ICD9CM,09,TRUE
+44827463,012.25,"Isolated tracheal or bronchial tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,FALSE
+44827463,01225,"Isolated tracheal or bronchial tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,TRUE
+44827484,032.1,Nasopharyngeal diphtheria,ICD9CM,09,FALSE
+44827484,0321,Nasopharyngeal diphtheria,ICD9CM,09,TRUE
+44827485,033.9,"Whooping cough, unspecified organism",ICD9CM,09,FALSE
+44827485,0339,"Whooping cough, unspecified organism",ICD9CM,09,TRUE
+44827525,114.4,Chronic pulmonary coccidioidomycosis,ICD9CM,09,FALSE
+44827525,1144,Chronic pulmonary coccidioidomycosis,ICD9CM,09,TRUE
+44827819,482.2,Pneumonia due to Hemophilus influenzae [H. influenzae],ICD9CM,09,FALSE
+44827819,4822,Pneumonia due to Hemophilus influenzae [H. influenzae],ICD9CM,09,TRUE
+44827820,488.1,Influenza due to identified 2009 H1N1 influenza virus,ICD9CM,09,FALSE
+44827820,4881,Influenza due to identified 2009 H1N1 influenza virus,ICD9CM,09,TRUE
+44827821,488.11,Influenza due to identified 2009 H1N1 influenza virus with pneumonia,ICD9CM,09,FALSE
+44827821,48811,Influenza due to identified 2009 H1N1 influenza virus with pneumonia,ICD9CM,09,TRUE
+44828630,010.16,"Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,FALSE
+44828630,01016,"Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,TRUE
+44828631,011,Pulmonary tuberculosis,ICD9CM,09,FALSE
+44828632,011.40,"Tuberculous fibrosis of lung, unspecified",ICD9CM,09,FALSE
+44828632,01140,"Tuberculous fibrosis of lung, unspecified",ICD9CM,09,TRUE
+44828633,011.46,"Tuberculous fibrosis of lung, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,FALSE
+44828633,01146,"Tuberculous fibrosis of lung, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,TRUE
+44828634,011.61,"Tuberculous pneumonia [any form], bacteriological or histological examination not done",ICD9CM,09,FALSE
+44828634,01161,"Tuberculous pneumonia [any form], bacteriological or histological examination not done",ICD9CM,09,TRUE
+44828635,011.62,"Tuberculous pneumonia [any form], bacteriological or histological examination unknown (at present)",ICD9CM,09,FALSE
+44828635,01162,"Tuberculous pneumonia [any form], bacteriological or histological examination unknown (at present)",ICD9CM,09,TRUE
+44828636,011.75,"Tuberculous pneumothorax, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,FALSE
+44828636,01175,"Tuberculous pneumothorax, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,TRUE
+44828637,011.90,"Pulmonary tuberculosis, unspecified, unspecified",ICD9CM,09,FALSE
+44828637,01190,"Pulmonary tuberculosis, unspecified, unspecified",ICD9CM,09,TRUE
+44828638,012.01,"Tuberculous pleurisy, bacteriological or histological examination not done",ICD9CM,09,FALSE
+44828638,01201,"Tuberculous pleurisy, bacteriological or histological examination not done",ICD9CM,09,TRUE
+44828642,012.35,"Tuberculous laryngitis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,FALSE
+44828642,01235,"Tuberculous laryngitis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,TRUE
+44828643,012.8,Other specified respiratory tuberculosis,ICD9CM,09,FALSE
+44828643,0128,Other specified respiratory tuberculosis,ICD9CM,09,TRUE
+44828673,040.1,Rhinoscleroma,ICD9CM,09,FALSE
+44828673,0401,Rhinoscleroma,ICD9CM,09,TRUE
+44828707,095.1,Syphilis of lung,ICD9CM,09,FALSE
+44828707,0951,Syphilis of lung,ICD9CM,09,TRUE
+44829001,465.8,Acute upper respiratory infections of other multiple sites,ICD9CM,09,FALSE
+44829001,4658,Acute upper respiratory infections of other multiple sites,ICD9CM,09,TRUE
+44829005,480.8,Pneumonia due to other virus not elsewhere classified,ICD9CM,09,FALSE
+44829005,4808,Pneumonia due to other virus not elsewhere classified,ICD9CM,09,TRUE
+44829006,482.40,"Pneumonia due to Staphylococcus, unspecified",ICD9CM,09,FALSE
+44829006,48240,"Pneumonia due to Staphylococcus, unspecified",ICD9CM,09,TRUE
+44829007,483,Pneumonia due to other specified organism,ICD9CM,09,FALSE
+44829008,484.6,Pneumonia in aspergillosis,ICD9CM,09,FALSE
+44829008,4846,Pneumonia in aspergillosis,ICD9CM,09,TRUE
+44829009,486,"Pneumonia, organism unspecified",ICD9CM,09,FALSE
+44829016,511.1,"Pleurisy with effusion, with mention of a bacterial cause other than tuberculosis",ICD9CM,09,FALSE
+44829016,5111,"Pleurisy with effusion, with mention of a bacterial cause other than tuberculosis",ICD9CM,09,TRUE
+44829703,011.02,"Tuberculosis of lung, infiltrative, bacteriological or histological examination unknown (at present)",ICD9CM,09,FALSE
+44829703,01102,"Tuberculosis of lung, infiltrative, bacteriological or histological examination unknown (at present)",ICD9CM,09,TRUE
+44829704,011.03,"Tuberculosis of lung, infiltrative, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,FALSE
+44829704,01103,"Tuberculosis of lung, infiltrative, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,TRUE
+44829705,011.16,"Tuberculosis of lung, nodular, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,FALSE
+44829705,01116,"Tuberculosis of lung, nodular, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,TRUE
+44829706,011.66,"Tuberculous pneumonia [any form], tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,FALSE
+44829706,01166,"Tuberculous pneumonia [any form], tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,TRUE
+44829731,031.0,Pulmonary diseases due to other mycobacteria,ICD9CM,09,FALSE
+44829731,0310,Pulmonary diseases due to other mycobacteria,ICD9CM,09,TRUE
+44829734,039.1,Pulmonary actinomycotic infection,ICD9CM,09,FALSE
+44829734,0391,Pulmonary actinomycotic infection,ICD9CM,09,TRUE
+44830105,465,Acute upper respiratory infections of multiple or unspecified sites,ICD9CM,09,FALSE
+44830112,487.0,Influenza with pneumonia,ICD9CM,09,FALSE
+44830112,4870,Influenza with pneumonia,ICD9CM,09,TRUE
+44830113,488.89,Influenza due to identified novel influenza A virus with other manifestations,ICD9CM,09,FALSE
+44830113,48889,Influenza due to identified novel influenza A virus with other manifestations,ICD9CM,09,TRUE
+44830888,011.01,"Tuberculosis of lung, infiltrative, bacteriological or histological examination not done",ICD9CM,09,FALSE
+44830888,01101,"Tuberculosis of lung, infiltrative, bacteriological or histological examination not done",ICD9CM,09,TRUE
+44830889,011.10,"Tuberculosis of lung, nodular, unspecified",ICD9CM,09,FALSE
+44830889,01110,"Tuberculosis of lung, nodular, unspecified",ICD9CM,09,TRUE
+44830890,011.15,"Tuberculosis of lung, nodular, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,FALSE
+44830890,01115,"Tuberculosis of lung, nodular, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,TRUE
+44830893,011.76,"Tuberculous pneumothorax, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,FALSE
+44830893,01176,"Tuberculous pneumothorax, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,TRUE
+44830894,011.8,Other specified pulmonary tuberculosis,ICD9CM,09,FALSE
+44830894,0118,Other specified pulmonary tuberculosis,ICD9CM,09,TRUE
+44830895,012.04,"Tuberculous pleurisy, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,FALSE
+44830895,01204,"Tuberculous pleurisy, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,TRUE
+44830896,012.20,"Isolated tracheal or bronchial tuberculosis, unspecified",ICD9CM,09,FALSE
+44830896,01220,"Isolated tracheal or bronchial tuberculosis, unspecified",ICD9CM,09,TRUE
+44831275,480,Viral pneumonia,ICD9CM,09,FALSE
+44831276,480.2,Pneumonia due to parainfluenza virus,ICD9CM,09,FALSE
+44831276,4802,Pneumonia due to parainfluenza virus,ICD9CM,09,TRUE
+44831277,480.9,"Viral pneumonia, unspecified",ICD9CM,09,FALSE
+44831277,4809,"Viral pneumonia, unspecified",ICD9CM,09,TRUE
+44832030,003.22,Salmonella pneumonia,ICD9CM,09,FALSE
+44832030,00322,Salmonella pneumonia,ICD9CM,09,TRUE
+44832038,011.06,"Tuberculosis of lung, infiltrative, tubercle bacilli not found bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,FALSE
+44832038,01106,"Tuberculosis of lung, infiltrative, tubercle bacilli not found bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,TRUE
+44832039,011.14,"Tuberculosis of lung, nodular, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,FALSE
+44832039,01114,"Tuberculosis of lung, nodular, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,TRUE
+44832040,011.2,Tuberculosis of lung with cavitation,ICD9CM,09,FALSE
+44832040,0112,Tuberculosis of lung with cavitation,ICD9CM,09,TRUE
+44832041,011.45,"Tuberculous fibrosis of lung, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,FALSE
+44832041,01145,"Tuberculous fibrosis of lung, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,TRUE
+44832042,011.74,"Tuberculous pneumothorax, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,FALSE
+44832042,01174,"Tuberculous pneumothorax, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,TRUE
+44832043,011.95,"Pulmonary tuberculosis, unspecified, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,FALSE
+44832043,01195,"Pulmonary tuberculosis, unspecified, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,TRUE
+44832044,012.06,"Tuberculous pleurisy, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,FALSE
+44832044,01206,"Tuberculous pleurisy, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,TRUE
+44832045,012.84,"Other specified respiratory tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,FALSE
+44832045,01284,"Other specified respiratory tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,TRUE
+44832417,482.31,"Pneumonia due to Streptococcus, group A",ICD9CM,09,FALSE
+44832417,48231,"Pneumonia due to Streptococcus, group A",ICD9CM,09,TRUE
+44832418,482.81,Pneumonia due to anaerobes,ICD9CM,09,FALSE
+44832418,48281,Pneumonia due to anaerobes,ICD9CM,09,TRUE
+44832419,487.8,Influenza with other manifestations,ICD9CM,09,FALSE
+44832419,4878,Influenza with other manifestations,ICD9CM,09,TRUE
+44832420,488.0,Influenza due to identified avian influenza virus,ICD9CM,09,FALSE
+44832420,4880,Influenza due to identified avian influenza virus,ICD9CM,09,TRUE
+44832426,510.0,Empyema with fistula,ICD9CM,09,FALSE
+44832426,5100,Empyema with fistula,ICD9CM,09,TRUE
+44833186,011.32,"Tuberculosis of bronchus, bacteriological or histological examination unknown (at present)",ICD9CM,09,FALSE
+44833186,01132,"Tuberculosis of bronchus, bacteriological or histological examination unknown (at present)",ICD9CM,09,TRUE
+44833187,011.41,"Tuberculous fibrosis of lung, bacteriological or histological examination not done",ICD9CM,09,FALSE
+44833187,01141,"Tuberculous fibrosis of lung, bacteriological or histological examination not done",ICD9CM,09,TRUE
+44833188,011.84,"Other specified pulmonary tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,FALSE
+44833188,01184,"Other specified pulmonary tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,TRUE
+44833189,012.36,"Tuberculous laryngitis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,FALSE
+44833189,01236,"Tuberculous laryngitis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,TRUE
+44833190,012.85,"Other specified respiratory tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,FALSE
+44833190,01285,"Other specified respiratory tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,TRUE
+44833217,020.4,Secondary pneumonic plague,ICD9CM,09,FALSE
+44833217,0204,Secondary pneumonic plague,ICD9CM,09,TRUE
+44833234,052.1,Varicella (hemorrhagic) pneumonitis,ICD9CM,09,FALSE
+44833234,0521,Varicella (hemorrhagic) pneumonitis,ICD9CM,09,TRUE
+44833265,114.0,Primary coccidioidomycosis (pulmonary),ICD9CM,09,FALSE
+44833265,1140,Primary coccidioidomycosis (pulmonary),ICD9CM,09,TRUE
+44833607,482.39,Pneumonia due to other Streptococcus,ICD9CM,09,FALSE
+44833607,48239,Pneumonia due to other Streptococcus,ICD9CM,09,TRUE
+44833608,483.0,Pneumonia due to mycoplasma pneumoniae,ICD9CM,09,FALSE
+44833608,4830,Pneumonia due to mycoplasma pneumoniae,ICD9CM,09,TRUE
+44833609,483.1,Pneumonia due to chlamydia,ICD9CM,09,FALSE
+44833609,4831,Pneumonia due to chlamydia,ICD9CM,09,TRUE
+44833610,484,Pneumonia in infectious diseases classified elsewhere,ICD9CM,09,FALSE
+44834390,011.0,"Tuberculosis of lung, infiltrative",ICD9CM,09,FALSE
+44834390,0110,"Tuberculosis of lung, infiltrative",ICD9CM,09,TRUE
+44834391,011.34,"Tuberculosis of bronchus, tubercle bacilli not found (in sputum) by microscopy, but found in bacterial culture",ICD9CM,09,FALSE
+44834391,01134,"Tuberculosis of bronchus, tubercle bacilli not found (in sputum) by microscopy, but found in bacterial culture",ICD9CM,09,TRUE
+44834392,011.44,"Tuberculous fibrosis of lung, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,FALSE
+44834392,01144,"Tuberculous fibrosis of lung, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,TRUE
+44834393,011.63,"Tuberculous pneumonia [any form], tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,FALSE
+44834393,01163,"Tuberculous pneumonia [any form], tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,TRUE
+44834394,011.64,"Tuberculous pneumonia [any form], tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,FALSE
+44834394,01164,"Tuberculous pneumonia [any form], tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,TRUE
+44834395,011.71,"Tuberculous pneumothorax, bacteriological or histological examination not done",ICD9CM,09,FALSE
+44834395,01171,"Tuberculous pneumothorax, bacteriological or histological examination not done",ICD9CM,09,TRUE
+44834396,011.80,"Other specified pulmonary tuberculosis, unspecified",ICD9CM,09,FALSE
+44834396,01180,"Other specified pulmonary tuberculosis, unspecified",ICD9CM,09,TRUE
+44834398,012.24,"Isolated tracheal or bronchial tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,FALSE
+44834398,01224,"Isolated tracheal or bronchial tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,TRUE
+44834399,012.32,"Tuberculous laryngitis, bacteriological or histological examination unknown (at present)",ICD9CM,09,FALSE
+44834399,01232,"Tuberculous laryngitis, bacteriological or histological examination unknown (at present)",ICD9CM,09,TRUE
+44834420,032.2,Anterior nasal diphtheria,ICD9CM,09,FALSE
+44834420,0322,Anterior nasal diphtheria,ICD9CM,09,TRUE
+44834457,101,Vincent's angina,ICD9CM,09,FALSE
+44834764,465.9,Acute upper respiratory infections of unspecified site,ICD9CM,09,FALSE
+44834764,4659,Acute upper respiratory infections of unspecified site,ICD9CM,09,TRUE
+44834766,482.4,Pneumonia due to Staphylococcus,ICD9CM,09,FALSE
+44834766,4824,Pneumonia due to Staphylococcus,ICD9CM,09,TRUE
+44834767,482.89,Pneumonia due to other specified bacteria,ICD9CM,09,FALSE
+44834767,48289,Pneumonia due to other specified bacteria,ICD9CM,09,TRUE
+44834768,484.1,Pneumonia in cytomegalic inclusion disease,ICD9CM,09,FALSE
+44834768,4841,Pneumonia in cytomegalic inclusion disease,ICD9CM,09,TRUE
+44835570,010.10,"Tuberculous pleurisy in primary progressive tuberculosis, unspecified",ICD9CM,09,FALSE
+44835570,01010,"Tuberculous pleurisy in primary progressive tuberculosis, unspecified",ICD9CM,09,TRUE
+44835573,011.12,"Tuberculosis of lung, nodular, bacteriological or histological examination unknown (at present)",ICD9CM,09,FALSE
+44835573,01112,"Tuberculosis of lung, nodular, bacteriological or histological examination unknown (at present)",ICD9CM,09,TRUE
+44835574,012.03,"Tuberculous pleurisy, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,FALSE
+44835574,01203,"Tuberculous pleurisy, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,TRUE
+44835576,012.26,"Isolated tracheal or bronchial tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,FALSE
+44835576,01226,"Isolated tracheal or bronchial tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,TRUE
+44835577,012.82,"Other specified respiratory tuberculosis, bacteriological or histological examination unknown (at present)",ICD9CM,09,FALSE
+44835577,01282,"Other specified respiratory tuberculosis, bacteriological or histological examination unknown (at present)",ICD9CM,09,TRUE
+44835578,012.86,"Other specified respiratory tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,FALSE
+44835578,01286,"Other specified respiratory tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,TRUE
+44835644,098.6,Gonococcal infection of pharynx,ICD9CM,09,FALSE
+44835644,0986,Gonococcal infection of pharynx,ICD9CM,09,TRUE
+44835977,480.1,Pneumonia due to respiratory syncytial virus,ICD9CM,09,FALSE
+44835977,4801,Pneumonia due to respiratory syncytial virus,ICD9CM,09,TRUE
+44835978,482.42,Methicillin resistant pneumonia due to Staphylococcus aureus,ICD9CM,09,FALSE
+44835978,48242,Methicillin resistant pneumonia due to Staphylococcus aureus,ICD9CM,09,TRUE
+44835979,482.83,Pneumonia due to other gram-negative bacteria,ICD9CM,09,FALSE
+44835979,48283,Pneumonia due to other gram-negative bacteria,ICD9CM,09,TRUE
+44836737,010.1,Tuberculous pleurisy in primary progressive tuberculosis,ICD9CM,09,FALSE
+44836737,0101,Tuberculous pleurisy in primary progressive tuberculosis,ICD9CM,09,TRUE
+44836740,011.73,"Tuberculous pneumothorax, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,FALSE
+44836740,01173,"Tuberculous pneumothorax, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,TRUE
+44836741,011.81,"Other specified pulmonary tuberculosis, bacteriological or histological examination not done",ICD9CM,09,FALSE
+44836741,01181,"Other specified pulmonary tuberculosis, bacteriological or histological examination not done",ICD9CM,09,TRUE
+44836742,011.82,"Other specified pulmonary tuberculosis, bacteriological or histological examination unknown (at present)",ICD9CM,09,FALSE
+44836742,01182,"Other specified pulmonary tuberculosis, bacteriological or histological examination unknown (at present)",ICD9CM,09,TRUE
+44836743,011.92,"Pulmonary tuberculosis, unspecified, bacteriological or histological examination unknown (at present)",ICD9CM,09,FALSE
+44836743,01192,"Pulmonary tuberculosis, unspecified, bacteriological or histological examination unknown (at present)",ICD9CM,09,TRUE
+44836744,012.05,"Tuberculous pleurisy, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,FALSE
+44836744,01205,"Tuberculous pleurisy, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,TRUE
+44836745,012.81,"Other specified respiratory tuberculosis, bacteriological or histological examination not done",ICD9CM,09,FALSE
+44836745,01281,"Other specified respiratory tuberculosis, bacteriological or histological examination not done",ICD9CM,09,TRUE
+44836766,020.5,"Pneumonic plague, unspecified",ICD9CM,09,FALSE
+44836766,0205,"Pneumonic plague, unspecified",ICD9CM,09,TRUE
+44836808,099.51,"Other venereal diseases due to chlamydia trachomatis, pharynx",ICD9CM,09,FALSE
+44836808,09951,"Other venereal diseases due to chlamydia trachomatis, pharynx",ICD9CM,09,TRUE
+44837132,482.8,Pneumonia due to other specified bacteria,ICD9CM,09,FALSE
+44837132,4828,Pneumonia due to other specified bacteria,ICD9CM,09,TRUE
+44837133,488.09,Influenza due to identified avian influenza virus with other manifestations,ICD9CM,09,FALSE
+44837133,48809,Influenza due to identified avian influenza virus with other manifestations,ICD9CM,09,TRUE
+44837134,491.1,Mucopurulent chronic bronchitis,ICD9CM,09,FALSE
+44837134,4911,Mucopurulent chronic bronchitis,ICD9CM,09,TRUE
+45532808,A02.22,Salmonella pneumonia,ICD10CM,10,FALSE
+45532808,A0222,Salmonella pneumonia,ICD10CM,10,TRUE
+45532814,A15.0,"Tuberculosis of lung, confirmed by sputum microscopy with or without culture",ICD10,10,FALSE
+45532814,A150,"Tuberculosis of lung, confirmed by sputum microscopy with or without culture",ICD10,10,TRUE
+45532829,A36.0,Pharyngeal diphtheria,ICD10,10,FALSE
+45532829,A360,Pharyngeal diphtheria,ICD10,10,TRUE
+45532830,A36.2,Laryngeal diphtheria,ICD10,10,FALSE
+45532830,A362,Laryngeal diphtheria,ICD10,10,TRUE
+45532835,A42.0,Pulmonary actinomycosis,ICD10,10,FALSE
+45532835,A420,Pulmonary actinomycosis,ICD10,10,TRUE
+45532836,A43.0,Pulmonary nocardiosis,ICD10,10,FALSE
+45532836,A430,Pulmonary nocardiosis,ICD10,10,TRUE
+45532875,B38.0,Acute pulmonary coccidioidomycosis,ICD10,10,FALSE
+45532875,B380,Acute pulmonary coccidioidomycosis,ICD10,10,TRUE
+45532876,B38.1,Chronic pulmonary coccidioidomycosis,ICD10,10,FALSE
+45532876,B381,Chronic pulmonary coccidioidomycosis,ICD10,10,TRUE
+45533537,J02.0,Streptococcal pharyngitis,ICD10,10,FALSE
+45533537,J020,Streptococcal pharyngitis,ICD10,10,TRUE
+45533542,J06.8,Other acute upper respiratory infections of multiple sites,ICD10,10,FALSE
+45533542,J068,Other acute upper respiratory infections of multiple sites,ICD10,10,TRUE
+45533544,J11.0,"Influenza with pneumonia, virus not identified",ICD10,10,FALSE
+45533544,J110,"Influenza with pneumonia, virus not identified",ICD10,10,TRUE
+45533545,J15.211,Pneumonia due to Methicillin susceptible Staphylococcus aureus,ICD10CM,10,FALSE
+45533545,J15211,Pneumonia due to Methicillin susceptible Staphylococcus aureus,ICD10CM,10,TRUE
+45534339,P23.1,Congenital pneumonia due to Chlamydia,ICD10,10,FALSE
+45534339,P231,Congenital pneumonia due to Chlamydia,ICD10,10,TRUE
+45537712,A15.9,"Respiratory tuberculosis unspecified, confirmed bacteriologically and histologically",ICD10,10,FALSE
+45537712,A159,"Respiratory tuberculosis unspecified, confirmed bacteriologically and histologically",ICD10,10,TRUE
+45537719,A36.1,Nasopharyngeal diphtheria,ICD10,10,FALSE
+45537719,A361,Nasopharyngeal diphtheria,ICD10,10,TRUE
+45537720,A37.0,Whooping cough due to Bordetella pertussis,ICD10,10,FALSE
+45537720,A370,Whooping cough due to Bordetella pertussis,ICD10,10,TRUE
+45537756,B25.0,Cytomegaloviral pneumonitis,ICD10,10,FALSE
+45537756,B250,Cytomegaloviral pneumonitis,ICD10,10,TRUE
+45537762,B39.0,Acute pulmonary histoplasmosis capsulati,ICD10,10,FALSE
+45537762,B390,Acute pulmonary histoplasmosis capsulati,ICD10,10,TRUE
+45537785,B97.21,SARS-associated coronavirus as the cause of diseases classified elsewhere,ICD10CM,10,FALSE
+45537785,B9721,SARS-associated coronavirus as the cause of diseases classified elsewhere,ICD10CM,10,TRUE
+45538476,J12.8,Other viral pneumonia,ICD10,10,FALSE
+45538476,J128,Other viral pneumonia,ICD10,10,TRUE
+45542514,A15.1,"Tuberculosis of lung, confirmed by culture only",ICD10,10,FALSE
+45542514,A151,"Tuberculosis of lung, confirmed by culture only",ICD10,10,TRUE
+45542515,A16.0,"Tuberculosis of lung, bacteriologically and histologically negative",ICD10,10,FALSE
+45542515,A160,"Tuberculosis of lung, bacteriologically and histologically negative",ICD10,10,TRUE
+45542528,A37.11,Whooping cough due to Bordetella parapertussis with pneumonia,ICD10CM,10,FALSE
+45542528,A3711,Whooping cough due to Bordetella parapertussis with pneumonia,ICD10CM,10,TRUE
+45542529,A37.81,Whooping cough due to other Bordetella species with pneumonia,ICD10CM,10,FALSE
+45542529,A3781,Whooping cough due to other Bordetella species with pneumonia,ICD10CM,10,TRUE
+45542531,A50.05,Early congenital syphilitic rhinitis,ICD10CM,10,FALSE
+45542531,A5005,Early congenital syphilitic rhinitis,ICD10CM,10,TRUE
+45542546,B01.2,Varicella pneumonia,ICD10,10,FALSE
+45542546,B012,Varicella pneumonia,ICD10,10,TRUE
+45542552,B08.5,Enteroviral vesicular pharyngitis,ICD10,10,FALSE
+45542552,B085,Enteroviral vesicular pharyngitis,ICD10,10,TRUE
+45542563,B40.0,Acute pulmonary blastomycosis,ICD10,10,FALSE
+45542563,B400,Acute pulmonary blastomycosis,ICD10,10,TRUE
+45542564,B40.2,"Pulmonary blastomycosis, unspecified",ICD10,10,FALSE
+45542564,B402,"Pulmonary blastomycosis, unspecified",ICD10,10,TRUE
+45543253,J03.00,"Acute streptococcal tonsillitis, unspecified",ICD10CM,10,FALSE
+45543253,J0300,"Acute streptococcal tonsillitis, unspecified",ICD10CM,10,TRUE
+45543254,J10.01,Influenza due to other identified influenza virus with the same other identified influenza virus pneumonia,ICD10CM,10,FALSE
+45543254,J1001,Influenza due to other identified influenza virus with the same other identified influenza virus pneumonia,ICD10CM,10,TRUE
+45543256,J12.1,Respiratory syncytial virus pneumonia,ICD10,10,FALSE
+45543256,J121,Respiratory syncytial virus pneumonia,ICD10,10,TRUE
+45543257,J15.1,Pneumonia due to Pseudomonas,ICD10,10,FALSE
+45543257,J151,Pneumonia due to Pseudomonas,ICD10,10,TRUE
+45543258,J15.3,"Pneumonia due to streptococcus, group B",ICD10,10,FALSE
+45543258,J153,"Pneumonia due to streptococcus, group B",ICD10,10,TRUE
+45543259,J15.6,Pneumonia due to other Gram-negative bacteria,ICD10,10,FALSE
+45543259,J156,Pneumonia due to other Gram-negative bacteria,ICD10,10,TRUE
+45543260,J15.7,Pneumonia due to Mycoplasma pneumoniae,ICD10,10,FALSE
+45543260,J157,Pneumonia due to Mycoplasma pneumoniae,ICD10,10,TRUE
+45543261,J20.2,Acute bronchitis due to streptococcus,ICD10,10,FALSE
+45543261,J202,Acute bronchitis due to streptococcus,ICD10,10,TRUE
+45543267,J41.1,Mucopurulent chronic bronchitis,ICD10,10,FALSE
+45543267,J411,Mucopurulent chronic bronchitis,ICD10,10,TRUE
+45544056,P23.2,Congenital pneumonia due to staphylococcus,ICD10,10,FALSE
+45544056,P232,Congenital pneumonia due to staphylococcus,ICD10,10,TRUE
+45544057,P23.5,Congenital pneumonia due to Pseudomonas,ICD10,10,FALSE
+45544057,P235,Congenital pneumonia due to Pseudomonas,ICD10,10,TRUE
+45547385,A06.5,Amoebic lung abscess,ICD10,10,FALSE
+45547385,A065,Amoebic lung abscess,ICD10,10,TRUE
+45547389,A16.1,"Tuberculosis of lung, bacteriological and histological examination not done",ICD10,10,FALSE
+45547389,A161,"Tuberculosis of lung, bacteriological and histological examination not done",ICD10,10,TRUE
+45547391,A16.5,"Tuberculous pleurisy, without mention of bacteriological or histological confirmation",ICD10,10,FALSE
+45547391,A165,"Tuberculous pleurisy, without mention of bacteriological or histological confirmation",ICD10,10,TRUE
+45547403,A37,Whooping cough,ICD10,10,FALSE
+45547455,B44.0,Invasive pulmonary aspergillosis,ICD10,10,FALSE
+45547455,B440,Invasive pulmonary aspergillosis,ICD10,10,TRUE
+45548105,J16.0,Chlamydial pneumonia,ICD10,10,FALSE
+45548105,J160,Chlamydial pneumonia,ICD10,10,TRUE
+45548106,J17.3,Pneumonia in parasitic diseases,ICD10,10,FALSE
+45548106,J173,Pneumonia in parasitic diseases,ICD10,10,TRUE
+45548108,J20.5,Acute bronchitis due to respiratory syncytial virus,ICD10,10,FALSE
+45548108,J205,Acute bronchitis due to respiratory syncytial virus,ICD10,10,TRUE
+45548127,J86.0,Pyothorax with fistula,ICD10,10,FALSE
+45548127,J860,Pyothorax with fistula,ICD10,10,TRUE
+45548864,P23.3,"Congenital pneumonia due to streptococcus, group B",ICD10,10,FALSE
+45548864,P233,"Congenital pneumonia due to streptococcus, group B",ICD10,10,TRUE
+45548865,P23.4,Congenital pneumonia due to Escherichia coli,ICD10,10,FALSE
+45548865,P234,Congenital pneumonia due to Escherichia coli,ICD10,10,TRUE
+45552235,B77.81,Ascariasis pneumonia,ICD10CM,10,FALSE
+45552235,B7781,Ascariasis pneumonia,ICD10CM,10,TRUE
+45552877,J03.01,Acute recurrent streptococcal tonsillitis,ICD10CM,10,FALSE
+45552877,J0301,Acute recurrent streptococcal tonsillitis,ICD10CM,10,TRUE
+45552879,J12,"Viral pneumonia, not elsewhere classified",ICD10,10,FALSE
+45552880,J12.9,"Viral pneumonia, unspecified",ICD10,10,FALSE
+45552880,J129,"Viral pneumonia, unspecified",ICD10,10,TRUE
+45552881,J16.8,Pneumonia due to other specified infectious organisms,ICD10,10,FALSE
+45552881,J168,Pneumonia due to other specified infectious organisms,ICD10,10,TRUE
+45552882,J20.3,Acute bronchitis due to coxsackievirus,ICD10,10,FALSE
+45552882,J203,Acute bronchitis due to coxsackievirus,ICD10,10,TRUE
+45552883,J20.7,Acute bronchitis due to echovirus,ICD10,10,FALSE
+45552883,J207,Acute bronchitis due to echovirus,ICD10,10,TRUE
+45552884,J21.0,Acute bronchiolitis due to respiratory syncytial virus,ICD10,10,FALSE
+45552884,J210,Acute bronchiolitis due to respiratory syncytial virus,ICD10,10,TRUE
+45556887,A01.03,Typhoid pneumonia,ICD10CM,10,FALSE
+45556887,A0103,Typhoid pneumonia,ICD10CM,10,TRUE
+45556896,A37.9,"Whooping cough, unspecified",ICD10,10,FALSE
+45556896,A379,"Whooping cough, unspecified",ICD10,10,TRUE
+45556897,A37.91,"Whooping cough, unspecified species with pneumonia",ICD10CM,10,FALSE
+45556897,A3791,"Whooping cough, unspecified species with pneumonia",ICD10CM,10,TRUE
+45556911,A54.84,Gonococcal pneumonia,ICD10CM,10,FALSE
+45556911,A5484,Gonococcal pneumonia,ICD10CM,10,TRUE
+45556938,B40.1,Chronic pulmonary blastomycosis,ICD10,10,FALSE
+45556938,B401,Chronic pulmonary blastomycosis,ICD10,10,TRUE
+45557617,J11.1,"Influenza with other respiratory manifestations, virus not identified",ICD10,10,FALSE
+45557617,J111,"Influenza with other respiratory manifestations, virus not identified",ICD10,10,TRUE
+45557618,J12.2,Parainfluenza virus pneumonia,ICD10,10,FALSE
+45557618,J122,Parainfluenza virus pneumonia,ICD10,10,TRUE
+45557619,J12.3,Human metapneumovirus pneumonia,ICD10,10,FALSE
+45557619,J123,Human metapneumovirus pneumonia,ICD10,10,TRUE
+45557620,J15.212,Pneumonia due to Methicillin resistant Staphylococcus aureus,ICD10CM,10,FALSE
+45557620,J15212,Pneumonia due to Methicillin resistant Staphylococcus aureus,ICD10CM,10,TRUE
+45557621,J15.9,"Bacterial pneumonia, unspecified",ICD10,10,FALSE
+45557621,J159,"Bacterial pneumonia, unspecified",ICD10,10,TRUE
+45557631,J86,Pyothorax,ICD10,10,FALSE
+45558364,P23.6,Congenital pneumonia due to other bacterial agents,ICD10,10,FALSE
+45558364,P236,Congenital pneumonia due to other bacterial agents,ICD10,10,TRUE
+45561683,A16.2,"Tuberculosis of lung, without mention of bacteriological or histological confirmation",ICD10,10,FALSE
+45561683,A162,"Tuberculosis of lung, without mention of bacteriological or histological confirmation",ICD10,10,TRUE
+45561684,A16.8,"Other respiratory tuberculosis, without mention of bacteriological or histological confirmation",ICD10,10,FALSE
+45561684,A168,"Other respiratory tuberculosis, without mention of bacteriological or histological confirmation",ICD10,10,TRUE
+45562431,J00,Acute nasopharyngitis [common cold],ICD10,10,FALSE
+45562437,J06.9,"Acute upper respiratory infection, unspecified",ICD10,10,FALSE
+45562437,J069,"Acute upper respiratory infection, unspecified",ICD10,10,TRUE
+45562440,J09.X2,Influenza due to identified novel influenza A virus with other respiratory manifestations,ICD10CM,10,FALSE
+45562440,J09X2,Influenza due to identified novel influenza A virus with other respiratory manifestations,ICD10CM,10,TRUE
+45562441,J15.4,Pneumonia due to other streptococci,ICD10,10,FALSE
+45562441,J154,Pneumonia due to other streptococci,ICD10,10,TRUE
+45562446,J21.1,Acute bronchiolitis due to human metapneumovirus,ICD10,10,FALSE
+45562446,J211,Acute bronchiolitis due to human metapneumovirus,ICD10,10,TRUE
+45566500,A37.90,"Whooping cough, unspecified species without pneumonia",ICD10CM,10,FALSE
+45566500,A3790,"Whooping cough, unspecified species without pneumonia",ICD10CM,10,TRUE
+45566519,A66.5,Gangosa,ICD10,10,FALSE
+45566519,A665,Gangosa,ICD10,10,TRUE
+45566549,B42.0,Pulmonary sporotrichosis,ICD10,10,FALSE
+45566549,B420,Pulmonary sporotrichosis,ICD10,10,TRUE
+45566554,B46.1,Rhinocerebral mucormycosis,ICD10,10,FALSE
+45566554,B461,Rhinocerebral mucormycosis,ICD10,10,TRUE
+45566558,B58.3,Pulmonary toxoplasmosis,ICD10,10,FALSE
+45566558,B583,Pulmonary toxoplasmosis,ICD10,10,TRUE
+45567258,J05.0,Acute obstructive laryngitis [croup],ICD10,10,FALSE
+45567258,J050,Acute obstructive laryngitis [croup],ICD10,10,TRUE
+45567259,J10.00,Influenza due to other identified influenza virus with unspecified type of pneumonia,ICD10CM,10,FALSE
+45567259,J1000,Influenza due to other identified influenza virus with unspecified type of pneumonia,ICD10CM,10,TRUE
+45567260,J12.81,Pneumonia due to SARS-associated coronavirus,ICD10CM,10,FALSE
+45567260,J1281,Pneumonia due to SARS-associated coronavirus,ICD10CM,10,TRUE
+45567261,J15.21,Pneumonia due to staphylococcus aureus,ICD10CM,10,FALSE
+45567261,J1521,Pneumonia due to staphylococcus aureus,ICD10CM,10,TRUE
+45571416,A15.6,"Tuberculous pleurisy, confirmed bacteriologically and histologically",ICD10,10,FALSE
+45571416,A156,"Tuberculous pleurisy, confirmed bacteriologically and histologically",ICD10,10,TRUE
+45571421,A22.1,Pulmonary anthrax,ICD10,10,FALSE
+45571421,A221,Pulmonary anthrax,ICD10,10,TRUE
+45571425,A37.80,Whooping cough due to other Bordetella species without pneumonia,ICD10CM,10,FALSE
+45571425,A3780,Whooping cough due to other Bordetella species without pneumonia,ICD10CM,10,TRUE
+45571438,A52.72,Syphilis of lung and bronchus,ICD10CM,10,FALSE
+45571438,A5272,Syphilis of lung and bronchus,ICD10CM,10,TRUE
+45571440,A56.4,Chlamydial infection of pharynx,ICD10,10,FALSE
+45571440,A564,Chlamydial infection of pharynx,ICD10,10,TRUE
+45571459,B20.6,HIV disease resulting in Pneumocystis jirovecii pneumonia,ICD10,10,FALSE
+45571459,B206,HIV disease resulting in Pneumocystis jirovecii pneumonia,ICD10,10,TRUE
+45571480,B87.3,Nasopharyngeal myiasis,ICD10,10,FALSE
+45571480,B873,Nasopharyngeal myiasis,ICD10,10,TRUE
+45572159,J10.8,"Influenza with other manifestations, seasonal influenza virus identified",ICD10,10,FALSE
+45572159,J108,"Influenza with other manifestations, seasonal influenza virus identified",ICD10,10,TRUE
+45572161,J12.89,Other viral pneumonia,ICD10CM,10,FALSE
+45572161,J1289,Other viral pneumonia,ICD10CM,10,TRUE
+45572162,J15.8,Other bacterial pneumonia,ICD10,10,FALSE
+45572162,J158,Other bacterial pneumonia,ICD10,10,TRUE
+45572163,J17.2,Pneumonia in mycoses,ICD10,10,FALSE
+45572163,J172,Pneumonia in mycoses,ICD10,10,TRUE
+45576231,A15.7,"Primary respiratory tuberculosis, confirmed bacteriologically and histologically",ICD10,10,FALSE
+45576231,A157,"Primary respiratory tuberculosis, confirmed bacteriologically and histologically",ICD10,10,TRUE
+45576232,A16,"Respiratory tuberculosis, not confirmed bacteriologically or histologically",ICD10,10,FALSE
+45576233,A21.2,Pulmonary tularaemia,ICD10,10,FALSE
+45576233,A212,Pulmonary tularaemia,ICD10,10,TRUE
+45576269,B44.1,Other pulmonary aspergillosis,ICD10,10,FALSE
+45576269,B441,Other pulmonary aspergillosis,ICD10,10,TRUE
+45576270,B44.2,Tonsillar aspergillosis,ICD10,10,FALSE
+45576270,B442,Tonsillar aspergillosis,ICD10,10,TRUE
+45581105,A20.2,Pneumonic plague,ICD10,10,FALSE
+45581105,A202,Pneumonic plague,ICD10,10,TRUE
+45581110,A37.00,Whooping cough due to Bordetella pertussis without pneumonia,ICD10CM,10,FALSE
+45581110,A3700,Whooping cough due to Bordetella pertussis without pneumonia,ICD10CM,10,TRUE
+45581144,B05.2,Measles complicated by pneumonia,ICD10,10,FALSE
+45581144,B052,Measles complicated by pneumonia,ICD10,10,TRUE
+45581145,B06.81,Rubella pneumonia,ICD10CM,10,FALSE
+45581145,B0681,Rubella pneumonia,ICD10CM,10,TRUE
+45581159,B37.1,Pulmonary candidiasis,ICD10,10,FALSE
+45581159,B371,Pulmonary candidiasis,ICD10,10,TRUE
+45581163,B39.1,Chronic pulmonary histoplasmosis capsulati,ICD10,10,FALSE
+45581163,B391,Chronic pulmonary histoplasmosis capsulati,ICD10,10,TRUE
+45581165,B41.0,Pulmonary paracoccidioidomycosis,ICD10,10,FALSE
+45581165,B410,Pulmonary paracoccidioidomycosis,ICD10,10,TRUE
+45581168,B45.0,Pulmonary cryptococcosis,ICD10,10,FALSE
+45581168,B450,Pulmonary cryptococcosis,ICD10,10,TRUE
+45581169,B46.0,Pulmonary mucormycosis,ICD10,10,FALSE
+45581169,B460,Pulmonary mucormycosis,ICD10,10,TRUE
+45581841,J09.X9,Influenza due to identified novel influenza A virus with other manifestations,ICD10CM,10,FALSE
+45581841,J09X9,Influenza due to identified novel influenza A virus with other manifestations,ICD10CM,10,TRUE
+45581842,J11.08,Influenza due to unidentified influenza virus with specified pneumonia,ICD10CM,10,FALSE
+45581842,J1108,Influenza due to unidentified influenza virus with specified pneumonia,ICD10CM,10,TRUE
+45581843,J11.8,"Influenza with other manifestations, virus not identified",ICD10,10,FALSE
+45581843,J118,"Influenza with other manifestations, virus not identified",ICD10,10,TRUE
+45581844,J11.81,Influenza due to unidentified influenza virus with encephalopathy,ICD10CM,10,FALSE
+45581844,J1181,Influenza due to unidentified influenza virus with encephalopathy,ICD10CM,10,TRUE
+45581845,J11.89,Influenza due to unidentified influenza virus with other manifestations,ICD10CM,10,FALSE
+45581845,J1189,Influenza due to unidentified influenza virus with other manifestations,ICD10CM,10,TRUE
+45581846,J14,Pneumonia due to Haemophilus influenzae,ICD10,10,FALSE
+45581847,J15,"Bacterial pneumonia, not elsewhere classified",ICD10,10,FALSE
+45581848,J15.5,Pneumonia due to Escherichia coli,ICD10,10,FALSE
+45581848,J155,Pneumonia due to Escherichia coli,ICD10,10,TRUE
+45581850,J20.6,Acute bronchitis due to rhinovirus,ICD10,10,FALSE
+45581850,J206,Acute bronchitis due to rhinovirus,ICD10,10,TRUE
+45585897,A15.3,"Tuberculosis of lung, confirmed by unspecified means",ICD10,10,FALSE
+45585897,A153,"Tuberculosis of lung, confirmed by unspecified means",ICD10,10,TRUE
+45585898,A15.8,"Other respiratory tuberculosis, confirmed bacteriologically and histologically",ICD10,10,FALSE
+45585898,A158,"Other respiratory tuberculosis, confirmed bacteriologically and histologically",ICD10,10,TRUE
+45585899,A16.9,"Respiratory tuberculosis unspecified, without mention of bacteriological or histological confirmation",ICD10,10,FALSE
+45585899,A169,"Respiratory tuberculosis unspecified, without mention of bacteriological or histological confirmation",ICD10,10,TRUE
+45585909,A37.8,Whooping cough due to other Bordetella species,ICD10,10,FALSE
+45585909,A378,Whooping cough due to other Bordetella species,ICD10,10,TRUE
+45585914,A48.1,Legionnaires disease,ICD10,10,FALSE
+45585914,A481,Legionnaires disease,ICD10,10,TRUE
+45585954,B33.4,Hantavirus (cardio-)pulmonary syndrome [HPS] [HCPS],ICD10,10,FALSE
+45585954,B334,Hantavirus (cardio-)pulmonary syndrome [HPS] [HCPS],ICD10,10,TRUE
+45586659,J10.81,Influenza due to other identified influenza virus with encephalopathy,ICD10CM,10,FALSE
+45586659,J1081,Influenza due to other identified influenza virus with encephalopathy,ICD10CM,10,TRUE
+45586660,J10.89,Influenza due to other identified influenza virus with other manifestations,ICD10CM,10,FALSE
+45586660,J1089,Influenza due to other identified influenza virus with other manifestations,ICD10CM,10,TRUE
+45586661,J11.00,Influenza due to unidentified influenza virus with unspecified type of pneumonia,ICD10CM,10,FALSE
+45586661,J1100,Influenza due to unidentified influenza virus with unspecified type of pneumonia,ICD10CM,10,TRUE
+45586662,J13,Pneumonia due to Streptococcus pneumoniae,ICD10,10,FALSE
+45586663,J17.1,Pneumonia in viral diseases classified elsewhere,ICD10,10,FALSE
+45586663,J171,Pneumonia in viral diseases classified elsewhere,ICD10,10,TRUE
+45586664,J20.4,Acute bronchitis due to parainfluenza virus,ICD10,10,FALSE
+45586664,J204,Acute bronchitis due to parainfluenza virus,ICD10,10,TRUE
+45586665,J22,Unspecified acute lower respiratory infection,ICD10,10,FALSE
+45586683,J86.9,Pyothorax without fistula,ICD10,10,FALSE
+45586683,J869,Pyothorax without fistula,ICD10,10,TRUE
+45587417,P23.0,Congenital pneumonia due to viral agent,ICD10,10,FALSE
+45587417,P230,Congenital pneumonia due to viral agent,ICD10,10,TRUE
+45590805,A31.0,Pulmonary mycobacterial infection,ICD10,10,FALSE
+45590805,A310,Pulmonary mycobacterial infection,ICD10,10,TRUE
+45590848,B30.2,Viral pharyngoconjunctivitis,ICD10,10,FALSE
+45590848,B302,Viral pharyngoconjunctivitis,ICD10,10,TRUE
+45590853,B39.2,"Pulmonary histoplasmosis capsulati, unspecified",ICD10,10,FALSE
+45590853,B392,"Pulmonary histoplasmosis capsulati, unspecified",ICD10,10,TRUE
+45591545,J10.08,Influenza due to other identified influenza virus with other specified pneumonia,ICD10CM,10,FALSE
+45591545,J1008,Influenza due to other identified influenza virus with other specified pneumonia,ICD10CM,10,TRUE
+45591547,J12.0,Adenoviral pneumonia,ICD10,10,FALSE
+45591547,J120,Adenoviral pneumonia,ICD10,10,TRUE
+45591548,J15.0,Pneumonia due to Klebsiella pneumoniae,ICD10,10,FALSE
+45591548,J150,Pneumonia due to Klebsiella pneumoniae,ICD10,10,TRUE
+45591549,J15.2,Pneumonia due to staphylococcus,ICD10,10,FALSE
+45591549,J152,Pneumonia due to staphylococcus,ICD10,10,TRUE
+45591550,J15.29,Pneumonia due to other staphylococcus,ICD10CM,10,FALSE
+45591550,J1529,Pneumonia due to other staphylococcus,ICD10CM,10,TRUE
+45591551,J17.0,Pneumonia in bacterial diseases classified elsewhere,ICD10,10,FALSE
+45591551,J170,Pneumonia in bacterial diseases classified elsewhere,ICD10,10,TRUE
+45595574,A15.2,"Tuberculosis of lung, confirmed histologically",ICD10,10,FALSE
+45595574,A152,"Tuberculosis of lung, confirmed histologically",ICD10,10,TRUE
+45596276,J09.X1,Influenza due to identified novel influenza A virus with pneumonia,ICD10CM,10,FALSE
+45596276,J09X1,Influenza due to identified novel influenza A virus with pneumonia,ICD10CM,10,TRUE
+45600409,A37.01,Whooping cough due to Bordetella pertussis with pneumonia,ICD10CM,10,FALSE
+45600409,A3701,Whooping cough due to Bordetella pertussis with pneumonia,ICD10CM,10,TRUE
+45600426,A54.5,Gonococcal pharyngitis,ICD10,10,FALSE
+45600426,A545,Gonococcal pharyngitis,ICD10,10,TRUE
+45601114,J03.0,Streptococcal tonsillitis,ICD10,10,FALSE
+45601114,J030,Streptococcal tonsillitis,ICD10,10,TRUE
+45601116,J06,Acute upper respiratory infections of multiple and unspecified sites,ICD10,10,FALSE
+45601119,J10.0,"Influenza with pneumonia, seasonal influenza virus identified",ICD10,10,FALSE
+45601119,J100,"Influenza with pneumonia, seasonal influenza virus identified",ICD10,10,TRUE
+45601120,J10.1,"Influenza with other respiratory manifestations, seasonal influenza virus identified",ICD10,10,FALSE
+45601120,J101,"Influenza with other respiratory manifestations, seasonal influenza virus identified",ICD10,10,TRUE
+45601122,J15.20,"Pneumonia due to staphylococcus, unspecified",ICD10CM,10,FALSE
+45601122,J1520,"Pneumonia due to staphylococcus, unspecified",ICD10CM,10,TRUE
+45601124,J20.1,Acute bronchitis due to Haemophilus influenzae,ICD10,10,FALSE
+45601124,J201,Acute bronchitis due to Haemophilus influenzae,ICD10,10,TRUE
+45601131,J44.0,Chronic obstructive pulmonary disease with acute lower respiratory infection,ICD10,10,FALSE
+45601131,J440,Chronic obstructive pulmonary disease with acute lower respiratory infection,ICD10,10,TRUE
+45604597,U04.9,"Severe acute respiratory syndrome [SARS], unspecified",ICD10,10,FALSE
+45604597,U049,"Severe acute respiratory syndrome [SARS], unspecified",ICD10,10,TRUE
+45605190,A15,"Respiratory tuberculosis, bacteriologically and histologically confirmed",ICD10,10,FALSE
+45605245,B67.1,Echinococcus granulosus infection of lung,ICD10,10,FALSE
+45605245,B671,Echinococcus granulosus infection of lung,ICD10,10,TRUE
+45605884,J20.0,Acute bronchitis due to Mycoplasma pneumoniae,ICD10,10,FALSE
+45605884,J200,Acute bronchitis due to Mycoplasma pneumoniae,ICD10,10,TRUE
+45755448,J05,Acute obstructive laryngitis [croup] and epiglottitis,ICD10,10,FALSE
+45755449,J09,Influenza due to identified zoonotic or pandemic influenza virus,ICD10,10,FALSE
+45755450,J10,Influenza due to identified seasonal influenza virus,ICD10,10,FALSE
+45755451,J11,"Influenza, virus not identified",ICD10,10,FALSE
+45755452,J16,"Pneumonia due to other infectious organisms, not elsewhere classified",ICD10,10,FALSE
+45756079,U04,Severe acute respiratory syndrome [SARS],ICD10,10,FALSE
+45757067,104041000119108,Fungal sinusitis,SNOMED,SM,FALSE
+45757206,1082721000119101,Pneumonia due to Ascaris,SNOMED,SM,FALSE
+45757250,1087061000119106,Gonococcal pneumonia,SNOMED,SM,FALSE
+45757261,1090211000119102,Pharyngeal diphtheria,SNOMED,SM,FALSE
+45757605,243981000119109,Pulmonary filariasis,SNOMED,SM,FALSE
+45757644,28791000119105,Chronic coccidioidomycotic pneumonia,SNOMED,SM,FALSE
+45763768,700273003,Isolated tracheobronchial tuberculosis,SNOMED,SM,FALSE
+45766331,703468005,Bacterial tonsillitis,SNOMED,SM,FALSE
+45766333,703470001,Bacterial sinusitis,SNOMED,SM,FALSE
+45768730,707224005,Severe acute respiratory infection,SNOMED,SM,FALSE
+45768834,707351006,Institution-acquired respiratory infection,SNOMED,SM,FALSE
+45768913,707448003,Influenza due to Influenza A virus subtype H7N9,SNOMED,SM,FALSE
+45768960,707507003,Pneumonia due to Schistosoma japonicum,SNOMED,SM,FALSE
+45768961,707508008,Pneumonia due to Schistosoma haematobium,SNOMED,SM,FALSE
+45768962,707509000,Tracheobronchitis due to Aspergillus,SNOMED,SM,FALSE
+45770900,1092361000119109,Rubella pneumonia,SNOMED,SM,FALSE
+45770911,184431000119108,Acute pneumonia due to coccidioidomycosis,SNOMED,SM,FALSE
+45771022,707503004,Pneumonia due to Schistosoma mansoni,SNOMED,SM,FALSE
+45771090,700272008,Respiratory tuberculosis,SNOMED,SM,FALSE
+45772996,708025003,Pyopneumothorax following infection by Coccidioides,SNOMED,SM,FALSE
+45890944,488.8,Influenza due to novel influenza A,ICD9CM,09,FALSE
+45890944,4888,Influenza due to novel influenza A,ICD9CM,09,TRUE
+46269700,105901000119108,Pleural effusion due to bacterial infection,SNOMED,SM,FALSE
+46269707,10624991000119103,Bronchopneumonia due to Achromobacter,SNOMED,SM,FALSE
+46269708,10625031000119102,Bronchopneumonia due to anaerobic bacteria,SNOMED,SM,FALSE
+46269709,10625071000119104,Bronchopneumonia due to bacteria,SNOMED,SM,FALSE
+46269710,10625111000119106,Bronchopneumonia due to Escherichia coli,SNOMED,SM,FALSE
+46269711,10625151000119107,Bronchopneumonia due to Group A Streptococcus,SNOMED,SM,FALSE
+46269712,10625191000119102,Bronchopneumonia due to Group B Streptococcus,SNOMED,SM,FALSE
+46269713,10625231000119106,Bronchopneumonia due to Haemophilus influenzae,SNOMED,SM,FALSE
+46269714,10625271000119109,Bronchopneumonia due to Human metapneumovirus,SNOMED,SM,FALSE
+46269715,10625311000119109,Bronchopneumonia due to Klebsiella pneumoniae,SNOMED,SM,FALSE
+46269716,10625351000119105,Bronchopneumonia due to methicillin resistant Staphylococcus aureus,SNOMED,SM,FALSE
+46269717,10625391000119100,Bronchopneumonia due to methicillin susceptible Staphylococcus aureus,SNOMED,SM,FALSE
+46269718,10625431000119105,Bronchopneumonia due to Mycoplasma pneumoniae,SNOMED,SM,FALSE
+46269719,10625471000119108,Bronchopneumonia due to Proteus mirabilis,SNOMED,SM,FALSE
+46269720,10625511000119104,Bronchopneumonia due to Pseudomonas,SNOMED,SM,FALSE
+46269721,10625551000119103,Bronchopneumonia due to respiratory syncytial virus,SNOMED,SM,FALSE
+46269722,10625591000119108,Bronchopneumonia due to Staphylococcus,SNOMED,SM,FALSE
+46269723,10625631000119108,Bronchopneumonia due to Staphylococcus aureus,SNOMED,SM,FALSE
+46269724,10625671000119106,Bronchopneumonia due to Streptococcus,SNOMED,SM,FALSE
+46269725,10625711000119105,Bronchopneumonia due to Streptococcus pneumoniae,SNOMED,SM,FALSE
+46269726,10625751000119106,Bronchopneumonia due to virus,SNOMED,SM,FALSE
+46269741,10629191000119100,Bronchiolitis caused by influenza virus,SNOMED,SM,FALSE
+46269954,1092951000119106,Pneumonia due to Bordetella parapertussis,SNOMED,SM,FALSE
+46270027,124691000119101,Pneumonia due to methicillin resistant Staphylococcus aureus,SNOMED,SM,FALSE
+46270120,142921000119103,Upper respiratory tract infection due to avian influenza,SNOMED,SM,FALSE
+46270121,142931000119100,Pneumonia due to H1N1 influenza,SNOMED,SM,FALSE
+46270122,142941000119109,Upper respiratory tract infection due to H1N1 influenza,SNOMED,SM,FALSE
+46270128,143111000119103,Pneumonia due to avian influenza,SNOMED,SM,FALSE
+46270318,16311000119108,Pneumonia due to influenza,SNOMED,SM,FALSE
+46270491,328531000119104,Upper respiratory tract infection due to Influenza A,SNOMED,SM,FALSE
+46272714,711128004,"Influenza due to influenza virus type A, avian, H3N2 strain",SNOMED,SM,FALSE
+46273463,10685111000119102,Upper respiratory tract infection due to Influenza,SNOMED,SM,FALSE
+46274035,128711000119106,Pneumonia due to methicillin susceptible Staphylococcus aureus,SNOMED,SM,FALSE
+46274047,10629151000119105,Acute bronchitis caused by coxsackievirus,SNOMED,SM,FALSE

@@ -1,6 +1,6 @@
 |Field            |Value           |
 |:----------------|:---------------|
-|Codeset Name     |Fever Chills    |
+|Codeset Name     |Fever/Chills    |
 |Codeset Link     |[dx_fever_chills](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_fever_chills.csv)|
 |CDM              |NA              |
 |Clinical Concept |RECOVER         |

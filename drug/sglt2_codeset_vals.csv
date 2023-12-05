@@ -1,0 +1,111 @@
+concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason,codetype1,descrip,Source
+43526465,canagliflozin,Drug,RxNorm,Ingredient,S,1373458,2013-05-06,2099-12-31,NA,PR00,canagliflozin,SGLT2
+43526466,canagliflozin 100 MG,Drug,RxNorm,Clinical Drug Comp,S,1373459,2013-05-06,2099-12-31,NA,PR00,canagliflozin 100 MG,SGLT2
+36246400,canagliflozin Oral Product,Drug,RxNorm,Clinical Dose Group,C,1373460,2016-08-01,2099-12-31,NA,PR00,canagliflozin Oral Product,SGLT2
+36246401,canagliflozin Pill,Drug,RxNorm,Clinical Dose Group,C,1373461,2016-08-01,2099-12-31,NA,PR00,canagliflozin Pill,SGLT2
+43526474,canagliflozin Oral Tablet,Drug,RxNorm,Clinical Drug Form,S,1373462,2013-05-06,2099-12-31,NA,PR00,canagliflozin Oral Tablet,SGLT2
+43526467,canagliflozin 100 MG Oral Tablet,Drug,RxNorm,Clinical Drug,S,1373463,2013-05-06,2099-12-31,NA,PR00,canagliflozin (as canagliflozin hemihydrate) 100 MG Oral Tablet,SGLT2
+43526233,Invokana,Drug,RxNorm,Brand Name,NA,1373464,2013-05-06,2099-12-31,NA,PR00,Invokana,SGLT2
+43526469,canagliflozin 100 MG [Invokana],Drug,RxNorm,Branded Drug Comp,S,1373465,2013-05-06,2099-12-31,NA,PR00,canagliflozin 100 MG [Invokana],SGLT2
+43526475,canagliflozin Oral Tablet [Invokana],Drug,RxNorm,Branded Drug Form,S,1373466,2013-05-06,2099-12-31,NA,PR00,canagliflozin Oral Tablet [Invokana],SGLT2
+36246430,Invokana Oral Product,Drug,RxNorm,Branded Dose Group,C,1373467,2016-08-01,2099-12-31,NA,PR00,Invokana Oral Product,SGLT2
+36246431,Invokana Pill,Drug,RxNorm,Branded Dose Group,C,1373468,2016-08-01,2099-12-31,NA,PR00,Invokana Pill,SGLT2
+43526468,canagliflozin 100 MG Oral Tablet [Invokana],Drug,RxNorm,Branded Drug,S,1373469,2013-05-06,2099-12-31,NA,PR00,canagliflozin 100 MG Oral Tablet [Invokana],SGLT2
+43526470,canagliflozin 300 MG,Drug,RxNorm,Clinical Drug Comp,S,1373470,2013-05-06,2099-12-31,NA,PR00,canagliflozin 300 MG,SGLT2
+43526471,canagliflozin 300 MG Oral Tablet,Drug,RxNorm,Clinical Drug,S,1373471,2013-05-06,2099-12-31,NA,PR00,canagliflozin 300 MG Oral Tablet,SGLT2
+43526473,canagliflozin 300 MG [Invokana],Drug,RxNorm,Branded Drug Comp,S,1373472,2013-05-06,2099-12-31,NA,PR00,canagliflozin 300 MG [Invokana],SGLT2
+43526472,canagliflozin 300 MG Oral Tablet [Invokana],Drug,RxNorm,Branded Drug,S,1373473,2013-05-06,2099-12-31,NA,PR00,canagliflozin 300 MG Oral Tablet [Invokana],SGLT2
+44785470,dapagliflozin propanediol,Drug,RxNorm,Precise Ingredient,NA,1486966,2014-02-03,2099-12-31,NA,PR00,dapagliflozin propanediol,SGLT2
+44785479,dapagliflozin propanediol Oral Tablet,Drug,RxNorm,Clinical Drug Form,NA,1486970,2014-02-03,2014-05-05,D,PR00,dapagliflozin propanediol Oral Tablet,SGLT2
+44785472,dapagliflozin propanediol 10 MG Oral Tablet,Drug,RxNorm,Clinical Drug,NA,1486971,2014-02-03,2014-05-05,U,PR00,dapagliflozin propanediol 10 MG Oral Tablet,SGLT2
+44785198,Farxiga,Drug,RxNorm,Brand Name,NA,1486972,2014-02-03,2099-12-31,NA,PR00,Farxiga,SGLT2
+44785474,dapagliflozin propanediol 10 MG [Farxiga],Drug,RxNorm,Branded Drug Comp,NA,1486973,2014-02-03,2014-05-05,D,PR00,dapagliflozin propanediol 10 MG [Farxiga],SGLT2
+44785480,dapagliflozin propanediol Oral Tablet [Farxiga],Drug,RxNorm,Branded Drug Form,NA,1486974,2014-02-03,2014-05-05,D,PR00,dapagliflozin propanediol Oral Tablet [Farxiga],SGLT2
+36247907,Farxiga Oral Product,Drug,RxNorm,Branded Dose Group,C,1486975,2016-08-01,2099-12-31,NA,PR00,Farxiga Oral Product,SGLT2
+36247908,Farxiga Pill,Drug,RxNorm,Branded Dose Group,C,1486976,2016-08-01,2099-12-31,NA,PR00,Farxiga Pill,SGLT2
+44785473,dapagliflozin 10 MG Oral Tablet [Farxiga],Drug,RxNorm,Branded Drug,S,1486977,2014-02-03,2099-12-31,NA,PR00,dapagliflozin 10 MG Oral Tablet [Farxiga],SGLT2
+44785476,dapagliflozin propanediol 5 MG Oral Tablet,Drug,RxNorm,Clinical Drug,NA,1486979,2014-02-03,2014-05-05,U,PR00,dapagliflozin propanediol 5 MG Oral Tablet,SGLT2
+44785478,dapagliflozin propanediol 5 MG [Farxiga],Drug,RxNorm,Branded Drug Comp,NA,1486980,2014-02-03,2014-05-05,D,PR00,dapagliflozin propanediol 5 MG [Farxiga],SGLT2
+44785477,dapagliflozin 5 MG Oral Tablet [Farxiga],Drug,RxNorm,Branded Drug,S,1486981,2014-02-03,2099-12-31,NA,PR00,dapagliflozin 5 MG Oral Tablet [Farxiga],SGLT2
+44785829,dapagliflozin,Drug,RxNorm,Ingredient,S,1488564,2014-03-03,2099-12-31,NA,PR00,dapagliflozin,SGLT2
+44785830,dapagliflozin 10 MG,Drug,RxNorm,Clinical Drug Comp,S,1488565,2014-03-03,2099-12-31,NA,PR00,dapagliflozin 10 MG,SGLT2
+36247667,dapagliflozin Oral Product,Drug,RxNorm,Clinical Dose Group,C,1488566,2016-08-01,2099-12-31,NA,PR00,dapagliflozin Oral Product,SGLT2
+36247668,dapagliflozin Pill,Drug,RxNorm,Clinical Dose Group,C,1488567,2016-08-01,2099-12-31,NA,PR00,dapagliflozin Pill,SGLT2
+44785834,dapagliflozin Oral Tablet,Drug,RxNorm,Clinical Drug Form,S,1488568,2014-03-03,2099-12-31,NA,PR00,dapagliflozin Oral Tablet,SGLT2
+44785831,dapagliflozin 10 MG Oral Tablet,Drug,RxNorm,Clinical Drug,S,1488569,2014-03-03,2099-12-31,NA,PR00,dapagliflozin (as dapagliflozin propanediol) 10 MG Oral Tablet,SGLT2
+44785832,dapagliflozin 5 MG,Drug,RxNorm,Clinical Drug Comp,S,1488573,2014-03-03,2099-12-31,NA,PR00,dapagliflozin 5 MG,SGLT2
+44785833,dapagliflozin 5 MG Oral Tablet,Drug,RxNorm,Clinical Drug,S,1488574,2014-03-03,2099-12-31,NA,PR00,dapagliflozin (as dapagliflozin propanediol) 5 MG Oral Tablet,SGLT2
+44815995,dapagliflozin Oral Tablet [Farxiga],Drug,RxNorm,Branded Drug Form,S,1534343,2014-05-05,2099-12-31,NA,PR00,dapagliflozin Oral Tablet [Farxiga],SGLT2
+44815996,dapagliflozin 5 MG [Farxiga],Drug,RxNorm,Branded Drug Comp,S,1534344,2014-05-05,2099-12-31,NA,PR00,dapagliflozin 5 MG [Farxiga],SGLT2
+44816049,dapagliflozin 10 MG [Farxiga],Drug,RxNorm,Branded Drug Comp,S,1534397,2014-05-05,2099-12-31,NA,PR00,dapagliflozin 10 MG [Farxiga],SGLT2
+45774708,canagliflozin 150 MG,Drug,RxNorm,Clinical Drug Comp,S,1545145,2014-12-01,2099-12-31,NA,PR00,canagliflozin 150 MG,SGLT2
+45774718,canagliflozin 50 MG,Drug,RxNorm,Clinical Drug Comp,S,1545160,2014-12-01,2099-12-31,NA,PR00,canagliflozin 50 MG,SGLT2
+45774751,empagliflozin,Drug,RxNorm,Ingredient,S,1545653,2014-12-01,2099-12-31,NA,PR00,empagliflozin,SGLT2
+45774752,empagliflozin 10 MG,Drug,RxNorm,Clinical Drug Comp,S,1545654,2014-12-01,2099-12-31,NA,PR00,empagliflozin 10 MG,SGLT2
+36246884,empagliflozin Oral Product,Drug,RxNorm,Clinical Dose Group,C,1545655,2016-08-01,2099-12-31,NA,PR00,empagliflozin Oral Product,SGLT2
+36246885,empagliflozin Pill,Drug,RxNorm,Clinical Dose Group,C,1545656,2016-08-01,2099-12-31,NA,PR00,empagliflozin Pill,SGLT2
+45774753,empagliflozin Oral Tablet,Drug,RxNorm,Clinical Drug Form,S,1545657,2014-12-01,2099-12-31,NA,PR00,empagliflozin Oral Tablet,SGLT2
+45774754,empagliflozin 10 MG Oral Tablet,Drug,RxNorm,Clinical Drug,S,1545658,2014-12-01,2099-12-31,NA,PR00,empagliflozin 10 MG Oral Tablet,SGLT2
+45774755,Jardiance,Drug,RxNorm,Brand Name,NA,1545659,2014-12-01,2099-12-31,NA,PR00,Jardiance,SGLT2
+45774756,empagliflozin 10 MG [Jardiance],Drug,RxNorm,Branded Drug Comp,S,1545660,2014-12-01,2099-12-31,NA,PR00,empagliflozin 10 MG [Jardiance],SGLT2
+45774757,empagliflozin Oral Tablet [Jardiance],Drug,RxNorm,Branded Drug Form,S,1545661,2014-12-01,2099-12-31,NA,PR00,empagliflozin Oral Tablet [Jardiance],SGLT2
+36246886,Jardiance Oral Product,Drug,RxNorm,Branded Dose Group,C,1545662,2016-08-01,2099-12-31,NA,PR00,Jardiance Oral Product,SGLT2
+36246887,Jardiance Pill,Drug,RxNorm,Branded Dose Group,C,1545663,2016-08-01,2099-12-31,NA,PR00,Jardiance Pill,SGLT2
+45774758,empagliflozin 10 MG Oral Tablet [Jardiance],Drug,RxNorm,Branded Drug,S,1545664,2014-12-01,2099-12-31,NA,PR00,empagliflozin 10 MG Oral Tablet [Jardiance],SGLT2
+45774759,empagliflozin 25 MG,Drug,RxNorm,Clinical Drug Comp,S,1545665,2014-12-01,2099-12-31,NA,PR00,empagliflozin 25 MG,SGLT2
+45774893,empagliflozin 25 MG Oral Tablet,Drug,RxNorm,Clinical Drug,S,1545666,2014-12-01,2099-12-31,NA,PR00,empagliflozin 25 MG Oral Tablet,SGLT2
+45774894,empagliflozin 25 MG [Jardiance],Drug,RxNorm,Branded Drug Comp,S,1545667,2014-12-01,2099-12-31,NA,PR00,empagliflozin 25 MG [Jardiance],SGLT2
+45774895,empagliflozin 25 MG Oral Tablet [Jardiance],Drug,RxNorm,Branded Drug,S,1545668,2014-12-01,2099-12-31,NA,PR00,empagliflozin 25 MG Oral Tablet [Jardiance],SGLT2
+46274925,canagliflozin anhydrous,Drug,RxNorm,Precise Ingredient,NA,1546031,2015-09-08,2099-12-31,NA,PR00,canagliflozin anhydrous,SGLT2
+46287678,empagliflozin 5 MG,Drug,RxNorm,Clinical Drug Comp,S,1664310,2015-10-05,2099-12-31,NA,PR00,empagliflozin 5 MG,SGLT2
+41929657,Chinon,Geography,OSM,7th level,S,1664322,1970-01-01,2099-12-31,NA,PR00,empagliflozin 12.5 MG,SGLT2
+46287685,empagliflozin 12.5 MG,Drug,RxNorm,Clinical Drug Comp,S,1664322,2015-10-05,2099-12-31,NA,PR00,empagliflozin 12.5 MG,SGLT2
+793825,dapagliflozin 2.5 MG,Drug,RxNorm,Clinical Drug Comp,S,1940495,2018-02-05,2099-12-31,NA,PR00,dapagliflozin 2.5 MG,SGLT2
+793293,ertugliflozin,Drug,RxNorm,Ingredient,S,1992672,2018-02-05,2099-12-31,NA,PR00,ertugliflozin,SGLT2
+793295,ertugliflozin pidolate,Drug,RxNorm,Precise Ingredient,NA,1992674,2018-02-05,2099-12-31,NA,PR00,ertugliflozin pidolate,SGLT2
+793296,ertugliflozin 2.5 MG,Drug,RxNorm,Clinical Drug Comp,S,1992680,2018-02-05,2099-12-31,NA,PR00,ertugliflozin 2.5 MG,SGLT2
+793310,ertugliflozin 7.5 MG,Drug,RxNorm,Clinical Drug Comp,S,1992697,2018-02-05,2099-12-31,NA,PR00,ertugliflozin 7.5 MG,SGLT2
+793317,ertugliflozin 5 MG,Drug,RxNorm,Clinical Drug Comp,S,1992806,2018-02-05,2099-12-31,NA,PR00,ertugliflozin 5 MG,SGLT2
+793318,ertugliflozin Oral Product,Drug,RxNorm,Clinical Dose Group,C,1992807,2018-02-05,2099-12-31,NA,PR00,ertugliflozin Oral Product,SGLT2
+793319,ertugliflozin Pill,Drug,RxNorm,Clinical Dose Group,C,1992808,2018-02-05,2099-12-31,NA,PR00,ertugliflozin Pill,SGLT2
+793320,ertugliflozin Oral Tablet,Drug,RxNorm,Clinical Drug Form,S,1992809,2018-02-05,2099-12-31,NA,PR00,ertugliflozin Oral Tablet,SGLT2
+793321,ertugliflozin 5 MG Oral Tablet,Drug,RxNorm,Clinical Drug,S,1992810,2018-02-05,2099-12-31,NA,PR00,ertugliflozin 5 MG Oral Tablet,SGLT2
+793322,Steglatro,Drug,RxNorm,Brand Name,NA,1992811,2018-02-05,2099-12-31,NA,PR00,Steglatro,SGLT2
+793323,ertugliflozin 5 MG [Steglatro],Drug,RxNorm,Branded Drug Comp,S,1992812,2018-02-05,2099-12-31,NA,PR00,ertugliflozin 5 MG [Steglatro],SGLT2
+44546978,ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY 23% TOPICAL GEL [ESSAIM LADIES STICK A/P - UNSCENTED],Drug,DPD,Branded Drug,NA,1992813,1992-12-31,2017-06-24,D,PR00,ertugliflozin Oral Tablet [Steglatro],SGLT2
+793324,ertugliflozin Oral Tablet [Steglatro],Drug,RxNorm,Branded Drug Form,S,1992813,2018-02-05,2099-12-31,NA,PR00,ertugliflozin Oral Tablet [Steglatro],SGLT2
+793325,Steglatro Oral Product,Drug,RxNorm,Branded Dose Group,C,1992814,2018-02-05,2099-12-31,NA,PR00,Steglatro Oral Product,SGLT2
+793326,Steglatro Pill,Drug,RxNorm,Branded Dose Group,C,1992815,2018-02-05,2099-12-31,NA,PR00,Steglatro Pill,SGLT2
+793327,ertugliflozin 5 MG Oral Tablet [Steglatro],Drug,RxNorm,Branded Drug,S,1992816,2018-02-05,2099-12-31,NA,PR00,ertugliflozin 5 MG Oral Tablet [Steglatro],SGLT2
+793328,ertugliflozin 15 MG,Drug,RxNorm,Clinical Drug Comp,S,1992818,2018-02-05,2099-12-31,NA,PR00,ertugliflozin 15 MG,SGLT2
+793329,ertugliflozin 15 MG Oral Tablet,Drug,RxNorm,Clinical Drug,S,1992819,2018-02-05,2099-12-31,NA,PR00,ertugliflozin 15 MG Oral Tablet,SGLT2
+793330,ertugliflozin 15 MG [Steglatro],Drug,RxNorm,Branded Drug Comp,S,1992820,2018-02-05,2099-12-31,NA,PR00,ertugliflozin 15 MG [Steglatro],SGLT2
+793331,ertugliflozin 15 MG Oral Tablet [Steglatro],Drug,RxNorm,Branded Drug,S,1992821,2018-02-05,2099-12-31,NA,PR00,ertugliflozin 15 MG Oral Tablet [Steglatro],SGLT2
+45052107,canagliflozin 300 MG Oral Tablet [Invokana],Drug,NDC,11-digit NDC,NA,50458014130,2013-05-01,2099-12-31,NA,RX11,canagliflozin,SGLT2
+45325056,canagliflozin 300 MG Oral Tablet [Invokana],Drug,NDC,11-digit NDC,NA,50458014190,2013-05-01,2099-12-31,NA,RX11,canagliflozin,SGLT2
+45342021,canagliflozin 100 MG Oral Tablet [Invokana],Drug,NDC,11-digit NDC,NA,50458014030,2013-05-01,2099-12-31,NA,RX11,canagliflozin,SGLT2
+45256854,canagliflozin 100 MG Oral Tablet [Invokana],Drug,NDC,11-digit NDC,NA,50458014090,2013-05-01,2099-12-31,NA,RX11,canagliflozin,SGLT2
+45000815,canagliflozin 100 MG Oral Tablet [Invokana],Drug,NDC,11-digit NDC,NA,50458014001,2013-05-01,2099-12-31,NA,RX11,canagliflozin,SGLT2
+44974222,dapagliflozin 10 MG Oral Tablet [Farxiga],Drug,NDC,11-digit NDC,NA,00003142811,2014-02-01,2017-12-01,D,RX11,dapagliflozin propanediol,SGLT2
+44441879,dapagliflozin 5 MG Oral Tablet [Farxiga],Drug,NDC,11-digit NDC,NA,00310620595,2016-04-01,2099-12-31,NA,RX11,dapagliflozin propanediol,SGLT2
+44872088,dapagliflozin 5 MG Oral Tablet [Farxiga],Drug,NDC,11-digit NDC,NA,00003142711,2014-02-01,2018-02-01,D,RX11,dapagliflozin propanediol,SGLT2
+45902823,dapagliflozin 10 MG Oral Tablet [Farxiga],Drug,NDC,11-digit NDC,NA,00310621030,2015-02-01,2099-12-31,NA,RX11,dapagliflozin propanediol,SGLT2
+45903812,dapagliflozin 5 MG Oral Tablet [Farxiga],Drug,NDC,11-digit NDC,NA,00310620530,2015-02-01,2099-12-31,NA,RX11,dapagliflozin propanediol,SGLT2
+35526797,empagliflozin 25 MG Oral Tablet [Jardiance],Drug,NDC,11-digit NDC,NA,71610017709,2018-12-01,2099-12-31,NA,RX11,empagliflozin,SGLT2
+45867337,empagliflozin 10 MG Oral Tablet [Jardiance],Drug,NDC,11-digit NDC,NA,00597015290,2014-09-01,2099-12-31,NA,RX11,empagliflozin,SGLT2
+45873715,empagliflozin 25 MG Oral Tablet [Jardiance],Drug,NDC,11-digit NDC,NA,00597015307,2014-09-01,2099-12-31,NA,RX11,empagliflozin,SGLT2
+45865271,empagliflozin 25 MG Oral Tablet [Jardiance],Drug,NDC,11-digit NDC,NA,00597015330,2014-09-01,2099-12-31,NA,RX11,empagliflozin,SGLT2
+45873714,empagliflozin 10 MG Oral Tablet [Jardiance],Drug,NDC,11-digit NDC,NA,00597015230,2014-09-01,2099-12-31,NA,RX11,empagliflozin,SGLT2
+45865270,empagliflozin 25 MG Oral Tablet [Jardiance],Drug,NDC,11-digit NDC,NA,00597015337,2014-09-01,2099-12-31,NA,RX11,empagliflozin,SGLT2
+45867338,empagliflozin 25 MG Oral Tablet [Jardiance],Drug,NDC,11-digit NDC,NA,00597015390,2014-09-01,2099-12-31,NA,RX11,empagliflozin,SGLT2
+45746828,empagliflozin 25 MG Oral Tablet [Jardiance],Drug,NDC,11-digit NDC,NA,71610017715,2019-11-01,2099-12-31,NA,RX11,empagliflozin,SGLT2
+1105294,empagliflozin 25 MG Oral Tablet [Jardiance],Drug,NDC,11-digit NDC,NA,71610017730,2019-09-01,2099-12-31,NA,RX11,empagliflozin,SGLT2
+1185320,empagliflozin 25 MG Oral Tablet [Jardiance],Drug,NDC,11-digit NDC,NA,71610017745,2020-01-01,2099-12-31,NA,RX11,empagliflozin,SGLT2
+45871609,empagliflozin 10 MG Oral Tablet [Jardiance],Drug,NDC,11-digit NDC,NA,00597015207,2014-09-01,2099-12-31,NA,RX11,empagliflozin,SGLT2
+45861081,empagliflozin 10 MG Oral Tablet [Jardiance],Drug,NDC,11-digit NDC,NA,00597015237,2014-09-01,2099-12-31,NA,RX11,empagliflozin,SGLT2
+42822463,ertugliflozin 15 MG Oral Tablet [Steglatro],Drug,NDC,11-digit NDC,NA,00006536403,2018-01-01,2099-12-31,NA,RX11,ertugliflozin pidolate,SGLT2
+42822464,ertugliflozin 15 MG Oral Tablet [Steglatro],Drug,NDC,11-digit NDC,NA,00006536406,2018-01-01,2099-12-31,NA,RX11,ertugliflozin pidolate,SGLT2
+42822459,ertugliflozin 5 MG Oral Tablet [Steglatro],Drug,NDC,11-digit NDC,NA,00006536307,2018-01-01,2099-12-31,NA,RX11,ertugliflozin pidolate,SGLT2
+42822465,ertugliflozin 15 MG Oral Tablet [Steglatro],Drug,NDC,11-digit NDC,NA,00006536407,2018-01-01,2099-12-31,NA,RX11,ertugliflozin pidolate,SGLT2
+42822457,ertugliflozin 5 MG Oral Tablet [Steglatro],Drug,NDC,11-digit NDC,NA,00006536303,2018-01-01,2099-12-31,NA,RX11,ertugliflozin pidolate,SGLT2
+42822458,ertugliflozin 5 MG Oral Tablet [Steglatro],Drug,NDC,11-digit NDC,NA,00006536306,2018-01-01,2099-12-31,NA,RX11,ertugliflozin pidolate,SGLT2

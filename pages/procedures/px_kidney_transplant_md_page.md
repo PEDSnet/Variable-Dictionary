@@ -1,7 +1,7 @@
 |Field            |Value                               |
 |:----------------|:-----------------------------------|
 |Codeset Name     |Kidney transplant procedures        |
-|Codeset Link     |[px_kidney_transplant](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedure/px_kidney_transplant.csv)|
+|Codeset Link     |[px_kidney_transplant](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_kidney_transplant.csv)|
 |CDM              |PEDSnet,PCORnet                     |
 |Clinical Concept |Kidney transplant procedure codes   |
 |Vocab            |CPT4,HCPCS,ICD9Proc,ICD10PCS,SNOMED |

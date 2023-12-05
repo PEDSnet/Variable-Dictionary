@@ -1,7 +1,7 @@
 |Field            |Value                         |
 |:----------------|:-----------------------------|
 |Codeset Name     |Guillain Barre Syndrome (GBS) |
-|Codeset Link     |[dx_guillain_barre](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_guillain_barre.csv)|
+|Codeset Link     |[dx_guillain_barre](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_guillain_barre.csv)|
 |CDM              |NA                            |
 |Clinical Concept |RECOVER                       |
 |Vocab            |NA                            |

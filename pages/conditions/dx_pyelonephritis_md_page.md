@@ -1,7 +1,7 @@
 |Field            |Value                                                                                   |
 |:----------------|:---------------------------------------------------------------------------------------|
 |Codeset Name     |Pyelonephritis                                                                          |
-|Codeset Link     |[dx_pyelonephritis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_pyelonephritis.csv)|
+|Codeset Link     |[dx_pyelonephritis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_pyelonephritis.csv)|
 |CDM              |NA                                                                                      |
 |Clinical Concept |Diagnoses for pyelonephritis                                                            |
 |Vocab            |ICD9CM,ICD10,ICD10CM,SNOMED                                                             |

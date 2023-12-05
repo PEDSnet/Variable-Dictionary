@@ -1,7 +1,7 @@
 |Field            |Value          |
 |:----------------|:--------------|
 |Codeset Name     |AHRQ Clusters  |
-|Codeset Link     |[dx_ccsr_labels](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_ccsr_labels.csv)|
+|Codeset Link     |[dx_ccsr_labels](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_ccsr_labels.csv)|
 |CDM              |NA             |
 |Clinical Concept |RECOVER        |
 |Vocab            |NA             |

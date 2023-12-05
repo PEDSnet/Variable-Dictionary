@@ -1,7 +1,7 @@
 |Field            |Value        |
 |:----------------|:------------|
 |Codeset Name     |Pneumonia    |
-|Codeset Link     |[dx_pneumonia](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_pneumonia.csv)|
+|Codeset Link     |[dx_pneumonia](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_pneumonia.csv)|
 |CDM              |NA           |
 |Clinical Concept |RECOVER      |
 |Vocab            |NA           |

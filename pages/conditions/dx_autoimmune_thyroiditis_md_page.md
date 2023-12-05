@@ -1,7 +1,7 @@
 |Field            |Value                     |
 |:----------------|:-------------------------|
 |Codeset Name     |Autoimmune thyroiditis    |
-|Codeset Link     |[dx_autoimmune_thyroiditis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_autoimmune_thyroiditis.csv)|
+|Codeset Link     |[dx_autoimmune_thyroiditis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_autoimmune_thyroiditis.csv)|
 |CDM              |NA                        |
 |Clinical Concept |RECOVER                   |
 |Vocab            |NA                        |

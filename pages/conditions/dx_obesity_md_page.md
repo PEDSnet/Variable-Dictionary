@@ -1,7 +1,7 @@
 |Field            |Value      |
 |:----------------|:----------|
 |Codeset Name     |Obesity    |
-|Codeset Link     |[dx_obesity](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_obesity.csv)|
+|Codeset Link     |[dx_obesity](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_obesity.csv)|
 |CDM              |NA         |
 |Clinical Concept |NA         |
 |Vocab            |NA         |

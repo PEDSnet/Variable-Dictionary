@@ -1,7 +1,7 @@
 |Field            |Value      |
 |:----------------|:----------|
 |Codeset Name     |Cardiology |
-|Codeset Link     |[cardiology](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visit/cardiology.csv)|
+|Codeset Link     |[cardiology](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visits/cardiology.csv)|
 |CDM              |NA         |
 |Clinical Concept |NA         |
 |Vocab            |NA         |

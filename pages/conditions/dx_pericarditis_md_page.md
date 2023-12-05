@@ -1,7 +1,7 @@
 |Field            |Value                                                                                   |
 |:----------------|:---------------------------------------------------------------------------------------|
 |Codeset Name     |Pericarditis                                                                            |
-|Codeset Link     |[dx_pericarditis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_pericarditis.csv)|
+|Codeset Link     |[dx_pericarditis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_pericarditis.csv)|
 |CDM              |NA                                                                                      |
 |Clinical Concept |Pericarditis diagnosis codes                                                            |
 |Vocab            |ICD9CM,ICD10,ICD10CM,SNOMED                                                             |

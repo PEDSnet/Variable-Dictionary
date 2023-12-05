@@ -1,7 +1,7 @@
 |Field            |Value                                                                                   |
 |:----------------|:---------------------------------------------------------------------------------------|
 |Codeset Name     |Kidney dialysis                                                                         |
-|Codeset Link     |[dx_kidney_dialysis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_kidney_dialysis.csv)|
+|Codeset Link     |[dx_kidney_dialysis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_kidney_dialysis.csv)|
 |CDM              |NA                                                                                      |
 |Clinical Concept |Kidney dialysis diagnosis codes                                                         |
 |Vocab            |ICD9CM,ICD10,ICD10CM,SNOMED                                                             |

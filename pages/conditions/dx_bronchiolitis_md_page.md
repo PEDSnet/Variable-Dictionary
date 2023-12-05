@@ -1,7 +1,7 @@
 |Field            |Value            |
 |:----------------|:----------------|
 |Codeset Name     |Bronchiolitis    |
-|Codeset Link     |[dx_bronchiolitis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_bronchiolitis.csv)|
+|Codeset Link     |[dx_bronchiolitis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_bronchiolitis.csv)|
 |CDM              |NA               |
 |Clinical Concept |RECOVER          |
 |Vocab            |NA               |

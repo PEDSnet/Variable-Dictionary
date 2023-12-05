@@ -1,7 +1,7 @@
 |Field            |Value                                  |
 |:----------------|:--------------------------------------|
 |Codeset Name     |Opthalmology                           |
-|Codeset Link     |[ophthalmology](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visit/ophthalmology.csv)|
+|Codeset Link     |[ophthalmology](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visits/ophthalmology.csv)|
 |CDM              |PEDSnet                                |
 |Clinical Concept |ophthalmology providers and care sites |
 |Vocab            |Medicare Specialty,NUCC,Other          |

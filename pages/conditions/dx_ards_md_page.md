@@ -1,7 +1,7 @@
 |Field            |Value      |
 |:----------------|:----------|
 |Codeset Name     |ARDS       |
-|Codeset Link     |[dx_ards](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_ards.csv)|
+|Codeset Link     |[dx_ards](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_ards.csv)|
 |CDM              |NA         |
 |Clinical Concept |RECOVER    |
 |Vocab            |NA         |

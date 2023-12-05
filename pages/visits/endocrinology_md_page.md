@@ -1,7 +1,7 @@
 |Field            |Value                                    |
 |:----------------|:----------------------------------------|
 |Codeset Name     |Endocrinology (providers and care sites) |
-|Codeset Link     |[endocrinology](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visit/endocrinology.csv)|
+|Codeset Link     |[endocrinology](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visits/endocrinology.csv)|
 |CDM              |PEDSnet                                  |
 |Clinical Concept |endocrinology providers and care sites   |
 |Vocab            |ABMS,Medicare Specialty,NUCC,Other       |

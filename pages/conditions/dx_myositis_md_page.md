@@ -1,7 +1,7 @@
 |Field            |Value       |
 |:----------------|:-----------|
 |Codeset Name     |Myositis    |
-|Codeset Link     |[dx_myositis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_myositis.csv)|
+|Codeset Link     |[dx_myositis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_myositis.csv)|
 |CDM              |NA          |
 |Clinical Concept |NA          |
 |Vocab            |NA          |

@@ -1,7 +1,7 @@
 |Field            |Value                 |
 |:----------------|:---------------------|
 |Codeset Name     |Body Habitus          |
-|Codeset Link     |[hypermobility_codeset](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/hypermobility_codeset.csv)|
+|Codeset Link     |[hypermobility_codeset](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/hypermobility_codeset.csv)|
 |CDM              |NA                    |
 |Clinical Concept |NA                    |
 |Vocab            |NA                    |

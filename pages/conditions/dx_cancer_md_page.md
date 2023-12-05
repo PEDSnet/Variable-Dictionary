@@ -1,7 +1,7 @@
 |Field            |Value                                                                                   |
 |:----------------|:---------------------------------------------------------------------------------------|
 |Codeset Name     |Cancer                                                                                  |
-|Codeset Link     |[dx_cancer](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_cancer.csv)|
+|Codeset Link     |[dx_cancer](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_cancer.csv)|
 |CDM              |NA                                                                                      |
 |Clinical Concept |Diagnoses for cancer (malignancy)                                                       |
 |Vocab            |ICD9CM,ICD10,ICD10CM,SNOMED                                                             |

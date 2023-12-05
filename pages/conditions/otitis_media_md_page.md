@@ -1,7 +1,7 @@
 |Field            |Value        |
 |:----------------|:------------|
 |Codeset Name     |Otitis media |
-|Codeset Link     |[otitis_media](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/otitis_media.csv)|
+|Codeset Link     |[otitis_media](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/otitis_media.csv)|
 |CDM              |NA           |
 |Clinical Concept |NA           |
 |Vocab            |NA           |

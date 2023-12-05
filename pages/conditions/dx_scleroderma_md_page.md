@@ -1,7 +1,7 @@
 |Field            |Value          |
 |:----------------|:--------------|
 |Codeset Name     |Scleroderma    |
-|Codeset Link     |[dx_scleroderma](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_scleroderma.csv)|
+|Codeset Link     |[dx_scleroderma](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_scleroderma.csv)|
 |CDM              |NA             |
 |Clinical Concept |RECOVER        |
 |Vocab            |NA             |

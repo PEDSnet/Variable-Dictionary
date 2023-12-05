@@ -1,7 +1,7 @@
 |Field            |Value                                                                                   |
 |:----------------|:---------------------------------------------------------------------------------------|
 |Codeset Name     |Hypotension                                                                             |
-|Codeset Link     |[dx_hypotension](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_hypotension.csv)|
+|Codeset Link     |[dx_hypotension](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_hypotension.csv)|
 |CDM              |NA                                                                                      |
 |Clinical Concept |Diagnoses for hypotension                                                               |
 |Vocab            |ICD9CM,ICD10,ICD10CM,SNOMED                                                             |

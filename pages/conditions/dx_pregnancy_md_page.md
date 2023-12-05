@@ -1,7 +1,7 @@
 |Field            |Value                                                                                   |
 |:----------------|:---------------------------------------------------------------------------------------|
 |Codeset Name     |Pregnancy                                                                               |
-|Codeset Link     |[dx_pregnancy](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_pregnancy.csv)|
+|Codeset Link     |[dx_pregnancy](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_pregnancy.csv)|
 |CDM              |NA                                                                                      |
 |Clinical Concept |Diagnoses for pregnancy                                                                 |
 |Vocab            |ICD9CM,ICD10,ICD10CM,SNOMED                                                             |

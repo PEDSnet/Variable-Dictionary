@@ -1,7 +1,7 @@
 |Field            |Value                                                                                                                    |
 |:----------------|:------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name     |NA                                                                                                                       |
-|Codeset Link     |[NA](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedure/NA.csv)                                          |
+|Codeset Link     |[NA](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/NA.csv)                                         |
 |CDM              |NA                                                                                                                       |
 |Clinical Concept |Kidney transplant procedure codes                                                                                        |
 |Vocab            |CPT4,HCPCS,ICD9Proc,ICD10PCS,SNOMED                                                                                      |

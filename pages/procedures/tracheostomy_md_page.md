@@ -1,7 +1,7 @@
 |Field            |Value        |
 |:----------------|:------------|
 |Codeset Name     |Tracheostomy |
-|Codeset Link     |[tracheostomy](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedure/tracheostomy.csv)|
+|Codeset Link     |[tracheostomy](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/tracheostomy.csv)|
 |CDM              |NA           |
 |Clinical Concept |NA           |
 |Vocab            |NA           |

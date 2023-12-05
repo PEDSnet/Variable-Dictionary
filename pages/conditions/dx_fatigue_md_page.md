@@ -1,7 +1,7 @@
 |Field            |Value                                                                                   |
 |:----------------|:---------------------------------------------------------------------------------------|
 |Codeset Name     |Fatigue                                                                                 |
-|Codeset Link     |[dx_fatigue](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_fatigue.csv)|
+|Codeset Link     |[dx_fatigue](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_fatigue.csv)|
 |CDM              |NA                                                                                      |
 |Clinical Concept |Diagnoses for fatigue                                                                   |
 |Vocab            |ICD9CM,ICD10,ICD10CM,SNOMED                                                             |

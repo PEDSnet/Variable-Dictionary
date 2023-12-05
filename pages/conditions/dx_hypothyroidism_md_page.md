@@ -1,7 +1,7 @@
 |Field            |Value             |
 |:----------------|:-----------------|
 |Codeset Name     |Hypothyroidism    |
-|Codeset Link     |[dx_hypothyroidism](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_hypothyroidism.csv)|
+|Codeset Link     |[dx_hypothyroidism](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_hypothyroidism.csv)|
 |CDM              |NA                |
 |Clinical Concept |NA                |
 |Vocab            |NA                |

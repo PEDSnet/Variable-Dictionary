@@ -1,7 +1,7 @@
 |Field            |Value      |
 |:----------------|:----------|
 |Codeset Name     |Sepsis     |
-|Codeset Link     |[dx_sepsis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_sepsis.csv)|
+|Codeset Link     |[dx_sepsis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_sepsis.csv)|
 |CDM              |PEDSnet    |
 |Clinical Concept |NA         |
 |Vocab            |SNOMED     |

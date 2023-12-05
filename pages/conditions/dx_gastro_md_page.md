@@ -1,7 +1,7 @@
 |Field            |Value           |
 |:----------------|:---------------|
 |Codeset Name     |Gastroenteritis |
-|Codeset Link     |[dx_gastro](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_gastro.csv)|
+|Codeset Link     |[dx_gastro](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_gastro.csv)|
 |CDM              |NA              |
 |Clinical Concept |RECOVER         |
 |Vocab            |NA              |

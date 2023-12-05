@@ -1,7 +1,7 @@
 |Field            |Value                                                                                   |
 |:----------------|:---------------------------------------------------------------------------------------|
 |Codeset Name     |Respiratory infections                                                                  |
-|Codeset Link     |[dx_respiratory_infections](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_respiratory_infections.csv)|
+|Codeset Link     |[dx_respiratory_infections](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_respiratory_infections.csv)|
 |CDM              |NA                                                                                      |
 |Clinical Concept |Diagnoses for respiratory_infections                                                    |
 |Vocab            |ICD9CM,ICD10,ICD10CM,SNOMED                                                             |

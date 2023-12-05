@@ -1,7 +1,7 @@
 |Field            |Value          |
 |:----------------|:--------------|
 |Codeset Name     |Sore Throat    |
-|Codeset Link     |[dx_sore_throat](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_sore_throat.csv)|
+|Codeset Link     |[dx_sore_throat](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_sore_throat.csv)|
 |CDM              |NA             |
 |Clinical Concept |RECOVER        |
 |Vocab            |NA             |

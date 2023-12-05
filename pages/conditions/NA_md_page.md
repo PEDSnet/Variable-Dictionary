@@ -1,7 +1,7 @@
 |Field            |Value                                                                                   |
 |:----------------|:---------------------------------------------------------------------------------------|
 |Codeset Name     |NA                                                                                      |
-|Codeset Link     |[NA](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/NA.csv)         |
+|Codeset Link     |[NA](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/NA.csv)        |
 |CDM              |NA                                                                                      |
 |Clinical Concept |Diagnoses for urinary tract infection (uti)                                             |
 |Vocab            |ICD9CM,ICD10,ICD10CM,SNOMED                                                             |

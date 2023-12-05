@@ -1,7 +1,7 @@
 |Field            |Value                                                                                   |
 |:----------------|:---------------------------------------------------------------------------------------|
 |Codeset Name     |Tonsilitis                                                                              |
-|Codeset Link     |[dx_tonsillitis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_tonsillitis.csv)|
+|Codeset Link     |[dx_tonsillitis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_tonsillitis.csv)|
 |CDM              |NA                                                                                      |
 |Clinical Concept |Diagnoses for tonsillitis                                                               |
 |Vocab            |ICD9CM,ICD10,ICD10CM,SNOMED                                                             |

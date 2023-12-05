@@ -1,7 +1,7 @@
 |Field            |Value                                                                                   |
 |:----------------|:---------------------------------------------------------------------------------------|
 |Codeset Name     |Chronic Kidney Disease (All Stages)                                                     |
-|Codeset Link     |[dx_ckd_allstages](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_ckd_allstages.csv)|
+|Codeset Link     |[dx_ckd_allstages](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_ckd_allstages.csv)|
 |CDM              |NA                                                                                      |
 |Clinical Concept |Diagnoses for all chronic kidney disease stages                                         |
 |Vocab            |ICD9CM,ICD10,ICD10CM,SNOMED                                                             |

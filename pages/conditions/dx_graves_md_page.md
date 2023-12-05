@@ -1,7 +1,7 @@
 |Field            |Value           |
 |:----------------|:---------------|
 |Codeset Name     |Grave's disease |
-|Codeset Link     |[dx_graves](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_graves.csv)|
+|Codeset Link     |[dx_graves](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_graves.csv)|
 |CDM              |NA              |
 |Clinical Concept |RECOVER         |
 |Vocab            |NA              |

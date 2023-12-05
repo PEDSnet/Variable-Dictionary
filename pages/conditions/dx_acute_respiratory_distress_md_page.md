@@ -1,7 +1,7 @@
 |Field            |Value                               |
 |:----------------|:-----------------------------------|
 |Codeset Name     |Acute respiratory distress syndrome |
-|Codeset Link     |[dx_acute_respiratory_distress](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_acute_respiratory_distress.csv)|
+|Codeset Link     |[dx_acute_respiratory_distress](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_acute_respiratory_distress.csv)|
 |CDM              |NA                                  |
 |Clinical Concept |NA                                  |
 |Vocab            |NA                                  |

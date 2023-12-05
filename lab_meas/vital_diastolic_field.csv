@@ -1,0 +1,3 @@
+﻿TABLE_NAME,FIELD_NAME,RDBMS_DATA_TYPE,SAS_DATA_TYPE,DATA_FORMAT,REPLICATED_FIELD,UNIT_OF_MEASURE,VALUESET,FIELD_DEFINITION
+VITAL,DIASTOLIC,RDBMS Number(x),SAS Numeric(length 8),"RDBMS number supports 15 total digits, 8 after decimal; SAS numeric length 8",NO,,NO,"Diastolic blood pressure (in mmHg). Only populated if measure was taken on this date. If missing, this value should be null.  Number precision and scale updated in v3.1."
+VITAL,RAW_DIASTOLIC,RDBMS Text(x),SAS Char(x),,NO,,NO,"Optional field for originating value of field, prior to formatting into the PCORnet CDM."

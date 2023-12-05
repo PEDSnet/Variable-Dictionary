@@ -1,0 +1,327 @@
+concept_id,concept_name,concept_code,vocabulary_id,codeset_category_code,codeset_category_name,other_code_req,neph_req
+40374522,"[EDTA] Crescentric glomerulonephritis (type I,II,III) associated with renal failure",285279007,SNOMED,2,nephritic,0,0
+40374955,[EDTA] Cryoglobulineme glomerulonephritis associated with renal failure,285283007,SNOMED,2,nephritic,0,0
+40353849,"[EDTA] Dense deposit disease, membrano-proliferative glomerulonephritis, type II, (proven by immunofluorescence and/or electronic microscopy) associated with renal failure",274580007,SNOMED,2,nephritic,0,0
+40374521,[EDTA] Focal segmental glomeruloscerosis with nephrotic syndrome in adults with renal failure,285278004,SNOMED,1,nephrotic,0,0
+40353902,"[EDTA] Glomerulonephritis, histologically examined (otherwise specified) associated with renal failure",274628006,SNOMED,2,nephritic,0,0
+40353903,"[EDTA] Glomerulonephritis, histologically not examined associated with renal failure",274629003,SNOMED,2,nephritic,0,0
+40353847,"[EDTA] Membrano-proliferative glomerulonephritis,type I (proven immunofluorescence / electron microscopy-excluding lupus erythematosus+other specified multi-system disease) associated renal failure",274579009,SNOMED,2,nephritic,0,0
+40353442,[EDTA] Severe nephrotic syndrome with focal sclerosis (paediatric patients only) associated with renal failure,274552005,SNOMED,1,nephrotic,0,0
+40398682,"[X]Rapidly progressive nephritic syndrome, other",198497002,SNOMED,2,nephritic,0,0
+44800659,"[X]Rapidly progressive nephritic syndrome, other",478571000000104,SNOMED,2,nephritic,0,0
+40395124,"[X]Unspecified nephritic syndrome, dense deposit disease",197640008,SNOMED,2,nephritic,0,0
+40398688,"[X]Unspecified nephritic syndrome, dense deposit disease",198501007,SNOMED,2,nephritic,0,0
+44801353,"[X]Unspecified nephritic syndrome, dense deposit disease",462181000000102,SNOMED,2,nephritic,0,0
+40395123,"[X]Unspecified nephritic syndrome, diffuse concentric glomerulonephritis",197639006,SNOMED,2,nephritic,0,0
+40398689,"[X]Unspecified nephritic syndrome, diffuse concentric glomerulonephritis",198502000,SNOMED,2,nephritic,0,0
+44794720,"[X]Unspecified nephritic syndrome, diffuse concentric glomerulonephritis",396541000000106,SNOMED,2,nephritic,0,0
+40395126,"[X]Unspecified nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",197641007,SNOMED,2,nephritic,0,0
+40398685,"[X]Unspecified nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",198500008,SNOMED,2,nephritic,0,0
+44797717,"[X]Unspecified nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",438031000000105,SNOMED,2,nephritic,0,0
+40395127,"[X]Unspecified nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",197642000,SNOMED,2,nephritic,0,0
+40398684,"[X]Unspecified nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",198499004,SNOMED,2,nephritic,0,0
+44799971,"[X]Unspecified nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",450561000000105,SNOMED,2,nephritic,0,0
+40398683,"[X]Unspecified nephritic syndrome, minor glomerular abnormality",198498007,SNOMED,2,nephritic,0,0
+44793980,"[X]Unspecified nephritic syndrome, minor glomerular abnormality",390341000000104,SNOMED,2,nephritic,0,0
+4236844,Acute benign hemorrhagic glomerulonephritic syndrome,57965003,SNOMED,2,nephritic,0,0
+4027117,Acute diffuse nephritis,197585004,SNOMED,2,nephritic,0,1
+4027116,Acute exudative nephritis,197583006,SNOMED,2,nephritic,0,0
+4058837,Acute focal nephritis,197584000,SNOMED,2,nephritic,0,0
+435308,Acute glomerulonephritis,19351000,SNOMED,2,nephritic,0,1
+40346985,Acute glomerulonephritis,266613008,SNOMED,2,nephritic,0,1
+40394703,Acute glomerulonephritis,197578003,SNOMED,2,nephritic,0,1
+435320,Acute glomerulonephritis associated with another disorder,197582001,SNOMED,2,nephritic,0,0
+4056345,Acute glomerulonephritis NOS,197588002,SNOMED,2,nephritic,0,0
+40395168,Acute nephritic syndrome,197680004,SNOMED,2,nephritic,0,0
+40440347,Acute nephritic syndrome,236386005,SNOMED,2,nephritic,0,0
+37016359,Acute nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,368871000119106,SNOMED,2,nephritic,0,0
+4058986,"Acute nephritic syndrome, dense deposit disease",197687001,SNOMED,2,nephritic,0,0
+4054915,"Acute nephritic syndrome, diffuse crescentic glomerulonephritis",197688006,SNOMED,2,nephritic,0,0
+4056473,"Acute nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",197685009,SNOMED,2,nephritic,0,0
+4056472,"Acute nephritic syndrome, diffuse membranous glomerulonephritis",197683002,SNOMED,3,broad,0,0
+4059455,"Acute nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",197684008,SNOMED,2,nephritic,0,0
+4059456,"Acute nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",197686005,SNOMED,2,nephritic,0,0
+4058985,"Acute nephritic syndrome, focal and segmental glomerular lesions",197682007,SNOMED,3,broad,0,0
+4059454,"Acute nephritic syndrome, minor glomerular abnormality",197681000,SNOMED,2,nephritic,0,0
+4189531,Acute nephritis,61503006,SNOMED,2,nephritic,1,1
+762464,Acute nephritis due to another disorder,40371000119105,SNOMED,2,nephritic,0,0
+435003,Acute nephritis with lesions of necrotizing glomerulitis,197580009,SNOMED,2,nephritic,0,0
+37208344,Acute nephrotic syndrome,1081801000112100,SNOMED,1,nephrotic,0,0
+4286024,Acute post-streptococcal glomerulonephritis,68544003,SNOMED,2,nephritic,0,0
+259070,Acute proliferative glomerulonephritis,197579006,SNOMED,2,nephritic,0,1
+36674698,Alport syndrome,770414008,SNOMED,2,nephritic,0,0
+36713440,Alport syndrome autosomal dominant,717766000,SNOMED,2,nephritic,0,0
+36713441,Alport syndrome autosomal recessive,717767009,SNOMED,2,nephritic,0,0
+36713442,Alport syndrome X-linked,717768004,SNOMED,2,nephritic,0,0
+4128065,Alport syndrome-like hereditary nephritis,236420000,SNOMED,2,nephritic,0,0
+36715351,"Alport syndrome, intellectual disability, midface hypoplasia, elliptocytosis syndrome",720982007,SNOMED,2,nephritic,0,0
+4059447,Anaphylactoid glomerulonephritis,197629000,SNOMED,2,nephritic,0,0
+37312293,Anti-glomerular basement membrane disease,788613004,SNOMED,2,nephritic,0,0
+40481596,Autosomal dominant focal segmental glomerulosclerosis,444977005,SNOMED,1,nephrotic,0,0
+36717210,Autosomal dominant intermediate Charcot-Marie-Tooth disease type E,722294004,SNOMED,1,nephrotic,0,0
+40483353,Autosomal recessive focal segmental glomerulosclerosis,445388002,SNOMED,1,nephrotic,0,0
+4030514,C1q nephropathy,236412002,SNOMED,1,nephrotic,0,0
+37395432,C3 (complement component 3) glomerulonephritis,1047001000000100,SNOMED,2,nephritic,0,0
+45771482,Childhood nephrotic syndrome,705065000,SNOMED,1,nephrotic,0,0
+44803617,Childhood nephrotic syndrome,729911000000103,SNOMED,1,nephrotic,0,0
+4027125,Chronic diffuse glomerulonephritis,197619007,SNOMED,2,nephritic,0,0
+4056463,Chronic exudative glomerulonephritis,197617009,SNOMED,2,nephritic,0,0
+4027124,Chronic focal glomerulonephritis,197618004,SNOMED,2,nephritic,0,0
+312358,Chronic glomerulonephritis,20917003,SNOMED,2,nephritic,0,0
+40346986,Chronic glomerulonephritis,266614002,SNOMED,2,nephritic,0,0
+442075,Chronic glomerulonephritis associated with another disorder,197616000,SNOMED,2,nephritic,0,0
+4059445,Chronic glomerulonephritis NOS,197621002,SNOMED,2,nephritic,0,0
+4056462,Chronic mesangial proliferative glomerulonephritis,197613008,SNOMED,2,nephritic,0,0
+40395559,Chronic mesangial proliferative glomerulonephritis,197711001,SNOMED,2,nephritic,0,0
+4056478,Chronic nephritic syndrome,197707007,SNOMED,2,nephritic,0,0
+37016361,Chronic nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,368901000119106,SNOMED,2,nephritic,0,0
+46270347,Chronic nephritic syndrome with membranous glomerulonephritis,28191000119109,SNOMED,3,broad,0,0
+4055899,"Chronic nephritic syndrome, dense deposit disease",197714009,SNOMED,2,nephritic,0,0
+4056480,"Chronic nephritic syndrome, diffuse crescentic glomerulonephritis",197715005,SNOMED,2,nephritic,0,0
+4059463,"Chronic nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",197712008,SNOMED,2,nephritic,0,0
+4059584,"Chronic nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",197713003,SNOMED,2,nephritic,0,0
+4056479,"Chronic nephritic syndrome, focal and segmental glomerular lesions",197709005,SNOMED,3,broad,0,0
+4054993,"Chronic nephritic syndrome, minor glomerular abnormality",197708002,SNOMED,2,nephritic,0,0
+45770906,Chronic proliferative glomerulonephritis,195791000119101,SNOMED,2,nephritic,0,0
+442076,Chronic rapidly progressive glomerulonephritis,197614002,SNOMED,2,nephritic,0,0
+4128059,Classical focal segmental glomerulosclerosis,236404005,SNOMED,1,nephrotic,0,0
+45769466,Collagenofibrotic glomerulopathy,708127008,SNOMED,3,broad,0,0
+36716651,Complement component 3 glomerulonephritis,722761003,SNOMED,2,nephritic,0,0
+36716649,Complement component 3 glomerulopathy,722758004,SNOMED,2,nephritic,0,0
+37111021,Congenital membranous nephropathy due to maternal anti-neutral endopeptidase alloimmunization,725592009,SNOMED,1,nephrotic,0,0
+4172011,Congenital nephrotic syndrome,48796009,SNOMED,1,nephrotic,0,0
+36717532,Congenital nephrotic syndrome due to congenital infection,722118005,SNOMED,1,nephrotic,0,0
+36717553,Congenital nephrotic syndrome due to diffuse mesangial sclerosis,722369003,SNOMED,1,nephrotic,0,0
+4058845,Congenital nephrotic syndrome NOS,197602005,SNOMED,1,nephrotic,0,0
+4030510,Congenital nephrotic syndrome with focal glomerulosclerosis,236384008,SNOMED,1,nephrotic,0,0
+37116655,"Congenital nephrotic syndrome, interstitial lung disease, epidermolysis bullosa syndrome",733453005,SNOMED,1,nephrotic,0,0
+4030665,Cryoglobulinemic glomerulonephritis,236505008,SNOMED,2,nephritic,0,0
+4128374,Cytomegalovirus-induced glomerulonephritis,236590008,SNOMED,2,nephritic,0,0
+4032422,De novo glomerulonephritis,236586006,SNOMED,2,nephritic,0,0
+36717583,Dense deposit disease,722760002,SNOMED,2,nephritic,0,0
+4272486,Diffuse crescentic glomerulonephritis,64212008,SNOMED,2,nephritic,0,0
+4284491,Diffuse endocapillary proliferative glomerulonephritis,3704008,SNOMED,2,nephritic,0,0
+4008560,Diffuse mesangial sclerosis,111406002,SNOMED,1,nephrotic,0,0
+4030675,Diffuse mesangial sclerosis with ocular abnormalities,236528009,SNOMED,1,nephrotic,0,0
+4125955,Drash syndrome,236385009,SNOMED,1,nephrotic,0,0
+36716200,Drug-induced membranous nephropathy,722120008,SNOMED,1,nephrotic,0,0
+36716430,Dyschondrosteosis and nephritis syndrome,722433005,SNOMED,3,broad,0,0
+4126300,Endocapillary glomerulonephritis,236393009,SNOMED,2,nephritic,0,0
+4121264,Epstein syndrome,234485006,SNOMED,2,nephritic,0,0
+45764421,Exudative nephritis,7011000119105,SNOMED,2,nephritic,0,1
+37397492,Familial idiopathic steroid-resistant nephrotic syndrome,718141008,SNOMED,1,nephrotic,0,0
+40483372,Familial immunoglobulin A nephropathy,445404003,SNOMED,2,nephritic,0,0
+4128056,Familial mesangial sclerosis,236383002,SNOMED,1,nephrotic,0,0
+37204730,Familial steroid-resistant nephrotic syndrome with sensorineural deafness,783614008,SNOMED,1,nephrotic,0,0
+4030517,Fechtner syndrome,236422008,SNOMED,2,nephritic,0,0
+4249737,Fibrillary glomerulonephritis,73305009,SNOMED,2,nephritic,0,0
+37311772,Fibronectin glomerulopathy,818952002,SNOMED,3,broad,0,0
+4058844,Finnish congenital nephrotic syndrome,197601003,SNOMED,1,nephrotic,0,0
+4222610,Focal AND segmental proliferative glomerulonephritis,83866005,SNOMED,3,broad,0,0
+4220051,Focal embolic nephritis syndrome,8199003,SNOMED,2,nephritic,0,0
+4093431,Focal glomerular sclerosis,25821008,SNOMED,1,nephrotic,0,0
+4027127,Focal glomerulonephritis with focal recurrent macroscopic glomerulonephritis,197628008,SNOMED,2,nephritic,0,0
+442074,Focal membranoproliferative glomerulonephritis,197626007,SNOMED,2,nephritic,0,0
+46273053,Focal mesangial proliferative glomerulonephritis,711531007,SNOMED,2,nephritic,0,0
+4030513,Focal segmental glomerulosclerosis,236403004,SNOMED,1,nephrotic,0,0
+36716214,Focal segmental glomerulosclerosis caused by lithium,722139003,SNOMED,1,nephrotic,0,0
+37017586,Focal segmental glomerulosclerosis co-occurrent with human immunodeficiency virus infection,713887002,SNOMED,1,nephrotic,0,0
+36716221,Focal segmental glomerulosclerosis due to sickle cell disease,722147003,SNOMED,1,nephrotic,0,0
+36715581,Galloway Mowat syndrome,721297008,SNOMED,1,nephrotic,0,0
+4059452,Glomerular disease,197679002,SNOMED,3,broad,1,0
+37016279,Glomerular disease due to systemic lupus erythematosus,308751000119106,SNOMED,2,nephritic,0,0
+36717238,Glomerular disorder due to non-neuropathic heredofamilial amyloidosis,722948009,SNOMED,3,broad,0,0
+4056017,Glomerular disorders in blood diseases and disorders involving the immune mechanism,197739000,SNOMED,3,broad,0,0
+37311327,Glomerular fibrosis,816069008,SNOMED,3,broad,1,0
+4331449,Glomerulitis,22702000,SNOMED,2,nephritic,0,0
+4263367,Glomerulonephritis,36171008,SNOMED,2,nephritic,0,0
+42539197,Glomerulonephritis co-occurrent and due to antineutrophil cytoplasmic antibody positive vasculitis,101711000119105,SNOMED,2,nephritic,0,0
+37397763,Glomerulonephritis co-occurrent and due to scleroderma,89681000119101,SNOMED,2,nephritic,0,0
+4143003,Glomerulonephritis due to granulomatosis with polyangiitis,427555000,SNOMED,2,nephritic,0,0
+37018634,Glomerulonephritis due to Henoch-Sch√∂nlein purpura,85381000119105,SNOMED,2,nephritic,0,0
+45757360,Glomerulonephritis due to hepatitis C,120241000119100,SNOMED,2,nephritic,0,0
+4128231,Glomerulopathy with fibronectin deposits 1,236535001,SNOMED,3,broad,0,0
+36716650,Glomerulopathy with fibronectin deposits 2,722759007,SNOMED,3,broad,0,0
+261071,Glomerulosclerosis,197661001,SNOMED,3,broad,1,0
+4126115,Goodpasture's disease,236506009,SNOMED,2,nephritic,0,0
+195289,Goodpasture's syndrome,50581000,SNOMED,2,nephritic,0,0
+4049284,Healed glomerulonephritis,123610002,SNOMED,2,nephritic,0,0
+4128223,Henoch-Sch√∂nlein nephritis,236504007,SNOMED,2,nephritic,0,0
+45757746,Hereditary diffuse crescentic glomerulonephritis,367521000119108,SNOMED,2,nephritic,0,0
+45772126,Hereditary diffuse endocapillary proliferative glomerulonephritis,367531000119106,SNOMED,2,nephritic,0,0
+45757747,Hereditary diffuse membranous glomerulonephritis,367541000119102,SNOMED,1,nephrotic,0,0
+45757748,Hereditary diffuse mesangial proliferative glomerulonephritis,367551000119100,SNOMED,2,nephritic,0,0
+45757749,Hereditary diffuse mesangiocapillary glomerulonephritis,367561000119103,SNOMED,2,nephritic,0,0
+45757750,Hereditary focal and segmental glomerular lesions,367571000119109,SNOMED,1,nephrotic,0,0
+45757745,"Hereditary mesangiocapillary glomerulonephritis, type 2",367511000119101,SNOMED,2,nephritic,0,0
+45757751,Hereditary minor glomerular abnormality,367581000119107,SNOMED,3,broad,0,0
+4161421,Hereditary nephritis,399340005,SNOMED,2,nephritic,0,0
+37016365,Hereditary nephropathy co-occurrent with membranoproliferative glomerulonephritis type III,368941000119108,SNOMED,2,nephritic,0,0
+4056484,"Hereditary nephropathy, not elsewhere classified, diffuse crescentic glomerulonephritis",197736007,SNOMED,2,nephritic,0,0
+4059588,"Hereditary nephropathy, not elsewhere classified, diffuse endocapillary proliferative glomerulonephritis",197733004,SNOMED,2,nephritic,0,0
+4059126,"Hereditary nephropathy, not elsewhere classified, diffuse membranous glomerulonephritis",197731002,SNOMED,1,nephrotic,0,0
+4059127,"Hereditary nephropathy, not elsewhere classified, diffuse mesangial proliferative glomerulonephritis",197732009,SNOMED,2,nephritic,0,0
+4059589,"Hereditary nephropathy, not elsewhere classified, diffuse mesangiocapillary glomerulonephritis",197734005,SNOMED,2,nephritic,0,0
+4126302,Hyperfiltration focal segmental glomerulosclerosis,236405006,SNOMED,1,nephrotic,0,0
+4125956,Hypocomplementaemic persistent glomerulonephritis NEC,236390007,SNOMED,2,nephritic,0,0
+37109615,"Hypotrichosis, lymphedema, telangiectasia, renal defect syndrome",723363009,SNOMED,2,nephritic,0,0
+4126301,Idiopathic crescentic glomerulonephritis,236398000,SNOMED,2,nephritic,0,0
+40489646,Idiopathic crescentic glomerulonephritis,45406000,SNOMED,2,nephritic,0,0
+4272470,"Idiopathic crescentic glomerulonephritis, type I",64168005,SNOMED,2,nephritic,0,0
+4234761,"Idiopathic crescentic glomerulonephritis, type II",359694003,SNOMED,2,nephritic,0,0
+40640572,"Idiopathic crescentic glomerulonephritis, type II",8756002,SNOMED,2,nephritic,0,0
+4210158,"Idiopathic crescentic glomerulonephritis, type III",55652009,SNOMED,2,nephritic,0,0
+4125957,Idiopathic endocapillary glomerulonephritis,236394003,SNOMED,2,nephritic,0,0
+36715483,Idiopathic glomerular disease,721175003,SNOMED,3,broad,0,0
+45772072,Idiopathic glomerulonephritis,106911000119102,SNOMED,2,nephritic,0,0
+36716199,Idiopathic membranous glomerulonephritis,722119002,SNOMED,1,nephrotic,0,0
+40482881,Idiopathic rapidly progressive glomerulonephritis,445258009,SNOMED,2,nephritic,0,0
+4128061,IgA nephropathy,236407003,SNOMED,2,nephritic,0,0
+4104770,IgA nephropathy associated with liver disease,282364005,SNOMED,2,nephritic,0,0
+4128063,IgM nephropathy,236411009,SNOMED,1,nephrotic,0,0
+4048675,Immune-complex glomerulonephritis,123752003,SNOMED,2,nephritic,0,0
+37111358,Immunotactoid glomerulonephritis,726082003,SNOMED,2,nephritic,0,0
+36716231,Infection-associated membranous nephropathy,722168002,SNOMED,1,nephrotic,0,0
+37016364,Isolated proteinuria co-occurrent and due to membranoproliferative glomerulonephritis type III,368931000119104,SNOMED,2,nephritic,0,0
+4056483,"Isolated proteinuria with specified morphological lesion, diffuse concentric glomerulonephritis",197725000,SNOMED,2,nephritic,0,0
+4056482,"Isolated proteinuria with specified morphological lesion, diffuse endocapillary proliferative glomerulonephritis",197722002,SNOMED,2,nephritic,0,0
+4059122,"Isolated proteinuria with specified morphological lesion, diffuse membranous glomerulonephritis",197720005,SNOMED,1,nephrotic,0,0
+4055901,"Isolated proteinuria with specified morphological lesion, diffuse mesangial proliferative glomerulonephritis",197721009,SNOMED,3,broad,0,0
+4059124,"Isolated proteinuria with specified morphological lesion, diffuse mesangiocapillary glomerulonephritis",197723007,SNOMED,2,nephritic,0,0
+36675121,LAMB2-related infantile-onset nephrotic syndrome,771447009,SNOMED,1,nephrotic,0,0
+37204491,Leigh syndrome with nephrotic syndrome,783157004,SNOMED,1,nephrotic,0,0
+40490326,Lipoprotein glomerulopathy,446923008,SNOMED,3,broad,0,0
+4030511,Lobular glomerulonephritis NEC,236389003,SNOMED,2,nephritic,0,0
+252365,Membranous glomerulonephritis,77182004,SNOMED,1,nephrotic,0,0
+40395557,Membranous glomerulonephritis,197710000,SNOMED,1,nephrotic,0,0
+4125966,Membranous glomerulonephritis - stage I,236413007,SNOMED,1,nephrotic,0,0
+4126303,Membranous glomerulonephritis - stage II,236414001,SNOMED,1,nephrotic,0,0
+4126304,Membranous glomerulonephritis - stage III,236415000,SNOMED,1,nephrotic,0,0
+4030515,Membranous glomerulonephritis - stage IV,236416004,SNOMED,1,nephrotic,0,0
+4030516,Membranous glomerulonephritis stage V,236417008,SNOMED,1,nephrotic,0,0
+4146996,Mesangial proliferative glomerulonephritis,35546006,SNOMED,2,nephritic,0,0
+433257,Mesangiocapillary glomerulonephritis,80321008,SNOMED,2,nephritic,0,0
+4125963,Mesangiocapillary glomerulonephritis NEC,236408008,SNOMED,2,nephritic,0,0
+4128062,Mesangiocapillary glomerulonephritis type III,236409000,SNOMED,2,nephritic,0,0
+4125964,Mesangiocapillary glomerulonephritis type IV,236410005,SNOMED,2,nephritic,0,0
+4294813,"Mesangiocapillary glomerulonephritis, type I",75888001,SNOMED,2,nephritic,0,0
+4241966,"Mesangiocapillary glomerulonephritis, type II",59479006,SNOMED,2,nephritic,0,0
+4126299,Mesangioproliferative glomerulonephritis NEC,236388006,SNOMED,2,nephritic,0,0
+40395117,Mesangioproliferative glomerulonephritis NEC,197633007,SNOMED,2,nephritic,0,0
+37118677,"Microcephalus, glomerulonephritis, marfanoid habitus syndrome",733472005,SNOMED,2,nephritic,0,0
+4260398,Minimal change disease,44785005,SNOMED,1,nephrotic,0,0
+4126298,Mixed membranous and proliferative glomerulonephritis NEC,236387001,SNOMED,2,nephritic,0,0
+37016335,Morphologic change of kidney due to chronic nephritic syndrome,367051000119105,SNOMED,2,nephritic,0,0
+36713436,Multi-drug resistant nephrotic syndrome,717760006,SNOMED,1,nephrotic,0,0
+4031981,Necrotizing glomerulonephritis,1426004,SNOMED,2,nephritic,0,0
+4298809,Nephritic syndrome,7724006,SNOMED,2,nephritic,0,0
+37016363,Nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,368921000119102,SNOMED,2,nephritic,0,0
+193253,Nephritis,52845002,SNOMED,2,nephritic,1,1
+4058972,Nephritis unspecified with lesion of membranoproliferative glomerulonephritis NOS,197634001,SNOMED,2,nephritic,0,0
+4141633,Nephritis unspecified with other specified lesion of membranoproliferative glomerulonephritis,266551000,SNOMED,2,nephritic,0,0
+4056344,"Nephritis, nephrosis and nephrotic syndrome",197577008,SNOMED,3,broad,0,0
+40317613,"Nephritis, nephrosis and nephrotic syndrome",155849003,SNOMED,3,broad,0,0
+4056019,"Nephritis, nephrosis and nephrotic syndrome NOS",197758009,SNOMED,3,broad,0,0
+46270384,Nephropathy co-occurrent and due to systemic lupus erythematosus,295101000119105,SNOMED,2,nephritic,0,0
+37399735,Nephrosis co-occurrent and due to systemic lupus erythematosus,295121000119101,SNOMED,2,nephritic,0,0
+195314,Nephrotic syndrome,52254009,SNOMED,1,nephrotic,0,0
+40317616,Nephrotic syndrome,155851004,SNOMED,1,nephrotic,0,0
+192364,Nephrotic syndrome associated with another disorder,197603000,SNOMED,1,nephrotic,0,0
+37016362,Nephrotic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,368911000119109,SNOMED,2,nephritic,0,0
+37395585,Nephrotic syndrome co-occurrent and due to systemic lupus erythematosus,295111000119108,SNOMED,2,nephritic,0,0
+37017424,Nephrotic syndrome co-occurrent with human immunodeficiency virus infection,713695001,SNOMED,1,nephrotic,0,0
+4058967,Nephrotic syndrome in amyloidosis,197604006,SNOMED,1,nephrotic,0,0
+4027123,Nephrotic syndrome in diseases EC NOS,197609001,SNOMED,1,nephrotic,0,0
+4056348,Nephrotic syndrome in polyarteritis nodosa,197607004,SNOMED,1,nephrotic,0,0
+40395089,Nephrotic syndrome in systemic lupus erythematosus,197608009,SNOMED,2,nephritic,0,0
+4058968,Nephrotic syndrome NOS,197611005,SNOMED,1,nephrotic,0,0
+4176957,Nephrotic syndrome secondary to glomerulonephritis,363233007,SNOMED,3,broad,0,0
+4181202,Nephrotic syndrome secondary to systemic disease,363234001,SNOMED,1,nephrotic,0,0
+192362,Nephrotic syndrome with membranoproliferative glomerulonephritis,197591002,SNOMED,2,nephritic,0,0
+194405,Nephrotic syndrome with membranous glomerulonephritis,197590001,SNOMED,1,nephrotic,0,0
+199071,Nephrotic syndrome with minimal change glomerulonephritis,266549004,SNOMED,1,nephrotic,0,0
+40394719,Nephrotic syndrome with minimal change glomerulonephritis,197592009,SNOMED,1,nephrotic,0,0
+4056461,Nephrotic syndrome with other pathological kidney lesions,197610006,SNOMED,1,nephrotic,0,0
+197319,Nephrotic syndrome with proliferative glomerulonephritis,197589005,SNOMED,2,nephritic,0,0
+36676681,"Nephrotic syndrome, deafness, pretibial epidermolysis bullosa syndrome",773647007,SNOMED,1,nephrotic,0,0
+4056347,"Nephrotic syndrome, dense deposit disease",197599000,SNOMED,2,nephritic,0,0
+4058843,"Nephrotic syndrome, diffuse crescentic glomerulonephritis",197600002,SNOMED,2,nephritic,0,0
+4027119,"Nephrotic syndrome, diffuse endocapillary proliferative glomerulonephritis",197597003,SNOMED,2,nephritic,0,0
+4058841,"Nephrotic syndrome, diffuse membranous glomerulonephritis",197595006,SNOMED,1,nephrotic,0,0
+4058842,"Nephrotic syndrome, diffuse mesangial proliferative glomerulonephritis",197596007,SNOMED,1,nephrotic,0,0
+4027120,"Nephrotic syndrome, diffuse mesangiocapillary glomerulonephritis",197598008,SNOMED,2,nephritic,0,0
+4058840,"Nephrotic syndrome, focal and segmental glomerular lesions",197594005,SNOMED,1,nephrotic,0,0
+4056346,"Nephrotic syndrome, minor glomerular abnormality",197593004,SNOMED,1,nephrotic,0,0
+4221663,Nephrotic-nephritic syndrome,40233000,SNOMED,3,broad,0,0
+37397533,Non-amyloid fibrillary glomerulonephritis,718192000,SNOMED,3,broad,0,0
+4163736,Non-progressive hereditary glomerulonephritis,399190000,SNOMED,2,nephritic,0,0
+4059443,Other acute glomerulonephritis,197581008,SNOMED,2,nephritic,0,0
+4058838,Other acute glomerulonephritis NOS,197586003,SNOMED,2,nephritic,0,0
+4058969,Other chronic glomerulonephritis,197615001,SNOMED,2,nephritic,0,0
+4058970,Other chronic glomerulonephritis NOS,197620001,SNOMED,2,nephritic,0,0
+4056467,Other familial glomerulonephritis,197631009,SNOMED,2,nephritic,0,0
+4056596,"Other specified nephritis, nephrosis or nephrotic syndrome",197756008,SNOMED,3,broad,0,0
+37018342,Persistent hematuria co-occurrent and due to dense deposit disease,714814006,SNOMED,2,nephritic,0,0
+37018344,Persistent hematuria co-occurrent and due to diffuse crescentic glomerulonephritis,714816008,SNOMED,2,nephritic,0,0
+37019162,Persistent hematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis,714818009,SNOMED,2,nephritic,0,0
+37018349,Persistent hematuria co-occurrent and due to diffuse membranous glomerulonephritis,714822004,SNOMED,3,broad,0,0
+37018353,Persistent hematuria co-occurrent and due to diffuse mesangial proliferative glomerulonephritis,714826001,SNOMED,2,nephritic,0,0
+37018347,Persistent hematuria co-occurrent and due to diffuse mesangiocapillary glomerulonephritis,714820007,SNOMED,2,nephritic,0,0
+37109670,Pierson syndrome,723449004,SNOMED,1,nephrotic,0,0
+4125958,Post-infectious glomerulonephritis,236395002,SNOMED,2,nephritic,0,0
+4128057,Post-infectious glomerulonephritis - Garland variety,236397005,SNOMED,2,nephritic,0,0
+4287695,Primary IgA nephropathy,68779003,SNOMED,2,nephritic,0,0
+4343933,Primary pauci-immune necrotizing and crescentic glomerulonephritis,239932005,SNOMED,2,nephritic,0,0
+4125967,Progressive hereditary glomerulonephritis without deafness,236419006,SNOMED,2,nephritic,0,0
+40480859,Proliferative glomerulonephritis,441815006,SNOMED,2,nephritic,0,0
+196464,Rapidly progressive glomerulonephritis,236392004,SNOMED,2,nephritic,0,0
+4054992,Rapidly progressive nephritic syndrome,197689003,SNOMED,2,nephritic,0,0
+37016360,Rapidly progressive nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,368881000119109,SNOMED,2,nephritic,0,0
+4058991,"Rapidly progressive nephritic syndrome, dense deposit disease",197696001,SNOMED,2,nephritic,0,0
+4059458,"Rapidly progressive nephritic syndrome, diffuse crescentic glomerulonephritis",197697005,SNOMED,2,nephritic,0,0
+4058990,"Rapidly progressive nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",197694003,SNOMED,2,nephritic,0,0
+4058989,"Rapidly progressive nephritic syndrome, diffuse membranous glomerulonephritis",197692004,SNOMED,3,broad,0,0
+4059457,"Rapidly progressive nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",197693009,SNOMED,2,nephritic,0,0
+4056475,"Rapidly progressive nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",197695002,SNOMED,2,nephritic,0,0
+4058988,"Rapidly progressive nephritic syndrome, focal and segmental glomerular lesions",197691006,SNOMED,3,broad,0,0
+4056474,"Rapidly progressive nephritic syndrome, minor glomerular abnormality",197690007,SNOMED,2,nephritic,0,0
+37018341,Recurrent hematuria co-occurrent and due to dense deposit disease,714813000,SNOMED,2,nephritic,0,0
+37018343,Recurrent hematuria co-occurrent and due to diffuse crescentic glomerulonephritis,714815007,SNOMED,2,nephritic,0,0
+37018345,Recurrent hematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis,714817004,SNOMED,2,nephritic,0,0
+37018348,Recurrent hematuria co-occurrent and due to diffuse membranous glomerulonephritis,714821006,SNOMED,3,broad,0,0
+37018352,Recurrent hematuria co-occurrent and due to diffuse mesangial proliferative glomerulonephritis,714825002,SNOMED,2,nephritic,0,0
+37018346,Recurrent hematuria co-occurrent and due to diffuse mesangiocapillary glomerulonephritis,714819001,SNOMED,2,nephritic,0,0
+4058996,"Recurrent or persistent hematuria, diffuse crescentic glomerulonephritis",197706003,SNOMED,2,nephritic,0,0
+4058995,"Recurrent or persistent hematuria, diffuse endocapillary proliferative glomerulonephritis",197703006,SNOMED,2,nephritic,0,0
+4059460,"Recurrent or persistent hematuria, diffuse membranous glomerulonephritis",197701008,SNOMED,3,broad,0,0
+4056477,"Recurrent or persistent hematuria, diffuse mesangial proliferative glomerulonephritis",197702001,SNOMED,2,nephritic,0,0
+4059461,"Recurrent or persistent hematuria, diffuse mesangiocapillary glomerulonephritis",197704000,SNOMED,2,nephritic,0,0
+45768820,Recurrent proliferative glomerulonephritis,707332000,SNOMED,2,nephritic,0,0
+4312366,Sarcoidosis with glomerulonephritis,425384007,SNOMED,2,nephritic,0,0
+37109992,Schimke immuno-osseous dysplasia,723995003,SNOMED,1,nephrotic,0,0
+4028050,Sclerosing glomerulonephritis,13335004,SNOMED,2,nephritic,0,0
+45757784,Secondary chronic nephritis,40391000119106,SNOMED,2,nephritic,0,1
+4290345,Shunt nephritis,37085009,SNOMED,2,nephritic,0,0
+4285717,SLE glomerulonephritis syndrome,68815009,SNOMED,2,nephritic,0,0
+4250483,"SLE glomerulonephritis syndrome, WHO class I",73286009,SNOMED,2,nephritic,0,0
+4186940,"SLE glomerulonephritis syndrome, WHO class II",4676006,SNOMED,2,nephritic,0,0
+4297164,"SLE glomerulonephritis syndrome, WHO class III",76521009,SNOMED,2,nephritic,0,0
+4267801,"SLE glomerulonephritis syndrome, WHO class IV",36402006,SNOMED,2,nephritic,0,0
+4178133,"SLE glomerulonephritis syndrome, WHO class V",52042003,SNOMED,2,nephritic,0,0
+4002526,"SLE glomerulonephritis syndrome, WHO class VI",11013005,SNOMED,2,nephritic,0,0
+37397147,Sporadic idiopathic steroid-resistant nephrotic syndrome,717191005,SNOMED,1,nephrotic,0,0
+42709948,Steroid resistant nephrotic syndrome of childhood,449820008,SNOMED,1,nephrotic,0,0
+40482087,Steroid sensitive nephrotic syndrome of childhood,445119005,SNOMED,1,nephrotic,0,0
+4125962,Steroid-dependent minimal change glomerulonephritis,236401002,SNOMED,1,nephrotic,0,0
+4125954,Steroid-dependent nephrotic syndrome,236382007,SNOMED,1,nephrotic,0,0
+4125961,Steroid-resistant minimal change glomerulonephritis,236400001,SNOMED,1,nephrotic,0,0
+4128055,Steroid-resistant nephrotic syndrome,236381000,SNOMED,1,nephrotic,0,0
+4125960,Steroid-sensitive minimal change glomerulonephritis,236399008,SNOMED,1,nephrotic,0,0
+4030509,Steroid-sensitive nephrotic syndrome,236380004,SNOMED,1,nephrotic,0,0
+4049283,Subacute glomerulonephritis,123609007,SNOMED,2,nephritic,0,0
+4128064,Thin basement membrane disease,236418003,SNOMED,2,nephritic,0,0
+4059449,Unspecified glomerulonephritis NOS,197648001,SNOMED,2,nephritic,0,0
+35627150,Vasculitis with glomerulonephritis,90971000119103,SNOMED,2,nephritic,0,0
+37111374,X-linked diffuse leiomyomatosis with Alport syndrome,726106004,SNOMED,2,nephritic,0,0
+4126122,Pulmonic stenosis and congenital nephrosis,236530006,SNOMED,1,nephrotic,0,0
+37119051,"Nephrosis, deafness, urinary tract, digital malformation syndrome",724092009,SNOMED,1,nephrotic,0,0

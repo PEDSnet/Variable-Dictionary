@@ -1,0 +1,166 @@
+concept_id,concept_code,concept_name,vocabulary_id,pcornet_vocabulary_id,cc_decimal_removal
+19149,T67.6,"Heat fatigue, transient",ICD10CM,10,FALSE
+19149,T676,"Heat fatigue, transient",ICD10CM,10,TRUE
+432738,52702003,Chronic fatigue syndrome,SNOMED,SM,FALSE
+437113,13791008,Asthenia,SNOMED,SM,FALSE
+439926,271795006,Malaise and fatigue,SNOMED,SM,FALSE
+442024,12979003,Transient heat fatigue,SNOMED,SM,FALSE
+607123,1149160000,Reduced level of fatigue,SNOMED,SM,FALSE
+765190,1131000175106,Asthenia due to disease,SNOMED,SM,FALSE
+1571711,O26.81,Pregnancy related exhaustion and fatigue,ICD10CM,10,FALSE
+1571711,O2681,Pregnancy related exhaustion and fatigue,ICD10CM,10,TRUE
+1572255,R53,Malaise and fatigue,ICD10CM,10,FALSE
+1572256,R53.8,Other malaise and fatigue,ICD10CM,10,FALSE
+1572256,R538,Other malaise and fatigue,ICD10CM,10,TRUE
+3528938,414631000000100,[D]Malaise and fatigue NOS,SNOMED,SM,FALSE
+3529326,480621000000108,Severe chronic fatigue syndrome,SNOMED,SM,FALSE
+3529629,491281000000101,Mild chronic fatigue syndrome,SNOMED,SM,FALSE
+3529630,491291000000104,Moderate chronic fatigue syndrome,SNOMED,SM,FALSE
+3529967,508581000000104,Post-exertional fatigue,SNOMED,SM,FALSE
+3533847,580521000000101,Tiredness symptom NOS,SNOMED,SM,FALSE
+3541847,698941000000107,Fatigue during pregnancy unspecified,SNOMED,SM,FALSE
+3541848,698951000000105,Fatigue during pregnancy NOS,SNOMED,SM,FALSE
+4007894,207529006,[D]Senile asthenia,SNOMED,SM,FALSE
+4007895,207530001,[D]Senile debility,SNOMED,SM,FALSE
+4048772,206765009,[D]Malaise and fatigue,SNOMED,SM,FALSE
+4048774,206767001,[D]Fatigue,SNOMED,SM,FALSE
+4048775,206771003,[D]Tiredness,SNOMED,SM,FALSE
+4059010,161873000,Heavy legs,SNOMED,SM,FALSE
+4060217,161874006,Heavy feeling,SNOMED,SM,FALSE
+4060299,199123005,Fatigue during pregnancy - not delivered,SNOMED,SM,FALSE
+4060300,199125003,Fatigue during pregnancy NOS,SNOMED,SM,FALSE
+4062571,199121007,Fatigue during pregnancy - delivered,SNOMED,SM,FALSE
+4062924,199120008,Fatigue during pregnancy unspecified,SNOMED,SM,FALSE
+4062925,199124004,Fatigue during pregnancy with postnatal complication,SNOMED,SM,FALSE
+4063119,17099003,Peripheral muscle fatigue,SNOMED,SM,FALSE
+4074624,224960004,Tired,SNOMED,SM,FALSE
+4086973,248269005,Tired on least exertion,SNOMED,SM,FALSE
+4090207,18726006,Senile asthenia,SNOMED,SM,FALSE
+4092860,250002000,Rapid fatigue of gait,SNOMED,SM,FALSE
+4093848,248278004,Attacks of weakness,SNOMED,SM,FALSE
+4134868,398051009,Staff member fatigued,SNOMED,SM,FALSE
+4147184,267031002,Tiredness symptom,SNOMED,SM,FALSE
+4149857,267032009,Tired all the time,SNOMED,SM,FALSE
+4152509,272062008,"C/O - ""tired all the time""",SNOMED,SM,FALSE
+4154942,271875007,Senile debility,SNOMED,SM,FALSE
+4158183,271556007,"[D]Debility, unspecified",SNOMED,SM,FALSE
+4158498,272060000,Fatigue - symptom,SNOMED,SM,FALSE
+4161600,373931001,Sensation of heaviness in limbs,SNOMED,SM,FALSE
+4167240,274236006,[D]Asthenia,SNOMED,SM,FALSE
+4193374,79117005,Central muscle fatigue,SNOMED,SM,FALSE
+4193763,79215008,High frequency muscle fatigue,SNOMED,SM,FALSE
+4198140,314109004,Feeling tired,SNOMED,SM,FALSE
+4202045,51771007,Postviral fatigue syndrome,SNOMED,SM,FALSE
+4209103,313328009,Accommodative fatigue,SNOMED,SM,FALSE
+4214612,80449002,Muscle fatigue,SNOMED,SM,FALSE
+4221911,420900006,Fatigue associated with AIDS,SNOMED,SM,FALSE
+4223659,84229001,Fatigue,SNOMED,SM,FALSE
+4230221,88895004,Fatigue during pregnancy,SNOMED,SM,FALSE
+4247433,61157009,Combat fatigue,SNOMED,SM,FALSE
+4270504,63051001,Cage layer fatigue,SNOMED,SM,FALSE
+4279937,65927007,Low frequency muscle fatigue,SNOMED,SM,FALSE
+4312345,8614008,Vocal fatigue,SNOMED,SM,FALSE
+4319130,22171002,Neuromuscular fatigue,SNOMED,SM,FALSE
+4347293,240130007,Severe systemic illness respiratory muscle fatigue,SNOMED,SM,FALSE
+35207505,G93.3,Postviral and related fatigue syndromes,ICD10CM,10,FALSE
+35207505,G933,Postviral and related fatigue syndromes,ICD10CM,10,TRUE
+35211390,R54,Age-related physical debility,ICD10CM,10,FALSE
+36686942,15634971000119107,Bilateral weakness of upper limbs,SNOMED,SM,FALSE
+37017316,713568000,Occasionally tired,SNOMED,SM,FALSE
+37205051,784317004,Fatigue due to chemotherapy,SNOMED,SM,FALSE
+37205052,784318009,Fatigue due to radiation therapy,SNOMED,SM,FALSE
+37396808,716749005,Cancer-related fatigue,SNOMED,SM,FALSE
+37402486,G93.31,Postviral fatigue syndrome,ICD10CM,10,FALSE
+37402486,G9331,Postviral fatigue syndrome,ICD10CM,10,TRUE
+37402487,G93.32,Myalgic encephalomyelitis/chronic fatigue syndrome,ICD10CM,10,FALSE
+37402487,G9332,Myalgic encephalomyelitis/chronic fatigue syndrome,ICD10CM,10,TRUE
+37402488,G93.39,Other post infection and related fatigue syndromes,ICD10CM,10,FALSE
+37402488,G9339,Other post infection and related fatigue syndromes,ICD10CM,10,TRUE
+40267298,102896005,Heaviness sensation,SNOMED,SM,FALSE
+40303773,139124002,"[Tiredness], [fatigue], [lethargy] or [malaise] symptom",SNOMED,SM,FALSE
+40303775,139126000,Fatigue,SNOMED,SM,FALSE
+40303776,139127009,Tired all the time,SNOMED,SM,FALSE
+40303779,139130002,Heavy legs,SNOMED,SM,FALSE
+40303781,139131003,Tiredness symptom NOS,SNOMED,SM,FALSE
+40316726,157727002,"Heat fatigue, transient",SNOMED,SM,FALSE
+40318810,158167007,[D]Malaise and fatigue,SNOMED,SM,FALSE
+40318812,158169005,[D]Fatigue,SNOMED,SM,FALSE
+40318814,158170006,Asthenia [D],SNOMED,SM,FALSE
+40318817,158173008,[D]Malaise and fatigue NOS,SNOMED,SM,FALSE
+40320994,158713005,[D]Senile asthenia,SNOMED,SM,FALSE
+40320995,158714004,[D]Senile debility,SNOMED,SM,FALSE
+40321411,158736001,"[D]Debility, unspecified",SNOMED,SM,FALSE
+40322782,155062000,Chronic fatigue syndrome,SNOMED,SM,FALSE
+40325099,161868006,"([Tiredness] or [fatigue] or [lethargy] or [malaise] symptom) or (C/O ""muzzy head"")",SNOMED,SM,FALSE
+40351555,271798008,Chronic fatigue syndrome,SNOMED,SM,FALSE
+40351640,271874006,Senile asthenia,SNOMED,SM,FALSE
+40351907,267683005,Postinfective encephalitis (& [myalgic encephalitis] or [myalgic encephalomyelitis]),SNOMED,SM,FALSE
+40354346,274638001,Asthenia,SNOMED,SM,FALSE
+40357640,267160008,"[Tiredness], [fatigue], [lethargy] or [malaise] symptom",SNOMED,SM,FALSE
+40385132,191741007,(Neurasthenia - nervous debility) or (nervous exhaustion) or (tired all the time),SNOMED,SM,FALSE
+40386415,192036009,Acute reaction to stress (& [combat fatigue]),SNOMED,SM,FALSE
+40388322,192414001,[X] Acute stress reaction (& [crisis reaction] or [crisis state] or [psychic shock] or [combat fatigue]),SNOMED,SM,FALSE
+40390064,192735003,Other causes of encephalitis (& [myalgic encephalomyelitis] or [encephalomyelitis NOS]),SNOMED,SM,FALSE
+40391099,193054000,Chronic fatigue syndrome,SNOMED,SM,FALSE
+40399651,206773000,[D]Malaise and fatigue NOS,SNOMED,SM,FALSE
+40402990,207557004,"([D]Debility, unspecified) or ([D] Self neglect)",SNOMED,SM,FALSE
+40448447,247372003,Chronic fatigue syndrome,SNOMED,SM,FALSE
+40481844,442099003,Psychogenic fatigue,SNOMED,SM,FALSE
+40484614,444042007,Postexertional fatigue,SNOMED,SM,FALSE
+40502727,302758002,Tiredness,SNOMED,SM,FALSE
+40506944,303799004,Sensation of heaviness in limbs,SNOMED,SM,FALSE
+40625633,73266005,AIDS with fatigue,SNOMED,SM,FALSE
+43531600,97201000119101,Fatigue due to chemotherapy or radiation therapy,SNOMED,SM,FALSE
+44782753,148871000119109,Weakness as a late effect of stroke,SNOMED,SM,FALSE
+44793521,377161000000108,Severe chronic fatigue syndrome,SNOMED,SM,FALSE
+44793522,377171000000101,Moderate chronic fatigue syndrome,SNOMED,SM,FALSE
+44793523,377181000000104,Mild chronic fatigue syndrome,SNOMED,SM,FALSE
+44797749,439201000000104,[D]Asthenia NOS,SNOMED,SM,FALSE
+44800199,463761000000103,[D]Malaise and fatigue NOS,SNOMED,SM,FALSE
+44802315,501681000000107,[D]Senile asthenia,SNOMED,SM,FALSE
+44802316,501691000000109,[D]Senile debility,SNOMED,SM,FALSE
+44802417,502161000000101,"[D]Debility, unspecified",SNOMED,SM,FALSE
+44802421,502201000000109,[D]Asthenia,SNOMED,SM,FALSE
+44802672,495751000000103,[D]Malaise and fatigue,SNOMED,SM,FALSE
+44802674,495771000000107,[D]Fatigue,SNOMED,SM,FALSE
+44802677,495801000000105,[D]Tiredness,SNOMED,SM,FALSE
+44823445,780.79,Other malaise and fatigue,ICD9CM,09,FALSE
+44823445,78079,Other malaise and fatigue,ICD9CM,09,TRUE
+44823473,799.3,"Debility, unspecified",ICD9CM,09,FALSE
+44823473,7993,"Debility, unspecified",ICD9CM,09,TRUE
+44828146,780.71,Chronic fatigue syndrome,ICD9CM,09,FALSE
+44828146,78071,Chronic fatigue syndrome,ICD9CM,09,TRUE
+44829293,780.7,Malaise and fatigue,ICD9CM,09,FALSE
+44829293,7807,Malaise and fatigue,ICD9CM,09,TRUE
+44836480,992.6,"Heat fatigue, transient",ICD9CM,09,FALSE
+44836480,9926,"Heat fatigue, transient",ICD9CM,09,TRUE
+45534458,R53.83,Other fatigue,ICD10CM,10,FALSE
+45534458,R5383,Other fatigue,ICD10CM,10,TRUE
+45539109,O26.812,"Pregnancy related exhaustion and fatigue, second trimester",ICD10CM,10,FALSE
+45539109,O26812,"Pregnancy related exhaustion and fatigue, second trimester",ICD10CM,10,TRUE
+45541774,T67.6XXD,"Heat fatigue, transient, subsequent encounter",ICD10CM,10,FALSE
+45541774,T676XXD,"Heat fatigue, transient, subsequent encounter",ICD10CM,10,TRUE
+45548724,O26.813,"Pregnancy related exhaustion and fatigue, third trimester",ICD10CM,10,FALSE
+45548724,O26813,"Pregnancy related exhaustion and fatigue, third trimester",ICD10CM,10,TRUE
+45553741,R53,Malaise and fatigue,ICD10,10,FALSE
+45562383,I69.992,Facial weakness following unspecified cerebrovascular disease,ICD10CM,10,FALSE
+45562383,I69992,Facial weakness following unspecified cerebrovascular disease,ICD10CM,10,TRUE
+45573032,R53.82,"Chronic fatigue, unspecified",ICD10CM,10,FALSE
+45573032,R5382,"Chronic fatigue, unspecified",ICD10CM,10,TRUE
+45577571,O26.811,"Pregnancy related exhaustion and fatigue, first trimester",ICD10CM,10,FALSE
+45577571,O26811,"Pregnancy related exhaustion and fatigue, first trimester",ICD10CM,10,TRUE
+45590010,T67.6,"Heat fatigue, transient",ICD10,10,FALSE
+45590010,T676,"Heat fatigue, transient",ICD10,10,TRUE
+45595967,G93.3,Postviral fatigue syndrome,ICD10,10,FALSE
+45595967,G933,Postviral fatigue syndrome,ICD10,10,TRUE
+45597192,R53.0,Neoplastic (malignant) related fatigue,ICD10CM,10,FALSE
+45597192,R530,Neoplastic (malignant) related fatigue,ICD10CM,10,TRUE
+45601789,O26.819,"Pregnancy related exhaustion and fatigue, unspecified trimester",ICD10CM,10,FALSE
+45601789,O26819,"Pregnancy related exhaustion and fatigue, unspecified trimester",ICD10CM,10,TRUE
+45602032,R53.1,Weakness,ICD10CM,10,FALSE
+45602032,R531,Weakness,ICD10CM,10,TRUE
+45609265,T67.6XXA,"Heat fatigue, transient, initial encounter",ICD10CM,10,FALSE
+45609265,T676XXA,"Heat fatigue, transient, initial encounter",ICD10CM,10,TRUE
+45609266,T67.6XXS,"Heat fatigue, transient, sequela",ICD10CM,10,FALSE
+45609266,T676XXS,"Heat fatigue, transient, sequela",ICD10CM,10,TRUE
+45772721,704369007,Fatigue due to treatment,SNOMED,SM,FALSE

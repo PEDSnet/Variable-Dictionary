@@ -1,0 +1,10 @@
+concept_id,concept_name,concept_code,vocabulary_id,codeset,type
+4044008,Tracheostomy tube,129121000,SNOMED,mechanical_vents,invasive
+4097216,Endotracheal tube,26412008,SNOMED,mechanical_vents,invasive
+4138614,BiPAP oxygen nasal cannula,425826004,SNOMED,mechanical_vents,non-invasive
+4139525,High flow oxygen nasal cannula,426854004,SNOMED,mechanical_vents,non-invasive
+4222966,Oxygen mask,336602003,SNOMED,mechanical_vents,non-invasive
+4224038,Oxygen nasal cannula,336623009,SNOMED,mechanical_vents,non-invasive
+40493026,Mechanical ventilator,449071006,SNOMED,mechanical_vents,invasive
+45761494,CPAP nasal oxygen cannula,467645007,SNOMED,mechanical_vents,non-invasive
+45768222,Continuous positive airway pressure/Bilevel positive airway pressure mask,706226000,SNOMED,mechanical_vents,non-invasive

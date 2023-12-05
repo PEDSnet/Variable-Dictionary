@@ -1,9 +1,9 @@
-|Field            |Value       |
-|:----------------|:-----------|
-|Codeset Name     |Anorexia    |
+|Field            |Value            |
+|:----------------|:----------------|
+|Codeset Name     |Anorexia nervosa |
 |Codeset Link     |[dx_anorexia](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_anorexia.csv)|
-|CDM              |NA          |
-|Clinical Concept |RECOVER     |
-|Vocab            |NA          |
-|Date Uploaded    |2021-11-03  |
-|Metadata         |NA          |
+|CDM              |NA               |
+|Clinical Concept |RECOVER          |
+|Vocab            |NA               |
+|Date Uploaded    |2021-11-03       |
+|Metadata         |NA               |

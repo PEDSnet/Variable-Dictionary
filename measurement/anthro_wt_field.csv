@@ -1,2 +1,0 @@
-﻿TABLE_NAME,FIELD_NAME,RDBMS_DATA_TYPE,SAS_DATA_TYPE,DATA_FORMAT,REPLICATED_FIELD,UNIT_OF_MEASURE,VALUESET,FIELD_DEFINITION
-VITAL,WT,RDBMS Number(x),SAS Numeric(length 8),"RDBMS number supports 15 total digits, 8 after decimal; SAS numeric length 8",NO,,NO,"Weight (in pounds). Only populated if measure was taken on this date. If missing, this value should be null. Decimal precision is permissible.  Number precision and scale updated in v3.1."

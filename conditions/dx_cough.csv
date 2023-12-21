@@ -1,0 +1,33 @@
+concept_id,concept_code,concept_name,codeset
+4077128,17986004,Barking cough,cough
+4048759,20670007,Brassy cough,cough
+4195384,68154008,Chronic cough,cough
+4158493,272039006,C/O - cough,cough
+254761,49727002,Cough,cough
+4323688,7142008,Cough at rest,cough
+4000163,19282004,Cough on exercise,cough
+4048098,135883003,Cough with fever,cough
+4126096,289965001,Croupy cough,cough
+4128692,289116005,Difficulty coughing,cough
+4122567,289114008,Does cough,cough
+4117283,301246003,Does cough up sputum,cough
+4038519,11833005,Dry cough,cough
+4266704,62618004,Early morning cough,cough
+44806100,810511000000109,Episodic dry cough,cough
+4058584,161933007,Evening cough,cough
+4243802,59994004,Hacking cough,cough
+4270340,62731002,Increasing frequency of cough,cough
+4059020,161932002,Morning cough,cough
+4269800,62548007,Nocturnal cough,cough
+4060313,161947006,Nocturnal cough / wheeze,cough
+4090569,247410004,Painful cough,cough
+4182587,43025008,Paroxysmal cough,cough
+4109381,284523002,Persistent cough,cough
+40482863,445241004,Postviral cough,cough
+4102774,28743005,Productive cough,cough
+4060224,161923004,Productive cough -clear sputum,cough
+4060051,161924005,Productive cough -green sputum,cough
+4059017,161925006,Productive cough-yellow sputum,cough
+4167374,417850002,Respiratory tract congestion and cough,cough
+4271318,63000007,Spasmodic cough,cough
+4196430,315246003,Unexplained cough,cough

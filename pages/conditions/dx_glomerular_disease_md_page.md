@@ -1,7 +1,7 @@
 |Field            |Value                                                                                                                          |
 |:----------------|:------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name     |Glomerular Disease                                                                                                             |
-|Codeset Link     |[dx_glomerular_disease](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_glomerular_disease.csv)          |
+|Codeset Link     |[dx_glomerular_disease](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_glomerular_disease.csv)         |
 |CDM              |NA                                                                                                                             |
 |Clinical Concept |Diagnoses for glomerular disease                                                                                               |
 |Vocab            |ICD9CM,ICD10,ICD10CM,SNOMED                                                                                                    |

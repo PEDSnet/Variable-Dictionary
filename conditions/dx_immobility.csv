@@ -1,0 +1,1286 @@
+﻿concept_id,concept_name,concept_code,vocabulary_id
+132617,Diplegic cerebral palsy,58193001,SNOMED
+134031,Hemiplegic cerebral palsy,43486001,SNOMED
+4173811,Congenital quadriplegia,275468009,SNOMED
+4045842,Monoplegic cerebral palsy affecting upper limb,230777006,SNOMED
+4043884,Monoplegic cerebral palsy affecting lower limb,230778001,SNOMED
+442543,Monoplegic cerebral palsy,56409008,SNOMED
+374336,Infantile hemiplegia,1593000,SNOMED
+45773357,Dystonic cerebral palsy,702315006,SNOMED
+45771250,Triplegic cerebral palsy,702320006,SNOMED
+45771249,Choreic cerebral palsy,702316007,SNOMED
+45765394,Pentaplegic cerebral palsy,702321005,SNOMED
+45765393,Bilateral cerebral palsy,702319000,SNOMED
+45765392,Mixed cerebral palsy,702318008,SNOMED
+45765391,Chorea-athetoid cerebral palsy,702317003,SNOMED
+45765390,Non-spastic cerebral palsy,702314005,SNOMED
+44811521,Bilateral spastic cerebral palsy,9.04531E+14,SNOMED
+44809963,Choreoathetoid cerebral palsy,8.85831E+14,SNOMED
+44806793,Spastic hemiplegic cerebral palsy,8.13921E+14,SNOMED
+37396501,Worster Drought syndrome,716335003,SNOMED
+37204364,"Severe microbrachycephaly, intellectual disability, athetoid cerebral palsy syndrome",783005002,SNOMED
+4195154,Spastic tetraplegia with rigidity syndrome,44395000,SNOMED
+4159737,Paraplegic cerebral palsy,371079004,SNOMED
+4150300,Ataxic cerebral palsy,278512001,SNOMED
+4141403,"Cerebral palsy, not congenital or infantile, acute",307756005,SNOMED
+4134120,Cerebral palsy,128188000,SNOMED
+4101736,Hypotonic cerebral palsy,192958009,SNOMED
+4058438,Double athetosis,16171003,SNOMED
+4048800,Dystonic/rigid cerebral palsy,230781006,SNOMED
+4045844,Dyskinetic cerebral palsy,230780007,SNOMED
+4043747,Spastic cerebral palsy,230773005,SNOMED
+762354,Neuromuscular scoliosis of thoracolumbar spine co-occurrent and due to cerebral palsy,3.30521E+14,SNOMED
+762348,Neuromuscular scoliosis of lumbar spine co-occurrent and due to cerebral palsy,3.29741E+14,SNOMED
+444022,Tetraplegic cerebral palsy,48721008,SNOMED
+375525,Athetoid cerebral palsy,75019001,SNOMED
+4002811,Muscle abscess of hand,203025009,SNOMED
+4002810,Muscle abscess of forearm,203024008,SNOMED
+4002809,Infective myositis of forearm,203013006,SNOMED
+4002808,Infective myositis of shoulder,203011008,SNOMED
+4002807,Infective myositis of back,203010009,SNOMED
+4001804,Muscular rheumatism,203102006,SNOMED
+4001801,Contracture of intrinsic muscle of foot,203081003,SNOMED
+4001799,Contracture of rectus femoris,203071002,SNOMED
+4001797,Contracture of adductor pollicis,203068005,SNOMED
+4001796,Contracture of flexor pollicis longus,203064007,SNOMED
+4001795,Contracture of wrist flexor muscle,203062006,SNOMED
+4001794,Contracture of biceps,203061004,SNOMED
+4001793,Contracture of triceps,203060003,SNOMED
+4001792,Contracture of pectoralis major,203059008,SNOMED
+4001653,Muscle abscess of foot,203029003,SNOMED
+4001652,Muscle abscess of thigh,203027001,SNOMED
+4001651,Muscle abscess of neck,203020004,SNOMED
+4001628,Infective myositis of foot,203018002,SNOMED
+4001627,Infective myositis of lower leg,203017007,SNOMED
+4001626,Infective myositis of hand,203014000,SNOMED
+4001481,Flexor pollicis longus tendon rupture,202971005,SNOMED
+4001135,Contracture of hamstring(s),203074005,SNOMED
+4001134,Contracture of adductor muscle(s) of hip,203072009,SNOMED
+4001133,Contracture of flexor digitorum superficialis,203066009,SNOMED
+4001129,Muscle abscess of upper arm,203023002,SNOMED
+4001128,Muscle abscess of shoulder,203022007,SNOMED
+4001127,Muscle abscess of back,203021000,SNOMED
+4001126,Infective myositis of thigh,203016003,SNOMED
+4001125,Infective myositis of pelvis,203015004,SNOMED
+4001124,Infective myositis of upper arm,203012001,SNOMED
+4001110,Long head of biceps rupture,202967007,SNOMED
+4000979,Tibialis anterior tenosynovitis,202918005,SNOMED
+3663194,Autoinflammatory syndrome with pyogenic bacterial infection and amylopectinosis,829973009,SNOMED
+3657427,Levator ani syndrome,1.18794E+15,SNOMED
+3657050,Bilateral orbital myositis of eyes,3.44781E+14,SNOMED
+3657027,Bilateral total ophthalmoplegia,3.43251E+14,SNOMED
+3656970,Orbital myositis of left eye,3.39031E+14,SNOMED
+3656943,Total ophthalmoplegia of left eye,3.37461E+14,SNOMED
+3656886,Orbital myositis of right eye,3.33421E+14,SNOMED
+3656859,Total ophthalmoplegia of right eye,3.31841E+14,SNOMED
+3656146,Strain of rectus abdominus muscle,871692005,SNOMED
+3655977,Rhabdomyolysis due to disease caused by Severe acute respiratory syndrome coronavirus 2,870591003,SNOMED
+3655836,Myopathy due to calcium deficiency,870299000,SNOMED
+3654690,Acute alcoholic myopathy,838386008,SNOMED
+3654681,Chronic myopathy caused by alcohol,838376007,SNOMED
+765370,Strain of left quadriceps muscle,1.18283E+16,SNOMED
+765369,Strain of flexor muscle of right hip,1.18265E+16,SNOMED
+765366,Strain of left pectoral muscle,1.17946E+16,SNOMED
+765215,Myositis of left foot,1.56771E+16,SNOMED
+765110,Diaphragmatic hernia with gastroesophageal reflux disease,1.59265E+16,SNOMED
+765066,Congenital contracture of left gastrocnemius muscle,1.56703E+16,SNOMED
+765048,Paresis as late effect of poliomyelitis,1.38371E+14,SNOMED
+763884,Strain of muscle of upper arm,4.48161E+14,SNOMED
+763883,Strain of shoulder muscle,4.48151E+14,SNOMED
+763882,Strain of pectoral muscle,4.48141E+14,SNOMED
+762725,"Ophthalmoplegic migraine, refractory",4.31061E+14,SNOMED
+762188,Repetitive strain injury of right thigh,3.01301E+14,SNOMED
+762187,Repetitive strain injury of right foot,3.01251E+14,SNOMED
+762186,Repetitive strain injury of right ankle,3.01241E+14,SNOMED
+762185,Repetitive strain injury of left thigh,3.01221E+14,SNOMED
+762184,Repetitive strain injury of left foot,3.01171E+14,SNOMED
+762183,Repetitive strain injury of left ankle,3.01161E+14,SNOMED
+761828,Atherosclerosis of bypass graft of bilateral lower limbs with intermittent claudication,1.60141E+16,SNOMED
+761827,Atherosclerosis of bypass graft of left lower limb with intermittent claudication,1.6014E+16,SNOMED
+761826,Atherosclerosis of bypass graft of right lower limb with intermittent claudication,1.60137E+16,SNOMED
+761764,Weakness of left facial muscle due to and following non-traumatic intracerebral hemorrhage,1.59824E+16,SNOMED
+761763,Weakness of right facial muscle due to and following spontaneous intracerebral hemorrhage,1.59822E+16,SNOMED
+761511,External ophthalmoplegia of bilateral eyes,1.573E+16,SNOMED
+761510,External ophthalmoplegia of right eye,1.573E+16,SNOMED
+761509,External ophthalmoplegia of left eye,1.573E+16,SNOMED
+761406,Repetitive strain injury of bilateral forearms,1.57048E+16,SNOMED
+761405,Repetitive strain injury of bilateral hands,1.57047E+16,SNOMED
+761404,Atrophy of muscle of bilateral hands,1.57042E+16,SNOMED
+761310,Myositis of right thigh,1.56775E+16,SNOMED
+761309,Myositis of left lower leg,1.5677E+16,SNOMED
+761308,Myositis of left thigh,1.56769E+16,SNOMED
+761307,Myositis of right foot,1.56768E+16,SNOMED
+761306,Myositis of right lower leg,1.56767E+16,SNOMED
+761269,Congenital contracture of right gastrocnemius muscle,1.56703E+16,SNOMED
+761214,Congenital anomaly of right sternocleidomastoid muscle,1.5665E+16,SNOMED
+760814,Strain of muscle of right wrist,1.18394E+16,SNOMED
+760808,Strain of muscle of left thigh,1.18303E+16,SNOMED
+760807,Strain of muscle of right thigh,1.18302E+16,SNOMED
+760805,Strain of right quadriceps muscle,1.18282E+16,SNOMED
+760804,Strain of muscle of left wrist,1.18268E+16,SNOMED
+760803,Strain of muscle of left hip,1.18266E+16,SNOMED
+760802,Strain of muscle of right hip,1.18266E+16,SNOMED
+760801,Strain of flexor muscle of left hip,1.18265E+16,SNOMED
+760782,Strain of right pectoral muscle,1.17946E+16,SNOMED
+760769,Strain of muscle of left groin region,1.17868E+16,SNOMED
+760768,Strain of muscle of right groin region,1.17867E+16,SNOMED
+760754,Strain of left trapezius muscle,1.17784E+16,SNOMED
+760753,Strain of right trapezius muscle,1.17784E+16,SNOMED
+760742,Strain of muscle of left shoulder,1.17698E+16,SNOMED
+760741,Strain of muscle of left upper arm,1.17697E+16,SNOMED
+760740,Strain of muscle of right shoulder,1.17697E+16,SNOMED
+760739,Strain of muscle of right upper arm,1.17696E+16,SNOMED
+760738,Strain of muscle of left forearm,1.17691E+16,SNOMED
+760737,Strain of muscle of right forearm,1.1769E+16,SNOMED
+760553,Borderline velopharyngeal adequacy,1.09989E+16,SNOMED
+759828,Postoperative heterotopic calcification of skeletal muscle,1.05151E+14,SNOMED
+443201,Disuse muscle atrophy,240129002,SNOMED
+442342,Endocrine myopathy,57958006,SNOMED
+442315,Fibrositis,56557000,SNOMED
+441760,Volkmann's contracture,111247001,SNOMED
+441280,Schwartz-Jampel syndrome,29145002,SNOMED
+440814,Torticollis,70070008,SNOMED
+440370,Nutritional marasmus,29740003,SNOMED
+439148,Disorder of extraocular muscle,128603005,SNOMED
+437904,Laryngeal spasm,406444002,SNOMED
+437562,Myopathy of extraocular muscles,57130002,SNOMED
+436546,Strain of subscapularis muscle,86319008,SNOMED
+435802,Blepharospasm,59026006,SNOMED
+433774,Orbital myositis,80698001,SNOMED
+380412,Total ophthalmoplegia,78097002,SNOMED
+379027,Progressive external ophthalmoplegia,46252003,SNOMED
+377263,Myoneural disorder,257277002,SNOMED
+376387,Spasmodic torticollis,74333002,SNOMED
+374041,External ophthalmoplegia,19373007,SNOMED
+258828,Eosinophilia myalgia syndrome,95416007,SNOMED
+201397,Prune belly syndrome,5187006,SNOMED
+201157,Injury of diaphragm without open wound into cavity,50444002,SNOMED
+201061,Diaphragmatic hernia,39839004,SNOMED
+200143,Diaphragmatic hernia with gangrene,56676008,SNOMED
+199097,Third degree perineal tear during delivery with postnatal problem,199931001,SNOMED
+199073,Iliopsoas abscess,266463007,SNOMED
+196724,Disorder of diaphragm,48475001,SNOMED
+196217,Congenital anomaly of diaphragm,88386004,SNOMED
+196159,Old laceration of muscles of pelvic floor,467003,SNOMED
+195673,Injury of diaphragm with open wound into cavity,76877000,SNOMED
+195464,Epidemic pleurodynia,83264000,SNOMED
+194691,Healed tear of anal sphincter,249643003,SNOMED
+194403,Obstructed diaphragmatic hernia,196903009,SNOMED
+193830,Third degree perineal laceration,10217006,SNOMED
+193275,Third degree perineal tear during delivery - delivered,199930000,SNOMED
+138415,Symptomatic inflammatory myopathy associated with another disorder,193246009,SNOMED
+81400,Neonatal myasthenia gravis,82178003,SNOMED
+81286,Toxic myopathy,66952001,SNOMED
+80832,Accessory skeletal muscle,50847000,SNOMED
+80800,Polymyositis,31384009,SNOMED
+80399,Hereditary progressive muscular dystrophy,193225000,SNOMED
+80182,Dermatomyositis,396230008,SNOMED
+79804,Steinert myotonic dystrophy syndrome,77956009,SNOMED
+78236,Muscle atrophy,88092000,SNOMED
+78149,Congenital hereditary muscular dystrophy,111501005,SNOMED
+77076,Diastasis of muscle,111248006,SNOMED
+76685,Myasthenia gravis,91637004,SNOMED
+76508,Infective myositis,29689003,SNOMED
+76122,Brown's tendon sheath syndrome,35929003,SNOMED
+76032,Syphilis of muscle,88943008,SNOMED
+75804,Congenital myotonic dystrophy,240104008,SNOMED
+75741,Tropical pyomyositis,65110003,SNOMED
+75356,Congenital anomaly of sternocleidomastoid muscle,24963004,SNOMED
+75048,Interstitial myositis,55925001,SNOMED
+73854,Progressive myositis ossificans,82725007,SNOMED
+73184,Familial periodic paralysis,267607008,SNOMED
+73183,Myotonic disorder,193237003,SNOMED
+73001,Myositis,26889001,SNOMED
+72618,Disorder of skeletal muscle,75047002,SNOMED
+4175651,Contracture of gastrocnemius muscle due to traumatic injury,427781003,SNOMED
+4173155,Congenital absence of abdominal muscle,42190000,SNOMED
+4172671,Severe childhood autosomal recessive muscular dystrophy,277373000,SNOMED
+4172528,Pelagic paralysis,277190002,SNOMED
+4171779,Muscle contracture absent,274563008,SNOMED
+4170460,Anal sphincter tear,275431006,SNOMED
+4169418,Congenital hernia of foramen of Morgagni,48763007,SNOMED
+4168796,Muscle strain,48532005,SNOMED
+4166415,Fat adherence syndrome of extraocular muscle,416236009,SNOMED
+4163266,Facioscapulohumeral muscular dystrophy,399091004,SNOMED
+4161246,Congenital absence of quadriceps muscle,432993002,SNOMED
+4159652,Traumatic hypotonia,371047008,SNOMED
+4159156,Gastroesophageal reflux disease with hiatal hernia,371132002,SNOMED
+4158317,Flexion contracture of muscle,271699005,SNOMED
+4158181,Aberrant intrinsic muscles of hand,271542005,SNOMED
+4155895,Extension contracture of muscle,271698002,SNOMED
+4153651,Eosinophilic myositis,370474006,SNOMED
+4152375,Disorder of muscle graft,271978005,SNOMED
+4151870,Congenital torticollis,268240006,SNOMED
+4150951,O/E - muscle atrophy present,268962004,SNOMED
+4150753,Myofascial pain syndrome of neck,279030006,SNOMED
+4150457,Velopharyngeal insufficiency,278714002,SNOMED
+4150055,Thyrotoxic periodic paralysis,30967002,SNOMED
+4148481,Hiatus hernia - irreducible,309751007,SNOMED
+4147764,Diaphragmatic cyst,35893006,SNOMED
+4147680,Purulent myositis,30330001,SNOMED
+4147629,Chronic orbital myositis,267654007,SNOMED
+4147045,Primary fibrositis,30173002,SNOMED
+4144671,Zebra body myopathy,34513009,SNOMED
+4144588,Acquired velopharyngeal insufficiency,427106002,SNOMED
+4144438,Stapedial myoclonus,426187002,SNOMED
+4142062,Myopathy in Addison's disease,34253008,SNOMED
+4142038,Diaphragmatic eventration,34168003,SNOMED
+4142028,Perineal hernia with gangrene,34125004,SNOMED
+4141805,Congenital contracture of gastrocnemius muscle,427103005,SNOMED
+4140389,March myoglobinuria,33033006,SNOMED
+4140071,Floppy infant syndrome,33010005,SNOMED
+4140000,Superior oblique dysfunction,426301008,SNOMED
+4138094,Hedblom's syndrome,32643003,SNOMED
+4137853,Contracture of gastrocnemius muscle due to paralysis,425491009,SNOMED
+4137355,Strain of back muscle,262965006,SNOMED
+4136550,Intramuscular hematoma,262969000,SNOMED
+4135454,"Myasthenia gravis, adult form",31839002,SNOMED
+4134950,Strain of tendon of adductor longus,262976005,SNOMED
+4134296,Rupture of skeletal muscle,128494003,SNOMED
+4134164,Intramuscular contusion,262968008,SNOMED
+4134163,Traumatic division of muscle,262967003,SNOMED
+4133641,Myofascial pain syndrome of thorax,279036000,SNOMED
+4133038,Myofascial pain syndrome of lower back,279041008,SNOMED
+4132504,Medial rectus muscle restriction,410505009,SNOMED
+4131435,Neoplasm of muscle of buttock,126628008,SNOMED
+4131434,Neoplasm of muscle of pelvis,126627003,SNOMED
+4131433,Neoplasm of muscle of trunk,126624005,SNOMED
+4131432,Neoplasm of muscle of lower limb,126623004,SNOMED
+4131431,Neoplasm of muscle of upper limb,126621002,SNOMED
+4131430,Neoplasm of muscle of shoulder,126620001,SNOMED
+4131429,Neoplasm of muscle of face,126618004,SNOMED
+4129870,Neoplasm of muscle of head,126617009,SNOMED
+4129242,Neoplasm of muscle of inguinal region,126629000,SNOMED
+4129241,Neoplasm of muscle of hip,126622009,SNOMED
+4128548,Hypogonadism with prune belly syndrome,236796004,SNOMED
+4125793,Acute sarcoid polymyositis,234529004,SNOMED
+4124542,Diaphragmatic trichiniasis,233747001,SNOMED
+4124541,Traumatic rupture of diaphragm,233746005,SNOMED
+4121515,Familial hyperkalemic periodic paralysis,304737009,SNOMED
+4121276,Chronic sarcoid myopathy,234530009,SNOMED
+4120274,Defect of diaphragm,233745009,SNOMED
+4117935,Postoperative rupture of the diaphragm,302306005,SNOMED
+4117680,Complicated diaphragmatic hernia,286972004,SNOMED
+4115238,Low back strain,300956001,SNOMED
+4115036,Strain of abdominal muscle,285348005,SNOMED
+4113583,Congenital sternomastoid tumor,253977007,SNOMED
+4112302,Strain of muscle of lower limb,285391000,SNOMED
+4111349,Strain of calf muscle,285395009,SNOMED
+4111172,Contracture of sternomastoid,253976003,SNOMED
+4109942,Aberrant muscle of the upper limb,253916007,SNOMED
+4109088,Strain of muscle of trunk,285394008,SNOMED
+4109087,Strain of muscle of upper limb,285393002,SNOMED
+4108898,Congenital absent hemidiaphragm - bilateral,253817004,SNOMED
+4107913,Myopathy due to rheumatoid arthritis,193250002,SNOMED
+4107911,Infantile myotonia,193238008,SNOMED
+4105642,Persistent neonatal myasthenia gravis,193206003,SNOMED
+4105102,Failure of muscle graft,281431006,SNOMED
+4105026,Myopathy due to systemic sclerosis,193252005,SNOMED
+4105025,Sarcoid myopathy,193251003,SNOMED
+4105024,Myopathy due to polyarteritis nodosa,193249002,SNOMED
+4105023,Myopathy due to disseminated lupus erythematosus,193248005,SNOMED
+4105021,Juvenile or adult myasthenia gravis,193207007,SNOMED
+4102503,Myopathy due to Sj√∂gren's disease,193253000,SNOMED
+4102502,Amyloid myopathy,193247000,SNOMED
+4102501,Pelvic muscular dystrophy,193227008,SNOMED
+4102499,Benign congenital myopathy,193222002,SNOMED
+4102023,Proximal myopathy,193255007,SNOMED
+4101902,Distal muscular dystrophy with juvenile onset,193230001,SNOMED
+4099496,Neoplasm of uncertain behavior of anal canal and sphincter,189406008,SNOMED
+4099147,Congenital absence of pectoral muscle,27262009,SNOMED
+4097390,Steroid-induced myopathy,26715006,SNOMED
+4095553,Injury of diaphragm,262787008,SNOMED
+4095278,Metabolic myopathy,26111005,SNOMED
+4094737,"Myokymia, hyperhidrosis, impaired muscle relaxation syndrome",250081005,SNOMED
+4093507,Herniation of lumbar muscles,249728005,SNOMED
+4092529,Malignant neoplasm of extraocular muscle of orbit,188269007,SNOMED
+4087810,Hypertrophy of orbicularis oculi muscle,246840002,SNOMED
+4084819,Coxsackie muscle infection,240548005,SNOMED
+4084780,Idiopathic polymyositis,281357005,SNOMED
+4084286,Infection of muscle graft,281432004,SNOMED
+4084268,Idiopathic dermatomyositis,281358000,SNOMED
+4083771,Quadratus lumborum syndrome,247370006,SNOMED
+4082820,Chronic myopathy with hypocalcemia and hypophosphatemia,277939004,SNOMED
+4081250,Dermatomyositis sine myositis,238935002,SNOMED
+4080995,Fibromyositis,24693007,SNOMED
+4080966,Westphal disease,182747006,SNOMED
+4080368,Paraplegic immobility syndrome,18231007,SNOMED
+4080274,Muscle eye brain disease,277950001,SNOMED
+4080273,Combined malformation of central nervous system and skeletal muscle,277949001,SNOMED
+4079325,Superior oblique myokymia,246781001,SNOMED
+4078688,Alcohol myopathy,19303008,SNOMED
+4078430,Severe systemic illness-induced respiratory muscle wasting,276230003,SNOMED
+4078293,O/E - painful arc,275875002,SNOMED
+4077943,Thyroid eye disease,276177000,SNOMED
+4077000,Maxillary myositis,17935009,SNOMED
+4069289,"Congenital myotonia, autosomal recessive form",20305008,SNOMED
+4069079,Hypoplasia of eye muscle,204217005,SNOMED
+4069078,Accessory eye muscles,204216001,SNOMED
+4067546,Rheumatic torticollis,202768008,SNOMED
+4067545,Intermittent torticollis,202767003,SNOMED
+4067276,Relaxation of diaphragm,21524000,SNOMED
+4066010,Congenital diaphragmatic hernia,17190001,SNOMED
+4065029,Congenital eventration of diaphragm,17128000,SNOMED
+4063503,O/E - joint - passive greater than active movement,164538008,SNOMED
+4062391,Injury of muscle and tendon of long flexor muscle of toe at ankle and foot level,212476002,SNOMED
+4062390,Injury of muscle(s) and tendon(s) of anterior muscle group at lower leg level,212471007,SNOMED
+4062388,Injury of muscle and tendon at forearm level,212458009,SNOMED
+4062387,Injury of muscle and tendon at thorax level,212456008,SNOMED
+4059379,Mitochondrial myopathy,16851005,SNOMED
+4059259,Injury of multiple muscles and tendons at lower leg level,212473005,SNOMED
+4059258,Injury of muscle(s) and tendon(s) of peroneal muscle group at lower leg level,212472000,SNOMED
+4059257,Injury of muscle and tendon at lower leg level,212470008,SNOMED
+4059256,Injury of multiple muscles and tendons at hip and thigh level,212469007,SNOMED
+4059253,Injury of muscle and tendon of head,212451003,SNOMED
+4057178,Injury of muscle and tendon of long extensor muscle of toe at ankle and foot level,212477006,SNOMED
+4057177,Injury of muscle and tendon at ankle and foot level,212475003,SNOMED
+4057176,Injury of extensor or abductor muscles and tendons of thumb at forearm level,212462003,SNOMED
+4057170,Injury of multiple muscles and tendons at shoulder and upper arm level,212421009,SNOMED
+4057044,Injury of muscle and tendon at neck level,212399002,SNOMED
+4056718,Injury of adductor muscle and tendon of thigh,212468004,SNOMED
+4056717,Injury of muscle and tendon at hip and thigh level,212467009,SNOMED
+4056716,Injury of multiple muscles and tendons at forearm level,212464002,SNOMED
+4056714,Injury of flexor muscle and tendon of thumb at forearm level,212459001,SNOMED
+4056713,"Injury of muscle and tendon of abdomen, lower back and pelvis",212457004,SNOMED
+4055369,Lung disease with polymyositis,196136009,SNOMED
+4055008,Irreducible ischiorectal hernia,196923005,SNOMED
+4055004,Irreducible diaphragmatic hernia,196904003,SNOMED
+4054834,Neoplasm of muscle of abdomen,126626007,SNOMED
+4054832,Neoplasm of muscle of neck,126619007,SNOMED
+4054528,Neoplasm of diaphragm,126728003,SNOMED
+4054497,Neoplasm of muscle of perineum,126630005,SNOMED
+4054496,Neoplasm of muscle of thorax,126625006,SNOMED
+4050057,"Glycogen storage disease, muscular form",15978003,SNOMED
+4049237,Palatopharyngeal incoordination,232415002,SNOMED
+4049233,Pharyngeal spasm,232407000,SNOMED
+4048782,Ocular myasthenia,230684008,SNOMED
+4048780,Abnormality of synaptic vesicles,230679002,SNOMED
+4048779,Congenital end-plate acetylcholinesterase deficiency,230677000,SNOMED
+4048656,Pseudomyopathic myasthenia,230674007,SNOMED
+4048655,Congenital end-plate acetylcholine receptor deficiency,230673001,SNOMED
+4048654,Familial infantile myasthenia,230670003,SNOMED
+4048496,Congenital laryngeal adductor palsy,232443006,SNOMED
+4048495,Congenital laryngeal abductor palsy,232442001,SNOMED
+4048189,Velopharyngeal incompetence,232416001,SNOMED
+4048093,Hamstring injury,135851009,SNOMED
+4047867,Sternomastoid injury due to birth injury,206252004,SNOMED
+4047866,Torticollis due to birth injury,206250007,SNOMED
+4047758,Isolated blepharospasm,230324004,SNOMED
+4046357,Putative defect in acetylcholine synthesis or packaging,230676009,SNOMED
+4046356,Congenital myasthenic syndrome,230672006,SNOMED
+4046355,Genetically determined myasthenia,230669004,SNOMED
+4046097,Sandifer syndrome,230314007,SNOMED
+4046082,Benign monomelic amyotrophy,230256009,SNOMED
+4045990,Congenital eventration of left crus of diaphragm,12322003,SNOMED
+4045843,Congenital spastic foot,230779009,SNOMED
+4045732,Myopathy in myasthenia gravis,230687001,SNOMED
+4045731,Myasthenia gravis associated with thymoma,230685009,SNOMED
+4045730,Transient neonatal myasthenia,230683002,SNOMED
+4045729,Penicillamine-induced myasthenia,230682007,SNOMED
+4045728,Decrease of motor end-plate potential amplitude without acetylcholine receptor deficiency,230678005,SNOMED
+4045727,Slow channel syndrome,230675008,SNOMED
+4044561,Structural velopharyngeal impairment,229726002,SNOMED
+4044227,Myoclonic epilepsy with ragged red fibers,230426003,SNOMED
+4043916,Amyotrophy due to herpes zoster,230262004,SNOMED
+4043730,Generalized myasthenia,230686005,SNOMED
+4043729,Acetylcholine resynthesis deficiency,230671004,SNOMED
+4041821,Velopharyngeal mislearning,229728001,SNOMED
+4041820,Velopharyngeal inadequacy,229727006,SNOMED
+4039767,O/E - muscle contracture,163656006,SNOMED
+4038906,O/E - extension contracture,163659004,SNOMED
+4038905,O/E - muscle contraction,163658007,SNOMED
+4035792,Myotubular myopathy with type I atrophy,15080006,SNOMED
+4035144,Primary familial amyloid myopathy,237873000,SNOMED
+4034961,"Muscular atrophy, ataxia, retinitis pigmentosa, and diabetes mellitus",237611007,SNOMED
+4033883,Fibromatosis colli,238865006,SNOMED
+4033497,Sclerodermatomyositis,238936001,SNOMED
+4031975,Fingerprint myopathy,23820006,SNOMED
+4031791,Glycogen synthase deficiency,237964009,SNOMED
+4031171,Severe systemic illness-induced skeletal muscle wasting,238154003,SNOMED
+4031115,Proliferative myositis,109300000,SNOMED
+4030676,"Prune belly syndrome with pulmonic stenosis, mental retardation and deafness",236529001,SNOMED
+4030587,Menopausal muscular dystrophy syndrome,129596006,SNOMED
+4030577,Myopathy in hypopituitarism,14289006,SNOMED
+4030436,"Nemaline myopathy, late onset type",129622008,SNOMED
+4030435,"Nemaline myopathy, early onset type",129621001,SNOMED
+4030434,Scapuloperoneal muscular dystrophy,129620000,SNOMED
+4028955,Primary sporadic amyloid myopathy,237874006,SNOMED
+4028368,Rupture of gastrocnemius muscle,128495002,SNOMED
+4024103,Triglyceride storage disease with ichthyosis,19604005,SNOMED
+4019718,Closed injury of diaphragm,210083009,SNOMED
+4019246,Rupture flexor pollicis longus,209766006,SNOMED
+4016834,Rupture of plantaris tendon,209783002,SNOMED
+4016546,Open injury of diaphragm,210084003,SNOMED
+4009773,Walker-Warburg congenital muscular dystrophy,111504002,SNOMED
+4009657,Muscular dystrophy-deafmutism syndrome,111500006,SNOMED
+4009322,"Glycogen storage disease, type IV",11179002,SNOMED
+4009185,Emery-Dreifuss muscular dystrophy,111508004,SNOMED
+4008572,"Distal muscular dystrophy, Miyoshi type",111506000,SNOMED
+4008571,"Muscle-eye-brain disease, congenital muscular dystrophy",111505001,SNOMED
+4008570,Fukuyama congenital muscular dystrophy,111502003,SNOMED
+4006757,Aberrant forearm flexor muscle,205270008,SNOMED
+4006462,Merosin deficient congenital muscular dystrophy,111503008,SNOMED
+4006423,Aberrant muscle of the lower limb,205365003,SNOMED
+4006277,Neonatal hypotonia,205294008,SNOMED
+4006273,Aberrant forearm extensor muscle,205271007,SNOMED
+4005121,Hypoplasia of muscle,205530002,SNOMED
+4005037,Childhood type dermatomyositis,1212005,SNOMED
+4003921,Ischemic muscular atrophy,10076004,SNOMED
+4003160,Fibrositis arm,203105008,SNOMED
+4003156,Contracture of long toe extensor(s),203080002,SNOMED
+4003155,Contracture of long toe flexor(s),203079000,SNOMED
+4003154,Contracture of tibialis posterior,203078008,SNOMED
+4003153,Contracture of tibialis anterior,203077003,SNOMED
+4003152,Contracture of quadriceps,203075006,SNOMED
+4003151,Contracture of abductor muscle(s) of hip,203073004,SNOMED
+4003150,Contracture of flexor digitorum profundus,203067000,SNOMED
+4003149,Contracture of thumb extensor,203065008,SNOMED
+4003143,Muscle abscess of lower leg,203028006,SNOMED
+4003142,Muscle abscess of pelvis,203026005,SNOMED
+4003141,Infective myositis of neck,203009004,SNOMED
+4002819,Fibrositis of neck,203104007,SNOMED
+4002816,Contracture of iliopsoas,203070001,SNOMED
+4002815,Contracture of wrist extensor muscle,203063001,SNOMED
+4002813,Myositis in sarcoidosis,203042003,SNOMED
+4002812,Immobility syndrome,203041005,SNOMED
+4344373,Trichinosis myositis,240117006,SNOMED
+4344370,Viral myalgia,240107001,SNOMED
+4344369,Chloroquine myopathy,240102007,SNOMED
+4344286,Myopathy due to snake bite,240100004,SNOMED
+4344285,Myopathy in hypoparathyroidism,240091005,SNOMED
+4344284,Autosomal recessive centronuclear myopathy,240081004,SNOMED
+4344283,Benign congenital muscular dystrophy with finger flexion contractures,240078009,SNOMED
+4344282,Autosomal recessive muscular dystrophy not predominantly limb girdle,240073000,SNOMED
+4344281,Congenital muscular dystrophy with arthrogryposis multiplex congenita,240061000,SNOMED
+4344279,Autosomal recessive muscular dystrophy with abnormal dystrophin-associated glycoprotein,240055003,SNOMED
+4344278,Manifesting female carrier of X-linked muscular dystrophy,240050008,SNOMED
+4344277,Intermediate X-linked muscular dystrophy,240049008,SNOMED
+4344276,X-linked muscular dystrophy with abnormal dystrophin,240048000,SNOMED
+4344161,Dermatomyositis with malignant disease,239901009,SNOMED
+4344160,Drug-induced polymyositis,239900005,SNOMED
+4344140,Non-traumatic rhabdomyolysis,240132004,SNOMED
+4344138,Traumatic rhabdomyolysis,240125008,SNOMED
+4344137,Intermuscular hematoma,240124007,SNOMED
+4344054,Focal nodular myositis,240119009,SNOMED
+4344053,Nematode myositis,240116002,SNOMED
+4344052,Fungal myositis,240111007,SNOMED
+4344051,Viral myositis,240105009,SNOMED
+4344050,Potassium depletion myopathy,240099007,SNOMED
+4344048,Myopathy in osteomalacia,240092003,SNOMED
+4344047,Benign congenital hypotonia,240080003,SNOMED
+4344046,Autosomal dominant muscular dystrophy not predominantly limb girdle,240075007,SNOMED
+4344045,Hutterite type of muscular dystrophy,240064008,SNOMED
+4344042,Muscular dystrophy with predominantly proximal limb girdle distribution,240046001,SNOMED
+4343926,Polymyositis with malignant disease,239898008,SNOMED
+4342897,Central tendon hernia,236058006,SNOMED
+4342637,Cricopharyngeal disorder,235631007,SNOMED
+4340668,Cricopharyngeal incoordination,235632000,SNOMED
+4340519,Traumatic diaphragmatic hernia,236059003,SNOMED
+4340514,Perineal incisional hernia,236047002,SNOMED
+4340503,Abscess iliopsoas non-tuberculous,235997006,SNOMED
+4340120,Cricopharyngeal bar,235633005,SNOMED
+4339191,Intermuscular hernia,88078006,SNOMED
+4339030,Vertical retraction syndrome,232113004,SNOMED
+4339028,Double elevator palsy,232109006,SNOMED
+4338676,Hypothyroid myopathy,87844004,SNOMED
+4336980,Generalized neuromuscular exhaustion syndrome,87842000,SNOMED
+4334266,Strabismus fixus,232112009,SNOMED
+4334100,Acute orbital myositis,231848005,SNOMED
+4330232,Velopharyngeal incompetence due to cleft palate,431040002,SNOMED
+4328879,Volkmann's ischemic contracture following injury,22025006,SNOMED
+4328807,Strain of rectus femoris muscle,430906009,SNOMED
+4328805,Strain of muscle of chest wall,430894003,SNOMED
+4327055,Amyotrophia congenita,75491005,SNOMED
+4326568,Nemaline myopathy,75072002,SNOMED
+4323060,Strain of triceps brachii muscle,428539005,SNOMED
+4322965,Spasm of the cricopharyngeus muscle,71363005,SNOMED
+4322567,Myoclonus of tensor tympani muscle,427789001,SNOMED
+4319607,Masticatory myositis,95771009,SNOMED
+4319324,Polymyalgia,95415006,SNOMED
+4317559,Neoplasm of uncertain behavior of muscle of thorax,94950004,SNOMED
+4317558,Neoplasm of uncertain behavior of muscle of lower limb,94945005,SNOMED
+4317557,Neoplasm of uncertain behavior of muscle of hip,94943003,SNOMED
+4317556,Neoplasm of uncertain behavior of muscle of face,94941001,SNOMED
+4317281,Hemorrhage of muscle,95422003,SNOMED
+4317279,Muscle spasms of head AND/OR neck,95418008,SNOMED
+4316511,Neoplasm of uncertain behavior of muscle of upper limb,94952007,SNOMED
+4316510,Neoplasm of uncertain behavior of muscle of trunk,94951000,SNOMED
+4316509,Neoplasm of uncertain behavior of muscle of head,94942008,SNOMED
+4316508,Neoplasm of uncertain behavior of muscle of buttock,94940000,SNOMED
+4316379,Neoplasm of uncertain behavior of diaphragm,94812006,SNOMED
+4316217,Primary fibromyalgia syndrome,95417003,SNOMED
+4315543,Secondary malignant neoplasm of muscle of trunk,94430006,SNOMED
+4315542,Secondary malignant neoplasm of muscle of inguinal region,94423000,SNOMED
+4315541,Secondary malignant neoplasm of muscle of abdomen,94418000,SNOMED
+4315530,Neoplasm of uncertain behavior of muscle of perineum,94948007,SNOMED
+4315529,Neoplasm of uncertain behavior of muscle of pelvis,94947002,SNOMED
+4315528,Neoplasm of uncertain behavior of muscle of inguinal region,94944009,SNOMED
+4314120,Poikilodermatomyositis,86365006,SNOMED
+4313879,Reflex blepharospasm,423753005,SNOMED
+4313797,Secondary malignant neoplasm of muscle of thorax,94429001,SNOMED
+4313796,Secondary malignant neoplasm of muscle of pelvis,94426008,SNOMED
+4313795,Secondary malignant neoplasm of muscle of head,94421003,SNOMED
+4313794,Secondary malignant neoplasm of muscle of buttock,94419008,SNOMED
+4313648,Neoplasm of uncertain behavior of muscle of shoulder,94949004,SNOMED
+4313647,Neoplasm of uncertain behavior of muscle of neck,94946006,SNOMED
+4313646,Neoplasm of uncertain behavior of muscle of abdomen,94939002,SNOMED
+4313610,Non dystrophic myotonia,424795008,SNOMED
+4312593,Secondary fibrositis,85879003,SNOMED
+4312555,Secondary malignant neoplasm of muscle of upper limb,94431005,SNOMED
+4312554,Secondary malignant neoplasm of muscle of shoulder,94428009,SNOMED
+4312553,Secondary malignant neoplasm of muscle of perineum,94427004,SNOMED
+4312552,Secondary malignant neoplasm of muscle of hip,94422005,SNOMED
+4312551,Secondary malignant neoplasm of muscle of face,94420002,SNOMED
+4312456,Accessory eye muscle,85697009,SNOMED
+4311876,Secondary malignant neoplasm of diaphragm,94272005,SNOMED
+4311491,Primary malignant neoplasm of muscle of shoulder,93909004,SNOMED
+4311490,Primary malignant neoplasm of muscle of pelvis,93907002,SNOMED
+4311489,Primary malignant neoplasm of muscle of neck,93906006,SNOMED
+4311488,Primary malignant neoplasm of muscle of lower limb,93905005,SNOMED
+4311487,Primary malignant neoplasm of muscle of face,93901001,SNOMED
+4311486,Primary malignant neoplasm of muscle of buttock,93900000,SNOMED
+4311485,Primary malignant neoplasm of muscle of abdomen,93899005,SNOMED
+4309176,Mechanical complication of muscle graft,213074003,SNOMED
+4308854,Injuries of muscles and tendons involving multiple body regions,213386007,SNOMED
+4308668,Becker muscular dystrophy,387732009,SNOMED
+4308103,Rupture of diaphragm,83336007,SNOMED
+4302678,Congenital absence of skeletal muscle,38776003,SNOMED
+4302459,Erb's muscular dystrophy,78468005,SNOMED
+4301289,Eosinophilia-myalgia syndrome from tryptophan,403735006,SNOMED
+4299778,Myomalacia,77897003,SNOMED
+4299767,Ophthalmoplegia plus syndrome,77835008,SNOMED
+4298555,Epidemic cervical myalgia,76821002,SNOMED
+4297463,Oculopharyngeal muscular dystrophy,77097004,SNOMED
+4297159,Minimal change myopathy,76492009,SNOMED
+4296601,Eosinophilic myopathy,76762001,SNOMED
+4296494,Denervation atrophy of tongue,403451002,SNOMED
+4296473,Duchenne muscular dystrophy,76670001,SNOMED
+4295455,Drug-induced dermatomyositis,403635000,SNOMED
+4294859,Congenital fibrosis of inferior rectus muscle,400947008,SNOMED
+4294833,Cloquet's hernia,75964002,SNOMED
+4290767,Congenital eventration of right crus of diaphragm,3733009,SNOMED
+4290159,"Cystinuria, type 1",37183000,SNOMED
+4288319,Perforation of diaphragm,69858000,SNOMED
+4284992,Thyrotoxic myopathy,68437005,SNOMED
+4284550,Glycogen storage disease type III,66937008,SNOMED
+4280235,Strain of thoracic region,66540002,SNOMED
+4278373,Psychogenic torticollis,65438001,SNOMED
+4275753,Drug-induced myasthenia,65242001,SNOMED
+4275136,Paralysis of diaphragm,64228003,SNOMED
+4270868,Adult onset dermatomyositis,402425006,SNOMED
+4270614,Amyotonia congenita,63135006,SNOMED
+4270506,Intradiaphragmatic abscess,63064000,SNOMED
+4270355,Downward displacement of diaphragm,62828005,SNOMED
+4270201,Talc granuloma of muscle,63753005,SNOMED
+4269631,Luft's hypermetabolic myopathy,62266001,SNOMED
+4269062,Diastasis recti,62629000,SNOMED
+4268879,Congenital fibrosis syndrome,400946004,SNOMED
+4268274,Superior oblique overaction,400941009,SNOMED
+4268273,Inferior oblique overaction,400940005,SNOMED
+4264727,Parasitic myositis,60970005,SNOMED
+4263710,Secondary myopathy,60738003,SNOMED
+4260534,Lian-Siguer-Welti syndrome,44939003,SNOMED
+4260394,Juvenile myopathy AND lactate acidosis,4477007,SNOMED
+4259508,Extraocular muscle restriction,410504008,SNOMED
+4259297,Quail myopathy of Lesbos,44997004,SNOMED
+4253625,Inferior rectus muscle restriction,410506005,SNOMED
+4250329,Diaphragmitis,73160007,SNOMED
+4250174,Denervation atrophy of muscle,74035001,SNOMED
+4249329,Megaconial myopathy,73782007,SNOMED
+4249303,Diaphragmatic hernia with gangrene AND obstruction,73651003,SNOMED
+4248082,Secondary malignant neoplasm of muscle of neck,94425007,SNOMED
+4248081,Secondary malignant neoplasm of muscle of lower limb,94424006,SNOMED
+4247908,Congenital absence of diaphragm,72424001,SNOMED
+4247840,Primary malignant neoplasm of muscle of upper limb,93912001,SNOMED
+4247839,Primary malignant neoplasm of muscle of trunk,93911008,SNOMED
+4247838,Primary malignant neoplasm of muscle of head,93902008,SNOMED
+4247825,Primary malignant neoplasm of diaphragm,93772000,SNOMED
+4247802,Muscular dystrophy,73297009,SNOMED
+4247337,Primary malignant neoplasm of muscle of thorax,93910009,SNOMED
+4246462,Lingual myositis,93155003,SNOMED
+4246135,Primary malignant neoplasm of muscle of perineum,93908007,SNOMED
+4246134,Primary malignant neoplasm of muscle of inguinal region,93904009,SNOMED
+4246133,Primary malignant neoplasm of muscle of hip,93903003,SNOMED
+4244589,Lethal multiple pterygium syndrome,60192008,SNOMED
+4244512,Poland anomaly,38371006,SNOMED
+4243769,Mitochondrial-lipid-glycogen storage myopathy,37934003,SNOMED
+4243438,Benign neoplasm of muscle of trunk,92235003,SNOMED
+4243437,Benign neoplasm of muscle of thorax,92234004,SNOMED
+4243436,Benign neoplasm of muscle of hip,92227001,SNOMED
+4243435,Benign neoplasm of muscle of abdomen,92223002,SNOMED
+4243215,Distal muscular dystrophy,58795000,SNOMED
+4242808,Benign neoplasm of muscle of inguinal region,92228006,SNOMED
+4242366,Benign neoplasm of muscle of shoulder,92233005,SNOMED
+4242365,Benign neoplasm of muscle of perineum,92232000,SNOMED
+4242364,Benign neoplasm of muscle of pelvis,92231007,SNOMED
+4242363,Benign neoplasm of muscle of lower limb,92229003,SNOMED
+4242362,Benign neoplasm of muscle of face,92225009,SNOMED
+4241644,Benign neoplasm of diaphragm,92077009,SNOMED
+4240027,Benign neoplasm of muscle of upper limb,92236002,SNOMED
+4240025,Benign neoplasm of muscle of neck,92230008,SNOMED
+4240024,Benign neoplasm of muscle of head,92226005,SNOMED
+4240023,Benign neoplasm of muscle of buttock,92224008,SNOMED
+4237155,Eaton-Lambert syndrome,56989000,SNOMED
+4236361,Traumatic torticollis,360444002,SNOMED
+4235779,Strain of neck muscle,360450007,SNOMED
+4235431,Muscle AMP deaminase deficiency,9105005,SNOMED
+4234133,Haff syndrome,359569009,SNOMED
+4234123,Rotator cuff impingement syndrome,359532006,SNOMED
+4233947,Grisel's syndrome,89902003,SNOMED
+4233941,Congenital anomaly of skeletal muscle,89886004,SNOMED
+4232959,Myotonia levior,8960007,SNOMED
+4231627,Myoglobinuria following ingestion of eel,359565003,SNOMED
+4230040,"Glycogen storage disease, type VII",89597008,SNOMED
+4229830,Strain of trapezius muscle,438505003,SNOMED
+4228668,Cricopharyngeus muscle dysfunction,88539002,SNOMED
+4228213,Elevated diaphragm,88936002,SNOMED
+4227734,Partial thenar atrophy,87698003,SNOMED
+4225410,Myotonia acquisita,85034001,SNOMED
+4224937,Obstructed ischiorectal hernia,84739008,SNOMED
+4222754,Familial normokalemic periodic paralysis,40381009,SNOMED
+4221408,Familial hypokalemic periodic paralysis,82732003,SNOMED
+4219010,"Juvenile myopathy, encephalopathy, lactic acidosis AND stroke",39925003,SNOMED
+4218799,Muscular hypertonicity,41581000,SNOMED
+4218766,Exertional rhabdomyolysis,72960004,SNOMED
+4218407,Myotubular myopathy,82077006,SNOMED
+4216406,Inclusion body myositis,72315009,SNOMED
+4216194,Adhesion of diaphragm,81445002,SNOMED
+4216103,Carcinomatous myopathic syndrome,71985006,SNOMED
+4215003,Myasthenic crisis,80976008,SNOMED
+4212562,Perineal hernia,415074004,SNOMED
+4212470,D√©br√©-S√©m√©laigne's syndrome,41505007,SNOMED
+4212349,"Congenital myotonia, autosomal dominant form",57938005,SNOMED
+4211345,Anterior perineal hernia,413551009,SNOMED
+4208961,Superior rectus underaction,313160006,SNOMED
+4208264,Muscle contracture,55033002,SNOMED
+4207805,Idiopathic myoglobinuria,5523002,SNOMED
+4205714,Hereditary myopathy associated with hydrocephalus,53387004,SNOMED
+4205399,Lumbosacral strain,309710005,SNOMED
+4204824,Multi-core congenital myopathy,55133004,SNOMED
+4204694,"Myasthenia gravis, juvenile form",55051001,SNOMED
+4204523,Congenital muscular hypertrophy-cerebral syndrome,55016009,SNOMED
+4201607,Myopathy in Cushing's disease,53509000,SNOMED
+4201280,Asymmetric crying face association,51409009,SNOMED
+4198760,Rupture of distal quadriceps muscle,433098000,SNOMED
+4197114,Jaw-winking syndrome,5127009,SNOMED
+4196639,Isaacs syndrome,80138003,SNOMED
+4196572,Inferior oblique underaction,313163008,SNOMED
+4196571,Medial rectus underaction,313162003,SNOMED
+4196570,Inferior rectus underaction,313161005,SNOMED
+4195776,Nutritional myopathy,44253006,SNOMED
+4195688,Ocular muscular dystrophy,67747009,SNOMED
+4195075,Congenital myopathy with abnormal subcellular organelles,68186003,SNOMED
+4194894,Muscle and tendon injury,312847008,SNOMED
+4194629,Antibiotic-induced neuromuscular blocking,67725009,SNOMED
+4190653,Posterior perineal hernia,415148007,SNOMED
+4189667,Ocular myasthenia with strabismus,414927004,SNOMED
+4188585,Paramyotonia congenita,41574007,SNOMED
+4188224,Severe x-linked myotubular myopathy,46804001,SNOMED
+4185544,"Glycogen storage disease, type V",55912009,SNOMED
+4183172,Complete rectal prolapse with displacement of anal sphincter,43411001,SNOMED
+4182733,Sarcotubular myopathy,43226001,SNOMED
+4182404,Central core disease,43152001,SNOMED
+4182388,Lethal neonatal spasticity,54364001,SNOMED
+4181309,Rupture of pectoralis major muscle,428761002,SNOMED
+4181170,Congenital nonprogressive myopathy with Moebius and Robin sequences,429753001,SNOMED
+4180607,Strain of flexor muscle of hip,429722003,SNOMED
+4180126,Traumatic injury of skeletal muscle,429340002,SNOMED
+4179650,Congenital velopharyngeal incompetence,427791009,SNOMED
+4178464,Rupture of hip adductor muscle,428774008,SNOMED
+4178460,Traumatic rupture of skeletal muscle,428757008,SNOMED
+4178158,Rupture of proximal quadriceps muscle,428537007,SNOMED
+4176953,Neonatal neuromuscular disorder,363222009,SNOMED
+4176943,Infectious disorder of muscle,363163005,SNOMED
+4176782,Reducing-body myopathy,42779002,SNOMED
+4176297,Dysfunction of inferior oblique muscle,427884004,SNOMED
+4175786,Ophthalmoplegic migraine,49605003,SNOMED
+37110663,Strain of extensor muscle of finger at forearm level,724974004,SNOMED
+37110656,Strain of flexor muscle at forearm level,724965001,SNOMED
+37110655,Laceration of flexor muscle of finger at forearm level,724959001,SNOMED
+37110653,Strain of flexor muscle of finger at forearm level,724956008,SNOMED
+37110651,Injury of flexor muscle of finger at forearm level,724953000,SNOMED
+37110649,Laceration of flexor muscle of thumb at forearm level,724950002,SNOMED
+37110648,Injury of flexor muscle of thumb at forearm level,724944007,SNOMED
+37110645,Injury of muscle at forearm level,724940003,SNOMED
+37110641,Laceration of triceps brachii,724935006,SNOMED
+37110637,Injury of triceps brachii muscle,724930001,SNOMED
+37110632,Strain of biceps brachii muscle,724924001,SNOMED
+37110629,Injury of biceps brachii muscle,724921009,SNOMED
+37110626,Laceration of muscle of long head of biceps brachii,724918007,SNOMED
+37110622,Injury of muscle of long head of biceps,724913003,SNOMED
+37110615,Injury of muscle at shoulder level,724905004,SNOMED
+37110612,Laceration of muscle of pelvis,724902001,SNOMED
+37110609,Laceration of muscle of lower back,724899004,SNOMED
+37110605,Strain of muscle of pelvis,724893003,SNOMED
+37110596,Injury of muscle of thorax,724880008,SNOMED
+37110338,Myopathy co-occurrent and due to hypercalcemia,724559006,SNOMED
+37110271,Female pelvic floor dysfunction,724471003,SNOMED
+37110185,"Hereditary inclusion body myopathy, joint contracture, ophthalmoplegia syndrome",724349009,SNOMED
+37110103,Laryngeal abductor paralysis with intellectual disability syndrome,724178000,SNOMED
+37110070,Mitochondrial myopathy with sideroblastic anemia syndrome,724138007,SNOMED
+37110063,Myopathy due to calsequestrin and SERCA1 protein overload,724095006,SNOMED
+37110042,Pericardial and diaphragmatic defect syndrome,724068001,SNOMED
+37109665,Native American myopathy,723439002,SNOMED
+37109644,Muscular dystrophy Selcen type,723407009,SNOMED
+37109579,Epidermolysis bullosa simplex with muscular dystrophy,723308003,SNOMED
+37108907,Right superior oblique muscle dysfunction,1.57008E+16,SNOMED
+37108733,Strain of muscle of left posterior lower leg,1.18581E+16,SNOMED
+37108569,Injury of diaphragm during surgery,1.0561E+13,SNOMED
+37018891,Myopathy due to Cushing's syndrome,2.29221E+14,SNOMED
+37017646,Spasmodic torticollis as late effect of trauma,713956000,SNOMED
+37016108,Necrosis of lower leg muscle co-occurrent and due to chronic ulcer of lower leg,1.06415E+16,SNOMED
+36717700,Atrophy of gluteus maximus muscle,719189006,SNOMED
+36717509,Puerto Rican infant hypotonia syndrome,721887007,SNOMED
+36717073,Atrophy of deltoid muscle,719191003,SNOMED
+36717072,Atrophy of latissimus dorsi muscle,719187008,SNOMED
+36716902,Secondary rhabdomyolysis,723133009,SNOMED
+36716807,Autoimmune myopathy,722991004,SNOMED
+36716682,Avulsion of levator ani from symphysis pubis in female,722833004,SNOMED
+36716671,Strain of muscle of wrist,722812008,SNOMED
+36716451,Meacham syndrome,722461004,SNOMED
+36716447,"Intellectual disability, developmental delay, contracture syndrome",722456001,SNOMED
+36716429,"Duane anomaly, myopathy, scoliosis syndrome",722432000,SNOMED
+36716263,Severe X-linked mitochondrial encephalomyopathy,722212004,SNOMED
+36716065,Strain of muscle of anterior chest wall,721908003,SNOMED
+36715613,Laceration of muscle of head,721338004,SNOMED
+36715482,Hypotonia cystinuria syndrome,721173005,SNOMED
+36715421,"Diaphragmatic defect, limb deficiency, skull defect syndrome",721095007,SNOMED
+36715224,Craniofrontonasal dysplasia with Poland anomaly syndrome,720757001,SNOMED
+36715055,Autosomal recessive limb girdle muscular dystrophy type 2K,720523006,SNOMED
+36715054,Autosomal recessive limb girdle muscular dystrophy type 2G,720522001,SNOMED
+36714671,Autosomal dominant limb girdle muscular dystrophy type 1G,719990003,SNOMED
+36714670,Autosomal dominant limb girdle muscular dystrophy type 1F,719989007,SNOMED
+36714669,Autosomal dominant limb girdle muscular dystrophy type 1E,719988004,SNOMED
+36714668,Autosomal dominant limb girdle muscular dystrophy type 1D,719987009,SNOMED
+36714667,Autosomal dominant limb girdle muscular dystrophy type 1C,719986000,SNOMED
+36714666,Autosomal dominant limb girdle muscular dystrophy type 1A,719985001,SNOMED
+36714532,X-linked myopathy with excessive autophagy,719815005,SNOMED
+36714338,Benign paroxysmal torticollis of infancy,719521002,SNOMED
+36714255,Malignant hyperthermia with arthrogryposis and torticollis syndrome,719398004,SNOMED
+36714095,Atrophy of gastrocnemius muscle,719190002,SNOMED
+36714094,Atrophy of interosseous muscle of hand,719188003,SNOMED
+36714093,Atrophy of pectoral muscle,719186004,SNOMED
+36714092,Atrophy of temporalis muscle,719185000,SNOMED
+36714091,Atrophy of trapezius muscle,719184001,SNOMED
+36714090,Atrophy of quadriceps femoris muscle,719183007,SNOMED
+36714069,X-linked intellectual disability and hypotonia with facial dysmorphism and aggressive behavior syndrome,719157002,SNOMED
+36713857,Autosomal recessive limb girdle muscular dystrophy type 2E,718850008,SNOMED
+36713761,Hypertrophic cardiomyopathy with hypotonia and lactic acidosis syndrome,718713000,SNOMED
+36713650,Bethlem myopathy,718572004,SNOMED
+36713473,"Congenital cataract, hypertrophic cardiomyopathy, mitochondrial myopathy syndrome",717812000,SNOMED
+36687084,Hypertrophy of left masseter muscle,1.57478E+16,SNOMED
+36687083,Hypertrophy of right masseter muscle,1.57478E+16,SNOMED
+36687021,Bilateral atrophy of muscle of lower legs,1.57044E+16,SNOMED
+36687020,Bilateral contracture of muscle of upper arms,1.57039E+16,SNOMED
+36687019,Bilateral contracture of muscle of hands,1.57038E+16,SNOMED
+36687018,Bilateral muscle contracture of lower legs,1.57038E+16,SNOMED
+36687011,Bilateral dysfunction of inferior oblique muscles of eyes,1.57009E+16,SNOMED
+36687010,Bilateral superior oblique muscle dysfunction,1.57008E+16,SNOMED
+36686927,Bilateral blepharospasm,1.56313E+16,SNOMED
+36686926,Blepharospasm of left eyelid,1.56313E+16,SNOMED
+36686925,Blepharospasm of right eyelid,1.56313E+16,SNOMED
+36686516,Strain of muscle of left lower leg,1.1858E+16,SNOMED
+36686515,Strain of muscle of right lower leg,1.1858E+16,SNOMED
+36686511,Injury of muscle of left foot,1.18544E+16,SNOMED
+36686510,Injury of muscle of right foot,1.18544E+16,SNOMED
+36686481,Laceration of muscle of face,1.18471E+16,SNOMED
+36686470,Strain of muscle of left foot,1.18428E+16,SNOMED
+36686469,Strain of muscle of right foot,1.18427E+16,SNOMED
+36686468,Laceration of muscle of left foot,1.18427E+16,SNOMED
+36686467,Laceration of muscle of right foot,1.18427E+16,SNOMED
+36686460,Strain of intrinsic muscle of right thumb,1.18391E+16,SNOMED
+36686459,Strain of muscle of right hand,1.18391E+16,SNOMED
+36686458,Strain of intrinsic muscle of left thumb,1.18389E+16,SNOMED
+36686447,Strain of muscle of left hand,1.18267E+16,SNOMED
+36686407,Laceration of muscle of chest wall,1.17979E+16,SNOMED
+36686398,Laceration of diaphragm,1.17944E+16,SNOMED
+36684554,Atrophy of muscle of right upper arm,3.13931E+14,SNOMED
+36684553,Atrophy of muscle of right thigh,3.13921E+14,SNOMED
+36684552,Atrophy of muscle of right shoulder,3.13911E+14,SNOMED
+36684551,Atrophy of muscle of right lower leg,3.13901E+14,SNOMED
+36684550,Atrophy of muscle of right hand,3.13891E+14,SNOMED
+36684549,Atrophy of muscle of left upper arm,3.13841E+14,SNOMED
+36684548,Atrophy of muscle of left thigh,3.13831E+14,SNOMED
+36684547,Atrophy of muscle of left shoulder,3.13821E+14,SNOMED
+36684546,Atrophy of muscle of left lower leg,3.13811E+14,SNOMED
+36684545,Atrophy of muscle of left hand,3.13801E+14,SNOMED
+36684497,Contracture of muscle of right upper arm,3.05421E+14,SNOMED
+36684496,Contracture of muscle of right lower leg,3.05391E+14,SNOMED
+36684495,Contracture of muscle of right hand,3.05381E+14,SNOMED
+36684494,Contracture of muscle of left upper arm,3.05341E+14,SNOMED
+36684493,Contracture of muscle of left lower leg,3.05311E+14,SNOMED
+36684492,Contracture of muscle of left hand,3.05301E+14,SNOMED
+36684460,Myofascial pain syndrome of lumbar spine,1.13611E+14,SNOMED
+36684439,Strain of intercostal muscle,4.1821E+13,SNOMED
+36684438,Myofascial pain syndrome of thoracic spine,4.1321E+13,SNOMED
+36683538,Strain of plantaris tendon,781440000,SNOMED
+36680602,Idiopathic eosinophilic myositis,778050009,SNOMED
+36680590,FASTKD2-related infantile mitochondrial encephalomyopathy,778029000,SNOMED
+36676872,Dysfunction of inferior oblique muscle of left eye,774176004,SNOMED
+36676871,Dysfunction of inferior oblique muscle of right eye,774175000,SNOMED
+36676859,Periodic paralysis with later-onset distal motor neuropathy,774154008,SNOMED
+36676858,Periodic paralysis with transient compartment-like syndrome,774153002,SNOMED
+36676853,Polyglucosan body myopathy type 1,774148007,SNOMED
+36676582,Childhood-onset spasticity with hyperglycinemia,773492007,SNOMED
+36676498,"Congenital cataract, progressive muscular hypotonia, hearing loss, developmental delay syndrome",773398005,SNOMED
+36676429,Congenital lethal myopathy Compton North type,773306002,SNOMED
+36676398,Irreducible perineal hernia,773272002,SNOMED
+36676396,Gangrene co-occurrent and due to perineal hernia,773270005,SNOMED
+36676395,Obstruction co-occurrent and due to perineal hernia,773269009,SNOMED
+36675174,Hypertrophic cardiomyopathy and renal tubular disease due to mitochondrial DNA mutation,771509001,SNOMED
+36675058,Autosomal dominant limb-girdle muscular dystrophy type 1H,771334000,SNOMED
+36675042,"Hereditary fibrosing poikiloderma, tendon contractures, myopathy, pulmonary fibrosis syndrome",771306007,SNOMED
+36675038,Autosomal recessive lower motor neuron disease with childhood onset,771302009,SNOMED
+36675030,Congenital muscular dystrophy with integrin alpha-7 deficiency,771267003,SNOMED
+36675029,"Torticollis, keloids, cryptorchidism, renal dysplasia syndrome",771266007,SNOMED
+36675024,Digital extensor muscle aplasia with polyneuropathy,771261002,SNOMED
+36675015,Deep full thickness burn involving muscle,771244000,SNOMED
+36674905,Adult-onset distal myopathy due to valosin containing protein mutation,770792007,SNOMED
+36674900,Benign Samaritan congenital myopathy,770787005,SNOMED
+36674899,Hereditary inclusion body myopathy type 4,770786001,SNOMED
+36674866,Proximal myopathy with extrapyramidal signs,770722002,SNOMED
+36674808,"Microcephalus, brain defect, spasticity, hypernatremia syndrome",770655004,SNOMED
+36674789,Desmin-related myofibrillar myopathy,770627003,SNOMED
+36674764,Rippling muscle disease with myasthenia gravis,770596007,SNOMED
+36674729,Late-onset distal myopathy Markesbery Griggs type,770558006,SNOMED
+36674517,Atypical hypotonia cystinuria syndrome,778025006,SNOMED
+36674477,Neonatal dermatomyositis,774082004,SNOMED
+36674391,X-linked myopathy with postural muscle atrophy,773729007,SNOMED
+36674346,Sarcopenia,772791006,SNOMED
+36674283,Congenital muscular dystrophy due to LMNA mutation,771272007,SNOMED
+36674193,X-linked parkinsonism with spasticity syndrome,770757004,SNOMED
+35624533,Congenital absence of left hemidiaphragm,767326000,SNOMED
+35624124,Metabolic myopathy due to lactate transporter defect,766715000,SNOMED
+35624118,Inflammatory myopathy with abundant macrophages,766706007,SNOMED
+35623823,Juvenile overlap myositis,766252004,SNOMED
+35623822,Lethal infantile mitochondrial myopathy,766251006,SNOMED
+35623098,FBXL4-related encephalomyopathic mitochondrial DNA depletion syndrome,765403009,SNOMED
+35623097,Mitochondrial DNA depletion syndrome encephalomyopathic form,765401006,SNOMED
+35622950,Distal myotilinopathy,765196004,SNOMED
+35622874,"RRM2B-related mitochondrial DNA depletion syndrome, encephalomyopathic form with renal tubulopathy",765100000,SNOMED
+35622872,Spheroid body myopathy,765092004,SNOMED
+35622801,Myopathy with hexagonally cross-linked tubular arrays,764994007,SNOMED
+35622799,Muscle filaminopathy,764992006,SNOMED
+35622777,"Intellectual disability, myopathy, short stature, endocrine defect syndrome",764959000,SNOMED
+35622775,King Denborough syndrome,764957003,SNOMED
+35622764,Congenital myopathy with internal nuclei and atypical cores,764945007,SNOMED
+35622763,Congenital muscular dystrophy type 1B,764944006,SNOMED
+35622700,Laing early-onset distal myopathy,764859001,SNOMED
+35622689,Autosomal recessive myogenic arthrogryposis multiplex congenita,764812008,SNOMED
+35622410,Myosclerosis,763895001,SNOMED
+35622370,Oculopharyngodistal myopathy,763829004,SNOMED
+35622344,KLHL9-related early-onset distal myopathy,763776004,SNOMED
+35622311,Finnish upper limb onset distal myopathy,763718009,SNOMED
+35622286,"Deafness, encephaloneuropathy, obesity, valvulopathy syndrome",763688008,SNOMED
+35622040,Familial dyskinesia and facial myokymia,763352005,SNOMED
+35622034,Lethal congenital contracture syndrome type 5,763346009,SNOMED
+35622007,Congenital myopathy with myasthenic-like onset,763315005,SNOMED
+35622006,Congenital muscular dystrophy with hyperlaxity,763314009,SNOMED
+35614921,Congenital absence of right hemidiaphragm,767327009,SNOMED
+35608124,Symptomatic form of muscular dystrophy of Duchenne and Becker in female carrier,765197008,SNOMED
+35608088,"Progressive external ophthalmoplegia, myopathy, emaciation syndrome",764733009,SNOMED
+35608026,Cylindrical spirals myopathy,764525006,SNOMED
+4347293,Severe systemic illness respiratory muscle fatigue,240130007,SNOMED
+4347292,Muscle cachexia,240128005,SNOMED
+4347290,Cysticercosis myositis,240114004,SNOMED
+4347288,Human immunodeficiency virus myopathy,240103002,SNOMED
+4347287,Drug-induced myopathy,240101000,SNOMED
+4347286,Protein deficiency myopathy,240098004,SNOMED
+4347284,Myopathy in hyperparathyroidism,240090006,SNOMED
+4347283,Congenital myopathy with uniform fiber type,240085008,SNOMED
+4347282,Congenital myopathy with fiber type disproportion,240084007,SNOMED
+4347281,Myopathy with type I hypotrophy,240083001,SNOMED
+4347280,Myopathy with abnormality of histochemical fiber type,240082006,SNOMED
+4347193,Benign scapuloperoneal muscular dystrophy,240076008,SNOMED
+4347192,Scapulohumeral muscular dystrophy,240074006,SNOMED
+4347191,Late onset proximal muscular dystrophy with dysarthria,240069003,SNOMED
+4347190,Autosomal dominant muscular dystrophy with gene located at 5q31,240068006,SNOMED
+4347189,Autosomal dominant muscular dystrophy with limb girdle distribution,240067001,SNOMED
+4347187,Adult onset autosomal recessive muscular dystrophy with normal dystrophin,240065009,SNOMED
+4347186,Eichsfeld type congenital muscular dystrophy,240063002,SNOMED
+4347185,Autosomal recessive muscular dystrophy with limb girdle distribution,240054004,SNOMED
+4347184,Hereditary myopathy limited to females,240053005,SNOMED
+4347183,X-linked limb girdle muscular dystrophy with normal dystrophin,240051007,SNOMED
+4347181,Fibrositis and nodular fasciitis,240044003,SNOMED
+4346977,Polymyositis associated with autoimmune disease,239899000,SNOMED
+4345579,Familial paroxysmal rhabdomyolysis,240133009,SNOMED
+4345578,Rhabdomyolysis,240131006,SNOMED
+4345577,Ischemic infarction of muscle,240126009,SNOMED
+4345576,Eosinophilic polymyositis,240120003,SNOMED
+4345575,Toxocariasis myositis,240118001,SNOMED
+4345574,Hydatidosis myositis,240115003,SNOMED
+4345573,Cestode myositis,240113005,SNOMED
+4345572,Protozoal myositis,240112000,SNOMED
+4345571,Benign acute myositis,240106005,SNOMED
+4345570,Lipid storage myopathy,240095001,SNOMED
+4345569,Myopathy in acromegaly,240089002,SNOMED
+4345567,Myopathy with tubular aggregates,240087000,SNOMED
+4345566,Myopathy with cytoplasmic inclusions,240086009,SNOMED
+4345565,Severe scapuloperoneal muscular dystrophy with cardiomyopathy,240077004,SNOMED
+4345564,Benign scapuloperoneal muscular dystrophy with cardiomyopathy,240072005,SNOMED
+4345563,X-linked muscular dystrophy not predominantly limb girdle,240071003,SNOMED
+4345481,Muscular dystrophy not predominantly limb girdle in distribution,240070002,SNOMED
+4344608,Ullrich congenital muscular dystrophy,240062007,SNOMED
+4344607,Western type of congenital muscular dystrophy,240060004,SNOMED
+4344606,Reunion-Indiana Amish type muscular dystrophy,240058001,SNOMED
+4344605,Ji muscular dystrophy,240052000,SNOMED
+4344604,X-linked muscular dystrophy with limb girdle distribution,240047005,SNOMED
+44783212,Myofibrillar myopathy,699269005,SNOMED
+44783211,Myopathy with deficiency of iron-sulfur cluster assembly enzyme,699268002,SNOMED
+44783210,Myosin storage myopathy,699267007,SNOMED
+44783194,Fibrous dysplasia of bone with intramuscular myxoma,699251001,SNOMED
+44782849,Tibial muscular dystrophy,698846009,SNOMED
+44782662,Borderline velopharyngeal insufficiency,699129001,SNOMED
+43531620,Symptomatic inflammatory myopathy,2.4861E+13,SNOMED
+43531610,Spasticity as sequela of stroke,1.08691E+14,SNOMED
+43531595,Weakness of extremities as sequela of stroke,9.2341E+13,SNOMED
+43531561,Myasthenia gravis without exacerbation,7.7471E+13,SNOMED
+43531560,Myasthenia gravis with exacerbation,7.7461E+13,SNOMED
+43531175,Eaton Lambert syndrome with underlying malignancy,608874000,SNOMED
+43530804,Entrapment of extraocular muscle,609325001,SNOMED
+43530744,Weakness of face muscles as sequela of stroke,4.0161E+13,SNOMED
+43530740,Ocular torticollis,3.4241E+13,SNOMED
+43530737,Laryngeal dystonia,3.331E+12,SNOMED
+43530726,Eaton Lambert syndrome without underlying malignancy,2.92991E+14,SNOMED
+43021906,Maternally inherited mitochondrial cardiomyopathy and myopathy,472320005,SNOMED
+42873049,Strain of hamstring muscle,4.81E+11,SNOMED
+42872414,Muscle spasm of cervical muscle of neck,3.01E+11,SNOMED
+42709937,Type 3c third degree laceration of perineum,449809008,SNOMED
+42709936,Type 3b third degree laceration of perineum,449808000,SNOMED
+42709935,Type 3a third degree laceration of perineum,449807005,SNOMED
+42539790,Injury of intrinsic muscle of foot,726322006,SNOMED
+42539484,Strain of muscle of right posterior lower leg,1.18581E+16,SNOMED
+42539260,Weakness of right facial muscle as sequela of cerebrovascular accident,1.22428E+16,SNOMED
+42539254,Weakness of right facial muscle as sequela of cerebrovascular disease,1.59823E+16,SNOMED
+42539094,Injury of muscle of abdomen,737252002,SNOMED
+42539044,Laceration of muscle of rotator cuff,735803005,SNOMED
+42538838,Stimulation of muscle pocket as complication of implantation of cardiac pacemaker,762668000,SNOMED
+42538837,Stimulation of muscle pocket as complication of implantation of automatic cardiac defibrillator,762667005,SNOMED
+42538014,Juvenile polymyositis,738526005,SNOMED
+42537715,Injury of muscle of pelvis,737255000,SNOMED
+42537714,Injury of muscle of lower back,737254001,SNOMED
+42536831,Strain of quadriceps muscle,735839004,SNOMED
+42536586,Myositis caused by Mycobacterium tuberculosis,735517008,SNOMED
+42535730,Strain of intrinsic muscle of foot,726325008,SNOMED
+42535726,Laceration of posterior muscle of thigh,726240007,SNOMED
+42535724,Laceration of adductor muscle of thigh,726231008,SNOMED
+42535719,Injury of intrinsic muscle of thumb,726190000,SNOMED
+42535702,Weakness of facial muscle as sequela of embolic cerebrovascular accident,6.90171E+14,SNOMED
+42535688,Weakness of facial muscle as sequela of ischemic cerebrovascular accident,6.74381E+14,SNOMED
+42535102,Myokymia of right superior oblique muscle,1.5984E+16,SNOMED
+42535101,Myokymia of left superior oblique muscle,1.5984E+16,SNOMED
+42535100,Weakness of left facial muscle as sequela of cerebrovascular disease,1.59823E+16,SNOMED
+42534983,Weakness of left facial muscle as sequela of cerebrovascular accident,1.22427E+16,SNOMED
+40625963,Ischiorectal hernia,77609009,SNOMED
+40491902,Mitochondrial encephalomyopathy,447292006,SNOMED
+40487824,Traumatic injury of popliteus muscle,446411005,SNOMED
+40486980,Open wound of muscle of forearm,446264007,SNOMED
+40486907,Strain of supraspinatus muscle,446199003,SNOMED
+40486906,Strain of infraspinatus muscle,446198006,SNOMED
+40486607,Congenital posterolateral diaphragmatic hernia,447821002,SNOMED
+40483721,Autoimmune inflammation of skeletal muscle,443899007,SNOMED
+40483590,Paraneoplastic myositis,442486007,SNOMED
+40483134,Strain of muscle and/or tendon of thigh,442372009,SNOMED
+40482683,Strain of muscle and/or tendon of forearm,442265005,SNOMED
+40482209,Strain of muscle and/or tendon of elbow region,442130003,SNOMED
+40481837,Strain of muscle of face,442092007,SNOMED
+40481325,Strain of muscle and/or tendon of lower leg,441933004,SNOMED
+40480217,Atrophy of skeletal muscle of pelvis,444606000,SNOMED
+40480208,Relaxation of pelvic floor,444599008,SNOMED
+40480009,Myotonia due to drug,441636005,SNOMED
+37399401,Autosomal recessive limb girdle muscular dystrophy type 2C,718176005,SNOMED
+37399011,Autosomal dominant centronuclear myopathy,716696006,SNOMED
+37398942,Acetazolamide responsive myotonia,715793003,SNOMED
+37397550,Mitochondrial neurogastrointestinal encephalomyopathy syndrome,718214007,SNOMED
+37397548,TMEM70 related mitochondrial encephalo-cardio-myopathy,718212006,SNOMED
+37397524,Autosomal recessive limb girdle muscular dystrophy type 2I,718180000,SNOMED
+37397523,Autosomal recessive limb girdle muscular dystrophy type 2B,718179003,SNOMED
+37397522,Autosomal dominant limb girdle muscular dystrophy type 1B,718178006,SNOMED
+37397521,Autosomal recessive limb girdle muscular dystrophy type 2F,718177001,SNOMED
+37397520,Macrophagic myofasciitis,718175009,SNOMED
+37397207,Sensory ataxic neuropathy with dysarthria and ophthalmoparesis syndrome,717266001,SNOMED
+37396824,Chronic hiccup,716771000,SNOMED
+37396784,Genetic recurrent myoglobinuria,716721003,SNOMED
+37396504,Hoffman syndrome,716338001,SNOMED
+37396333,Hand muscle strain,716102003,SNOMED
+37396156,Autoimmune necrotizing myopathy,715863001,SNOMED
+37396104,Myotonia permanens,715789009,SNOMED
+37396103,Myotonia fluctuans,715788001,SNOMED
+37395994,Desmin related myopathy with Mallory body-like inclusions,715646003,SNOMED
+37395900,Spastic paraparesis and deafness,715504003,SNOMED
+37395848,Congenital muscular dystrophy with infantile cataract and hypogonadism syndrome,715429006,SNOMED
+37395841,Lethal congenital contracture syndrome type 2,715419004,SNOMED
+37395782,Autosomal recessive limb girdle muscular dystrophy type 2A,715341003,SNOMED
+37395781,Autosomal recessive limb girdle muscular dystrophy type 2D,715340002,SNOMED
+37395779,Fatal infantile lactic acidosis with methylmalonic aciduria,715338007,SNOMED
+37395761,Proximal myotonic myopathy,715317001,SNOMED
+37395588,Juvenile dermatomyositis co-occurrent with respiratory involvement,3.11671E+14,SNOMED
+37311235,Muscle paresis due to and following neuromuscular blockade,823018004,SNOMED
+37311234,Muscle paralysis due to and following neuromuscular blockade,823019007,SNOMED
+37311116,Autosomal dominant progressive external ophthalmoplegia,827115000,SNOMED
+37311114,Autosomal recessive progressive external ophthalmoplegia,827117008,SNOMED
+37310087,Laceration of muscle of left upper arm,1.17753E+16,SNOMED
+37310075,Laceration of muscle of right forearm,1.17731E+16,SNOMED
+37310074,Laceration of muscle of left forearm,1.17732E+16,SNOMED
+37310068,Laceration of muscle of right upper arm,1.17752E+16,SNOMED
+37310065,Laceration of left biceps brachii muscle,1.17773E+16,SNOMED
+37310060,Injury of muscle of right upper arm,1.17805E+16,SNOMED
+37310059,Injury of muscle of left upper arm,1.17805E+16,SNOMED
+37310058,Laceration of right biceps brachii muscle,1.1781E+16,SNOMED
+37309977,Injury of muscle of right thigh,1.18285E+16,SNOMED
+37309976,Injury of muscle of left thigh,1.18286E+16,SNOMED
+37309975,Laceration of muscle of right hand,1.18297E+16,SNOMED
+37309974,Laceration of muscle of left hand,1.18298E+16,SNOMED
+37309963,Injury of intrinsic muscle of right hand,1.18394E+16,SNOMED
+37309962,Injury of intrinsic muscle of left hand,1.18395E+16,SNOMED
+37309949,Injury of right peroneal muscle,1.18616E+16,SNOMED
+37309948,Injury of left peroneal muscle,1.18617E+16,SNOMED
+37309940,Injury of muscle of right lower leg,1.1865E+16,SNOMED
+37309939,Injury of muscle of left lower leg,1.1865E+16,SNOMED
+37309761,Bilateral myositis of lower legs,1.56773E+16,SNOMED
+37209310,Congenital absence of right pectoral muscle,1.56691E+16,SNOMED
+37209309,Congenital absence of left pectoral muscle,1.5669E+16,SNOMED
+37209303,Congenital deformity of left sternocleidomastoid muscle,1.5665E+16,SNOMED
+37207424,Severe muscle atrophy,1.8321E+13,SNOMED
+37207423,Moderate muscle atrophy,1.8311E+13,SNOMED
+37207422,Mild muscle atrophy,1.8301E+13,SNOMED
+37206826,Childhood-onset autosomal recessive myopathy with external ophthalmoplegia,787172004,SNOMED
+37206250,Contracture of muscle following injury,785903005,SNOMED
+37205773,"Multiple congenital anomalies, hypotonia, seizures syndrome",785303004,SNOMED
+37205083,Mitochondrial myopathy with reversible cytochrome C oxidase deficiency,784370005,SNOMED
+37205074,X-linked scapuloperoneal muscular dystrophy,784352007,SNOMED
+37204851,Alpha-B crystallin-related late-onset myopathy,783770002,SNOMED
+37204818,Myopathy and diabetes mellitus,783722008,SNOMED
+37204689,Autosomal recessive limb girdle muscular dystrophy type 2U,783554002,SNOMED
+37204506,Congenital muscular dystrophy with cerebellar involvement,783176002,SNOMED
+37204505,Congenital muscular dystrophy without intellectual disability,783175003,SNOMED
+37204504,Congenital muscular dystrophy with intellectual disability,783174004,SNOMED
+37204498,Distal anoctaminopathy,783166000,SNOMED
+37204491,Leigh syndrome with nephrotic syndrome,783157004,SNOMED
+37204484,Distal nebulin myopathy,783148005,SNOMED
+37204405,DNA2-related mitochondrial DNA deletion syndrome,783057002,SNOMED
+37204321,"Ophthalmoplegia, intellectual disability, lingua scrotalis syndrome",782945001,SNOMED
+37204317,Richieri Costa-da Silva syndrome,782941005,SNOMED
+37204290,Fatal infantile hypertonic myofibrillar myopathy,782883004,SNOMED
+37204238,Congenital muscular dystrophy with intellectual disability and severe epilepsy,782772000,SNOMED
+37204229,"Peripheral neuropathy, myopathy, hoarseness, hearing loss syndrome",782752005,SNOMED
+37204175,Distal myopathy with anterior tibial onset,782675008,SNOMED
+37204042,Rhabdomyolysis due to statin,787206005,SNOMED
+37204001,Congenital muscular dystrophy type 1A,787037000,SNOMED
+37203915,Muscle eye brain disease with bilateral multicystic leukodystrophy,785298001,SNOMED
+37119245,Laceration of muscle of hip,726222008,SNOMED
+37119168,Laceration of biceps brachii,724927008,SNOMED
+37119167,Strain of muscle of long head of biceps brachii,724916006,SNOMED
+37119166,Injury of muscle at upper arm level,724908002,SNOMED
+37119164,Laceration of muscle of thorax,724886002,SNOMED
+37118948,"Macrostomia, preauricular tag, external ophthalmoplegia syndrome",723366001,SNOMED
+37118025,Myofascial pain syndrome,726531007,SNOMED
+37118008,Strain of intrinsic muscle of finger,726202009,SNOMED
+37118007,Strain of intrinsic muscle of thumb,726193003,SNOMED
+37117999,Myotonia congenita,726051002,SNOMED
+37117649,Left superior oblique muscle dysfunction,1.57008E+16,SNOMED
+37117235,Autosomal recessive limb girdle muscular dystrophy type 2J,725042001,SNOMED
+37117231,Injury of extensor muscle of finger at forearm level,724971007,SNOMED
+37117230,Laceration of flexor muscle at forearm level,724968004,SNOMED
+37117227,Laceration of muscle of abdomen,724896006,SNOMED
+37117224,Strain of muscle at thorax level,724883005,SNOMED
+37116723,Adult-onset multiple mitochondrial deoxyribonucleic acid deletion syndrome due to deoxyguanosine kinase deficiency,733599009,SNOMED
+37116684,Distal myopathy with posterior leg and anterior hand involvement,733489002,SNOMED
+37116573,Monocular elevator palsy,733329000,SNOMED
+37116572,Restrictive ophthalmopathy,733328008,SNOMED
+37116540,Laceration of quadriceps muscle,733285006,SNOMED
+37116538,Injury of quadriceps muscle,733283004,SNOMED
+37116497,Injury of muscle of rotator cuff,733227000,SNOMED
+37116289,"Mitochondrial myopathy, lactic acidosis, deafness syndrome",732951005,SNOMED
+37116273,Autosomal recessive limb girdle muscular dystrophy type 2R,732931006,SNOMED
+37116272,Autosomal recessive limb girdle muscular dystrophy type 2T,732930007,SNOMED
+37116271,Autosomal recessive limb girdle muscular dystrophy type 2S,732929002,SNOMED
+37115757,Pure mitochondrial myopathy,732245008,SNOMED
+37111654,"Intellectual disability, cataract, calcified pinna, myopathy syndrome",726709001,SNOMED
+37111632,Hernia of muscle through fascia of lower leg,726674004,SNOMED
+37111588,Autosomal recessive limb girdle muscular dystrophy type 2M,726618007,SNOMED
+37111587,Autosomal recessive limb girdle muscular dystrophy type 2N,726617002,SNOMED
+37111586,Autosomal recessive limb girdle muscular dystrophy type 2L,726616006,SNOMED
+37111585,Autosomal recessive limb girdle muscular dystrophy type 2Q,726615005,SNOMED
+37111584,Autosomal recessive limb girdle muscular dystrophy type 2P,726614009,SNOMED
+37111406,Injury of muscle of trunk,726331006,SNOMED
+37111403,Laceration of intrinsic muscle of foot,726328005,SNOMED
+37111399,Strain of adductor muscle of thigh,726228007,SNOMED
+37111396,Injury of adductor muscle of thigh,726225005,SNOMED
+37111392,Strain of muscle of hip,726219006,SNOMED
+37111389,Injury of muscle of hip,726216004,SNOMED
+37111388,Laceration of intrinsic muscle of finger,726205006,SNOMED
+37111384,Injury of intrinsic muscle of finger,726199004,SNOMED
+37111382,Laceration of intrinsic muscle of thumb,726196006,SNOMED
+37111375,Distal myopathy Welander type,726107008,SNOMED
+37111246,Autosomal recessive limb girdle muscular dystrophy type 2Y,725907002,SNOMED
+37111243,Autosomal dominant myoglobinuria,725903003,SNOMED
+37110924,Adult-onset chronic progressive external ophthalmoplegia with mitochondrial myopathy,725464001,SNOMED
+37110894,Congenital muscular dystrophy Paradas type,725420009,SNOMED
+37110783,"X-linked spasticity, intellectual disability, epilepsy syndrome",725163002,SNOMED
+37110717,Autosomal recessive limb girdle muscular dystrophy type 2O,725043006,SNOMED
+37110708,Muscle and heart glycogen synthase deficiency,725027004,SNOMED
+37110707,Hepatic glycogen synthase deficiency,725026008,SNOMED
+37110701,Laceration of muscle of neck,725017005,SNOMED
+37110697,Injury of muscle of neck,725013009,SNOMED
+37110690,Strain of muscle of head,725006009,SNOMED
+37110687,Injury of muscle of head,725003001,SNOMED
+37110671,Strain of extensor muscle at forearm level,724983009,SNOMED
+37110668,Injury of extensor muscle at forearm level,724980007,SNOMED
+37110666,Laceration of extensor muscle of finger at forearm level,724977006,SNOMED
+46284893,Secondary fibromyalgia,9.57311E+14,SNOMED
+46273643,Myositis ossificans of forearm due to burn,2.95511E+14,SNOMED
+46273515,Myositis ossificans of thigh due to burn,2.95591E+14,SNOMED
+46273300,Spasmodic torticollis due to infection,712647003,SNOMED
+46272831,Caveolin 3 related distal myopathy,711265009,SNOMED
+46272830,Pelvic floor dysfunction,711263002,SNOMED
+46271208,Rippling muscle disease,709281006,SNOMED
+46270390,Myositis ossificans of upper arm due to burn,2.95621E+14,SNOMED
+46270389,Myositis ossificans of shoulder due to burn,2.95571E+14,SNOMED
+46270388,Myositis ossificans of lower leg due to burn,2.95551E+14,SNOMED
+46270387,Myositis ossificans of hand due to burn,2.95541E+14,SNOMED
+46270386,Myositis ossificans of foot due to burn,2.95501E+14,SNOMED
+46270385,Myositis ossificans of ankle due to burn,2.95471E+14,SNOMED
+46269758,Necrosis of muscle of buttock co-occurrent and due to chronic ulcer of buttock,1.06422E+16,SNOMED
+46269756,Necrosis of calf muscle co-occurrent and due to chronic ulcer of calf,1.06409E+16,SNOMED
+46269753,Necrosis of ankle muscle co-occurrent and due to chronic ulcer of ankle,1.06379E+16,SNOMED
+45773368,Fryns syndrome,702432006,SNOMED
+45772103,Acquired velopharyngeal incompetence,1.02401E+14,SNOMED
+45772095,Toxoplasma myositis,1.09282E+15,SNOMED
+45771252,Inclusion body myopathy 2,702382000,SNOMED
+45770735,Disorder of muscle tone of newborn,9.35461E+14,SNOMED
+45769863,Female perineal hernia,7.941E+12,SNOMED
+45766932,Acquired hypotonia,704200007,SNOMED
+45766465,Periosteal desmoid,703629008,SNOMED
+45766396,Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia,703544004,SNOMED
+45766386,Cap myopathy,703532002,SNOMED
+45766384,Brody myopathy,703530005,SNOMED
+45765630,Aplasia of diaphragm,702613006,SNOMED
+45765619,Myospasm of masticatory muscle,702600000,SNOMED
+45765445,Distal myopathy 2,702383005,SNOMED
+45765443,Idiopathic inflammatory myopathy,702380008,SNOMED
+45765437,Hereditary myopathy with early respiratory failure,702373006,SNOMED
+45765421,Potassium aggravated myotonia,702355008,SNOMED
+45765411,Early onset myopathy with fatal cardiomyopathy,702343002,SNOMED
+45763777,Congenital velopharyngeal dysfunction,700285006,SNOMED
+44811611,Myositis of unknown aetiology,9.05351E+14,SNOMED
+44808470,Rupture of rectus femoris muscle,8.40991E+14,SNOMED
+44806644,Rhabdomyolysis associated with burn,8.13371E+14,SNOMED
+44806643,Rhabdomyolysis associated with wound,8.13361E+14,SNOMED
+44806516,Injury of muscle of foot,8.12761E+14,SNOMED
+44806515,Injury of muscle of lower leg,8.12751E+14,SNOMED
+44806514,Injury of muscle of thigh,8.12741E+14,SNOMED
+44806512,Injury of muscle of hand,8.12721E+14,SNOMED
+44806493,Injury of muscle of upper back,8.12501E+14,SNOMED
+44783947,Neoplasm of skeletal muscle,699955004,SNOMED
+44783866,Myofibrotic contracture of muscle of mastication,699859009,SNOMED
+44783862,Myostatic contracture of muscle of mastication,699855003,SNOMED
+44783549,Hypertrophy of masseter muscle,699649006,SNOMED
+44783374,Neoplasm of muscle of mastication,699459002,SNOMED
+44783251,Neutral lipid storage disease with myopathy,699315005,SNOMED
+44783236,Denervation of external urethral sphincter,699294006,SNOMED
+44783221,Fibrosis of external urethral sphincter,699278004,SNOMED
+42539286,Flaccid hemiplegia of right dominant side,2.94061E+14,SNOMED
+42535478,Flaccid hemiplegia of right nondominant side,2.94071E+14,SNOMED
+42535477,Flaccid hemiplegia of left nondominant side,2.94051E+14,SNOMED
+42535476,Flaccid hemiplegia of left dominant side,2.94041E+14,SNOMED
+40481820,Flaccid hemiplegia of nondominant side,442077006,SNOMED
+40481757,Flaccid hemiplegia of dominant side,442020005,SNOMED
+372613,Flaccid hemiplegia,80935004,SNOMED
+42535407,Spastic hemiplegia of right nondominant side,2.90491E+14,SNOMED
+42535406,Spastic hemiplegia of right dominant side,2.90481E+14,SNOMED
+42535405,Spastic hemiplegia of left nondominant side,2.90471E+14,SNOMED
+42535404,Spastic hemiplegia of left dominant side,2.90461E+14,SNOMED
+40480944,Spastic hemiplegia of dominant side,441892008,SNOMED
+40480435,Spastic hemiplegia of nondominant side,441722007,SNOMED
+375528,Spastic hemiplegia,79633009,SNOMED
+42535704,Hemiplegia of nondominant side as sequela of embolic cerebrovascular accident,6.90271E+14,SNOMED
+42535677,Hemiplegia of dominant side as sequela of ischemic cerebrovascular accident,6.72461E+14,SNOMED
+42535676,Hemiplegia of nondominant side as sequela of ischemic cerebrovascular accident,6.72441E+14,SNOMED
+42535483,Hemiplegia of right nondominant side,2.94131E+14,SNOMED
+42535482,Hemiplegia of right dominant side,2.94121E+14,SNOMED
+42535481,Hemiplegia of left nondominant side,2.94111E+14,SNOMED
+42535480,Hemiplegia of left dominant side,2.94101E+14,SNOMED
+40484910,Hemiplegia as late effect of cerebrovascular accident,442733008,SNOMED
+40484522,Hemiplegia of dominant side as late effect of cerebrovascular disease,442676003,SNOMED
+40484513,Hemiplegia of nondominant side as late effect of cerebrovascular disease,442668000,SNOMED
+40482237,Hemiplegia of dominant side,442155009,SNOMED
+40481762,Hemiplegia as late effect of cerebrovascular disease,442024001,SNOMED
+40480429,Hemiplegia of nondominant side,441717007,SNOMED
+36675040,Benign nocturnal alternating hemiplegia of childhood,771304005,SNOMED
+4318559,Transient hemiplegia,95650006,SNOMED
+4299253,Crossed hemiplegia,77015008,SNOMED
+4223948,Alternating hemiplegia,404689008,SNOMED
+4222487,Laryngeal hemiplegia,84160009,SNOMED
+4219507,Alternating hypoglossal hemiplegia,72655000,SNOMED
+4209119,Residual hemiplegia,313434001,SNOMED
+4208096,Spinal hemiplegia,55637002,SNOMED
+4175708,Left hemiplegia,278285008,SNOMED
+4145619,Cerebral hemiplegia,34209003,SNOMED
+4136090,Facial hemiplegia,32162001,SNOMED
+4083063,Right hemiplegia,278284007,SNOMED
+4077819,Millard-Gubler syndrome,276221006,SNOMED
+4044233,Alternating hemiplegia of childhood,230466004,SNOMED
+4038773,O/E - hemiplegia,163601006,SNOMED
+764853,Hemiplegia of dominant side due to and following embolic cerebrovascular accident,6.90281E+14,SNOMED
+764816,Hemiplegia of dominant side due to and following hemorrhagic cerebrovascular accident,6.72471E+14,SNOMED
+764815,Hemiplegia of nondominant side due to and following hemorrhagic cerebrovascular accident,6.72451E+14,SNOMED
+443609,Paralytic syndrome of dominant side as late effect of stroke,430959006,SNOMED
+443599,Paralytic syndrome of nondominant side as late effect of stroke,430947007,SNOMED
+374022,Hemiplegia,50582007,SNOMED
+43530742,Paralytic syndrome on one side of the body as late effect of cerebrovascular accident,3.61E+11,SNOMED
+43530612,Paralytic syndrome of all four limbs as sequela of stroke,1.03761E+14,SNOMED
+43530611,Paralytic syndrome of both lower limbs as sequela of stroke,1.02831E+14,SNOMED
+42539180,Monoplegia of right nondominant arm as late effect of stroke,2.91111E+14,SNOMED
+42535686,Monoplegia of arm as late effect of ischemic stroke,6.74161E+14,SNOMED
+42535419,Monoplegia of arm as late effect of stroke,2.91121E+14,SNOMED
+42535417,Monoplegia of left nondominant upper limb as sequela of cerebrovascular accident,2.91091E+14,SNOMED
+42535416,Monoplegia of lower limb as sequela of cerebrovascular accident,2.90931E+14,SNOMED
+42534989,Paraplegia as sequela of cerebrovascular accident,1.23675E+16,SNOMED
+40482266,Monoplegia of nondominant upper limb as a late effect of cerebrovascular accident,442181008,SNOMED
+40481389,Hemiparesis as late effect of cerebrovascular accident,441991000,SNOMED
+40480946,Monoplegia of nondominant lower limb as a late effect of cerebrovascular accident,441894009,SNOMED
+4146293,Paralytic syndrome as late effect of thalamic stroke,427432001,SNOMED
+765518,Monoplegia of dominant lower limb due to and following ischemic cerebrovascular accident,6.72381E+14,SNOMED
+765462,Monoplegia of right dominant upper limb due to and following cerebrovascular accident,2.91101E+14,SNOMED
+765461,Monoplegia of right dominant lower limb due to and following cerebrovascular accident,2.90911E+14,SNOMED
+764852,Monoplegia of upper limb due to and following embolic cerebrovascular accident,6.90261E+14,SNOMED
+764851,Monoplegia of dominant upper limb due to and following embolic cerebrovascular accident,6.90251E+14,SNOMED
+764850,Monoplegia of nondominant upper limb due to and following embolic cerebrovascular accident,6.90241E+14,SNOMED
+764849,Monoplegia of lower limb due to and following embolic cerebrovascular accident,6.90231E+14,SNOMED
+764820,Monoplegia of lower limb due to and following ischemic cerebrovascular accident,6.74131E+14,SNOMED
+764814,Monoplegia of dominant upper limb due to and following ischemic cerebrovascular accident,6.72421E+14,SNOMED
+764813,Monoplegia of nondominant lower limb due to and following ischemic cerebrovascular accident,6.72371E+14,SNOMED
+762093,Monoplegia of left dominant upper limb due to and following cerebrovascular accident,2.91081E+14,SNOMED
+762091,Monoplegia of right nondominant lower limb due to and following cerebrovascular accident,2.90921E+14,SNOMED
+762090,Monoplegia of left nondominant lower limb due to and following cerebrovascular accident,2.90901E+14,SNOMED
+762089,Monoplegia of left dominant lower limb due to and following cerebrovascular accident,2.90891E+14,SNOMED
+759831,Bilateral paralytic syndrome as late effect of stroke,1.06241E+14,SNOMED
+443525,Monoplegia of dominant upper limb as a late effect of cerebrovascular accident,427065003,SNOMED
+372654,Paralytic syndrome as late effect of stroke,425882004,SNOMED
+197303,Monoplegia of dominant lower limb as a late effect of cerebrovascular accident,425642008,SNOMED
+4069663,Cervical spina bifida with hydrocephalus - open,203941007,SNOMED
+4068860,Cervical spina bifida with hydrocephalus - closed,203948001,SNOMED
+376210,Cervical spina bifida with hydrocephalus,203934001,SNOMED
+4068861,Thoracic spina bifida with hydrocephalus - closed,203949009,SNOMED
+4068859,Thoracic spina bifida with hydrocephalus - open,203942000,SNOMED
+378840,Thoracic spina bifida with hydrocephalus,203935000,SNOMED
+4069664,Lumbar spina bifida with hydrocephalus - open,203943005,SNOMED
+200200,Lumbar spina bifida with hydrocephalus,203936004,SNOMED
+4142720,Spina bifida aperta of thoracic spine,427216002,SNOMED
+4070078,Thoracic spina bifida without hydrocephalus - closed,204011002,SNOMED
+4070074,Thoracic myelocystocele,203997005,SNOMED
+4070069,Thoracic meningomyelocele,203986005,SNOMED
+4068011,Thoracic spina bifida without hydrocephalus - open,204004001,SNOMED
+374466,Thoracic spina bifida,30620003,SNOMED
+43021848,High lumbar myelomeningocele,1.7761E+13,SNOMED
+43020438,Low lumbar myelomeningocele,1.7771E+13,SNOMED
+40481137,Meningomyelocele of lumbosacral spine,444860006,SNOMED
+35622405,Spina bifida and hypospadias syndrome,763889002,SNOMED
+4329260,Spina bifida aperta of lumbar spine,429466000,SNOMED
+4070079,Lumbar spina bifida without hydrocephalus - closed,204012009,SNOMED
+4070070,Lumbar meningomyelocele,203987001,SNOMED
+4069672,Lumbar myelocystocele,203998000,SNOMED
+4068862,Lumbar spina bifida with hydrocephalus - closed,203950009,SNOMED
+377659,Spina bifida of lumbar region,77224008,SNOMED
+44782781,Hemiplegia and/or hemiparesis following stroke,4.8601E+13,SNOMED

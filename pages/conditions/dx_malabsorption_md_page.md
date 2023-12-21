@@ -1,7 +1,7 @@
 |Field            |Value                              |
 |:----------------|:----------------------------------|
 |Codeset Name     |Malabsorption                      |
-|Codeset Link     |[dx_malabsorption](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_malabsorption.csv)|
+|Codeset Link     |[dx_malabsorption](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_malabsorption.csv)|
 |CDM              |PEDSnet                            |
 |Clinical Concept |diagnoses related to malabsorption |
 |Vocab            |ICD03,SNOMED,Other                 |

@@ -1,0 +1,96 @@
+concept_id,concept_code,concept_name,vocabulary_id,pcornet_vocabulary_id,cc_decimal_removal
+23220,90979004,Chronic tonsillitis,SNOMED,SM,FALSE
+24660,17741008,Acute tonsillitis,SNOMED,SM,FALSE
+24978,195798007,Chronic adenotonsillitis,SNOMED,SM,FALSE
+759843,10629271000119107,Acute tonsillitis caused by Streptococcus,SNOMED,SM,FALSE
+1569448,J03,Acute tonsillitis,ICD10CM,10,FALSE
+1569449,J03.0,Streptococcal tonsillitis,ICD10CM,10,FALSE
+1569449,J030,Streptococcal tonsillitis,ICD10CM,10,TRUE
+1569450,J03.8,Acute tonsillitis due to other specified organisms,ICD10CM,10,FALSE
+1569450,J038,Acute tonsillitis due to other specified organisms,ICD10CM,10,TRUE
+1569451,J03.9,"Acute tonsillitis, unspecified",ICD10CM,10,FALSE
+1569451,J039,"Acute tonsillitis, unspecified",ICD10CM,10,TRUE
+1569480,J35.0,Chronic tonsillitis and adenoiditis,ICD10CM,10,FALSE
+1569480,J350,Chronic tonsillitis and adenoiditis,ICD10CM,10,TRUE
+3536664,623461000000104,Acute bacterial tonsillitis NOS,SNOMED,SM,FALSE
+3573288,623471000000106,Acute tonsillitis NOS,SNOMED,SM,FALSE
+4009327,111816002,Pneumococcal tonsillitis,SNOMED,SM,FALSE
+4014329,10351008,Suppurative tonsillitis,SNOMED,SM,FALSE
+4016743,11461005,Staphylococcal tonsillitis,SNOMED,SM,FALSE
+4031521,14465002,Ulcerative tonsillitis,SNOMED,SM,FALSE
+4040138,164256007,O/E - follicular tonsillitis,SNOMED,SM,FALSE
+4048190,232417005,Vincent's tonsillitis,SNOMED,SM,FALSE
+4101263,27878001,Follicular tonsillitis,SNOMED,SM,FALSE
+4109896,195668008,Acute ulcerative tonsillitis,SNOMED,SM,FALSE
+4109897,195669000,Acute catarrhal tonsillitis,SNOMED,SM,FALSE
+4109898,195670004,Acute gangrenous tonsillitis,SNOMED,SM,FALSE
+4110359,195667003,Acute follicular tonsillitis,SNOMED,SM,FALSE
+4110360,195672007,Acute pneumococcal tonsillitis,SNOMED,SM,FALSE
+4110361,195676005,Acute viral tonsillitis,SNOMED,SM,FALSE
+4110362,195677001,Recurrent acute tonsillitis,SNOMED,SM,FALSE
+4110363,195678006,Acute tonsillitis NOS,SNOMED,SM,FALSE
+4110496,195804009,Lingular tonsillitis,SNOMED,SM,FALSE
+4112009,195666007,Acute erythematous tonsillitis,SNOMED,SM,FALSE
+4112345,195671000,Acute bacterial tonsillitis,SNOMED,SM,FALSE
+4112346,195673002,Acute staphylococcal tonsillitis,SNOMED,SM,FALSE
+4112347,195674008,Acute bacterial tonsillitis NOS,SNOMED,SM,FALSE
+4112504,195803003,Caseous tonsillitis,SNOMED,SM,FALSE
+4120324,302911003,Acute lingual tonsillitis,SNOMED,SM,FALSE
+4198240,51209006,Viral tonsillitis,SNOMED,SM,FALSE
+4212727,41582007,Streptococcal tonsillitis,SNOMED,SM,FALSE
+4218659,415724006,Tonsillitis due to Gram negative bacteria,SNOMED,SM,FALSE
+4234533,90176007,Tonsillitis,SNOMED,SM,FALSE
+4275115,652005,Gangrenous tonsillitis,SNOMED,SM,FALSE
+4345712,240444009,Fusobacterial necrotizing tonsillitis,SNOMED,SM,FALSE
+35205729,B00.2,Herpesviral gingivostomatitis and pharyngotonsillitis,ICD10CM,10,FALSE
+35205729,B002,Herpesviral gingivostomatitis and pharyngotonsillitis,ICD10CM,10,TRUE
+36715818,721586007,Pharyngotonsillitis caused by Human herpes simplex virus,SNOMED,SM,FALSE
+40305127,141453008,O/E - follicular tonsillitis,SNOMED,SM,FALSE
+40316049,155503001,Acute tonsillitis,SNOMED,SM,FALSE
+40316050,155504007,Recurrent acute tonsillitis,SNOMED,SM,FALSE
+40316078,155530006,Chronic tonsillitis,SNOMED,SM,FALSE
+40316081,155532003,Chronic adenotonsillitis,SNOMED,SM,FALSE
+40377664,186964002,Vincent's: [angina NOS] or [laryngitis] or [tonsillitis],SNOMED,SM,FALSE
+40383335,186387001,Fusobacterial necrotizing tonsillitis,SNOMED,SM,FALSE
+40394587,195665006,Tonsillitis (& acute),SNOMED,SM,FALSE
+40395054,195794009,(Chronic tonsillitis) or (chronic adenoiditis),SNOMED,SM,FALSE
+40396923,196198008,[X]Acute tonsillitis due to other specified organisms,SNOMED,SM,FALSE
+40410702,20906004,Mycosis leptothrica,SNOMED,SM,FALSE
+40510246,312424000,Infective tonsillitis,SNOMED,SM,FALSE
+42534820,10629231000119109,Recurrent acute streptococcal tonsillitis,SNOMED,SM,FALSE
+44799647,452761000000100,[X]Acute tonsillitis due to other specified organisms,SNOMED,SM,FALSE
+44820882,474.00,Chronic tonsillitis,ICD9CM,09,FALSE
+44820882,47400,Chronic tonsillitis,ICD9CM,09,TRUE
+44821975,463,Acute tonsillitis,ICD9CM,09,FALSE
+44826665,474.02,Chronic tonsillitis and adenoiditis,ICD9CM,09,FALSE
+44826665,47402,Chronic tonsillitis and adenoiditis,ICD9CM,09,TRUE
+44830108,474.0,Chronic tonsillitis and adenoiditis,ICD9CM,09,FALSE
+44830108,4740,Chronic tonsillitis and adenoiditis,ICD9CM,09,TRUE
+45533547,J35.01,Chronic tonsillitis,ICD10CM,10,FALSE
+45533547,J3501,Chronic tonsillitis,ICD10CM,10,TRUE
+45538473,J03.90,"Acute tonsillitis, unspecified",ICD10CM,10,FALSE
+45538473,J0390,"Acute tonsillitis, unspecified",ICD10CM,10,TRUE
+45543253,J03.00,"Acute streptococcal tonsillitis, unspecified",ICD10CM,10,FALSE
+45543253,J0300,"Acute streptococcal tonsillitis, unspecified",ICD10CM,10,TRUE
+45547435,B00.2,Herpesviral gingivostomatitis and pharyngotonsillitis,ICD10,10,FALSE
+45547435,B002,Herpesviral gingivostomatitis and pharyngotonsillitis,ICD10,10,TRUE
+45548113,J35.0,Chronic tonsillitis,ICD10,10,FALSE
+45548113,J350,Chronic tonsillitis,ICD10,10,TRUE
+45552876,J03,Acute tonsillitis,ICD10,10,FALSE
+45552877,J03.01,Acute recurrent streptococcal tonsillitis,ICD10CM,10,FALSE
+45552877,J0301,Acute recurrent streptococcal tonsillitis,ICD10CM,10,TRUE
+45562433,J03.8,Acute tonsillitis due to other specified organisms,ICD10,10,FALSE
+45562433,J038,Acute tonsillitis due to other specified organisms,ICD10,10,TRUE
+45576942,J03.9,"Acute tonsillitis, unspecified",ICD10,10,FALSE
+45576942,J039,"Acute tonsillitis, unspecified",ICD10,10,TRUE
+45576948,J35.03,Chronic tonsillitis and adenoiditis,ICD10CM,10,FALSE
+45576948,J3503,Chronic tonsillitis and adenoiditis,ICD10CM,10,TRUE
+45591539,J03.80,Acute tonsillitis due to other specified organisms,ICD10CM,10,FALSE
+45591539,J0380,Acute tonsillitis due to other specified organisms,ICD10CM,10,TRUE
+45591540,J03.91,"Acute recurrent tonsillitis, unspecified",ICD10CM,10,FALSE
+45591540,J0391,"Acute recurrent tonsillitis, unspecified",ICD10CM,10,TRUE
+45601114,J03.0,Streptococcal tonsillitis,ICD10,10,FALSE
+45601114,J030,Streptococcal tonsillitis,ICD10,10,TRUE
+45605880,J03.81,Acute recurrent tonsillitis due to other specified organisms,ICD10CM,10,FALSE
+45605880,J0381,Acute recurrent tonsillitis due to other specified organisms,ICD10CM,10,TRUE
+45766331,703468005,Bacterial tonsillitis,SNOMED,SM,FALSE

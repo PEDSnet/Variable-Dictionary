@@ -1,7 +1,7 @@
 |Field            |Value          |
 |:----------------|:--------------|
 |Codeset Name     |MRI scan       |
-|Codeset Link     |[mri_procedures](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedure/mri_procedures.csv)|
+|Codeset Link     |[mri_procedures](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/mri_procedures.csv)|
 |CDM              |NA             |
 |Clinical Concept |NA             |
 |Vocab            |NA             |

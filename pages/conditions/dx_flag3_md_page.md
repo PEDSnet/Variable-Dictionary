@@ -1,7 +1,7 @@
 |Field            |Value                                   |
 |:----------------|:---------------------------------------|
 |Codeset Name     |Severity class 3 (severe complications) |
-|Codeset Link     |[dx_flag3](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_flag3.csv)|
+|Codeset Link     |[dx_flag3](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_flag3.csv)|
 |CDM              |NA                                      |
 |Clinical Concept |RECOVER                                 |
 |Vocab            |NA                                      |

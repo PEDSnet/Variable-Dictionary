@@ -1,7 +1,7 @@
 |Field            |Value          |
 |:----------------|:--------------|
 |Codeset Name     |Prematurity    |
-|Codeset Link     |[dx_prematurity](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_prematurity.csv)|
+|Codeset Link     |[dx_prematurity](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_prematurity.csv)|
 |CDM              |NA             |
 |Clinical Concept |RECOVER        |
 |Vocab            |NA             |

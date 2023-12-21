@@ -1,0 +1,65 @@
+﻿concept_id,concept_code,concept_name,vocabulary_id
+40311817,147082009,Baby extremely premature 28-32 weeks,SNOMED
+4015275,169851005,Baby extremely premature 28-32 weeks,SNOMED
+37016220,1.5887E+16,Baby premature 24 weeks,SNOMED
+4149449,310523002,Baby premature 24-26 weeks,SNOMED
+40333701,169854002,Baby premature 24-26 weeks,SNOMED
+40311821,147086007,Baby premature 24-26 weeks,SNOMED
+37016221,1.58871E+16,Baby premature 25 weeks,SNOMED
+37016222,1.58871E+16,Baby premature 26 weeks,SNOMED
+4149457,310548004,Baby premature 26-28 weeks,SNOMED
+40333700,169853008,Baby premature 26-28 weeks,SNOMED
+40311820,147085006,Baby premature 26-28 weeks,SNOMED
+37018684,1.58871E+16,Baby premature 27 weeks,SNOMED
+37016216,1.575E+16,Baby premature 28 weeks,SNOMED
+46271955,710235005,Baby premature 28-32 weeks,SNOMED
+37016217,1.575E+16,Baby premature 29 weeks,SNOMED
+37016218,1.57501E+16,Baby premature 30 weeks,SNOMED
+37016213,1.56355E+16,Baby premature 31 weeks,SNOMED
+37018683,1.56354E+16,Baby premature 32 weeks,SNOMED
+46271814,710068006,Baby premature 32-36 weeks,SNOMED
+37018889,1.56354E+16,Baby premature 33 weeks,SNOMED
+37016212,1.56353E+16,Baby premature 34 weeks,SNOMED
+37016211,1.56353E+16,Baby premature 35 weeks,SNOMED
+762577,4.29151E+14,Baby premature 35-36 weeks,SNOMED
+40333705,169858004,Baby premature 36 weeks,SNOMED
+4149451,310530008,Baby premature 36 weeks,SNOMED
+40311825,147090009,Baby premature 36 weeks,SNOMED
+36716686,722840003,Baby premature at delivery 23 completed weeks,SNOMED
+36716685,722839000,Baby premature at delivery less than 23 weeks,SNOMED
+40311816,147081002,Baby very premature 32-36 weeks,SNOMED
+4015274,169850006,Baby very premature 32-36 weeks,SNOMED
+439128,276658003,Extreme prematurity of infant,SNOMED
+46270095,1.38091E+14,History of prematurity,SNOMED
+36675173,771507004,Moderate to late prematurity of infant,SNOMED
+4097427,25192009,"Premature birth of fraternal twins, both living",SNOMED
+4222915,84382006,"Premature birth of fraternal twins, both stillborn",SNOMED
+4147043,30165006,"Premature birth of fraternal twins, one living, one stillborn",SNOMED
+4142021,34100008,"Premature birth of identical twins, both living",SNOMED
+4242724,3798002,"Premature birth of identical twins, both stillborn",SNOMED
+4310910,39213008,"Premature birth of identical twins, one living, one stillborn",SNOMED
+4069200,20272009,Premature birth of multiple newborns,SNOMED
+40619801,65588006,Premature birth of newborn,SNOMED
+4272248,367494004,Premature birth of newborn,SNOMED
+4241228,59403008,Premature birth of newborn female,SNOMED
+4172135,4886009,Premature birth of newborn male,SNOMED
+4145125,34089005,Premature birth of newborn quadruplets,SNOMED
+4082863,24146004,Premature birth of newborn quintuplets,SNOMED
+4008884,112075006,Premature birth of newborn sextuplets,SNOMED
+4107401,29997008,Premature birth of newborn triplets,SNOMED
+4029786,13859001,Premature birth of newborn twins,SNOMED
+4184594,54650005,Premature birth of stillborn twins,SNOMED
+4049260,12312009,Premature infancy,SNOMED
+4217564,395507008,Premature infant,SNOMED
+40404567,206177006,Premature infant 28-37 weeks,SNOMED
+4147874,310661005,Premature infant 28-37 weeks,SNOMED
+36675035,771299009,Prematurity of infant,SNOMED
+37110284,724489002,Preterm delivery following Cesarean section,SNOMED
+37110283,724488005,Preterm delivery following induction of labor,SNOMED
+45757175,1.07611E+16,Preterm labor in second trimester with preterm delivery in second trimester,SNOMED
+45757176,1.07612E+16,Preterm labor in third trimester with preterm delivery in third trimester,SNOMED
+36712702,1.07612E+16,Preterm labor with preterm delivery,SNOMED
+36712703,1.07613E+16,Preterm labor without delivery,SNOMED
+44784550,698716002,Preterm spontaneous labor with preterm delivery,SNOMED
+44784551,698717006,Preterm spontaneous labor with term delivery,SNOMED
+4149523,268868001,Very preterm maturity of infant,SNOMED

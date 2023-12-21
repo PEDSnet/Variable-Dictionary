@@ -1,7 +1,7 @@
 |Field            |Value                                |
 |:----------------|:------------------------------------|
 |Codeset Name     |Non-respiratory sequelae of Covid-19 |
-|Codeset Link     |[dx_c19_noresp](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_c19_noresp.csv)|
+|Codeset Link     |[dx_c19_noresp](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_c19_noresp.csv)|
 |CDM              |NA                                   |
 |Clinical Concept |RECOVER                              |
 |Vocab            |NA                                   |

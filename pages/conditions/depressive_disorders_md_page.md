@@ -1,7 +1,7 @@
 |Field            |Value                     |
 |:----------------|:-------------------------|
 |Codeset Name     |Major depressive disorder |
-|Codeset Link     |[depressive_disorders](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/depressive_disorders.csv)|
+|Codeset Link     |[depressive_disorders](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/depressive_disorders.csv)|
 |CDM              |NA                        |
 |Clinical Concept |NA                        |
 |Vocab            |NA                        |

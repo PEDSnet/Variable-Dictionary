@@ -1,7 +1,7 @@
 |Field            |Value              |
 |:----------------|:------------------|
 |Codeset Name     |Sjogren's syndrome |
-|Codeset Link     |[dx_sjogren](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_sjogren.csv)|
+|Codeset Link     |[dx_sjogren](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_sjogren.csv)|
 |CDM              |NA                 |
 |Clinical Concept |RECOVER            |
 |Vocab            |NA                 |

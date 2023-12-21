@@ -1,0 +1,28 @@
+concept_id,concept_code,concept_name,codeset
+4048517,123587001,Acute bronchopneumonia,pneumonia
+4341520,236302005,Acute interstitial pneumonia,pneumonia
+4050869,233606009,Atypical pneumonia,pneumonia
+4116487,300999006,Basal pneumonia,pneumonia
+4138769,425996009,Bilateral basal pneumonia,pneumonia
+4236311,407671000,Bilateral pneumonia,pneumonia
+256722,396285007,Bronchopneumonia,pneumonia
+46269726,10625751000119100,Bronchopneumonia due to virus,pneumonia
+4293463,385093006,Community acquired pneumonia,pneumonia
+45763749,700249006,Idiopathic interstitial pneumonia,pneumonia
+36712839,12381000132107,Idiopathic pneumonia syndrome,pneumonia
+443410,312342009,Infective pneumonia,pneumonia
+4186568,41269000,Influenzal bronchopneumonia,pneumonia
+4273378,64667001,Interstitial pneumonia,pneumonia
+4116488,301000005,Left lower zone pneumonia,pneumonia
+4114030,301002002,Left upper zone pneumonia,pneumonia
+4145369,426696003,Lingular pneumonia,pneumonia
+4133224,278516003,Lobar pneumonia,pneumonia
+4044215,129452008,Nonspecific interstitial pneumonia,pneumonia
+255848,233604007,Pneumonia,pneumonia
+37016927,713084008,Pneumonia caused by Human coronavirus,pneumonia
+3661408,882784691000119e3,Pneumonia caused by SARS-CoV-2,pneumonia
+40479642,441590008,Pneumonia due to Severe acute respiratory syndrome coronavirus,pneumonia
+4117114,301001009,Right lower zone pneumonia,pneumonia
+4102253,301003007,Right middle zone pneumonia,pneumonia
+4114031,301004001,Right upper zone pneumonia,pneumonia
+261326,75570004,Viral pneumonia,pneumonia

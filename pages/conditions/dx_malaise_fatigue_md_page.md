@@ -1,7 +1,7 @@
 |Field            |Value              |
 |:----------------|:------------------|
 |Codeset Name     |Malaise Fatigue    |
-|Codeset Link     |[dx_malaise_fatigue](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_malaise_fatigue.csv)|
+|Codeset Link     |[dx_malaise_fatigue](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_malaise_fatigue.csv)|
 |CDM              |NA                 |
 |Clinical Concept |RECOVER            |
 |Vocab            |NA                 |

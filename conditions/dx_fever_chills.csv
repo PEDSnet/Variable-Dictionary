@@ -1,0 +1,50 @@
+concept_id,concept_code,concept_name,codeset
+4154923,271749004,Acute rise of fever,fever_chills
+4320537,9619006,Aseptic fever,fever_chills
+4086667,248449003,Central fever,fever_chills
+4158330,271751000,Continuous fever,fever_chills
+4048098,135883003,Cough with fever,fever_chills
+4170869,49513005,Dehydration fever in newborn,fever_chills
+4166729,416113008,Disorder characterized by fever,fever_chills
+4011766,103001002,Feeling feverish,fever_chills
+437663,386661006,Fever,fever_chills
+3661885,119751000146104,Fever caused by Severe acute respiratory syndrome coronavirus 2,fever_chills
+4094001,248447001,Fever defervescence,fever_chills
+4086666,248445009,"Fever, diurnal variation",fever_chills
+36716728,722892007,Fever due to infection,fever_chills
+4141062,426000000,Fever greater than 100.4 Fahrenheit,fever_chills
+4318555,95627000,Fever of the newborn,fever_chills
+4164645,274640006,Fever with chills,fever_chills
+4152340,271755009,Gradual fall of fever,fever_chills
+4158329,271750004,Gradual rise of fever,fever_chills
+4260205,409702008,Hyperpyrexia,fever_chills
+4299794,77957000,Intermittent fever,fever_chills
+4158332,271753002,Irregular fever,fever_chills
+4127282,304213008,Low grade pyrexia,fever_chills
+4152360,271897009,O/E - fever,fever_chills
+4040107,164307008,O/E - fever - acute rise,fever_chills
+4040270,164309006,O/E - fever - continuous,fever_chills
+4040110,164315006,O/E - fever - fast fall-crisis,fever_chills
+4040273,164316007,O/E - fever-gradual fall-lysis,fever_chills
+4039798,164308003,O/E - fever - gradual rise,fever_chills
+4039799,164312009,O/E - fever - intermittent,fever_chills
+4040272,164314005,O/E - fever - irregular,fever_chills
+4040479,164311002,O/E - fever - remittent,fever_chills
+4164378,274308003,O/E - hyperpyrexia,fever_chills
+4039796,164304001,O/E - hyperpyrexia - greater than 40.5 degrees Celsius,fever_chills
+4039979,164288004,O/E - pyrexia of unknown origin,fever_chills
+4268842,365977007,Pattern of fever - finding,fever_chills
+4268846,365989009,Phase of fever - finding,fever_chills
+4086663,248433000,Plateau phase of fever,fever_chills
+4087016,248435007,Prolonged fever,fever_chills
+4328373,7520000,Pyrexia of unknown origin,fever_chills
+4152339,271754008,Rapid fall of fever,fever_chills
+440637,420079008,Relapsing fever,fever_chills
+4274502,63993003,Remittent fever,fever_chills
+4094000,248446005,Reversed diurnal fever,fever_chills
+4093995,248432005,Rising phase of fever,fever_chills
+4093996,248436008,Slightly remittent fever,fever_chills
+4009878,102496004,Spiking fever,fever_chills
+136030,186694006,Sweating fever,fever_chills
+4243806,60025004,Transitory fever of newborn,fever_chills
+36712667,10151000132103,Viral fever,fever_chills

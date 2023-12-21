@@ -1,7 +1,7 @@
 |Field            |Value              |
 |:----------------|:------------------|
 |Codeset Name     |Kawasaki's disease |
-|Codeset Link     |[dx_kawasaki](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_kawasaki.csv)|
+|Codeset Link     |[dx_kawasaki](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_kawasaki.csv)|
 |CDM              |NA                 |
 |Clinical Concept |RECOVER            |
 |Vocab            |NA                 |

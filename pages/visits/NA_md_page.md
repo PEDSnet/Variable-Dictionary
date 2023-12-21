@@ -1,7 +1,7 @@
 |Field            |Value            |
 |:----------------|:----------------|
 |Codeset Name     |NA               |
-|Codeset Link     |[NA](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visit/NA.csv)|
+|Codeset Link     |[NA](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visits/NA.csv)|
 |CDM              |NA               |
 |Clinical Concept |Urology provider |
 |Vocab            |Other            |

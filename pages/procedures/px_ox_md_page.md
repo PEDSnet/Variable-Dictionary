@@ -1,7 +1,7 @@
 |Field            |Value                         |
 |:----------------|:-----------------------------|
 |Codeset Name     |Supplmental Oxygen Procedures |
-|Codeset Link     |[px_ox](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedure/px_ox.csv)|
+|Codeset Link     |[px_ox](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_ox.csv)|
 |CDM              |NA                            |
 |Clinical Concept |RECOVER                       |
 |Vocab            |NA                            |

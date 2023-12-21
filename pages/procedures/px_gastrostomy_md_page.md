@@ -1,7 +1,7 @@
 |Field            |Value          |
 |:----------------|:--------------|
 |Codeset Name     |Gastrostomy    |
-|Codeset Link     |[px_gastrostomy](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedure/px_gastrostomy.csv)|
+|Codeset Link     |[px_gastrostomy](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_gastrostomy.csv)|
 |CDM              |NA             |
 |Clinical Concept |RECOVER        |
 |Vocab            |NA             |

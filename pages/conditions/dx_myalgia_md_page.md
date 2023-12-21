@@ -1,7 +1,7 @@
 |Field            |Value      |
 |:----------------|:----------|
 |Codeset Name     |Myalgia    |
-|Codeset Link     |[dx_myalgia](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_myalgia.csv)|
+|Codeset Link     |[dx_myalgia](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_myalgia.csv)|
 |CDM              |NA         |
 |Clinical Concept |RECOVER    |
 |Vocab            |NA         |

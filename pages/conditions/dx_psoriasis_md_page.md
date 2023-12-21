@@ -1,7 +1,7 @@
 |Field            |Value        |
 |:----------------|:------------|
 |Codeset Name     |Psoriasis    |
-|Codeset Link     |[dx_psoriasis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_psoriasis.csv)|
+|Codeset Link     |[dx_psoriasis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_psoriasis.csv)|
 |CDM              |NA           |
 |Clinical Concept |RECOVER      |
 |Vocab            |NA           |

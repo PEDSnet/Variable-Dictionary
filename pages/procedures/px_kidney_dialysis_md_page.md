@@ -1,7 +1,7 @@
 |Field            |Value                           |
 |:----------------|:-------------------------------|
 |Codeset Name     |Kidney dialysis procedures      |
-|Codeset Link     |[px_kidney_dialysis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedure/px_kidney_dialysis.csv)|
+|Codeset Link     |[px_kidney_dialysis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_kidney_dialysis.csv)|
 |CDM              |PEDSnet,PCORnet                 |
 |Clinical Concept |Kidney dialysis procedure codes |
 |Vocab            |NA                              |

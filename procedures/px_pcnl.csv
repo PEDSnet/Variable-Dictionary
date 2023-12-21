@@ -1,0 +1,20 @@
+﻿concept_id,concept_code,concept_name,vocabulary_id
+4022940,175943000,"""Anatrophic nephrolithotomy""",SNOMED
+44811090,8.62911E+14,"""Laparoscopic nephrolithotomy""",SNOMED
+44813544,8.11661E+14,"""Mobile image intensifier guided percutaneous nephrolithotomy""",SNOMED
+45890419,1008070,"""Nephrolithotomy""",CPT4
+4105931,29737003,"""Nephrolithotomy by secondary operation""",SNOMED
+2109555,50070,"""Nephrolithotomy; complicated by congenital kidney abnormality""",CPT4
+4282602,6722002,"""Nephrolithotomy for removal of calculus""",SNOMED
+4294381,76005006,"""Nephrolithotomy for removal of staghorn calculus""",SNOMED
+2109553,50060,"""Nephrolithotomy; removal of calculus""",CPT4
+2109556,50075,"""Nephrolithotomy; removal of large staghorn calculus filling renal pelvis and calyces (including anatrophic pyelolithotomy)""",CPT4
+2109554,50065,"""Nephrolithotomy; secondary surgical operation for calculus""",CPT4
+44511798,M16.4,"""Percutaneous nephrolithotomy NEC""",OPCS4
+4333479,431742000,"""Percutaneous nephrolithotomy using fluoroscopic guidance""",SNOMED
+4022944,175954005,"""Percutaneous nephrolithotomy without disintegration""",SNOMED
+45888012,1008075,"""Percutaneous nephrostolithotomy or pyelostolithotomy, with or without dilation, endoscopy, lithotripsy, stenting, or basket extraction""",CPT4
+2109558,50081,"""Percutaneous nephrostolithotomy or pyelostolithotomy, with or without dilation, endoscopy, lithotripsy, stenting, or basket extraction; over 2 cm""",CPT4
+2109557,50080,"""Percutaneous nephrostolithotomy or pyelostolithotomy, with or without dilation, endoscopy, lithotripsy, stenting, or basket extraction; up to 2 cm""",CPT4
+2109626,50561,"""Renal endoscopy through established nephrostomy or pyelostomy, with or without irrigation, instillation, or ureteropyelography, exclusive of radiologic service; with removal of foreign body or calculus""",CPT4
+4021114,175942005,"""Simple nephrolithotomy""",SNOMED

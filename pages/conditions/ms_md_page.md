@@ -1,7 +1,7 @@
 |Field            |Value              |
 |:----------------|:------------------|
 |Codeset Name     |Multiple sclerosis |
-|Codeset Link     |[ms](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/ms.csv)|
+|Codeset Link     |[ms](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/ms.csv)|
 |CDM              |NA                 |
 |Clinical Concept |NA                 |
 |Vocab            |NA                 |

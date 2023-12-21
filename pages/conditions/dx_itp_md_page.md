@@ -1,7 +1,7 @@
 |Field            |Value                           |
 |:----------------|:-------------------------------|
 |Codeset Name     |Immune thrombocytopenic purpura |
-|Codeset Link     |[dx_itp](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_itp.csv)|
+|Codeset Link     |[dx_itp](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_itp.csv)|
 |CDM              |NA                              |
 |Clinical Concept |RECOVER                         |
 |Vocab            |NA                              |

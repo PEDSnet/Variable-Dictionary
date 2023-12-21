@@ -1,7 +1,7 @@
 |Field            |Value                   |
 |:----------------|:-----------------------|
 |Codeset Name     |Respiratory Failure     |
-|Codeset Link     |[dx_resp_failure_chronic](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_resp_failure_chronic.csv)|
+|Codeset Link     |[dx_resp_failure_chronic](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_resp_failure_chronic.csv)|
 |CDM              |NA                      |
 |Clinical Concept |RECOVER                 |
 |Vocab            |NA                      |

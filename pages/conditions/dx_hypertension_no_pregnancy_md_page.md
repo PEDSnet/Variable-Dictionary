@@ -1,7 +1,7 @@
 |Field            |Value                                                                                                                                                      |
 |:----------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name     |Hypertension - no pregnancy                                                                                                                                |
-|Codeset Link     |[dx_hypertension_no_pregnancy](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_hypertension_no_pregnancy.csv)                        |
+|Codeset Link     |[dx_hypertension_no_pregnancy](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_hypertension_no_pregnancy.csv)                       |
 |CDM              |NA                                                                                                                                                         |
 |Clinical Concept |Diagnoses for hypertension, excluding those related to pregnancy                                                                                           |
 |Vocab            |SNOMED                                                                                                                                                     |

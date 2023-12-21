@@ -1,8 +1,0 @@
-"concept_id","concept_code","concept_name","vocabulary_id","pcornet_vocabulary_id"
-3029872,"50561-0","Protein [Mass/volume] in Urine by Automated test strip","LOINC","LC"
-3005897,"5804-0","Protein [Mass/volume] in Urine by Test strip","LOINC","LC"
-3019077,"32209-9","Protein [Presence] in 24 hour Urine by Test strip","LOINC","LC"
-3037185,"2887-8","Protein [Presence] in Urine","LOINC","LC"
-40760845,"57735-3","Protein [Presence] in Urine by Automated test strip","LOINC","LC"
-3038906,"53525-2","Protein [Presence] in Urine by SSA method","LOINC","LC"
-3014051,"20454-5","Protein [Presence] in Urine by Test strip","LOINC","LC"

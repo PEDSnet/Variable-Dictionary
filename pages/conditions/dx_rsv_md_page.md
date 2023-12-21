@@ -1,7 +1,7 @@
 |Field            |Value                                       |
 |:----------------|:-------------------------------------------|
 |Codeset Name     |Respiratory syncytial virus (RSV) Diagnosis |
-|Codeset Link     |[dx_rsv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_rsv.csv)|
+|Codeset Link     |[dx_rsv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_rsv.csv)|
 |CDM              |NA                                          |
 |Clinical Concept |RECOVER                                     |
 |Vocab            |NA                                          |

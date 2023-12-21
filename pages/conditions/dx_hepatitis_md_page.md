@@ -1,7 +1,7 @@
 |Field            |Value        |
 |:----------------|:------------|
 |Codeset Name     |Hepatitis    |
-|Codeset Link     |[dx_hepatitis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_hepatitis.csv)|
+|Codeset Link     |[dx_hepatitis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_hepatitis.csv)|
 |CDM              |NA           |
 |Clinical Concept |NA           |
 |Vocab            |NA           |

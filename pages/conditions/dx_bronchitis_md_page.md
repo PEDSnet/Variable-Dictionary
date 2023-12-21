@@ -1,7 +1,7 @@
 |Field            |Value         |
 |:----------------|:-------------|
 |Codeset Name     |Bronchitis    |
-|Codeset Link     |[dx_bronchitis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_bronchitis.csv)|
+|Codeset Link     |[dx_bronchitis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_bronchitis.csv)|
 |CDM              |NA            |
 |Clinical Concept |RECOVER       |
 |Vocab            |NA            |

@@ -1,7 +1,7 @@
 |Field            |Value                                                          |
 |:----------------|:--------------------------------------------------------------|
 |Codeset Name     |Urinary tract obstruction                                      |
-|Codeset Link     |[dx_urinary_tract_obstruction](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_urinary_tract_obstruction.csv)|
+|Codeset Link     |[dx_urinary_tract_obstruction](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_urinary_tract_obstruction.csv)|
 |CDM              |PEDSnet                                                        |
 |Clinical Concept |diagnoses of congenital and acquired urinary tract obstruction |
 |Vocab            |SNOMED                                                         |

@@ -1,7 +1,7 @@
 |Field            |Value                    |
 |:----------------|:------------------------|
 |Codeset Name     |Autism Spectrum Disorder |
-|Codeset Link     |[dx_autism](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_autism.csv)|
+|Codeset Link     |[dx_autism](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_autism.csv)|
 |CDM              |PEDSnet                  |
 |Clinical Concept |Autism                   |
 |Vocab            |LOINC                    |

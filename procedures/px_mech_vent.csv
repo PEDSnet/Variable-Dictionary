@@ -1,0 +1,80 @@
+concept_id,concept_name,concept_code,vocabulary_id,codeset,type
+2008006,Other continuous invasive mechanical ventilation,96.7,ICD9Proc,mechanical_vents,invasive
+2008007,Continuous invasive mechanical ventilation of unspecified duration,96.7,ICD9Proc,mechanical_vents,invasive
+2008008,Continuous invasive mechanical ventilation for less than 96 consecutive hours,96.71,ICD9Proc,mechanical_vents,invasive
+2008009,Continuous invasive mechanical ventilation for 96 consecutive hours or more,96.72,ICD9Proc,mechanical_vents,invasive
+2314000,"Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing; hospital inpatient/observation, initial day",94002,CPT4,mechanical_vents,invasive
+2314001,"Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing; hospital inpatient/observation, each subsequent day",94003,CPT4,mechanical_vents,invasive
+2314002,"Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing; nursing facility, per day",94004,CPT4,mechanical_vents,invasive
+2314035,"Continuous positive airway pressure ventilation (CPAP), initiation and management",94660,CPT4,mechanical_vents,non-invasive
+2314036,"Continuous negative pressure ventilation (CNP), initiation and management",94662,CPT4,mechanical_vents,non-invasive
+2787823,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Positive Airway Pressure",5A09357,ICD10PCS,mechanical_vents,non-invasive
+2787824,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Positive Airway Pressure",5A09358,ICD10PCS,mechanical_vents,non-invasive
+2788016,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Negative Airway Pressure",5A09359,ICD10PCS,mechanical_vents,non-invasive
+2788017,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Negative Airway Pressure",5A0935B,ICD10PCS,mechanical_vents,non-invasive
+2788018,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours",5A0935Z,ICD10PCS,mechanical_vents,non-invasive
+2788019,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Positive Airway Pressure",5A09457,ICD10PCS,mechanical_vents,non-invasive
+2788020,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Positive Airway Pressure",5A09458,ICD10PCS,mechanical_vents,non-invasive
+2788021,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Negative Airway Pressure",5A09459,ICD10PCS,mechanical_vents,non-invasive
+2788022,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Negative Airway Pressure",5A0945B,ICD10PCS,mechanical_vents,non-invasive
+2788023,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours",5A0945Z,ICD10PCS,mechanical_vents,non-invasive
+2788024,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Positive Airway Pressure",5A09557,ICD10PCS,mechanical_vents,non-invasive
+2788025,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Positive Airway Pressure",5A09558,ICD10PCS,mechanical_vents,non-invasive
+2788026,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Negative Airway Pressure",5A09559,ICD10PCS,mechanical_vents,non-invasive
+2788027,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Negative Airway Pressure",5A0955B,ICD10PCS,mechanical_vents,non-invasive
+2788028,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours",5A0955Z,ICD10PCS,mechanical_vents,non-invasive
+2788035,"Respiratory Ventilation, Single, Nonmechanical",5A19054,ICD10PCS,mechanical_vents,invasive
+2788036,"Respiratory Ventilation, Less than 24 Consecutive Hours",5A1935Z,ICD10PCS,mechanical_vents,invasive
+2788037,"Respiratory Ventilation, 24-96 Consecutive Hours",5A1945Z,ICD10PCS,mechanical_vents,invasive
+2788038,"Respiratory Ventilation, Greater than 96 Consecutive Hours",5A1955Z,ICD10PCS,mechanical_vents,invasive
+2800859,Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Performance @ Respiratory @ 24-96 Consecutive Hours @ Ventilation,5A1945,ICD10PCS,mechanical_vents,invasive
+2805870,Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Assistance @ Respiratory @ Less than 24 Consecutive Hours @ Ventilation,5A0935,ICD10PCS,mechanical_vents,invasive
+2813710,Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Assistance @ Respiratory @ Greater than 96 Consecutive Hours @ Ventilation,5A0955,ICD10PCS,mechanical_vents,invasive
+2834015,Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Performance @ Respiratory @ Greater than 96 Consecutive Hours @ Ventilation,5A1955,ICD10PCS,mechanical_vents,invasive
+2867784,Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Assistance @ Respiratory @ 24-96 Consecutive Hours @ Ventilation,5A0945,ICD10PCS,mechanical_vents,invasive
+2886050,Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Performance @ Respiratory @ Single @ Ventilation,5A1905,ICD10PCS,mechanical_vents,invasive
+2893766,Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Performance @ Respiratory @ Less than 24 Consecutive Hours @ Ventilation,5A1935,ICD10PCS,mechanical_vents,invasive
+37116689,Insertion of endotracheal ventilation catheter,733496000,SNOMED,mechanical_vents,invasive
+40486624,Noninvasive positive pressure ventilation,447837008,SNOMED,mechanical_vents,non-invasive
+4055261,Mechanically assisted spontaneous ventilation,243141005,SNOMED,mechanical_vents,invasive
+4055375,Assisted controlled mandatory ventilation,243150007,SNOMED,mechanical_vents,invasive
+4055376,High frequency positive pressure ventilation,243153009,SNOMED,mechanical_vents,invasive
+4055377,High frequency jet ventilation,243154003,SNOMED,mechanical_vents,invasive
+4057263,Intermittent positive pressure ventilation,182687005,SNOMED,mechanical_vents,invasive
+4072503,Controlled mandatory ventilation,243148004,SNOMED,mechanical_vents,invasive
+4072504,Controlled mandatory ventilation with sigh,243149007,SNOMED,mechanical_vents,invasive
+4072505,Mandatory minute volume ventilation,243151006,SNOMED,mechanical_vents,invasive
+4072506,Intermittent negative pressure ventilation,243159008,SNOMED,mechanical_vents,non-invasive
+4072515,Airway pressure release ventilation,243143008,SNOMED,mechanical_vents,invasive
+4072516,Extended mandatory minute volume ventilation,243152004,SNOMED,mechanical_vents,invasive
+4072517,Continuous flow ventilation,243156001,SNOMED,mechanical_vents,invasive
+4072633,Weaning from mechanically assisted ventilation,243174005,SNOMED,mechanical_vents,invasive
+4074665,Controlled ventilation,243147009,SNOMED,mechanical_vents,invasive
+4074666,High frequency oscillatory ventilation,243155002,SNOMED,mechanical_vents,invasive
+4113618,Pressure controlled SIMV,286813003,SNOMED,mechanical_vents,invasive
+4120570,Pressure controlled ventilation,286812008,SNOMED,mechanical_vents,invasive
+4134853,Weaning from mechanically assisted ventilation continued,397998001,SNOMED,mechanical_vents,invasive
+4139542,Bag valve mask ventilation,425447009,SNOMED,mechanical_vents,invasive
+4145646,Closed cardiac massage with ventilation,266690007,SNOMED,mechanical_vents,invasive
+4145647,Assisted breathing,266700009,SNOMED,mechanical_vents,ambiguous
+4164571,"Positive end expiratory pressure ventilation therapy, initiation and management",45851008,SNOMED,mechanical_vents,ambiguous
+4174085,Dual pressure spontaneous ventilation support weaning protocol,424172009,SNOMED,mechanical_vents,ambiguous
+4174555,Continuous positive airway pressure ventilation weaning protocol,423574009,SNOMED,mechanical_vents,non-invasive
+4177224,Noninvasive ventilation,428311008,SNOMED,mechanical_vents,non-invasive
+4208272,"Inspiration mandatory ventilation therapy, initiation and management",55089006,SNOMED,mechanical_vents,invasive
+4229907,"Assisted ventilation therapy, pressure or volume preset, initiation and management",8948006,SNOMED,mechanical_vents,invasive
+4230167,Artificial respiration,40617009,SNOMED,mechanical_vents,invasive
+4236738,Volume controlled ventilation,405609003,SNOMED,mechanical_vents,invasive
+4237460,Intermittent positive pressure ventilation via endotracheal tube,408853006,SNOMED,mechanical_vents,invasive
+4245036,Synchronized intermittent mandatory ventilation,59427005,SNOMED,mechanical_vents,invasive
+4254209,Intermittent positive pressure ventilation via bag and mask,408852001,SNOMED,mechanical_vents,invasive
+42738852,"Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing; first day",94656,CPT4,mechanical_vents,invasive
+42738853,"Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing; subsequent days",94657,CPT4,mechanical_vents,invasive
+4287922,Weaning from mechanically assisted ventilation commenced,397899008,SNOMED,mechanical_vents,invasive
+4312631,Trial for daily interruption of sedation during mechanically assisted ventilation,424282004,SNOMED,mechanical_vents,invasive
+4332501,Management of noninvasive mechanical ventilation,430191008,SNOMED,mechanical_vents,non-invasive
+4347666,Expired air ventilation with airway aid,243181003,SNOMED,mechanical_vents,invasive
+4347667,Mouth to mouth expired air ventilation with airway,243182005,SNOMED,mechanical_vents,invasive
+4347913,Ventilation with self-inflating bag,243184006,SNOMED,mechanical_vents,invasive
+44790095,Invasive ventilation,2.26E+14,SNOMED,mechanical_vents,invasive
+44791135,Ventilatory support,2.32E+14,SNOMED,mechanical_vents,ambiguous

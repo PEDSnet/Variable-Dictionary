@@ -1,5 +1,0 @@
-﻿TABLE_NAME,FIELD_NAME,VALUESET_ITEM,VALUESET_ITEM_DESCRIPTOR
-ENCOUNTER,ENC_TYPE,AV,AV=Ambulatory  Visit
-ENCOUNTER,ENC_TYPE,ED,ED=Emergency  Department
-ENCOUNTER,ENC_TYPE,EI,EI=Emergency  Department  Admit  to  Inpatient  Hospital  Stay  (permissible  substitution)
-ENCOUNTER,ENC_TYPE,IP,IP=Inpatient  Hospital  Stay

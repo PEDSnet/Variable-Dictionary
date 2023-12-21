@@ -1,7 +1,7 @@
 |Field            |Value            |
 |:----------------|:----------------|
 |Codeset Name     |Nasal Congestion |
-|Codeset Link     |[dx_congestion](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_congestion.csv)|
+|Codeset Link     |[dx_congestion](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_congestion.csv)|
 |CDM              |NA               |
 |Clinical Concept |RECOVER          |
 |Vocab            |NA               |

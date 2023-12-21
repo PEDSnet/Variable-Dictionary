@@ -1,7 +1,7 @@
 |Field            |Value                   |
 |:----------------|:-----------------------|
 |Codeset Name     |Loss Taste and/or Smell |
-|Codeset Link     |[dx_taste_smell_loss](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_taste_smell_loss.csv)|
+|Codeset Link     |[dx_taste_smell_loss](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_taste_smell_loss.csv)|
 |CDM              |NA                      |
 |Clinical Concept |RECOVER                 |
 |Vocab            |NA                      |

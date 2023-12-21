@@ -1,7 +1,7 @@
 |Field            |Value      |
 |:----------------|:----------|
 |Codeset Name     |Asthma     |
-|Codeset Link     |[dx_asthma](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_asthma.csv)|
+|Codeset Link     |[dx_asthma](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_asthma.csv)|
 |CDM              |PEDSnet    |
 |Clinical Concept |asthma     |
 |Vocab            |SNOMED     |

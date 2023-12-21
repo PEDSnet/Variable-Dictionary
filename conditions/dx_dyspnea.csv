@@ -1,0 +1,30 @@
+concept_id,concept_code,concept_name,codeset
+4059022,161940008,Breathless - mild exertion,respsxs
+4059021,161939006,Breathless - moderate exertion,respsxs
+4190875,390871002,Breathless - strenuous exertion,respsxs
+3655952,870535009,Chronic dyspnea,respsxs
+312437,267036007,Dyspnea,respsxs
+4212233,57769004,Dyspnea after eating,respsxs
+4060052,161941007,Dyspnea at rest,respsxs
+3656669,119981000146107,Dyspnea caused by Severe acute respiratory syndrome coronavirus 2,respsxs
+4065915,17216000,"Dyspnea, class I",respsxs
+4217021,72365000,"Dyspnea, class II",respsxs
+4219335,39950000,"Dyspnea, class III",respsxs
+4248284,73322006,"Dyspnea, class IV",respsxs
+4066850,20112008,Dyspnea leaning over,respsxs
+4263848,60845006,Dyspnea on exertion,respsxs
+4091788,24921003,Dyspnea raising arms,respsxs
+4144682,34560001,Expiratory dyspnea,respsxs
+4047610,23141003,Gasping for breath,respsxs
+4178416,297216006,Increasing breathlessness,respsxs
+4097311,25209001,Inspiratory dyspnea,respsxs
+44809070,852051000000107,Minimal breathlessness,respsxs
+4094132,248548009,Nocturnal dyspnea,respsxs
+4060439,162890008,O/E - dyspnea,respsxs
+4060445,162916002,O/E - tachypnea,respsxs
+4244276,59265000,Paroxysmal dyspnea,respsxs
+4206307,55442000,Paroxysmal nocturnal dyspnea,respsxs
+4086811,248581005,Rapid shallow breathing,respsxs
+4308377,390870001,Short of breath dressing/undressing,respsxs
+317376,271823003,Tachypnea,respsxs
+4253185,407588003,Unable to complete a sentence in one breath,respsxs

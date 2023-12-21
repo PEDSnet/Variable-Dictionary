@@ -1,7 +1,7 @@
 |Field            |Value                                                                                   |
 |:----------------|:---------------------------------------------------------------------------------------|
 |Codeset Name     |Edema                                                                                   |
-|Codeset Link     |[dx_edema](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_edema.csv)|
+|Codeset Link     |[dx_edema](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_edema.csv)|
 |CDM              |NA                                                                                      |
 |Clinical Concept |Diagnoses for edema                                                                     |
 |Vocab            |ICD9CM,ICD10,ICD10CM,SNOMED                                                             |

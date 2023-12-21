@@ -1,0 +1,339 @@
+concept_id,concept_code,concept_name,codeset
+4154923,271749004,Acute rise of fever,fever_chills
+4320537,9619006,Aseptic fever,fever_chills
+4086667,248449003,Central fever,fever_chills
+4158330,271751000,Continuous fever,fever_chills
+4048098,135883003,Cough with fever,fever_chills
+4170869,49513005,Dehydration fever in newborn,fever_chills
+4166729,416113008,Disorder characterized by fever,fever_chills
+4011766,103001002,Feeling feverish,fever_chills
+437663,386661006,Fever,fever_chills
+3661885,1.20E+14,Fever caused by Severe acute respiratory syndrome coronavirus 2,fever_chills
+4094001,248447001,Fever defervescence,fever_chills
+4086666,248445009,"Fever, diurnal variation",fever_chills
+36716728,722892007,Fever due to infection,fever_chills
+4141062,426000000,Fever greater than 100.4 Fahrenheit,fever_chills
+4318555,95627000,Fever of the newborn,fever_chills
+4164645,274640006,Fever with chills,fever_chills
+4152340,271755009,Gradual fall of fever,fever_chills
+4158329,271750004,Gradual rise of fever,fever_chills
+4260205,409702008,Hyperpyrexia,fever_chills
+4299794,77957000,Intermittent fever,fever_chills
+4158332,271753002,Irregular fever,fever_chills
+4127282,304213008,Low grade pyrexia,fever_chills
+4152360,271897009,O/E - fever,fever_chills
+4040107,164307008,O/E - fever - acute rise,fever_chills
+4040270,164309006,O/E - fever - continuous,fever_chills
+4040110,164315006,O/E - fever - fast fall-crisis,fever_chills
+4040273,164316007,O/E - fever-gradual fall-lysis,fever_chills
+4039798,164308003,O/E - fever - gradual rise,fever_chills
+4039799,164312009,O/E - fever - intermittent,fever_chills
+4040272,164314005,O/E - fever - irregular,fever_chills
+4040479,164311002,O/E - fever - remittent,fever_chills
+4164378,274308003,O/E - hyperpyrexia,fever_chills
+4039796,164304001,O/E - hyperpyrexia - greater than 40.5 degrees Celsius,fever_chills
+4039979,164288004,O/E - pyrexia of unknown origin,fever_chills
+4268842,365977007,Pattern of fever - finding,fever_chills
+4268846,365989009,Phase of fever - finding,fever_chills
+4086663,248433000,Plateau phase of fever,fever_chills
+4087016,248435007,Prolonged fever,fever_chills
+4328373,7520000,Pyrexia of unknown origin,fever_chills
+4152339,271754008,Rapid fall of fever,fever_chills
+440637,420079008,Relapsing fever,fever_chills
+4274502,63993003,Remittent fever,fever_chills
+4094000,248446005,Reversed diurnal fever,fever_chills
+4093995,248432005,Rising phase of fever,fever_chills
+4093996,248436008,Slightly remittent fever,fever_chills
+4009878,102496004,Spiking fever,fever_chills
+136030,186694006,Sweating fever,fever_chills
+4243806,60025004,Transitory fever of newborn,fever_chills
+36712667,1.02E+13,Viral fever,fever_chills
+4091029,249468005,Anorexia symptom,anorexia_loss_appetite
+4275273,64379006,Decrease in appetite,anorexia_loss_appetite
+442165,79890006,Loss of appetite,anorexia_loss_appetite
+4091030,249469002,No interest in food,anorexia_loss_appetite
+4083547,23971007,Acute vomiting,nausea_vomiting_diarrhea
+4323686,71419002,Bilious vomiting,nausea_vomiting_diarrhea
+36716760,722933003,Bilious vomiting of newborn,nausea_vomiting_diarrhea
+4077500,275744000,Bilious vomit on examination,nausea_vomiting_diarrhea
+4091519,249519007,Diarrhea and vomiting,nausea_vomiting_diarrhea
+4170302,275297005,"Diarrhea and vomiting, symptom",nausea_vomiting_diarrhea
+4101344,300359004,Finding of vomiting,nausea_vomiting_diarrhea
+42539349,762279002,Functional nausea,nausea_vomiting_diarrhea
+4247894,73335002,Increased nausea and vomiting,nausea_vomiting_diarrhea
+4340522,236083006,Intermittent vomiting,nausea_vomiting_diarrhea
+44783646,698861005,Intractable nausea and vomiting,nausea_vomiting_diarrhea
+44806510,8.13E+14,Minimal nausea,nausea_vomiting_diarrhea
+31967,422587007,Nausea,nausea_vomiting_diarrhea
+27674,16932000,Nausea and vomiting,nausea_vomiting_diarrhea
+4104544,2919008,"Nausea, vomiting and diarrhea",nausea_vomiting_diarrhea
+27321,196746003,Persistent vomiting,nausea_vomiting_diarrhea
+4311574,424580008,Post-tussive vomiting,nausea_vomiting_diarrhea
+4312477,8579004,Projectile vomiting,nausea_vomiting_diarrhea
+4309379,84480002,Retching,nausea_vomiting_diarrhea
+4222657,332982000,Uncontrollable vomiting,nausea_vomiting_diarrhea
+4321138,9814003,Violent retching,nausea_vomiting_diarrhea
+4200526,301790009,Vomited meal,nausea_vomiting_diarrhea
+441408,422400008,Vomiting,nausea_vomiting_diarrhea
+35623148,765480005,Vomiting co-occurrent and due to infectious disease,nausea_vomiting_diarrhea
+4023182,225586007,Vomiting food,nausea_vomiting_diarrhea
+4149594,3094009,Vomiting in infants AND/OR children,nausea_vomiting_diarrhea
+4169915,48000002,Vomiting in newborn,nausea_vomiting_diarrhea
+4096715,249497008,Vomiting symptom,nausea_vomiting_diarrhea
+45757468,1.46E+14,Vomiting without nausea,nausea_vomiting_diarrhea
+4023572,116289008,Abdominal bloating,abdominal_pain
+4322528,9991008,Abdominal colic,abdominal_pain
+45757430,1.38E+14,Abdominal colic in adult or child greater than 12 months,abdominal_pain
+45757422,1.36E+14,Abdominal colic in child less than or equal to 12 months,abdominal_pain
+200219,21522001,Abdominal pain,abdominal_pain
+4200114,314212008,Abdominal pain - cause unknown,abdominal_pain
+4254250,74704000,Abdominal pain through to back,abdominal_pain
+4217345,71850005,Abdominal pain worse on motion,abdominal_pain
+197981,43478001,Abdominal tenderness,abdominal_pain
+4023573,116290004,Acute abdominal pain,abdominal_pain
+4094008,248490000,Bloating symptom,abdominal_pain
+4049803,21005005,Burning epigastric pain,abdominal_pain
+4012222,162046002,Central abdominal pain,abdominal_pain
+4159745,371094000,Colicky hypogastric pain,abdominal_pain
+45769036,707597009,Continuous abdominal pain of left lower quadrant,abdominal_pain
+197381,79922009,Epigastric pain,abdominal_pain
+4090550,247361008,Evening colic,abdominal_pain
+201418,271832001,"Flatulence, eructation and gas pain",abdominal_pain
+197988,102614006,Generalized abdominal pain,abdominal_pain
+443629,440220007,Generalized abdominal tenderness,abdominal_pain
+4153363,371102005,Generalized colicky abdominal pain,abdominal_pain
+761102,1.47E+16,Intractable abdominal pain,abdominal_pain
+195083,301716002,Left lower quadrant pain,abdominal_pain
+4109084,285387005,Left sided abdominal pain,abdominal_pain
+4012496,162047006,Left subcostal pain,abdominal_pain
+194175,301715003,Left upper quadrant pain,abdominal_pain
+4010024,102613000,Localized abdominal pain,abdominal_pain
+4182562,54586004,Lower abdominal pain,abdominal_pain
+4012494,162038003,Non-colicky abdominal pain,abdominal_pain
+4128083,304542004,Nonspecific abdominal pain,abdominal_pain
+4166915,274287009,O/E - abdominal pain,abdominal_pain
+4164373,274288004,O/E - epigastric pain,abdominal_pain
+4061492,163239008,O/E - rebound - epigastrium,abdominal_pain
+4061755,163245000,O/E - rebound - hypogastrium,abdominal_pain
+4061251,163236001,O/E - rebound tenderness,abdominal_pain
+4061246,163215003,On examination - abdominal pain - epigastrium,abdominal_pain
+4061247,163221004,On examination - abdominal pain - hypogastrium,abdominal_pain
+4153588,268941000,On examination - abdominal pain on palpation,abdominal_pain
+4204818,308903002,On examination - epigastric pain on palpation,abdominal_pain
+3654704,838411007,Pain in abdominal region on palpation,abdominal_pain
+3654703,838410008,Pain in epigastric region on palpation,abdominal_pain
+44791723,2.97E+14,Percussion tenderness of abdomen,abdominal_pain
+40481920,443503005,Periumbilical pain,abdominal_pain
+4149024,35611005,Rebound tenderness,abdominal_pain
+4115548,301415004,Rebound tenderness of central region,abdominal_pain
+4115546,301412001,Rebound tenderness of epigastrium,abdominal_pain
+4118279,301418002,Rebound tenderness of hypogastrium,abdominal_pain
+4115547,301414000,Rebound tenderness of left hypochondrium,abdominal_pain
+4118277,301413006,Rebound tenderness of right hypochondrium,abdominal_pain
+193322,301754002,Right lower quadrant pain,abdominal_pain
+4109085,285388000,Right sided abdominal pain,abdominal_pain
+4012497,162048001,Right subcostal pain,abdominal_pain
+198263,301717006,Right upper quadrant pain,abdominal_pain
+4152197,271681002,Stomach ache,abdominal_pain
+194491,301403003,Tenderness of epigastrium,abdominal_pain
+4115420,301409004,Tenderness of hypogastrium,abdominal_pain
+4103489,301405005,Tenderness of left hypochondrium,abdominal_pain
+194755,439774009,Tenderness of left lower quadrant of abdomen,abdominal_pain
+40490984,448660000,Tenderness of left upper quadrant of abdomen,abdominal_pain
+40483351,445386003,Tenderness of periumbilical region,abdominal_pain
+4118276,301404009,Tenderness of right hypochondrium,abdominal_pain
+40490986,448661001,Tenderness of right lower quadrant of abdomen,abdominal_pain
+40488954,448265002,Tenderness of right upper quadrant of abdomen,abdominal_pain
+433879,88522004,Umbilical pain,abdominal_pain
+4306292,83132003,Upper abdominal pain,abdominal_pain
+4077128,17986004,Barking cough,cough
+4048759,20670007,Brassy cough,cough
+4195384,68154008,Chronic cough,cough
+4158493,272039006,C/O - cough,cough
+254761,49727002,Cough,cough
+4323688,7142008,Cough at rest,cough
+4000163,19282004,Cough on exercise,cough
+4048098,135883003,Cough with fever,cough
+4126096,289965001,Croupy cough,cough
+4128692,289116005,Difficulty coughing,cough
+4122567,289114008,Does cough,cough
+4117283,301246003,Does cough up sputum,cough
+4038519,11833005,Dry cough,cough
+4266704,62618004,Early morning cough,cough
+44806100,8.11E+14,Episodic dry cough,cough
+4058584,161933007,Evening cough,cough
+4243802,59994004,Hacking cough,cough
+4270340,62731002,Increasing frequency of cough,cough
+4059020,161932002,Morning cough,cough
+4269800,62548007,Nocturnal cough,cough
+4060313,161947006,Nocturnal cough / wheeze,cough
+4090569,247410004,Painful cough,cough
+4182587,43025008,Paroxysmal cough,cough
+4109381,284523002,Persistent cough,cough
+40482863,445241004,Postviral cough,cough
+4102774,28743005,Productive cough,cough
+4060224,161923004,Productive cough -clear sputum,cough
+4060051,161924005,Productive cough -green sputum,cough
+4059017,161925006,Productive cough-yellow sputum,cough
+4167374,417850002,Respiratory tract congestion and cough,cough
+4271318,63000007,Spasmodic cough,cough
+4196430,315246003,Unexplained cough,cough
+4329087,431231008,Acute rhinosinusitis,nasal_congestion
+4079304,277233008,Anterior rhinorrhea,nasal_congestion
+4155092,272034001,C/O nasal congestion,nasal_congestion
+4220211,82297005,Congestion of nasal sinus,nasal_congestion
+4010481,102617004,Congestion of throat,nasal_congestion
+4143715,306941004,Discharge in inferior meatus,nasal_congestion
+4143714,306940003,Discharge in middle meatus,nasal_congestion
+4195085,68235000,Nasal congestion,nasal_congestion
+257683,75803007,Posterior rhinorrhea,nasal_congestion
+4167374,417850002,Respiratory tract congestion and cough,nasal_congestion
+46273416,8.82E+13,Acute adenoiditis,sore_throat
+4109897,195669000,Acute catarrhal tonsillitis,sore_throat
+4112009,195666007,Acute erythematous tonsillitis,sore_throat
+4110359,195667003,Acute follicular tonsillitis,sore_throat
+40482414,445130008,Acute infective adenoiditis,sore_throat
+23798,55355000,Acute laryngopharyngitis,sore_throat
+4120324,302911003,Acute lingual tonsillitis,sore_throat
+25297,363746003,Acute pharyngitis,sore_throat
+4109893,195656004,Acute phlegmonous pharyngitis,sore_throat
+24660,17741008,Acute tonsillitis,sore_throat
+4112342,195657008,Acute ulcerative pharyngitis,sore_throat
+4109896,195668008,Acute ulcerative tonsillitis,sore_throat
+4112343,195662009,Acute viral pharyngitis,sore_throat
+4110361,195676005,Acute viral tonsillitis,sore_throat
+4289744,70020005,Adenoiditis,sore_throat
+4131441,126664009,Exudative pharyngitis,sore_throat
+4101263,27878001,Follicular tonsillitis,sore_throat
+4337956,87326000,Hypertrophic pharyngitis,sore_throat
+4193318,312422001,Infective pharyngitis,sore_throat
+4110496,195804009,Lingular tonsillitis,sore_throat
+4197268,51476001,Nasopharyngitis,sore_throat
+4040138,164256007,O/E - follicular tonsillitis,sore_throat
+4131442,126665005,Oropharyngeal mucositis,sore_throat
+4226263,405737000,Pharyngitis,sore_throat
+4110480,195709006,Pharyngolaryngitis,sore_throat
+4147326,267102003,Sore throat symptom,sore_throat
+4240728,58031004,Suppurative pharyngitis,sore_throat
+4014329,10351008,Suppurative tonsillitis,sore_throat
+4234533,90176007,Tonsillitis,sore_throat
+4190176,39271004,Ulcerative pharyngitis,sore_throat
+4031521,14465002,Ulcerative tonsillitis,sore_throat
+4035987,1532007,Viral pharyngitis,sore_throat
+4093292,186675001,Viral pharyngoconjunctivitis,sore_throat
+4198240,51209006,Viral tonsillitis,sore_throat
+437113,13791008,Asthenia,malaise_fatigue
+765190,1.13E+12,Asthenia due to disease,malaise_fatigue
+4093848,248278004,Attacks of weakness,malaise_fatigue
+4158491,272036004,C/O - debility - malaise,malaise_fatigue
+4223659,84229001,Fatigue,malaise_fatigue
+4060217,161874006,Heavy feeling,malaise_fatigue
+4059010,161873000,Heavy legs,malaise_fatigue
+4272240,367391008,Malaise,malaise_fatigue
+439926,271795006,Malaise and fatigue,malaise_fatigue
+4214612,80449002,Muscle fatigue,malaise_fatigue
+79908,26544005,Muscle weakness,malaise_fatigue
+37017268,713514005,Muscle weakness of limb,malaise_fatigue
+37017267,713512009,Muscle weakness of upper limb,malaise_fatigue
+37017316,713568000,Occasionally tired,malaise_fatigue
+4063119,17099003,Peripheral muscle fatigue,malaise_fatigue
+4202045,51771007,Postviral fatigue syndrome,malaise_fatigue
+4161600,373931001,Sensation of heaviness in limbs,malaise_fatigue
+4074624,224960004,Tired,malaise_fatigue
+4149857,267032009,Tired all the time,malaise_fatigue
+4086973,248269005,Tired on least exertion,malaise_fatigue
+4012382,162236007,Weakness present,malaise_fatigue
+4038025,162307009,Aching headache,headache
+42539583,735938006,Acute headache,headache
+42538611,762353009,Acute headache due to traumatic injury of head,headache
+4037891,162301005,Bilateral headache,headache
+4158490,272027003,C/O - a headache,headache
+373463,95658004,Cough headache syndrome,headache
+43530760,5.71E+11,Daily headache,headache
+37016725,712831003,Frequent headache,headache
+4147325,267096005,Frontal headache,headache
+4115407,301357006,Frontal sinus pain,headache
+4036622,162299003,Generalized headache,headache
+378253,25064002,Headache,headache
+44790934,2.49E+14,Increased frequency of headaches,headache
+37016721,712826000,Intermittent headache,headache
+4103477,301356002,Maxillary sinus pain,headache
+4036953,162310002,Morning headache,headache
+4162234,398126006,Muscular headache,headache
+4195951,44538002,Nasal headache,headache
+43530648,1.21E+14,New daily persistent headache,headache
+4140381,330007,Occipital headache,headache
+3170444,1.91E+16,Occipital pain,headache
+4315023,86925001,Ocular headache,headache
+4170790,274306004,O/E -frontal sinus pain,headache
+4170789,274305000,On examination - maxillary sinus pain,headache
+40483832,445511002,Orthostatic headache,headache
+4037300,162304002,Parietal headache,headache
+4038026,162309007,Shooting headache,headache
+4172302,4969004,Sinus headache,headache
+4212985,41413006,Temporal headache,headache
+376382,398057008,Tension-type headache,headache
+4036624,162308004,Throbbing headache,headache
+4012515,162211001,Viral headache,headache
+4318397,95421005,Intercostal myalgia,myalgia
+442752,68962001,Muscle pain,myalgia
+4150130,279070004,Muscle tension pain,myalgia
+4126064,288232008,Myalgia/myositis - ankle/foot,myalgia
+4125938,288228002,Myalgia/myositis - forearm,myalgia
+4121934,288229005,Myalgia/myositis - hand,myalgia
+4125939,288231001,Myalgia/myositis - lower leg,myalgia
+4125937,288225004,Myalgia/myositis - multiple,myalgia
+4121935,288230000,Myalgia/myositis -pelvis/thigh,myalgia
+4121597,288226003,Myalgia/myositis - shoulder,myalgia
+4121598,288227007,Myalgia/myositis - upper arm,myalgia
+4184119,298292009,Pain on movement of skeletal muscle,myalgia
+4344370,240107001,Viral myalgia,myalgia
+4155088,272028008,C/O - anosmia,loss_taste_smell
+4158494,272041007,C/O - loss of taste sense,loss_taste_smell
+44783807,697992008,Hemiageusia,loss_taste_smell
+4289517,36955009,Loss of taste,loss_taste_smell
+44782579,698002002,Loss of taste anterior two thirds of tongue,loss_taste_smell
+45765564,702531002,Loss of taste posterior one third of tongue,loss_taste_smell
+4064203,164056002,O/E-taste loss post 1/3 tongue,loss_taste_smell
+4063199,164055003,On examination - taste loss anterior 2/3 tongue,loss_taste_smell
+4059022,161940008,Breathless - mild exertion,respsxs
+4059021,161939006,Breathless - moderate exertion,respsxs
+4190875,390871002,Breathless - strenuous exertion,respsxs
+3655952,870535009,Chronic dyspnea,respsxs
+312437,267036007,Dyspnea,respsxs
+4212233,57769004,Dyspnea after eating,respsxs
+4060052,161941007,Dyspnea at rest,respsxs
+3656669,1.20E+14,Dyspnea caused by Severe acute respiratory syndrome coronavirus 2,respsxs
+4065915,17216000,"Dyspnea, class I",respsxs
+4217021,72365000,"Dyspnea, class II",respsxs
+4219335,39950000,"Dyspnea, class III",respsxs
+4248284,73322006,"Dyspnea, class IV",respsxs
+4066850,20112008,Dyspnea leaning over,respsxs
+4263848,60845006,Dyspnea on exertion,respsxs
+4091788,24921003,Dyspnea raising arms,respsxs
+4144682,34560001,Expiratory dyspnea,respsxs
+4047610,23141003,Gasping for breath,respsxs
+4178416,297216006,Increasing breathlessness,respsxs
+4097311,25209001,Inspiratory dyspnea,respsxs
+44809070,8.52E+14,Minimal breathlessness,respsxs
+4094132,248548009,Nocturnal dyspnea,respsxs
+4060439,162890008,O/E - dyspnea,respsxs
+4060445,162916002,O/E - tachypnea,respsxs
+4244276,59265000,Paroxysmal dyspnea,respsxs
+4206307,55442000,Paroxysmal nocturnal dyspnea,respsxs
+4086811,248581005,Rapid shallow breathing,respsxs
+4308377,390870001,Short of breath dressing/undressing,respsxs
+317376,271823003,Tachypnea,respsxs
+4253185,407588003,Unable to complete a sentence in one breath,respsxs
+3656668,1.20E+14,Conjunctivitis due to disease caused by Severe acute respiratory syndrome coronavirus 2,covid_dx
+439676,186747009,Coronavirus infection,covid_dx
+37311061,840539006,COVID-19,covid_dx
+4100065,27619001,Disease due to Coronaviridae,covid_dx
+3656669,1.20E+14,Dyspnea caused by Severe acute respiratory syndrome coronavirus 2,covid_dx
+3661885,1.20E+14,Fever caused by Severe acute respiratory syndrome coronavirus 2,covid_dx
+37310286,1.24E+15,Infection of upper respiratory tract caused by Severe acute respiratory syndrome coronavirus 2,covid_dx
+37310254,1.24E+15,Otitis media due to disease caused by Severe acute respiratory syndrome coronavirus 2,covid_dx
+4091519,249519007,Diarrhea and vomiting,nausea_vomiting_diarrhea
+4170302,275297005,"Diarrhea and vomiting, symptom",nausea_vomiting_diarrhea
+4145808,267060006,Diarrhea symptom,nausea_vomiting_diarrhea
+4104544,2919008,"Nausea, vomiting and diarrhea",nausea_vomiting_diarrhea

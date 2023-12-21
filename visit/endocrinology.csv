@@ -1,9 +1,0 @@
-﻿concept_id,concept_name,concept_code,vocabulary_id
-45756771,"Endocrinology, Diabetes and Metabolism",OMOP4821972,ABMS
-45756826,Reproductive Endocrinology/Infertility,OMOP4822013,ABMS
-45756809,Pediatric Endocrinology,OMOP4822030,ABMS
-44777765,Paediatric Endocrinology,252,HES Specialty
-44777786,Endocrinology,302,HES Specialty
-38004485,Endocrinology,46,Medicare Specialty
-38003868,"Allopathic & Osteopathic Physicians, Internal Medicine, Endocrinology, Diabetes & Metabolism",207RE0101X,NUCC
-38003951,"Allopathic & Osteopathic Physicians, Pediatrics, Pediatric Endocrinology",2080P0205X,NUCC

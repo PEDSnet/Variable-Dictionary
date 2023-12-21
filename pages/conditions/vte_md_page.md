@@ -1,7 +1,7 @@
 |Field            |Value                |
 |:----------------|:--------------------|
 |Codeset Name     |Deep vein thrombosis |
-|Codeset Link     |[vte](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/vte.csv)|
+|Codeset Link     |[vte](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/vte.csv)|
 |CDM              |NA                   |
 |Clinical Concept |NA                   |
 |Vocab            |NA                   |

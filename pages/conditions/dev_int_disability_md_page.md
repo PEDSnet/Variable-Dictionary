@@ -1,7 +1,7 @@
 |Field            |Value                   |
 |:----------------|:-----------------------|
 |Codeset Name     |Intellectual disability |
-|Codeset Link     |[dev_int_disability](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dev_int_disability.csv)|
+|Codeset Link     |[dev_int_disability](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dev_int_disability.csv)|
 |CDM              |NA                      |
 |Clinical Concept |NA                      |
 |Vocab            |NA                      |

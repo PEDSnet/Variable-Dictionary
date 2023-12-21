@@ -1,0 +1,1729 @@
+concept_id,concept_name,vocabulary_id,codeset
+36223310,1158147,phenylephrine Injectable Product,pressors
+46287544,1666371,phenylephrine Injection,pressors
+36224715,1159747,isoproterenol Injectable Product,pressors
+36224130,1159604,dobutamine Injectable Product,pressors
+36225029,1159845,norepinephrine Injectable Product,pressors
+36224502,1160755,dopamine Injectable Product,pressors
+36243682,1299692,Isuprel Injectable Product,pressors
+44814535,1490055,epinephrine Injectable Solution [Adrenalin],pressors
+35603334,1667908,isoproterenol Injection,pressors
+1344014,245317,epinephrine 0.5 MG/ML Injectable Solution,pressors
+35606558,1743862,dopamine Injection,pressors
+1719036,1812167,dobutamine Injection,pressors
+40038600,372030,epinephrine Injectable Solution,pressors
+19076867,310116,epinephrine 0.1 MG/ML Injectable Solution,pressors
+19076899,310132,epinephrine 1 MG/ML Injectable Solution,pressors
+40035704,374370,dobutamine Injectable Solution,pressors
+40074086,373369,phenylephrine Injectable Solution,pressors
+21120973,OMOP361510,Milrinone 0.6 MG/ML Injection,pressors
+35152408,OMOP4809441,Milrinone 0.15 MG/ML,pressors
+21068602,OMOP313685,20 ML Dobutamine 12.5 MG/ML Injection by Wockhardt,pressors
+42966529,OMOP4692988,Dopamine 40 MG/ML Injectable Solution [INOPAN MYUNG MOON],pressors
+42966515,OMOP4692974,Dopamine 3.2 MG/ML / Glucose 50 MG/ML [CJ DOPAMINE HCL PREMIX],pressors
+41397476,OMOP2595438,50 ML Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.25 UNT/ML Injectable Solution Box of 5,pressors
+41377482,OMOP2575444,20 ML Dobutamine 14 MG/ML Injectable Solution Box of 5,pressors
+40878155,OMOP2076117,Dopamine 10 MG/ML Injectable Solution [Cardiosteril] Box of 50,pressors
+36262752,OMOP3113627,Milrinone 1 MG/ML Injection [COROTROPE],pressors
+36784350,OMOP4772634,Dobutamine 12.5 MG/ML Intravenous Solution,pressors
+36412215,OMOP3104257,250 ML Dopamine 1.6 MG/ML Injectable Solution Box of 1,pressors
+21166489,OMOP308834,5 ML Dopamine 40 MG/ML Injection Box of 5,pressors
+43586851,OMOP671727,Milrinone 1 MG/ML Injectable Solution [Milrinon Carino] Box of 5,pressors
+42799677,1292764,dopamine hydrochloride 10 MG/ML Injectable Solution,pressors
+42799684,1292886,dopamine hydrochloride 3.2 MG/ML,pressors
+35867373,OMOP5024295,dopamine 20 MG [Asikeding],pressors
+40875255,OMOP2073217,Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.25 UNT/ML Injectable Solution [Neo Lidocaton] Box of 5,pressors
+43736763,OMOP797745,20 ML Milrinone 1 MG/ML Injection [Unacor] Box of 10 by Pharmaselect,pressors
+41391798,OMOP2589760,50 ML Dobutamine 0.1 MG/ML Injectable Solution [Dobutamin Hexal] Box of 1,pressors
+42966520,OMOP4692979,Dopamine 2 MG/ML / Glucose 50 MG/ML Injectable Solution [DOPAMIX CJ],pressors
+42628994,1791855,milrinone lactate 1 MG/ML Injection,pressors
+21078129,OMOP308833,5 ML Dopamine 40 MG/ML Injection by Martindale,pressors
+2062429,OMOP4963681,dopamine 1 MG/ML / glucose 50 MG/ML [CJ DOPAMIX],pressors
+40747704,OMOP4709600,Dopamine 2.4 MG/ML Injectable Solution Box of 1,pressors
+35606572,1743953,5 ML dopamine hydrochloride 80 MG/ML Injection,pressors
+41237860,OMOP2435822,Lidocaine / Norepinephrine / Vasopressin (USP) Injectable Solution [Neo Lidocaton],pressors
+35201751,2103185,vasopressin (USP) 20 UNT/ML Injection,pressors
+21048646,OMOP308855,5 ML Dopamine 160 MG/ML Injection Box of 10 by AMCo,pressors
+43842397,OMOP736407,1 ML Milrinone 1 MG/ML Injectable Solution,pressors
+784545,OMOP4832364,10 ML Milrinone 1 MG/ML Injectable Solution [COROTROPE],pressors
+41378773,OMOP2576735,20 ML Dobutamine 14 MG/ML Injectable Solution [Dobutrex] Box of 500,pressors
+41362975,OMOP2560937,10 ML Dopamine 5 MG/ML Injectable Solution Box of 300,pressors
+21049822,OMOP328407,250 ML Dopamine 3.2 MG/ML Prefilled Syringe Box of 1 by Abbott,pressors
+43680545,OMOP736400,1 ML Milrinone 1 MG/ML Injectable Solution [Milrinon Rotexmedica],pressors
+41159465,OMOP2357427,Dobutamine 250 MG Injectable Solution [Dobutrex] Box of 50,pressors
+21177485,OMOP328405,250 ML Dopamine 3.2 MG/ML Prefilled Syringe Box of 1,pressors
+35781054,OMOP2782515,5 ML Dobutamine 50 MG/ML Injectable Solution,pressors
+41335534,OMOP2533496,1 ML Vasopressin (USP) 20 UNT/ML Injectable Solution Box of 30,pressors
+37499146,2283531,dobutamine 12.5 MG/ML [Dobutrex],pressors
+43219290,OMOP518214,20 ML Dobutamine 12.5 MG/ML Prefilled Syringe [DOBUTAMINE SILCAR] Box of 10 by Panpharma,pressors
+42799683,1292885,dopamine hydrochloride 25 MG/ML Injectable Solution,pressors
+41283604,OMOP2481566,Dopamine 10 MG/ML Injectable Solution [Cardiosteril],pressors
+42918398,OMOP4645288,500 ML Dobutamine 2 MG/ML / Glucose 50 MG/ML Injectable Solution [DOBUTAMINE HCI PREMIX],pressors
+41252710,OMOP2450672,Dobutamine 250 MG Injectable Solution [Dobutrex],pressors
+43806887,OMOP760812,3 ML Dopamine 5 MG/ML Injection Box of 2,pressors
+43193653,OMOP481282,Dopamine 5 MG/ML Prefilled Syringe Box of 10,pressors
+1337750,328217,dobutamine 1 MG/ML,pressors
+41355555,OMOP2553517,5 ML Dopamine 40 MG/ML Injectable Solution Box of 5,pressors
+40141037,727842,dopamine Prefilled Syringe,pressors
+35788769,OMOP2790230,250 ML Dopamine 3.2 MG/ML Injectable Solution Box of 1 by Abbott,pressors
+44058054,OMOP1052685,Vasopressin (USP) 20 UNT/ML Intramuscular Solution,pressors
+43809594,OMOP814781,50 ML Dobutamine 11.2 MG/ML Injectable Solution [Dobutamin Carino] by Carinopharm,pressors
+43857024,OMOP671731,Milrinone 1 MG/ML Injection [Unacor],pressors
+35144596,OMOP4801691,50 ML Dopamine 1 MG/ML Prefilled Syringe,pressors
+36780231,OMOP4768534,10 ML Milrinone 1 MG/ML Intravenous Solution Box of 10,pressors
+43784879,OMOP671719,Milrinone 1 MG/ML Injectable Solution Box of 25,pressors
+41023454,OMOP2221416,Dobutamine 250 MG Injectable Solution Box of 50,pressors
+43789889,OMOP783212,10 ML Dopamine 20 MG/ML Injection [Dopamin Carino] Box of 5 by Carinopharm,pressors
+35157439,OMOP4814445,Dopamine 1 MG/ML Injectable Solution [Kakodin],pressors
+35201750,2103183,vasopressin (USP) Injection [Vasostrict],pressors
+1719041,1812186,dobutamine 4 MG/ML Injection,pressors
+43693404,OMOP951221,Dopamine 10 MG/ML Injection [Dopamin Fresenius],pressors
+43857023,OMOP671725,Milrinone 1 MG/ML Injectable Solution [Milrinon Rotexmedica] Box of 25,pressors
+41238442,OMOP2436404,Dopamine Injectable Solution [Dopamin Solvay],pressors
+41016229,OMOP2214191,Dopamine 10 MG/ML [Dopamin Solvay],pressors
+40991027,OMOP2188989,Milrinone 1.42 MG/ML Injectable Solution Box of 10,pressors
+43808634,OMOP796554,20 ML Dobutamine 14 MG/ML Injection [Dobutamin Hameln] Box of 50,pressors
+40747701,OMOP4709603,Dopamine 1.2 MG/ML Injectable Solution,pressors
+43186148,OMOP516028,10 ML Milrinone 1 MG/ML Prefilled Syringe [COROTROPE] Box of 10,pressors
+43747671,OMOP959010,Dobutamine 5.6 MG/ML Injectable Solution Box of 50,pressors
+36779626,OMOP4767935,20 ML Dobutamine 12.5 MG/ML Intravenous Solution [Dobutrex] Box of 10 by Mylan,pressors
+21117459,OMOP311761,10 ML Dopamine 40 MG/ML Prefilled Syringe Box of 1 by UCB,pressors
+43693865,OMOP959038,Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Carino] Box of 10,pressors
+2025278,OMOP4923864,250 ML dobutamine 1 MG/ML / glucose 50 MG/ML Injectable Solution by Baxter,pressors
+2028388,OMOP4927139,5 ML dopamine 40 MG/ML Injectable Solution [MYUNGMOON INOPAN] by Myungmoon,pressors
+41065123,OMOP2263085,Dobutamine 12.5 MG/ML Injectable Suspension [Dobutrex],pressors
+43647819,OMOP814239,50 ML Dopamine 5 MG/ML Injection [Dopamin Carino],pressors
+43591405,OMOP768652,5 ML Dopamine 10 MG/ML Injection [Dopamin Carino] Box of 10 by Carinopharm,pressors
+35780417,OMOP2781878,5 ML Dopamine 40 MG/ML Injectable Solution by AMCo,pressors
+21088129,OMOP313693,20 ML Dobutamine 12.5 MG/ML Injection [Dobutrex] Box of 1,pressors
+2025273,OMOP4923859,250 ML dobutamine 4 MG/ML / glucose 50 MG/ML Injectable Solution by Baxter,pressors
+43734332,OMOP736404,1 ML Milrinone 1 MG/ML Injection [Milrinon Stragen] by Stragen,pressors
+43790481,OMOP796546,20 ML Dobutamine 14 MG/ML Injection Box of 50,pressors
+43718633,OMOP797737,20 ML Milrinone 1 MG/ML Injection Box of 10,pressors
+42799681,1292883,dopamine hydrochloride 20 MG/ML Injectable Solution,pressors
+41314879,OMOP2512841,Dopamine 5 MG/ML Injectable Solution [Dopamin Solvay],pressors
+36224502,1160755,dopamine Injectable Product,pressors
+43719505,OMOP814784,50 ML Dobutamine 11.2 MG/ML Injectable Solution [Dobutamin Carino] Box of 2 by Carinopharm,pressors
+43765633,OMOP959019,Dobutamine 11.2 MG/ML [Dobutamin Liquid Fresenius],pressors
+43657529,OMOP951228,Dopamine 5 MG/ML [Dopamin Fresenius],pressors
+35136614,OMOP4793791,Vasopressin (USP) 20 UNT Injectable Solution,pressors
+41413622,OMOP2611584,1.8 ML Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.45 UNT/ML Metered Dose Inhaler [Neo Lidocaton] Box of 1000,pressors
+43219027,OMOP515784,10 ML Dopamine 5 MG/ML Prefilled Syringe [DOPAMINE PIERRE FABRE] Box of 50,pressors
+43717243,OMOP768638,5 ML Dopamine 10 MG/ML Injection Box of 6,pressors
+43215538,OMOP481270,Dopamine 40 MG/ML Prefilled Syringe Box of 20,pressors
+2062434,OMOP4963686,dopamine 80 MG/ML [DOPASIN],pressors
+2025410,OMOP4923996,200 ML dopamine 1 MG/ML / glucose 50 MG/ML Injectable Solution [CJ DOPAMIX],pressors
+43843452,OMOP768642,5 ML Dopamine 10 MG/ML Injection [Dopamin Fresenius] Box of 10,pressors
+43719506,OMOP814786,50 ML Dobutamine 11.2 MG/ML Injectable Solution [Dobutamin Carino] Box of 10 by Carinopharm,pressors
+43663661,OMOP768636,5 ML Dopamine 10 MG/ML Injection,pressors
+42799673,1292742,dopamine hydrochloride 1 MG/ML Injectable Solution,pressors
+19118739,569490,vasopressin (USP) 20 UNT/ML [Pitressin],pressors
+44037745,OMOP1032376,Dobutamine 12.5 MG/ML Injection by Hospira,pressors
+35766353,OMOP2767814,Dopamine 3.2 MG/ML Injectable Solution Box of 1,pressors
+43175262,OMOP515781,10 ML Dopamine 5 MG/ML Prefilled Syringe [DOPAMINE MYLAN] Box of 50 by Mylan,pressors
+35140668,OMOP4797806,50 ML Dopamine 6 MG/ML Prefilled Syringe,pressors
+43658003,OMOP958995,Dobutamine 0.528 MG/MG,pressors
+21058656,OMOP313692,20 ML Dobutamine 12.5 MG/ML Injection [Dobutrex] by Lilly,pressors
+41330969,OMOP2528931,1 ML Vasopressin (USP) 20 UNT/ML Injectable Solution [Pitressin],pressors
+43844817,OMOP797741,20 ML Milrinone 1 MG/ML Injection [Milrinon Stragen] Box of 10 by Stragen,pressors
+42940597,OMOP4667247,Dobutamine 50 MG/ML [HANA DOBUTAMINE HCL],pressors
+43657527,OMOP951203,Dopamine 40 MG/ML Injection [Dopamin Fresenius] Box of 10,pressors
+43591403,OMOP768644,5 ML Dopamine 10 MG/ML Injection [Dopamin Fresenius] Box of 10 by Fresenius,pressors
+42940586,OMOP4667236,Dobutamine 1 MG/ML / Glucose 50 MG/ML Injectable Solution,pressors
+783083,OMOP4830915,Milrinone 1 MG/ML Injectable Solution [COROTROPE],pressors
+35828318,OMOP5039926,200 ML dobutamine 3 MG/ML Injectable Solution [Dobutrex],pressors
+35780235,OMOP2781696,5 ML Dopamine 40 MG/ML Injectable Solution Box of 50 by Hospira,pressors
+2025265,OMOP4923851,250 ML dopamine 1.6 MG/ML / glucose 50 MG/ML Injectable Solution by Baxter,pressors
+35137376,OMOP4794552,50 ML Dobutamine 6 MG/ML Prefilled Syringe [Dobupum],pressors
+21068322,OMOP308845,5 ML Dopamine 40 MG/ML Injection Box of 50 by Alliance,pressors
+1507839,316883,vasopressin (USP) 20 UNT/ML,pressors
+43693403,OMOP951219,Dopamine 10 MG/ML Injection Box of 6,pressors
+41393160,OMOP2591122,50 ML Dopamine 5 MG/ML Injectable Solution [Dopamin Solvay],pressors
+36054970,OMOP4980278,20 ML dobutamine 12.5 MG/ML Injectable Solution [Dobutrex] by Eli Lilly,pressors
+42918665,OMOP4645546,500 ML Dopamine 1.6 MG/ML / Glucose 50 MG/ML Injectable Solution,pressors
+42799669,1293170,dopamine hydrochloride 0.4 MG/ML Injectable Solution,pressors
+41393366,OMOP2591328,50 ML Dopamine 5 MG/ML Injectable Solution Box of 10 by Carinopharm,pressors
+43802795,OMOP671710,Milrinone 1 MG/ML [Milrinon Hikma],pressors
+41148974,OMOP2346936,Dobutamine 14 MG/ML Injectable Solution Box of 1000,pressors
+41379149,OMOP2577111,20 ML Dobutamine 14 MG/ML Injectable Solution [Dobutrex] Box of 1,pressors
+40714145,OMOP4743545,50 ML Dopamine 2.4 MG/ML Injectable Solution Box of 19,pressors
+35157759,OMOP4814759,Milrinone 0.15 MG/ML Injectable Solution [Milrila],pressors
+41393534,OMOP2591496,50 ML Dobutamine 0.1 MG/ML Injectable Solution,pressors
+43765629,OMOP958988,Dobutamine Injectable Solution [Dobutamin Liquid Fresenius],pressors
+37499144,2283529,dobutamine 12.5 MG/ML Injectable Solution,pressors
+35201974,2058465,100 ML dopamine hydrochloride 3.2 MG/ML Injection,pressors
+41373078,OMOP2571040,10 ML Dopamine 20 MG/ML Injectable Solution [Dopamin Solvay] Box of 10,pressors
+36411225,OMOP3103267,50 ML Milrinone 0.2 MG/ML Injectable Solution,pressors
+36054927,OMOP4980282,20 ML dobutamine 12.5 MG/ML Injectable Solution by A A H,pressors
+35867375,OMOP5024297,dopamine 10 MG,pressors
+41311896,OMOP2509858,Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.45 UNT/ML Metered Dose Inhaler [Neo Lidocaton] Box of 1000,pressors
+35828319,OMOP5039925,200 ML dobutamine 1 MG/ML Injectable Solution [Dobutrex],pressors
+42921504,OMOP4648332,5 ML Dopamine 40 MG/ML Injectable Solution [DOPAMINE DAEWOO],pressors
+35867789,OMOP5024320,dobutamine 125 MG [Aowanyuan],pressors
+43626151,OMOP733368,1 ML Dobutamine 14 MG/ML Injection [Dobutamin Hameln],pressors
+21157029,OMOP313689,20 ML Dobutamine 12.5 MG/ML Injection Box of 5 by A A H,pressors
+35780077,OMOP2781538,5 ML Dopamine 40 MG/ML Injectable Solution Box of 50 by Alliance,pressors
+44076686,OMOP1071317,Dopamine 1.6 MG/ML / Glucose 50 MG/ML Injection by Hospira,pressors
+2025262,OMOP4923848,250 ML dopamine 3.2 MG/ML / glucose 50 MG/ML Injectable Solution by JW,pressors
+784676,OMOP4832494,20 ML Dobutamine 12.5 MG/ML Injectable Solution [Dobutamine EG] Box of 10,pressors
+43152948,OMOP513595,5 ML Dopamine 40 MG/ML Prefilled Syringe [DOPAMINE MYLAN] Box of 50 by Mylan,pressors
+43593645,OMOP814770,50 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Hameln] Box of 20 by Hameln,pressors
+40712101,OMOP4745037,100 ML Dobutamine 1 MG/ML Injectable Solution Box of 10,pressors
+35135014,OMOP4792213,Dobutamine 100 MG Injectable Solution [Dobutrex],pressors
+41353666,OMOP2551628,5 ML Dopamine 10 MG/ML Injectable Solution [Cardiosteril] Box of 10,pressors
+36784349,OMOP4772633,Dobutamine 12.5 MG/ML Intravenous Solution Box of 10,pressors
+42480390,OMOP419729,250 ML Dopamine 3.2 MG/ML Prefilled Syringe,pressors
+43291768,OMOP564641,20 ML Dobutamine 12.5 MG/ML Injection Box of 10 by Abbott,pressors
+41242402,OMOP2440364,Dobutamine 14 MG/ML Injectable Solution Box of 500,pressors
+40927059,OMOP2125021,Vasopressin (USP) 20 UNT/ML Injectable Solution Box of 30,pressors
+41279791,OMOP2477753,Milrinone 1.42 MG/ML Injectable Solution [Milrinon Rotexmedica],pressors
+35788806,OMOP2790267,250 ML Dopamine 3.2 MG/ML Injectable Solution Box of 1,pressors
+43280941,OMOP564640,20 ML Dobutamine 12.5 MG/ML Injection by Dbl,pressors
+2062438,OMOP4963690,dopamine 10 MG/ML [TROPIN],pressors
+44070150,OMOP1064781,Dopamine Injection [Intropin],pressors
+42966535,OMOP4692994,Dopamine 40 MG/ML [DOPURAMIN],pressors
+44073091,OMOP1067722,Milrinone 1 MG/ML Injection [Apo-Milrinone],pressors
+43752073,OMOP733367,1 ML Dobutamine 14 MG/ML Injection,pressors
+40715092,OMOP4741898,10 ML Milrinone 1 MG/ML Injectable Solution by Peckforton,pressors
+42918864,OMOP4645743,250 ML Dobutamine 2 MG/ML / Glucose 50 MG/ML Injectable Solution,pressors
+42799044,1292716,10 ML dopamine hydrochloride 40 MG/ML Prefilled Syringe,pressors
+42921146,OMOP4647982,5 ML Dobutamine 50 MG/ML Injectable Solution [DOBUTAMIN HCI MYUNGMOON],pressors
+2062433,OMOP4963685,dopamine 80 MG/ML Injectable Solution [DOPASIN],pressors
+43693861,OMOP959011,Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Hameln],pressors
+41362123,OMOP2560085,10 ML Milrinone 1.42 MG/ML Injectable Solution Box of 10,pressors
+42966550,OMOP4693008,Dopamine Injectable Solution [TROPIN],pressors
+35142426,OMOP4799539,Dopamine 1 MG/ML [Inovan],pressors
+21029021,OMOP308825,5 ML Dopamine 40 MG/ML Prefilled Syringe by UCB,pressors
+35147214,OMOP4804289,Dobutamine 6 MG/ML,pressors
+42940585,OMOP4667235,Dobutamine 2 MG/ML / Glucose 50 MG/ML [DOBUTAMINE HCI PREMIX],pressors
+21144766,OMOP269854,Dopamine 3.2 MG/ML Prefilled Syringe Box of 1,pressors
+21087867,OMOP308832,5 ML Dopamine 40 MG/ML Injection by A A H,pressors
+43603789,OMOP959029,Dobutamine 5.6 MG/ML [Dobutamin Liquid Fresenius],pressors
+43208282,OMOP518210,20 ML Dobutamine 12.5 MG/ML Prefilled Syringe [DOBUTAMINE PANPHARMA] Box of 10,pressors
+43160790,OMOP481286,Dopamine 5 MG/ML Prefilled Syringe [DOPAMINE MYLAN] Box of 50,pressors
+43040176,OMOP4855209,5 ML Dopamine 10 MG/ML Injectable Solution Box of 50 by Aguettant,pressors
+40729357,OMOP4727664,Dobutamine 1.2 MG/ML Injectable Solution Box of 10,pressors
+40240703,1114887,dopamine hydrochloride 80 MG/ML,pressors
+37003084,2399906,vasopressin (USP) 0.4 UNT/ML,pressors
+42966518,OMOP4692977,Dopamine 1.6 MG/ML / Glucose 50 MG/ML [CJ DOPAMINE HCL PREMIX],pressors
+40087302,363284,vasopressin (USP) Injectable Solution [Pitressin],pressors
+44115391,OMOP1110022,Dopamine 3.2 MG/ML / Glucose 50 MG/ML Injection by Baxter,pressors
+35145080,OMOP4802172,Dopamine 1 MG/ML Injectable Solution [Catabon],pressors
+43622828,OMOP671718,Milrinone 1 MG/ML Injectable Solution Box of 10,pressors
+35606571,1743951,dopamine hydrochloride 80 MG/ML Injection,pressors
+35746250,OMOP2747711,Milrinone 1 MG/ML Injectable Solution [Primacor] Box of 10,pressors
+43645486,OMOP768639,5 ML Dopamine 10 MG/ML Injection Box of 10,pressors
+41030193,OMOP2228155,Milrinone 1.42 MG/ML Injectable Solution [Milrinon Carino],pressors
+41086265,OMOP2284227,Dobutamine 14 MG/ML Injectable Solution Box of 10,pressors
+43808098,OMOP785130,10 ML Milrinone 1 MG/ML Injectable Solution Box of 10,pressors
+36780232,OMOP4768535,10 ML Milrinone 1 MG/ML Intravenous Solution,pressors
+42966530,OMOP4692989,Dopamine 40 MG/ML Injectable Solution [UDOPA],pressors
+40716242,OMOP4740901,5 ML Dopamine 40 MG/ML Injectable Solution Box of 5 by Pfizer,pressors
+43185908,OMOP513594,5 ML Dopamine 40 MG/ML Prefilled Syringe [DOPAMINE MYLAN] Box of 50,pressors
+43182684,OMOP481272,Dopamine 40 MG/ML Prefilled Syringe [DOPAMINE AGUETTANT],pressors
+36410421,OMOP3102463,5 ML Dopamine 160 MG/ML Injectable Solution,pressors
+42799682,1292884,dopamine hydrochloride 25 MG/ML,pressors
+35138359,OMOP4795520,5 ML Dopamine 20 MG/ML Injectable Solution by Nipro,pressors
+41336024,OMOP2533986,1 ML Vasopressin (USP) 5 UNT/ML Injectable Solution [Pitressin] Box of 10 by Pfizer,pressors
+36405064,OMOP3097106,Dopamine 1.6 MG/ML Injectable Solution Box of 1,pressors
+40836611,OMOP2034573,Dobutamine 14 MG/ML Injectable Solution Box of 100,pressors
+41379836,OMOP2577798,20 ML Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 2.5 UNT/ML Injectable Solution [Neo Lidocaton] Box of 5,pressors
+35137169,OMOP4794344,Dobutamine 100 MG [Dobutrex],pressors
+43149564,OMOP481287,Dopamine 5 MG/ML Prefilled Syringe [DOPAMINE PIERRE FABRE],pressors
+41054691,OMOP2252653,Dobutamine 250 MG Injectable Solution Box of 10,pressors
+43585285,OMOP951220,Dopamine 10 MG/ML Injection Box of 10,pressors
+43665953,OMOP814775,50 ML Dobutamine 11.2 MG/ML Injectable Solution Box of 10,pressors
+36054972,OMOP4980280,20 ML dobutamine 12.5 MG/ML Injectable Solution Box of 10 by A A H,pressors
+36808901,OMOP4823019,10 ML Milrinone 1 MG/ML Injection [Primacor] Box of 10 by Sanofi,pressors
+44075762,OMOP1070393,Milrinone 1 MG/ML Injection by Sandoz,pressors
+41328357,OMOP2526319,1 ML Vasopressin (USP) 5 UNT/ML Injectable Solution [Pitressin] Box of 50,pressors
+36279492,OMOP3130367,10 ML Milrinone 1 MG/ML Injection [COROTROPE] Box of 10 by Sanofi,pressors
+21087866,OMOP308828,5 ML Dopamine 40 MG/ML Injection by Hospira,pressors
+41413542,OMOP2611504,1.8 ML Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.45 UNT/ML Metered Dose Inhaler Box of 100,pressors
+40712098,OMOP4745040,100 ML Dobutamine 1 MG/ML Injection Box of 10,pressors
+35867783,OMOP5024314,dobutamine 1 MG/ML [Kanglituo],pressors
+35749849,OMOP2751310,Dobutamine 50 MG/ML Injectable Solution Box of 5,pressors
+42966537,OMOP4692996,Dopamine 40 MG/ML [UDOPA],pressors
+43218807,OMOP513609,5 ML Dopamine 10 MG/ML Prefilled Syringe [DOPAMINE RENAUDIN] Box of 10,pressors
+44089452,OMOP1084083,Dopamine 40 MG/ML Injectable Solution by International Medication Systems,pressors
+43683799,OMOP814790,50 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Liquid Fresenius] by Fresenius,pressors
+21171586,OMOP385777,Dobutamine 50 MG/ML [Posiject],pressors
+35136494,OMOP4793671,50 ML Dobutamine 3 MG/ML Prefilled Syringe,pressors
+36881070,OMOP987927,Dopamine 10 MG/ML Injection,pressors
+42799672,1292741,dopamine hydrochloride 1 MG/ML,pressors
+42966510,OMOP4692969,Dopamine 0.8 MG/ML / Glucose 50 MG/ML Injectable Solution,pressors
+41117493,OMOP2315455,Dopamine 5 MG/ML Injectable Solution Box of 25,pressors
+41336857,OMOP2534819,1 ML Vasopressin (USP) 5 UNT/ML Injectable Solution,pressors
+37499147,2283532,dobutamine Injectable Solution [Dobutrex],pressors
+40729358,OMOP4727663,Dobutamine 1.2 MG/ML Injectable Solution Box of 1,pressors
+40747703,OMOP4709601,Dopamine 2.4 MG/ML Injectable Solution Box of 19,pressors
+35131994,OMOP4789226,Dobutamine 100 MG Injectable Solution by Alfresa,pressors
+40713261,OMOP4743748,50 ML Dobutamine 1.2 MG/ML Injectable Solution,pressors
+36880521,OMOP1003761,Dobutamine 5 MG/ML,pressors
+43604946,OMOP671721,Milrinone 1 MG/ML Injectable Solution [Milrinon Rotexmedica] Box of 5,pressors
+2028390,OMOP4927141,5 ML dopamine 10 MG/ML Injectable Solution [TROPIN] by Hanlim,pressors
+41390815,OMOP2588777,50 ML Dobutamine 5 MG/ML Injectable Solution Box of 10,pressors
+40874475,OMOP2072437,Milrinone 1.42 MG/ML Injectable Solution [Milrinon Hikma],pressors
+36411224,OMOP3103266,50 ML Milrinone 0.6 MG/ML Injectable Solution,pressors
+43164468,OMOP518209,20 ML Dobutamine 12.5 MG/ML Prefilled Syringe [DOBUTAMINE PANPHARMA],pressors
+41377597,OMOP2575559,20 ML Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 2.5 UNT/ML Injectable Solution [Neo Lidocaton],pressors
+43658004,OMOP959005,Dobutamine 14 MG/ML Injection [Dobutamin Hameln] Box of 20,pressors
+43863922,OMOP814231,50 ML Dopamine 10 MG/ML Injection [Dopamin Fresenius] Box of 10,pressors
+41462141,OMOP2660103,2 ML Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.25 UNT/ML Injectable Solution [Neo Lidocaton],pressors
+36808909,OMOP4822948,10 ML Milrinone 1 MG/ML Injection by Wockhardt,pressors
+2028400,OMOP4927151,5 ML dobutamine 50 MG/ML Injectable Solution [DOBUMINE],pressors
+42921512,OMOP4648340,5 ML Dopamine 80 MG/ML Injectable Solution [TROPIN],pressors
+2028386,OMOP4927137,5 ML dopamine 40 MG/ML Injectable Solution by Huons,pressors
+43716081,OMOP733369,1 ML Dobutamine 14 MG/ML Injection [Dobutamin Hameln] by Hameln,pressors
+40714148,OMOP4743542,50 ML Dopamine 0.6 MG/ML Injectable Solution Box of 19,pressors
+35867378,OMOP5024300,dopamine 5 MG,pressors
+35867794,OMOP5024325,dobutamine 10 MG/ML Injectable Solution,pressors
+1719038,1812169,dobutamine 12.5 MG/ML Injection,pressors
+35780351,OMOP2781812,5 ML Dopamine 40 MG/ML Injectable Solution Box of 1,pressors
+2028389,OMOP4927140,5 ML dopamine 10 MG/ML Injectable Solution [TROPIN],pressors
+43819773,OMOP958993,Dobutamine Injectable Solution [Dobutamin-Ratiopharm],pressors
+43665954,OMOP814780,50 ML Dobutamine 11.2 MG/ML Injectable Solution [Dobutamin Carino],pressors
+41358813,OMOP2556775,5 ML Dopamine 10 MG/ML Injectable Solution Box of 30,pressors
+41376733,OMOP2574695,20 ML Dobutamine 14 MG/ML Injectable Solution,pressors
+43196880,OMOP513600,5 ML Dopamine 10 MG/ML Prefilled Syringe,pressors
+35867800,OMOP5024331,dobutamine Injectable Solution [Kanglituo],pressors
+42799670,1292739,dopamine hydrochloride 0.8 MG/ML,pressors
+40897728,OMOP2095690,Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 2.5 UNT/ML Injectable Solution Box of 5,pressors
+35780135,OMOP2781596,5 ML Dobutamine 50 MG/ML Injectable Solution [Posiject] by Boehringer Ingelheim,pressors
+35158068,OMOP4815066,Dopamine Injectable Solution [Kakodin],pressors
+40858933,OMOP2056895,Vasopressin (USP) 5 UNT/ML [Pitressin],pressors
+35160318,OMOP4817295,Dopamine Prefilled Syringe [Inovan],pressors
+36280194,OMOP3131069,20 ML Dobutamine 12.5 MG/ML Injection [Dobutrex] Box of 10,pressors
+43182687,OMOP481284,Dopamine 5 MG/ML Prefilled Syringe Box of 50,pressors
+40715096,OMOP4741894,10 ML Milrinone 1 MG/ML Injectable Solution [Primacor] by Sanofi,pressors
+42918399,OMOP4645289,500 ML Dobutamine 1 MG/ML / Glucose 50 MG/ML Injectable Solution,pressors
+43040177,OMOP4855210,5 ML Dopamine 10 MG/ML Prefilled Syringe Box of 10 by Renaudin,pressors
+35147116,OMOP4804188,Dopamine 20 MG/ML [Evetant],pressors
+44075761,OMOP1070392,Milrinone 1 MG/ML Injection by TEVA,pressors
+42966513,OMOP4692972,Dopamine 3.2 MG/ML / Glucose 50 MG/ML Injectable Solution,pressors
+43040175,OMOP4855208,5 ML Dopamine 10 MG/ML Injectable Solution Box of 10 by Renaudin,pressors
+36879551,OMOP1006962,Dobutamine 14 MG/ML,pressors
+21146778,OMOP308829,5 ML Dopamine 40 MG/ML Injection by Alliance,pressors
+40967810,OMOP2165772,Milrinone 1.42 MG/ML Injectable Solution [Milrinon Rotexmedica] Box of 10,pressors
+44048956,OMOP1043587,Vasopressin (USP) 20 UNT/ML Nasal Solution by Ferring,pressors
+35133820,OMOP4791026,Dopamine 3 MG/ML Prefilled Syringe,pressors
+35137836,OMOP4795007,Dobutamine 1 MG/ML [Dobutrex],pressors
+35154374,OMOP4811400,5 ML Dopamine 20 MG/ML Injectable Solution [Critpan],pressors
+36895678,OMOP988899,20 ML Dobutamine 12.5 MG/ML Prefilled Syringe,pressors
+43819777,OMOP959030,Dobutamine 5.6 MG/ML [Dobutamin Carino],pressors
+21034043,OMOP385774,Dobutamine 12.5 MG/ML Injection Box of 1,pressors
+36221162,1164730,milrinone Injectable Product,pressors
+43608319,OMOP736405,1 ML Milrinone 1 MG/ML Injection [Unacor],pressors
+36263103,OMOP3113978,Dobutamine 12.5 MG/ML Injection [Dobutamine EG] Box of 10,pressors
+42918666,OMOP4645547,500 ML Dopamine 1.6 MG/ML / Glucose 50 MG/ML Injectable Solution [CJ DOPAMINE HCL PREMIX],pressors
+43844268,OMOP785159,10 ML Milrinone 1 MG/ML Injectable Solution [Milrinon Hikma] by Hikma,pressors
+36405917,OMOP3097959,Milrinone 0.6 MG/ML Injectable Solution,pressors
+21170276,OMOP361504,Milrinone 1 MG/ML Prefilled Syringe Box of 10,pressors
+43193655,OMOP481295,Dopamine 10 MG/ML Prefilled Syringe Box of 10,pressors
+41065086,OMOP2263048,Dopamine 10 MG/ML Injectable Solution [Dopamin Ratiopharm],pressors
+43783360,OMOP951209,Dopamine 20 MG/ML Injection Box of 20,pressors
+43138641,OMOP481267,Dopamine 40 MG/ML [DOPAMINE AGUETTANT],pressors
+2028378,OMOP4927129,5 ML dopamine 80 MG/ML Injectable Solution by Dongkook,pressors
+40927060,OMOP2125022,Vasopressin (USP) 5 UNT/ML Injectable Solution Box of 10,pressors
+41413605,OMOP2611567,1.8 ML Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.45 UNT/ML Metered Dose Inhaler [Neo Lidocaton] Box of 50,pressors
+43195141,OMOP494301,Dobutamine 12.5 MG/ML Prefilled Syringe [DOBUTAMINE MYLAN],pressors
+35781073,OMOP2782534,5 ML Dobutamine 50 MG/ML Injectable Solution [Posiject] Box of 5,pressors
+35140021,OMOP4797171,Dopamine 20 MG/ML Injectable Solution [Kakodin],pressors
+21166583,OMOP310239,10 ML Milrinone 1 MG/ML Prefilled Syringe [Primacor] Box of 10,pressors
+43585709,OMOP959022,Dobutamine 11.2 MG/ML Injectable Solution Box of 10,pressors
+35156127,OMOP4813138,5 ML Dopamine 20 MG/ML Injectable Solution,pressors
+42799057,1292731,5 ML dopamine hydrochloride 40 MG/ML Prefilled Syringe,pressors
+40715095,OMOP4741895,10 ML Milrinone 1 MG/ML Injectable Solution [Primacor] Box of 10,pressors
+43765163,OMOP951216,Dopamine 10 MG/ML [Dopamin Fresenius],pressors
+35148678,OMOP4805740,Dopamine 20 MG/ML Injectable Solution [Yaelista],pressors
+21026990,OMOP269855,Dopamine 40 MG/ML Prefilled Syringe Box of 1,pressors
+35784320,OMOP2785781,50 ML Milrinone 1 MG/ML Injectable Solution,pressors
+2062437,OMOP4963689,dopamine 10 MG/ML Injectable Solution [TROPIN],pressors
+43801644,OMOP959028,Dobutamine 11.2 MG/ML Injectable Solution [Dobutamin Carino] Box of 10,pressors
+41311895,OMOP2509857,Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.25 UNT/ML Injectable Solution [Neo Lidocaton] Box of 100,pressors
+43801643,OMOP959013,Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Hameln] Box of 10,pressors
+43827631,OMOP814778,50 ML Dobutamine 11.2 MG/ML Injectable Solution [Dobutamin Liquid Fresenius] Box of 10,pressors
+43826189,OMOP785160,10 ML Milrinone 1 MG/ML Injectable Solution [Milrinon Hikma] Box of 10,pressors
+41221685,OMOP2419647,Dopamine 10 MG/ML Injectable Solution [Dopamin Ratiopharm] Box of 5,pressors
+41359375,OMOP2557337,5 ML Dopamine 10 MG/ML Injectable Solution Box of 5,pressors
+40742758,OMOP4714273,Milrinone 1 MG/ML Injectable Solution [Primacor] Box of 10,pressors
+35782141,OMOP2783602,10 ML Dopamine 40 MG/ML Injectable Solution Box of 1 by UCB,pressors
+43819774,OMOP958996,Dobutamine 0.528 MG/MG [Dobutamin-Ratiopharm],pressors
+35149148,OMOP4806206,Dobutamine 100 MG Injectable Solution by Sawai Seiyaku,pressors
+793740,1939322,5 ML milrinone lactate 1 MG/ML Injection,pressors
+43693406,OMOP951233,Dopamine 5 MG/ML Injection [Dopamin Fresenius] Box of 10,pressors
+42966527,OMOP4692986,Dopamine 40 MG/ML Injectable Solution [DOPAMINE HCI HUONS],pressors
+42940588,OMOP4667238,Dobutamine 1 MG/ML / Glucose 50 MG/ML [DOBUTAMINE HCI PREMIX],pressors
+1719039,1812170,40 ML dobutamine 12.5 MG/ML Injection,pressors
+35780237,OMOP2781698,5 ML Dopamine 40 MG/ML Injectable Solution Box of 5 by Hospira,pressors
+43041056,OMOP4856086,10 ML Milrinone 1 MG/ML Injectable Solution Box of 10 by Baxter,pressors
+35138132,OMOP4795298,200 ML Dobutamine 3 MG/ML Injectable Solution,pressors
+41426035,OMOP2623997,100 ML Dopamine 12 MG/ML Injectable Solution,pressors
+42481304,OMOP417476,Milrinone Prefilled Syringe,pressors
+43700347,OMOP785163,10 ML Milrinone 1 MG/ML Injectable Solution [Corotrop] by Sanofi,pressors
+43218805,OMOP513593,5 ML Dopamine 40 MG/ML Prefilled Syringe [DOPAMINE MYLAN],pressors
+43700938,OMOP797738,20 ML Milrinone 1 MG/ML Injection [Milrinon Stragen],pressors
+40715094,OMOP4741896,10 ML Milrinone 1 MG/ML Injectable Solution [Primacor] Box of 10 by Sanofi,pressors
+43693401,OMOP951212,Dopamine 20 MG/ML Injection [Dopamin Carino] Box of 5,pressors
+43683798,OMOP814785,50 ML Dobutamine 11.2 MG/ML Injectable Solution [Dobutamin Carino] Box of 10,pressors
+21176207,OMOP307737,5 ML Dobutamine 50 MG/ML Injection [Posiject] Box of 5,pressors
+43193654,OMOP481285,Dopamine 5 MG/ML Prefilled Syringe [DOPAMINE MYLAN],pressors
+36054973,OMOP4980283,20 ML dobutamine 12.5 MG/ML Injectable Solution by Hameln,pressors
+43699170,OMOP760815,3 ML Dopamine 5 MG/ML Injection [Dopamin Carino] by Carinopharm,pressors
+40999900,OMOP2197862,Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.25 UNT/ML Injectable Solution [Neo Lidocaton],pressors
+35867780,OMOP5024311,dobutamine 1 MG/ML Injectable Solution [Fenghaifen],pressors
+41303266,OMOP2501228,Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.45 UNT/ML Metered Dose Inhaler Box of 100,pressors
+35133628,OMOP4790834,Dobutamine 100 MG Injectable Solution,pressors
+43639877,OMOP959006,Dobutamine 14 MG/ML Injection [Dobutamin Hameln] Box of 50,pressors
+35133754,OMOP4790960,2.5 ML Dopamine 20 MG/ML Injectable Solution by Teva Takeda,pressors
+42628993,1791854,10 ML milrinone lactate 1 MG/ML Injection,pressors
+35865885,OMOP5022746,milrinone Injectable Solution [Lunanlikang],pressors
+43718596,OMOP796553,20 ML Dobutamine 14 MG/ML Injection [Dobutamin Hameln] Box of 20 by Hameln,pressors
+43219289,OMOP518205,20 ML Dobutamine 12.5 MG/ML Prefilled Syringe [DOBUTAMINE MYLAN],pressors
+43825431,OMOP768651,5 ML Dopamine 10 MG/ML Injection [Dopamin Carino] Box of 10,pressors
+1507835,11149,vasopressin (USP),pressors
+43141833,OMOP513599,5 ML Dopamine 40 MG/ML Prefilled Syringe [DOPAMINE RENAUDIN] Box of 100 by Renaudin,pressors
+43855416,OMOP951224,Dopamine 10 MG/ML Injection [Dopamin Carino] Box of 5,pressors
+37003623,2399907,100 ML vasopressin (USP) 0.4 UNT/ML Injection,pressors
+41392179,OMOP2590141,50 ML Dobutamine 5.6 MG/ML Injectable Solution Box of 1,pressors
+36411287,OMOP3103329,50 ML Dopamine 4 MG/ML Injectable Solution,pressors
+35134611,OMOP4791813,200 ML Dopamine 1 MG/ML Injectable Solution,pressors
+37003625,2399913,100 ML vasopressin (USP) 0.6 UNT/ML Injection,pressors
+36786988,OMOP4775564,Milrinone Intravenous Solution,pressors
+37003091,2399917,vasopressin (USP) 0.6 UNT/ML Injection [Vasostrict],pressors
+41117505,OMOP2315467,Dobutamine 11.2 MG/ML Injectable Solution Box of 50,pressors
+40940557,OMOP2138519,Dobutamine 0.1 MG/ML Injectable Solution [Dobutamin Hexal] Box of 1,pressors
+41377641,OMOP2575603,20 ML Dobutamine 12.5 MG/ML Injectable Suspension [Dobutrex],pressors
+41376732,OMOP2574694,20 ML Dobutamine 14 MG/ML Injectable Solution Box of 1,pressors
+21066264,OMOP269862,Dopamine 160 MG/ML Injection Box of 10,pressors
+35867777,OMOP5024308,dobutamine 2 MG/ML Injectable Solution,pressors
+21138127,OMOP328403,250 ML Dopamine 1.6 MG/ML Prefilled Syringe Box of 1 by Abbott,pressors
+35161838,OMOP4818802,50 ML Dopamine 1 MG/ML Prefilled Syringe [Inovan],pressors
+42628987,1791838,milrinone lactate 0.2 MG/ML,pressors
+42482747,OMOP419727,250 ML Dopamine 1.6 MG/ML Prefilled Syringe,pressors
+40712106,OMOP4745032,100 ML Dobutamine 5 MG/ML Injectable Solution,pressors
+36889781,OMOP991623,Dopamine 40 MG/ML Prefilled Syringe Box of 50,pressors
+41061325,OMOP2259287,Milrinone 1.42 MG/ML Injectable Solution [Milrinon Carino] Box of 10,pressors
+41457309,OMOP2655271,2 ML Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.25 UNT/ML Injectable Solution,pressors
+36808915,OMOP4822954,10 ML Milrinone 1 MG/ML Injection [Primacor] by Sanofi,pressors
+35129469,OMOP4786736,Dobutamine 3 MG/ML Injectable Solution,pressors
+21097768,OMOP310236,10 ML Milrinone 1 MG/ML Prefilled Syringe Box of 10,pressors
+41370481,OMOP2568443,10 ML Dopamine 20 MG/ML Injectable Solution,pressors
+40929934,OMOP2127896,Dobutamine 250 MG Injectable Suspension,pressors
+43279898,OMOP553970,Dobutamine 250 MG Injection [Dobutrex],pressors
+21118492,OMOP328402,250 ML Dopamine 1.6 MG/ML Prefilled Syringe Box of 1,pressors
+43629741,OMOP814772,50 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Hameln] Box of 50 by Hameln,pressors
+40829284,OMOP2027246,Dobutamine 14 MG/ML [Dobutrex],pressors
+35146588,OMOP4803665,Dopamine 20 MG/ML Injectable Solution [Dominin],pressors
+41127952,OMOP2325914,Dobutamine 5 MG/ML Injectable Solution [Dobutamin Hameln] Box of 10,pressors
+35783183,OMOP2784644,20 ML Dobutamine 12.5 MG/ML Injectable Suspension by Wockhardt,pressors
+21102870,OMOP385775,Dobutamine 12.5 MG/ML Injection Box of 5,pressors
+2028397,OMOP4927148,5 ML dobutamine 50 MG/ML Injectable Solution by Hana,pressors
+43657528,OMOP951206,Dopamine 20 MG/ML Injection Box of 2,pressors
+43040981,OMOP4856011,10 ML Dopamine 5 MG/ML Injectable Solution Box of 10 by Renaudin,pressors
+2025269,OMOP4923855,250 ML dopamine 1 MG/ML / glucose 50 MG/ML Injectable Solution by JW,pressors
+43621731,OMOP959031,Dobutamine 5.6 MG/ML Injectable Solution Box of 2,pressors
+40747699,OMOP4709605,Dopamine 1.2 MG/ML Injectable Solution Box of 19,pressors
+2025274,OMOP4923860,250 ML dobutamine 4 MG/ML / glucose 50 MG/ML Injectable Solution,pressors
+44089473,OMOP1084104,Dobutamine 12.5 MG/ML Injection [Dobutrex] by Pharmaceutical Partners,pressors
+43585708,OMOP959001,Dobutamine 14 MG/ML Injection Box of 20,pressors
+41438027,OMOP2635989,250 ML Dopamine 3.2 MG/ML Injectable Solution [Dopamin Premix] Box of 12,pressors
+43694996,OMOP671730,Milrinone 1 MG/ML Injection [Milrinon Stragen] Box of 10,pressors
+1337860,3628,dopamine,pressors
+21136910,OMOP308826,5 ML Dopamine 40 MG/ML Prefilled Syringe Box of 1,pressors
+2025266,OMOP4923852,250 ML dopamine 1.6 MG/ML / glucose 50 MG/ML Injectable Solution,pressors
+43603337,OMOP951232,Dopamine 5 MG/ML Injection [Dopamin Fresenius],pressors
+42966511,OMOP4692970,Dopamine 0.8 MG/ML / Glucose 50 MG/ML Injectable Solution [CJ DOPAMINE HCL PREMIX],pressors
+2062431,OMOP4963683,dopamine 160 MG/ML Prefilled Syringe,pressors
+41359871,OMOP2557833,5 ML Dopamine 40 MG/ML Injectable Solution,pressors
+35137190,OMOP4794366,Dopamine Injectable Solution [Dominin],pressors
+2062428,OMOP4963680,dopamine 1 MG/ML / glucose 50 MG/ML Injectable Solution [CJ DOPAMIX],pressors
+42966526,OMOP4692985,Dopamine 40 MG/ML Injectable Solution [DOPASIN],pressors
+35160801,OMOP4817777,150 ML Milrinone 0.15 MG/ML Injectable Solution [Milrila],pressors
+2028393,OMOP4927144,5 ML dobutamine 50 MG/ML Prefilled Syringe [DOBUMINE],pressors
+41116340,OMOP2314302,Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.45 UNT/ML Metered Dose Inhaler Box of 50,pressors
+36895563,OMOP995768,10 ML Milrinone 1 MG/ML Injectable Solution,pressors
+35143860,OMOP4800958,Dopamine 20 MG/ML Injectable Solution [Tsurudopami],pressors
+21146779,OMOP308836,5 ML Dopamine 40 MG/ML Injection Box of 5 by Alliance,pressors
+21136911,OMOP308853,5 ML Dopamine 160 MG/ML Injection Box of 5 by A A H,pressors
+41239550,OMOP2437512,Vasopressin (USP) 5 UNT/ML Injectable Solution Box of 50,pressors
+43700346,OMOP785151,10 ML Milrinone 1 MG/ML Injection [Milrinon Stragen] Box of 10 by Stragen,pressors
+21095669,OMOP269857,Dopamine 40 MG/ML Injection Box of 10,pressors
+43259136,OMOP564638,20 ML Dobutamine 12.5 MG/ML Injection Box of 10 by Sandoz,pressors
+41127951,OMOP2325913,Dobutamine 250 MG Injectable Solution [Dobutrex] Box of 10,pressors
+44055658,OMOP1050289,Vasopressin (USP) Nasal Solution,pressors
+43681542,OMOP768647,5 ML Dopamine 10 MG/ML Injection [Dopamin Carino] Box of 5,pressors
+41456705,OMOP2654667,2 ML Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.25 UNT/ML Injectable Solution Box of 100,pressors
+21036806,OMOP269850,Dopamine 4 MG/ML Injection,pressors
+41210330,OMOP2408292,Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 2.5 UNT/ML Injectable Solution,pressors
+36505689,OMOP4836296,50 ML Dobutamine 5 MG/ML Injectable Solution by Carinopharm,pressors
+35156094,OMOP4813106,200 ML Dopamine 3 MG/ML Injectable Solution by Towa,pressors
+37499148,2283533,Dobutrex Injectable Product,pressors
+43747668,OMOP958989,Dobutamine Injectable Solution [Dobutamin Carino],pressors
+35148531,OMOP4805593,2 ML Dopamine 20 MG/ML Injectable Solution [Dominin],pressors
+35135661,OMOP4792851,Milrinone Injectable Solution [Milrila],pressors
+35867380,OMOP5024302,dopamine Injectable Solution [Asikeding],pressors
+35138533,OMOP4795693,Dobutamine 3 MG/ML [Dobutrex],pressors
+35606566,1743879,500 ML dopamine hydrochloride 1.6 MG/ML Injection,pressors
+41242401,OMOP2440363,Dobutamine 5 MG/ML Injectable Solution,pressors
+42482745,OMOP419718,Dobutamine 50 MG/ML Injection,pressors
+40920618,OMOP2118580,Dobutamine 0.1 MG/ML,pressors
+43789977,OMOP785155,10 ML Milrinone 1 MG/ML Injection [Unacor] Box of 10 by Pharmaselect,pressors
+40866583,OMOP2064545,Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.45 UNT/ML Metered Dose Inhaler,pressors
+36895725,OMOP1000282,20 ML Dobutamine 14 MG/ML Injection,pressors
+35135547,OMOP4792736,Dopamine 1 MG/ML [Catabon],pressors
+36265329,OMOP3116204,Milrinone 1 MG/ML Injection [COROTROPE] Box of 10,pressors
+43621732,OMOP959036,Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Carino],pressors
+43182688,OMOP481290,Dopamine 5 MG/ML Prefilled Syringe [DOPAMINE RENAUDIN] Box of 10,pressors
+41283601,OMOP2481563,Dopamine 10 MG/ML Injectable Solution [Dopamin Solvay] Box of 300,pressors
+43863943,OMOP814789,50 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Liquid Fresenius],pressors
+36808978,OMOP4823015,10 ML Milrinone 1 MG/ML Injection Box of 5,pressors
+35145031,OMOP4802123,2.5 ML Dopamine 20 MG/ML Injectable Solution [Kakodin],pressors
+40937513,OMOP2135475,Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 2.5 UNT/ML Injectable Solution [Neo Lidocaton],pressors
+37003086,2399910,vasopressin (USP) 0.4 UNT/ML Injection,pressors
+41357954,OMOP2555916,5 ML Dopamine 10 MG/ML Injectable Solution [Cardiosteril] Box of 100,pressors
+41352079,OMOP2550041,5 ML Dopamine 10 MG/ML Injectable Solution [Dopamin Ratiopharm] Box of 5,pressors
+41022283,OMOP2220245,Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.25 UNT/ML Injectable Solution Box of 100,pressors
+44036880,OMOP1031511,Milrinone 1 MG/ML Injection by Fresenius,pressors
+35867383,OMOP5024305,dobutamine 250 MG [Aowanyuan],pressors
+43791402,OMOP814236,50 ML Dopamine 5 MG/ML Injection [Dopamin Fresenius] by Fresenius,pressors
+43765164,OMOP951235,Dopamine 5 MG/ML Injection [Dopamin Carino],pressors
+42482746,OMOP419726,Dopamine 1.6 MG/ML Prefilled Syringe,pressors
+41399630,OMOP2597592,50 ML Dopamine 5 MG/ML Injectable Solution Box of 5,pressors
+41368487,OMOP2566449,10 ML Dopamine 20 MG/ML Injectable Solution [Dopamin Ratiopharm],pressors
+43186124,OMOP515787,10 ML Dopamine 5 MG/ML Prefilled Syringe [DOPAMINE RENAUDIN] Box of 10,pressors
+43718002,OMOP783695,10 ML Dobutamine 28 MG/ML Injectable Solution [Dobutamin Hexal],pressors
+43207806,OMOP513598,5 ML Dopamine 40 MG/ML Prefilled Syringe [DOPAMINE RENAUDIN] Box of 100,pressors
+43677185,OMOP671720,Milrinone 1 MG/ML Injectable Solution [Milrinon Rotexmedica],pressors
+41391716,OMOP2589678,50 ML Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.25 UNT/ML Injectable Solution [Neo Lidocaton] Box of 5,pressors
+36808990,OMOP4823029,10 ML Milrinone 1 MG/ML Injection by Peckforton,pressors
+36808942,OMOP4822980,10 ML Milrinone 1 MG/ML Injectable Solution by Stragen,pressors
+42921510,OMOP4648338,5 ML Dopamine 40 MG/ML Injectable Solution [TROPIN],pressors
+43141834,OMOP513601,5 ML Dopamine 10 MG/ML Prefilled Syringe Box of 10,pressors
+43664488,OMOP785134,10 ML Milrinone 1 MG/ML Injectable Solution [Milrinon Rotexmedica] Box of 5,pressors
+43808099,OMOP785133,10 ML Milrinone 1 MG/ML Injectable Solution [Milrinon Rotexmedica] by Claris,pressors
+35780416,OMOP2781877,5 ML Dopamine 40 MG/ML Injectable Solution by A A H,pressors
+37499149,2283534,dobutamine 12.5 MG/ML Injectable Solution [Dobutrex],pressors
+2031969,OMOP4930876,1 ML vasopressin (USP) 20 UNT/ML Injectable Solution by Hanlim,pressors
+43270038,OMOP564639,20 ML Dobutamine 12.5 MG/ML Injection by Abbott,pressors
+35754525,OMOP2755986,Dobutamine 50 MG/ML Injectable Solution [Posiject] Box of 5,pressors
+41356589,OMOP2554551,5 ML Dopamine 40 MG/ML Injectable Solution Box of 50,pressors
+41392848,OMOP2590810,50 ML Dopamine 10 MG/ML Injectable Solution,pressors
+40847053,OMOP2045015,Dopamine 5 MG/ML Injectable Solution [Dopamin Solvay] Box of 10,pressors
+40929923,OMOP2127885,Dopamine 5 MG/ML Injectable Solution Box of 50,pressors
+36411264,OMOP3103306,50 ML Milrinone 0.2 MG/ML Injectable Solution Box of 1,pressors
+43175261,OMOP515777,10 ML Dopamine 5 MG/ML Prefilled Syringe Box of 10,pressors
+40932486,OMOP2130448,Vasopressin (USP) 5 UNT/ML Injectable Solution [Pitressin],pressors
+36279453,OMOP3130328,10 ML Milrinone 1 MG/ML Injection [COROTROPE] Box of 10,pressors
+42921143,OMOP4647980,5 ML Dobutamine 50 MG/ML Injectable Solution [DOBURAN],pressors
+41127954,OMOP2325916,Dobutamine 14 MG/ML Injectable Solution [Dobutamin Hexal],pressors
+21140687,OMOP361506,Milrinone 1 MG/ML Prefilled Syringe [Primacor],pressors
+35131472,OMOP4788713,200 ML Dobutamine 1 MG/ML Injectable Solution by Pfizer,pressors
+43592189,OMOP785143,10 ML Milrinone 1 MG/ML Injectable Solution [Milrinon Carino] Box of 5,pressors
+42628989,1791840,100 ML milrinone lactate 0.2 MG/ML Injection,pressors
+35606568,1743939,dopamine hydrochloride 40 MG/ML Injection,pressors
+21097687,OMOP308851,5 ML Dopamine 160 MG/ML Injection Box of 5 by Hospira,pressors
+41379660,OMOP2577622,20 ML Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 2.5 UNT/ML Injectable Solution Box of 5,pressors
+41393367,OMOP2591329,50 ML Dobutamine 5.6 MG/ML Injectable Solution Box of 10 by Carinopharm,pressors
+41361650,OMOP2559612,10 ML Milrinone 1.42 MG/ML Injectable Solution [Milrinon Carino],pressors
+41047538,OMOP2245500,Dopamine 10 MG/ML [Cardiosteril],pressors
+40891768,OMOP2089730,Dopamine 3.2 MG/ML [Dopamin Premix],pressors
+21092959,OMOP385776,Dobutamine 12.5 MG/ML Injection [Dobutrex] Box of 1,pressors
+2062442,OMOP4963694,dobutamine 50 MG/ML Prefilled Syringe [DOBUMINE],pressors
+35133001,OMOP4790219,Dopamine 20 MG/ML [Kakodin],pressors
+35831108,OMOP5037208,dobutamine 100 MG Injectable Solution [Dobutrex],pressors
+35130654,OMOP4787903,10 ML Milrinone 1 MG/ML Injectable Solution by Sandoz,pressors
+41180064,OMOP2378026,Dobutamine 5 MG/ML Injectable Solution Box of 5,pressors
+21038825,OMOP308847,5 ML Dopamine 160 MG/ML Injection by AMCo,pressors
+1719036,1812167,dobutamine Injection,pressors
+41396721,OMOP2594683,50 ML Dobutamine 0.1 MG/ML Injectable Solution [Dobutamin Hexal] Box of 1 by Novartis,pressors
+41283602,OMOP2481564,Dopamine 10 MG/ML Injectable Solution [Dopamin Solvay] Box of 30,pressors
+41314918,OMOP2512880,Dobutamine 0.1 MG/ML Injectable Solution [Dobutamin Hexal],pressors
+1337751,328218,dobutamine 4 MG/ML,pressors
+40747709,OMOP4709595,Dopamine 0.6 MG/ML Injectable Solution,pressors
+35137511,OMOP4794683,200 ML Dobutamine 3 MG/ML Injectable Solution [Dobutrex],pressors
+35606561,1743869,250 ML dopamine hydrochloride 0.8 MG/ML Injection,pressors
+43040181,OMOP4855214,5 ML Dopamine 40 MG/ML Injectable Solution Box of 100 by Renaudin,pressors
+41252664,OMOP2450626,Dopamine 20 MG/ML Injectable Solution [Dopamin Ratiopharm] Box of 5,pressors
+41180052,OMOP2378014,Dopamine 3.2 MG/ML Injectable Solution Box of 12,pressors
+40878154,OMOP2076116,Dopamine 20 MG/ML Injectable Solution [Dopamin Ratiopharm],pressors
+44113429,OMOP1108060,Vasopressin (USP) 20 UNT/ML Injectable Solution by Fresenius,pressors
+2025267,OMOP4923853,250 ML dopamine 1.6 MG/ML / glucose 50 MG/ML Injectable Solution by JW,pressors
+35867790,OMOP5024321,dobutamine 20 MG Injectable Solution,pressors
+35867379,OMOP5024301,dopamine 5 MG [Asikeding],pressors
+41096638,OMOP2294600,Dopamine 20 MG/ML Injectable Solution [Dopamin Solvay] Box of 10,pressors
+41182646,OMOP2380608,Vasopressin (USP) 20 UNT/ML Injectable Solution [Pitressin] Box of 30,pressors
+43862990,OMOP796548,20 ML Dobutamine 14 MG/ML Injection [Dobutamin Hameln] by Hameln,pressors
+42940598,OMOP4667248,Dobutamine 50 MG/ML [DOBUTAMIN HCI MYUNGMOON],pressors
+35129266,OMOP4786534,Vasopressin (USP) 20 UNT Injectable Solution [Pitressin],pressors
+43729270,OMOP951214,Dopamine 20 MG/ML Injection [Dopamin Carino] Box of 20,pressors
+43827632,OMOP814782,50 ML Dobutamine 11.2 MG/ML Injectable Solution [Dobutamin Carino] Box of 2,pressors
+43194190,OMOP485892,Milrinone Prefilled Syringe [COROTROPE],pressors
+42902632,1359745,dopamine hydrochloride 40 MG/ML Prefilled Syringe,pressors
+41355389,OMOP2553351,5 ML Dopamine 10 MG/ML Injectable Solution [Dopamin Ratiopharm] Box of 5 by Ratiopharm,pressors
+40714150,OMOP4743540,50 ML Dopamine 0.6 MG/ML Injectable Solution,pressors
+2028382,OMOP4927133,5 ML dopamine 40 MG/ML Injectable Solution [DOPURAMIN] by Reyon,pressors
+43736231,OMOP785164,10 ML Milrinone 1 MG/ML Injectable Solution [Corotrop] Box of 5,pressors
+43041060,OMOP4856090,10 ML Milrinone 1 MG/ML Prefilled Syringe Box of 10 by Baxter,pressors
+42799679,1292767,dopamine hydrochloride 12 MG/ML Injectable Solution,pressors
+21088386,OMOP318130,50 ML Milrinone 1 MG/ML Injection Box of 1,pressors
+41047541,OMOP2245503,Dobutamine 250 MG [Dobutamin Hexal],pressors
+35134428,OMOP4791630,Dobutamine 1 MG/ML Injectable Solution [Dobutrex],pressors
+43219042,OMOP516030,10 ML Milrinone 1 MG/ML Prefilled Syringe [MILRINONE MEDAC],pressors
+35780769,OMOP2782230,5 ML Dopamine 40 MG/ML Injectable Solution Box of 1 by UCB,pressors
+45775840,1593736,vasopressin (USP) Injectable Solution [Vasostrict],pressors
+41395524,OMOP2593486,50 ML Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.25 UNT/ML Injectable Solution,pressors
+40729353,OMOP4727668,Dobutamine 1 MG/ML Injectable Solution,pressors
+42966525,OMOP4692984,Dopamine 40 MG/ML Injectable Solution [DOPAMINE DAEWOO],pressors
+43204651,OMOP481289,Dopamine 5 MG/ML Prefilled Syringe [DOPAMINE RENAUDIN],pressors
+40714144,OMOP4743546,50 ML Dopamine 1.2 MG/ML Injectable Solution,pressors
+43855880,OMOP959027,Dobutamine 11.2 MG/ML Injectable Solution [Dobutamin Carino] Box of 2,pressors
+36280276,OMOP3131151,20 ML Dobutamine 12.5 MG/ML Injection [Dobutamine EG],pressors
+35606563,1743871,500 ML dopamine hydrochloride 0.8 MG/ML Injection,pressors
+43590324,OMOP736401,1 ML Milrinone 1 MG/ML Injectable Solution [Milrinon Rotexmedica] by Claris,pressors
+41359374,OMOP2557336,5 ML Dopamine 10 MG/ML Injectable Solution Box of 10,pressors
+43593646,OMOP814774,50 ML Dobutamine 11.2 MG/ML Injectable Solution Box of 2,pressors
+41117496,OMOP2315458,Dopamine 40 MG/ML Injectable Solution Box of 5,pressors
+43827629,OMOP814766,50 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Hameln] Box of 5 by Hameln,pressors
+40936685,OMOP2134647,Milrinone 1.42 MG/ML Injectable Solution [Milrinon Stragen] Box of 10,pressors
+43729269,OMOP951207,Dopamine 20 MG/ML Injection Box of 5,pressors
+42966544,OMOP4693003,Dopamine Injectable Solution [DOPASIN],pressors
+41242391,OMOP2440353,Dopamine 20 MG/ML Injectable Solution Box of 10,pressors
+40712105,OMOP4745033,100 ML Dobutamine 5 MG/ML Injectable Solution Box of 1,pressors
+37003090,2399916,vasopressin (USP) 0.6 UNT/ML Injection,pressors
+35781092,OMOP2782553,5 ML Dopamine 40 MG/ML Injectable Solution by Hospira,pressors
+43863941,OMOP814761,50 ML Dobutamine 5.6 MG/ML Injectable Solution Box of 50,pressors
+35606559,1743864,dopamine hydrochloride 3.2 MG/ML Injection,pressors
+41127953,OMOP2325915,Dobutamine 14 MG/ML Injectable Solution [Dobutrex] Box of 100,pressors
+43219025,OMOP515779,10 ML Dopamine 5 MG/ML Prefilled Syringe [DOPAMINE MYLAN],pressors
+44129910,OMOP1124541,1 ML Vasopressin (USP) 20 UNT/ML Injectable Solution [Pressyn Ar],pressors
+21062209,OMOP361500,Milrinone 0.4 MG/ML Injection,pressors
+19076657,309984,dobutamine 0.5 MG/ML Injectable Solution,pressors
+2062430,OMOP4963682,dopamine / glucose Injectable Solution [CJ DOPAMIX],pressors
+1337753,345811,dobutamine 2 MG/ML,pressors
+1337748,328215,dobutamine 12.5 MG/ML,pressors
+43216059,OMOP485895,Milrinone 1 MG/ML [MILRINONE MEDAC],pressors
+2028391,OMOP4927142,5 ML dopamine 10 MG/ML Injectable Solution by Huons,pressors
+43807998,OMOP783210,10 ML Dopamine 20 MG/ML Injection [Dopamin Carino] Box of 2 by Carinopharm,pressors
+43863942,OMOP814776,50 ML Dobutamine 11.2 MG/ML Injectable Solution [Dobutamin Liquid Fresenius],pressors
+41033944,OMOP2231906,Dopamine 10 MG/ML Injectable Solution [Dopamin Solvay],pressors
+36885858,OMOP991122,Dopamine 10 MG/ML Prefilled Syringe,pressors
+1719040,1812184,dobutamine 2 MG/ML Injection,pressors
+35867782,OMOP5024313,dobutamine 1 MG/ML [Fenghaifen],pressors
+35137260,OMOP4794435,10 ML Dopamine 20 MG/ML Injectable Solution [Kakodin],pressors
+43206061,OMOP494295,Dobutamine 12.5 MG/ML [DOBUTAMINE PANPHARMA],pressors
+43659175,OMOP671709,Milrinone Injectable Solution [Corotrop],pressors
+43592187,OMOP785138,10 ML Milrinone 1 MG/ML Injectable Solution [Milrinon Rotexmedica] Box of 25,pressors
+43171696,OMOP481268,Dopamine 40 MG/ML [DOPAMINE MYLAN],pressors
+42921506,OMOP4648334,5 ML Dopamine 40 MG/ML Injectable Solution [DOPAMINE HCI HUONS],pressors
+36814576,OMOP4828616,Milrinone Injection [Primacor],pressors
+43285341,OMOP553967,Dobutamine 250 MG [Dobutrex],pressors
+40985152,OMOP2183114,Dopamine 5 MG/ML [Dopamin Solvay],pressors
+2025264,OMOP4923850,250 ML dopamine 2 MG/ML / glucose 50 MG/ML Injectable Solution by JW,pressors
+43659176,OMOP671712,Milrinone 1 MG/ML [Milrinon Rotexmedica],pressors
+41360115,OMOP2558077,5 ML Dopamine 10 MG/ML Injectable Solution [Cardiosteril] Box of 1,pressors
+21078363,OMOP313690,20 ML Dobutamine 12.5 MG/ML Injection Box of 5 by Wockhardt,pressors
+40847054,OMOP2045016,Dopamine 3.2 MG/ML Injectable Solution [Dopamin Premix],pressors
+41304337,OMOP2502299,Dopamine 5 MG/ML Injectable Solution Box of 10,pressors
+41390816,OMOP2588778,50 ML Dobutamine 5 MG/ML Injectable Solution,pressors
+43628758,OMOP796549,20 ML Dobutamine 14 MG/ML Injection [Dobutamin Hameln] Box of 5,pressors
+43592190,OMOP785149,10 ML Milrinone 1 MG/ML Injection [Milrinon Stragen] by Stragen,pressors
+40714142,OMOP4743548,50 ML Dopamine 1.2 MG/ML Injectable Solution Box of 19,pressors
+43140098,OMOP494298,Dobutamine 12.5 MG/ML Prefilled Syringe Box of 10,pressors
+36879865,OMOP990346,Dobutamine Prefilled Syringe,pressors
+21164528,OMOP269852,Dopamine 1.6 MG/ML Prefilled Syringe Box of 1,pressors
+41358502,OMOP2556464,5 ML Dopamine 10 MG/ML Injectable Solution [Cardiosteril],pressors
+2024775,OMOP4923357,500 ML dopamine 1.6 MG/ML / glucose 50 MG/ML Injectable Solution by Baxter,pressors
+35201973,2058464,100 ML dopamine hydrochloride 1.6 MG/ML Injection,pressors
+41109553,OMOP2307515,Milrinone 1.42 MG/ML [Milrinon Rotexmedica],pressors
+42918397,OMOP4645287,500 ML Dobutamine 2 MG/ML / Glucose 50 MG/ML Injectable Solution,pressors
+35146228,OMOP4803309,Dopamine 1 MG/ML [Kakodin],pressors
+35151009,OMOP4808056,50 ML Dobutamine 3 MG/ML Prefilled Syringe [Dobupum],pressors
+43592112,OMOP783217,10 ML Dopamine 20 MG/ML Injection [Dopamin Carino] Box of 20 by Carinopharm,pressors
+43855414,OMOP951202,Dopamine 40 MG/ML Injection [Dopamin Fresenius],pressors
+42966546,OMOP4693005,Dopamine Injectable Solution [DOPURAMIN],pressors
+35132051,OMOP4789283,Dopamine Injectable Solution [Critpan],pressors
+21039362,OMOP318125,50 ML Milrinone 0.2 MG/ML Injection,pressors
+35130609,OMOP4787858,Dopamine 20 MG/ML [Dominin],pressors
+44055659,OMOP1050290,Vasopressin (USP) Intramuscular Solution,pressors
+21157028,OMOP313682,20 ML Dobutamine 12.5 MG/ML Injection by Hameln,pressors
+41381468,OMOP2579430,20 ML Dobutamine 14 MG/ML Injectable Solution [Dobutrex] Box of 100,pressors
+42628988,1791839,milrinone Injection,pressors
+35749893,OMOP2751354,Milrinone 1 MG/ML Injectable Solution Box of 1,pressors
+35158001,OMOP4815000,2.5 ML Dopamine 20 MG/ML Injectable Solution by Nipro,pressors
+43185907,OMOP513591,5 ML Dopamine 40 MG/ML Prefilled Syringe [DOPAMINE AGUETTANT] Box of 50,pressors
+2028377,OMOP4927128,5 ML dopamine 80 MG/ML Injectable Solution [DOPASIN] by Hana,pressors
+35770531,OMOP2771992,Dobutamine Injectable Solution [Posiject],pressors
+42966532,OMOP4692991,Dopamine 40 MG/ML [DOPAMINE DAEWOO],pressors
+35867374,OMOP5024296,dopamine 10 MG Injectable Solution,pressors
+43153457,OMOP518204,20 ML Dobutamine 12.5 MG/ML Prefilled Syringe [DOBUTAMINE AGUETTANT] Box of 10 by Aguettant,pressors
+40867718,OMOP2065680,Dopamine 40 MG/ML Injectable Solution Box of 100,pressors
+42918865,OMOP4645744,250 ML Dobutamine 2 MG/ML / Glucose 50 MG/ML Injectable Solution [DOBUTAMINE HCI PREMIX],pressors
+41399261,OMOP2597223,50 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Hexal],pressors
+43175031,OMOP513592,5 ML Dopamine 40 MG/ML Prefilled Syringe [DOPAMINE AGUETTANT] Box of 50 by Aguettant,pressors
+35140040,OMOP4797188,Dopamine 20 MG/ML [Yaelista],pressors
+35146430,OMOP4803509,10 ML Milrinone 1 MG/ML Injectable Solution [Milrila],pressors
+42966540,OMOP4692999,Dopamine 80 MG/ML Injectable Solution [TROPIN],pressors
+45775841,1593738,vasopressin (USP) 20 UNT/ML Injectable Solution [Vasostrict],pressors
+1507837,242938,vasopressin (USP) 5 UNT/ML Injectable Suspension,pressors
+43621729,OMOP959003,Dobutamine 14 MG/ML Injection [Dobutamin Hameln],pressors
+40713259,OMOP4743750,50 ML Dobutamine 1.2 MG/ML Injectable Solution Box of 10,pressors
+43593628,OMOP814235,50 ML Dopamine 5 MG/ML Injection [Dopamin Fresenius],pressors
+35780770,OMOP2782231,5 ML Dopamine 40 MG/ML Injectable Solution by UCB,pressors
+43842398,OMOP736408,1 ML Milrinone 1 MG/ML Injectable Solution [Milrinon Hikma],pressors
+42480387,OMOP419715,Dobutamine Injection [Dobutrex],pressors
+43274564,OMOP553966,Dobutamine 250 MG,pressors
+41378205,OMOP2576167,20 ML Dobutamine 14 MG/ML Injectable Solution Box of 100,pressors
+36261962,OMOP3112837,Dobutamine Injection [Dobutamine EG],pressors
+42972459,OMOP4698870,Vasopressin (USP) 20 UNT/ML [VASOPRESSIN HANLIM],pressors
+35783954,OMOP2785415,50 ML Dobutamine 5 MG/ML Injectable Solution Box of 1,pressors
+41023456,OMOP2221418,Dobutamine 14 MG/ML Injectable Solution Box of 1,pressors
+41395797,OMOP2593759,50 ML Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.25 UNT/ML Injectable Solution [Neo Lidocaton],pressors
+21078184,OMOP310237,10 ML Milrinone 1 MG/ML Prefilled Syringe [Primacor],pressors
+35140264,OMOP4797408,Dopamine 20 MG/ML Injectable Solution [Evetant],pressors
+40240694,1114873,dopamine hydrochloride 160 MG/ML,pressors
+2024781,OMOP4923363,500 ML dobutamine 4 MG/ML / glucose 50 MG/ML Injectable Solution by CJ,pressors
+35867793,OMOP5024324,dobutamine 20 MG [Aowanyuan],pressors
+43186122,OMOP515778,10 ML Dopamine 5 MG/ML Prefilled Syringe Box of 50,pressors
+40747706,OMOP4709598,Dopamine 2.4 MG/ML,pressors
+35149362,OMOP4806421,Dopamine 20 MG/ML [Inovan],pressors
+41211494,OMOP2409456,Dopamine 20 MG/ML Injectable Solution Box of 100,pressors
+36403591,OMOP3095633,Milrinone 0.2 MG/ML Injectable Solution Box of 1,pressors
+43819324,OMOP951227,Dopamine 10 MG/ML Injection [Dopamin Carino] Box of 10,pressors
+43193656,OMOP481297,Dopamine 10 MG/ML Prefilled Syringe [DOPAMINE AGUETTANT],pressors
+41398225,OMOP2596187,50 ML Dopamine 10 MG/ML Injectable Solution Box of 20,pressors
+21105573,OMOP269856,Dopamine 40 MG/ML Injection Box of 5,pressors
+44129881,OMOP1124512,1 ML Vasopressin (USP) 20 UNT/ML Injectable Solution,pressors
+36279454,OMOP3130329,10 ML Milrinone 1 MG/ML Injection [COROTROPE],pressors
+44076687,OMOP1071318,Dopamine 3.2 MG/ML / Glucose 50 MG/ML Injection by Hospira,pressors
+43675668,OMOP951223,Dopamine 10 MG/ML Injection [Dopamin Carino],pressors
+40929925,OMOP2127887,Dopamine 10 MG/ML Injectable Solution Box of 10,pressors
+43184114,OMOP494306,Dobutamine 12.5 MG/ML Prefilled Syringe [DOBUTAMINE SILCAR] Box of 10,pressors
+43806888,OMOP760814,3 ML Dopamine 5 MG/ML Injection [Dopamin Carino],pressors
+19076658,309985,250 ML dobutamine 1 MG/ML Injection,pressors
+43807228,OMOP768641,5 ML Dopamine 10 MG/ML Injection [Dopamin Fresenius] by Fresenius,pressors
+40925934,OMOP2123896,Dopamine Injectable Solution [Cardiosteril],pressors
+19076659,309986,250 ML dobutamine 2 MG/ML Injection,pressors
+36054974,OMOP4980284,20 ML dobutamine 12.5 MG/ML Injectable Solution by Wockhardt,pressors
+43755608,OMOP814237,50 ML Dopamine 5 MG/ML Injection [Dopamin Fresenius] Box of 10,pressors
+2025407,OMOP4923993,200 ML dopamine 4 MG/ML / glucose 50 MG/ML Injectable Solution [CJ DOPAMIX],pressors
+43861629,OMOP768631,5 ML Dopamine 40 MG/ML Injection [Dopamin Fresenius],pressors
+21036807,OMOP269861,Dopamine 160 MG/ML Injection Box of 5,pressors
+43296116,OMOP553965,Dobutamine 12.5 MG/ML Injection Box of 10,pressors
+41395585,OMOP2593547,50 ML Dopamine 5 MG/ML Injectable Solution Box of 1,pressors
+21058390,OMOP308843,5 ML Dopamine 40 MG/ML Injection Box of 50,pressors
+36280304,OMOP3131179,20 ML Dobutamine 12.5 MG/ML Injection [Dobutamine EG] Box of 10,pressors
+35151905,OMOP4808947,5 ML Dopamine 20 MG/ML Injectable Solution by Pfizer,pressors
+35138418,OMOP4795580,Dobutamine 3 MG/ML [Dobupum],pressors
+41362214,OMOP2560176,10 ML Dopamine 5 MG/ML Injectable Solution Box of 25,pressors
+41023455,OMOP2221417,Dobutamine 250 MG Injectable Solution Box of 5,pressors
+43296948,OMOP562754,5 ML Dopamine 40 MG/ML Injection Box of 5 by Dbl,pressors
+43270037,OMOP564634,20 ML Dobutamine 12.5 MG/ML Injection by Sandoz,pressors
+40826046,OMOP2024008,Vasopressin (USP) 0.45 UNT/ML,pressors
+36411247,OMOP3103289,50 ML Milrinone 0.4 MG/ML Injectable Solution,pressors
+36418514,OMOP4760822,20 ML Dobutamine 12.5 MG/ML Injectable Suspension [Dobutrex] Box of 1,pressors
+2025277,OMOP4923863,250 ML dobutamine 2 MG/ML / glucose 50 MG/ML Injectable Solution by JW,pressors
+42918663,OMOP4645544,500 ML Dopamine 0.8 MG/ML / Glucose 50 MG/ML Injectable Solution,pressors
+35131805,OMOP4789040,Dopamine 6 MG/ML,pressors
+43593629,OMOP814238,50 ML Dopamine 5 MG/ML Injection [Dopamin Fresenius] Box of 10 by Fresenius,pressors
+44181216,OMOP3057939,Dobutamine 250 MG Injectable Suspension [Dobutamin Hexal],pressors
+43040183,OMOP4855216,5 ML Dopamine 40 MG/ML Prefilled Syringe Box of 50 by Aguettant,pressors
+44132646,OMOP1127277,0.5 ML Vasopressin (USP) 20 UNT/ML Injectable Solution,pressors
+43141831,OMOP513588,5 ML Dopamine 40 MG/ML Prefilled Syringe Box of 20 by Pierre Fabre,pressors
+43717990,OMOP783201,10 ML Dopamine 20 MG/ML Injection,pressors
+2028381,OMOP4927132,5 ML dopamine 40 MG/ML Injectable Solution [UDOPA] by Korea United Pharm,pressors
+44106360,OMOP1100991,Dopamine 40 MG/ML [Intropin],pressors
+43861630,OMOP768645,5 ML Dopamine 10 MG/ML Injection [Dopamin Carino],pressors
+40961232,OMOP2159194,Dopamine 40 MG/ML Injectable Solution Box of 300,pressors
+41368364,OMOP2566326,10 ML Milrinone 1.42 MG/ML Injectable Solution [Milrinon Stragen],pressors
+41397546,OMOP2595508,50 ML Dopamine 5 MG/ML Injectable Solution Box of 50,pressors
+36410535,OMOP3102577,5 ML Dopamine 160 MG/ML Injectable Solution by Martindale,pressors
+36420032,OMOP4762319,Dobutamine 12.5 MG/ML Injectable Suspension [Dobutrex],pressors
+43716915,OMOP760811,3 ML Dopamine 5 MG/ML Injection,pressors
+43771301,OMOP768650,5 ML Dopamine 10 MG/ML Injection [Dopamin Carino] Box of 6 by Carinopharm,pressors
+41352583,OMOP2550545,5 ML Dopamine 10 MG/ML Injectable Solution [Dopamin Solvay],pressors
+36412192,OMOP3104234,250 ML Dopamine 1.6 MG/ML Injectable Solution Box of 1 by Abbott,pressors
+41252663,OMOP2450625,Dopamine 20 MG/ML Injectable Solution [Dopamin Solvay],pressors
+2024779,OMOP4923361,500 ML dopamine 0.8 MG/ML / glucose 50 MG/ML Injectable Solution by JW,pressors
+42628992,1791853,milrinone lactate 1 MG/ML,pressors
+21102869,OMOP385772,Dobutamine 5 MG/ML Injection Box of 1,pressors
+35160461,OMOP4817495,Dobutamine 6 MG/ML Prefilled Syringe,pressors
+43663283,OMOP760816,3 ML Dopamine 5 MG/ML Injection [Dopamin Carino] Box of 2,pressors
+43802797,OMOP671726,Milrinone 1 MG/ML Injectable Solution [Milrinon Carino],pressors
+43735463,OMOP768637,5 ML Dopamine 10 MG/ML Injection Box of 5,pressors
+41366684,OMOP2564646,10 ML Dopamine 20 MG/ML Injectable Solution Box of 5,pressors
+35606558,1743862,dopamine Injection,pressors
+42940605,OMOP4667254,Dobutamine Injectable Solution [DOBUTAMINE HCL HUONS],pressors
+35780906,OMOP2782367,5 ML Dobutamine 50 MG/ML Injectable Solution [Posiject],pressors
+43186388,OMOP518202,20 ML Dobutamine 12.5 MG/ML Prefilled Syringe [DOBUTAMINE AGUETTANT],pressors
+43142322,OMOP518212,20 ML Dobutamine 12.5 MG/ML Prefilled Syringe [DOBUTAMINE SILCAR],pressors
+43149563,OMOP481277,Dopamine 40 MG/ML Prefilled Syringe [DOPAMINE RENAUDIN],pressors
+40714147,OMOP4743543,50 ML Dopamine 2.4 MG/ML Injectable Solution,pressors
+43040178,OMOP4855211,5 ML Dopamine 10 MG/ML Prefilled Syringe Box of 50 by Aguettant,pressors
+40886859,OMOP2084821,Dobutamine 250 MG Injectable Solution Box of 1 by Ratiopharm,pressors
+41355388,OMOP2553350,5 ML Dopamine 10 MG/ML Injectable Solution Box of 10 by Fresenius,pressors
+43718066,OMOP785131,10 ML Milrinone 1 MG/ML Injectable Solution Box of 25,pressors
+40971509,OMOP2169471,Dobutamine 14 MG/ML Injectable Solution [Dobutrex] Box of 10,pressors
+42966533,OMOP4692992,Dopamine 40 MG/ML [DOPASIN],pressors
+42972458,OMOP4698869,Vasopressin (USP) 20 UNT/ML Injectable Solution [VASOPRESSIN HANLIM],pressors
+21127303,OMOP313691,20 ML Dobutamine 12.5 MG/ML Injection [Dobutrex],pressors
+42918664,OMOP4645545,500 ML Dopamine 0.8 MG/ML / Glucose 50 MG/ML Injectable Solution [CJ DOPAMINE HCL PREMIX],pressors
+43825430,OMOP768635,5 ML Dopamine 40 MG/ML Injection [Dopamin Fresenius] Box of 10 by Fresenius,pressors
+40712099,OMOP4745039,100 ML Dobutamine 1 MG/ML Injection Box of 1,pressors
+43280029,OMOP555227,Milrinone 1 MG/ML Injection [Primacor],pressors
+36412218,OMOP3104260,250 ML Dopamine 1.6 MG/ML Injectable Solution,pressors
+40729352,OMOP4727669,Dobutamine 1 MG/ML Injectable Solution Box of 1,pressors
+36277020,OMOP3127895,Dobutamine 12.5 MG/ML [Dobutamine EG],pressors
+40747710,OMOP4709594,Dopamine 0.6 MG/ML,pressors
+43164207,OMOP515786,10 ML Dopamine 5 MG/ML Prefilled Syringe [DOPAMINE RENAUDIN],pressors
+21107551,OMOP308835,5 ML Dopamine 40 MG/ML Injection Box of 5 by Hospira,pressors
+43862462,OMOP785154,10 ML Milrinone 1 MG/ML Injection [Unacor] Box of 10,pressors
+43647818,OMOP814230,50 ML Dopamine 10 MG/ML Injection [Dopamin Fresenius] by Fresenius,pressors
+43585284,OMOP951200,Dopamine Injection [Dopamin Carino],pressors
+2062432,OMOP4963684,dopamine 80 MG/ML Prefilled Syringe,pressors
+35780236,OMOP2781697,5 ML Dopamine 40 MG/ML Injectable Solution Box of 10 by Martindale,pressors
+43290874,OMOP555225,Milrinone Injection [Primacor],pressors
+41355557,OMOP2553519,5 ML Dopamine 10 MG/ML Injectable Solution Box of 50,pressors
+43789978,OMOP785165,10 ML Milrinone 1 MG/ML Injectable Solution [Corotrop] Box of 5 by Sanofi,pressors
+35138268,OMOP4795430,Dobutamine Injectable Solution [Dobupum],pressors
+37003088,2399912,vasopressin (USP) 0.6 UNT/ML,pressors
+35140971,OMOP4798105,Dopamine Injectable Solution [Yaelista],pressors
+35758740,OMOP2760201,Milrinone 1 MG/ML Injectable Solution [Primacor],pressors
+41398959,OMOP2596921,50 ML Dopamine 5 MG/ML Injectable Solution Box of 20,pressors
+41330158,OMOP2528120,1 ML Vasopressin (USP) 20 UNT/ML Injectable Solution Box of 10,pressors
+36410402,OMOP3102444,5 ML Dopamine 160 MG/ML Injectable Solution Box of 10,pressors
+41314878,OMOP2512840,Dopamine 5 MG/ML Injectable Solution [Dopamin Solvay] Box of 50,pressors
+35781763,OMOP2783224,10 ML Milrinone 1 MG/ML Injectable Solution [Primacor] by Sanofi,pressors
+43766782,OMOP671729,Milrinone 1 MG/ML Injection [Milrinon Stragen],pressors
+44045773,OMOP1040404,Dopamine 40 MG/ML Injectable Solution,pressors
+35606565,1743878,dopamine hydrochloride 1.6 MG/ML Injection,pressors
+35132368,OMOP4789594,200 ML Dopamine 3 MG/ML Injectable Solution,pressors
+41372215,OMOP2570177,10 ML Milrinone 1.42 MG/ML Injectable Solution [Milrinon Rotexmedica],pressors
+35780190,OMOP2781651,5 ML Dobutamine 50 MG/ML Injectable Solution Box of 5,pressors
+41117494,OMOP2315456,Dopamine 12 MG/ML Injectable Solution Box of 10,pressors
+41363591,OMOP2561553,10 ML Milrinone 1.42 MG/ML Injectable Solution,pressors
+43151052,OMOP494294,Dobutamine 12.5 MG/ML [DOBUTAMINE MYLAN],pressors
+41413558,OMOP2611520,1.8 ML Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.45 UNT/ML Metered Dose Inhaler Box of 50,pressors
+43628206,OMOP785153,10 ML Milrinone 1 MG/ML Injection [Unacor] by Pharmaselect,pressors
+43160791,OMOP481288,Dopamine 5 MG/ML Prefilled Syringe [DOPAMINE PIERRE FABRE] Box of 50,pressors
+35144853,OMOP4801944,200 ML Dopamine 3 MG/ML Injectable Solution by Pfizer,pressors
+43736150,OMOP783205,10 ML Dopamine 20 MG/ML Injection Box of 10,pressors
+43592111,OMOP783206,10 ML Dopamine 20 MG/ML Injection Box of 20,pressors
+41363291,OMOP2561253,10 ML Dopamine 20 MG/ML Injectable Solution [Dopamin Ratiopharm] Box of 5,pressors
+2024773,OMOP4923355,500 ML dopamine 2 MG/ML / glucose 50 MG/ML Injectable Solution,pressors
+43175288,OMOP516029,10 ML Milrinone 1 MG/ML Prefilled Syringe [COROTROPE] Box of 10 by Sanofi,pressors
+40729349,OMOP4727672,Dobutamine 1 MG/ML Injection Box of 10,pressors
+41358265,OMOP2556227,5 ML Dopamine 40 MG/ML Injectable Solution Box of 100,pressors
+21122318,OMOP385779,Dobutamine 50 MG/ML Injection [Posiject],pressors
+43592192,OMOP785162,10 ML Milrinone 1 MG/ML Injectable Solution [Corotrop],pressors
+1507838,313578,vasopressin (USP) 20 UNT/ML Injectable Solution,pressors
+43647840,OMOP814759,50 ML Dobutamine 5.6 MG/ML Injectable Solution Box of 5,pressors
+42940606,OMOP4667255,Dobutamine Injectable Solution [TOBUREX],pressors
+42940602,OMOP4667252,Dobutamine Injectable Solution [HANA DOBUTAMINE HCL],pressors
+41377643,OMOP2575605,20 ML Dobutamine 14 MG/ML Injectable Solution [Dobutamin Hexal] Box of 5,pressors
+43219288,OMOP518201,20 ML Dobutamine 12.5 MG/ML Prefilled Syringe Box of 10,pressors
+21108077,OMOP318283,50 ML Dobutamine 5 MG/ML Injection Box of 1,pressors
+43826188,OMOP785156,10 ML Milrinone 1 MG/ML Injectable Solution Box of 5,pressors
+41393532,OMOP2591494,50 ML Dopamine 10 MG/ML Injectable Solution Box of 50,pressors
+41241285,OMOP2439247,Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.25 UNT/ML Injectable Solution,pressors
+41330159,OMOP2528121,1 ML Vasopressin (USP) 5 UNT/ML Injectable Solution Box of 50,pressors
+43682323,OMOP785167,10 ML Milrinone 1 MG/ML Injectable Solution [Corotrop] Box of 10 by Sanofi,pressors
+40712100,OMOP4745038,100 ML Dobutamine 1 MG/ML Injection,pressors
+43142082,OMOP516032,10 ML Milrinone 1 MG/ML Prefilled Syringe [MILRINONE MEDAC] Box of 10 by Medac,pressors
+41002852,OMOP2200814,Dopamine 10 MG/ML Injectable Solution [Cardiosteril] Box of 100,pressors
+35781932,OMOP2783393,10 ML Dopamine 40 MG/ML Injectable Solution,pressors
+42918400,OMOP4645290,500 ML Dobutamine 1 MG/ML / Glucose 50 MG/ML Injectable Solution [DOBUTAMINE HCI PREMIX],pressors
+35140328,OMOP4797471,Milrinone 0.15 MG/ML [Milrila],pressors
+36895964,OMOP991777,50 ML Dobutamine 5.6 MG/ML Injectable Solution,pressors
+42940595,OMOP4667245,Dobutamine 50 MG/ML Injectable Solution [TOBUREX],pressors
+43040179,OMOP4855212,5 ML Dopamine 40 MG/ML Injectable Solution Box of 50 by Mylan,pressors
+35867785,OMOP5024316,dobutamine 0.5 MG/ML [Fenghaifen],pressors
+2028383,OMOP4927134,5 ML dopamine 40 MG/ML Injectable Solution [DOPASIN] by Hana,pressors
+43626995,OMOP760821,3 ML Dopamine 5 MG/ML Injection [Dopamin Carino] Box of 10 by Carinopharm,pressors
+37003626,2399915,100 ML vasopressin (USP) 0.6 UNT/ML Injection [Vasostrict],pressors
+21085927,OMOP269851,Dopamine 4 MG/ML Injection Box of 1,pressors
+36410394,OMOP3102436,5 ML Dopamine 160 MG/ML Injectable Solution Box of 5 by Hospira,pressors
+784547,OMOP4832366,10 ML Milrinone 1 MG/ML Injectable Solution [COROTROPE] Box of 10 by Sanofi,pressors
+2024780,OMOP4923362,500 ML dobutamine 4 MG/ML / glucose 50 MG/ML Injectable Solution,pressors
+42966514,OMOP4692973,Dopamine 3.2 MG/ML / Glucose 50 MG/ML Injectable Solution [CJ DOPAMINE HCL PREMIX],pressors
+43765632,OMOP959018,Dobutamine 28 MG/ML Injectable Solution [Dobutamin Hexal],pressors
+36411307,OMOP3103349,50 ML Dopamine 4 MG/ML Injectable Solution Box of 1,pressors
+41335730,OMOP2533692,1 ML Vasopressin (USP) 20 UNT/ML Injectable Solution [Pitressin] Box of 30,pressors
+42966536,OMOP4692995,Dopamine 40 MG/ML [INOPAN MYUNG MOON],pressors
+41124883,OMOP2322845,Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.45 UNT/ML Metered Dose Inhaler [Neo Lidocaton] Box of 50,pressors
+40919627,OMOP2117589,Vasopressin (USP) 2.5 UNT/ML,pressors
+19091005,334605,dobutamine 50 MG/ML,pressors
+35147914,OMOP4804981,Dopamine 3 MG/ML Injectable Solution [Catabon],pressors
+43216974,OMOP494302,Dobutamine 12.5 MG/ML Prefilled Syringe [DOBUTAMINE MYLAN] Box of 10,pressors
+43149562,OMOP481265,Dopamine Prefilled Syringe [DOPAMINE RENAUDIN],pressors
+44058053,OMOP1052684,Vasopressin (USP) 20 UNT/ML Nasal Solution,pressors
+19039813,208841,vasopressin (USP) 20 UNT/ML Injectable Solution [Pitressin],pressors
+2062424,OMOP4963676,dopamine 4 MG/ML / glucose 50 MG/ML Injectable Solution,pressors
+36056447,OMOP4981879,50 ML dopamine 1.6 MG/ML Injectable Solution,pressors
+43141832,OMOP513597,5 ML Dopamine 40 MG/ML Prefilled Syringe [DOPAMINE RENAUDIN],pressors
+43152949,OMOP513605,5 ML Dopamine 10 MG/ML Prefilled Syringe [DOPAMINE AGUETTANT] Box of 50 by Aguettant,pressors
+43639452,OMOP951237,Dopamine 5 MG/ML Injection [Dopamin Carino] Box of 10,pressors
+2025268,OMOP4923854,250 ML dopamine 1 MG/ML / glucose 50 MG/ML Injectable Solution,pressors
+40828430,OMOP2026392,Milrinone 1.42 MG/ML [Milrinon Stragen],pressors
+2028374,OMOP4927125,5 ML dopamine 80 MG/ML Prefilled Syringe by Dongkook,pressors
+36263102,OMOP3113977,Dobutamine 12.5 MG/ML Injection [Dobutrex] Box of 10,pressors
+42966548,OMOP4693006,Dopamine Injectable Solution [INOPAN MYUNG MOON],pressors
+21042605,OMOP361501,Milrinone 0.4 MG/ML Injection Box of 1,pressors
+44099519,OMOP1094150,Dopamine 40 MG/ML Injection [Intropin],pressors
+40716241,OMOP4740902,5 ML Dopamine 40 MG/ML Injectable Solution Box of 50 by Pfizer,pressors
+43844816,OMOP797740,20 ML Milrinone 1 MG/ML Injection [Milrinon Stragen] Box of 10,pressors
+36787297,OMOP4775562,Milrinone 1 MG/ML Intravenous Solution Box of 10,pressors
+41242400,OMOP2440362,Dobutamine 5.6 MG/ML Injectable Solution Box of 1,pressors
+43645163,OMOP760818,3 ML Dopamine 5 MG/ML Injection [Dopamin Carino] Box of 10,pressors
+43215539,OMOP481271,Dopamine 40 MG/ML Prefilled Syringe Box of 100,pressors
+44076688,OMOP1071319,Dopamine 0.8 MG/ML / Glucose 50 MG/ML Injection by Hospira,pressors
+35829435,OMOP5039618,5 ML dopamine 20 MG/ML Injectable Solution by Koa Isei,pressors
+41377642,OMOP2575604,20 ML Dobutamine 14 MG/ML Injectable Solution [Dobutrex] Box of 1000,pressors
+43040984,OMOP4856014,10 ML Dopamine 5 MG/ML Prefilled Syringe Box of 50 by Mylan,pressors
+43610074,OMOP783696,10 ML Dobutamine 28 MG/ML Injectable Solution [Dobutamin Hexal] by Hexal,pressors
+2025271,OMOP4923857,250 ML dopamine 0.8 MG/ML / glucose 50 MG/ML Injectable Solution,pressors
+35201752,2103186,vasopressin (USP) 20 UNT/ML Injection [Vasostrict],pressors
+43789890,OMOP783215,10 ML Dopamine 20 MG/ML Injection [Dopamin Carino] Box of 10 by Carinopharm,pressors
+43867625,OMOP864037,530 MG Dobutamine 0.528 MG/MG Injectable Solution,pressors
+36889782,OMOP994696,Dobutamine 14 MG/ML Injection Box of 5,pressors
+43215540,OMOP481280,Dopamine 5 MG/ML [DOPAMINE PIERRE FABRE],pressors
+41366477,OMOP2564439,10 ML Dopamine 20 MG/ML Injectable Solution [Dopamin Ratiopharm] Box of 5 by Ratiopharm,pressors
+36411289,OMOP3103331,50 ML Milrinone 0.6 MG/ML Injectable Solution Box of 1,pressors
+43219026,OMOP515782,10 ML Dopamine 5 MG/ML Prefilled Syringe [DOPAMINE PIERRE FABRE],pressors
+35831114,OMOP5037202,dobutamine 1 MG/ML [Dobutrex],pressors
+21117860,OMOP319340,50 ML Dopamine 4 MG/ML Injection Box of 1,pressors
+35867788,OMOP5024319,dobutamine 125 MG,pressors
+43621728,OMOP958997,Dobutamine 0.528 MG/MG Injectable Solution,pressors
+40961237,OMOP2159199,Dobutamine 250 MG Injectable Solution Box of 1,pressors
+44037744,OMOP1032375,Dobutamine 12.5 MG/ML Injection by Ivax,pressors
+41398067,OMOP2596029,50 ML Dopamine 5 MG/ML Injectable Solution Box of 10 by Fresenius,pressors
+43162223,OMOP494305,Dobutamine 12.5 MG/ML Prefilled Syringe [DOBUTAMINE SILCAR],pressors
+43819323,OMOP951201,Dopamine 40 MG/ML [Dopamin Fresenius],pressors
+41190567,OMOP2388529,Dobutamine 250 MG Injectable Solution [Dobutamin Hexal] Box of 1,pressors
+43215537,OMOP481263,Dopamine Prefilled Syringe [DOPAMINE MYLAN],pressors
+41365157,OMOP2563119,10 ML Dopamine 5 MG/ML Injectable Solution Box of 5,pressors
+42972460,OMOP4698871,Vasopressin (USP) Injectable Solution [VASOPRESSIN HANLIM],pressors
+41044297,OMOP2242259,Vasopressin (USP) 0.25 UNT/ML,pressors
+42918890,OMOP4645768,250 ML Dopamine 3.2 MG/ML / Glucose 50 MG/ML Injectable Solution,pressors
+2025279,OMOP4923865,250 ML dobutamine 1 MG/ML / glucose 50 MG/ML Injectable Solution,pressors
+1368671,52769,milrinone,pressors
+41355951,OMOP2553913,5 ML Dopamine 10 MG/ML Injectable Solution Box of 30 by Carinopharm,pressors
+41380496,OMOP2578458,20 ML Dobutamine 14 MG/ML Injectable Solution Box of 10,pressors
+35150908,OMOP4807955,Dobutamine Prefilled Syringe [Dobupum],pressors
+36403592,OMOP3095634,Milrinone 0.2 MG/ML Injectable Solution,pressors
+1719037,1812168,20 ML dobutamine 12.5 MG/ML Injection,pressors
+41392018,OMOP2589980,50 ML Dopamine 5 MG/ML Injectable Solution [Dopamin Solvay] Box of 10 by Mylan,pressors
+36808924,OMOP4822963,10 ML Milrinone 1 MG/ML Injection [Primacor],pressors
+41400161,OMOP2598123,50 ML Dobutamine 5 MG/ML Injectable Solution Box of 5 by Ratiopharm,pressors
+36054975,OMOP4980285,20 ML dobutamine 12.5 MG/ML Injectable Solution,pressors
+41172001,OMOP2369963,Milrinone 1.42 MG/ML [Milrinon Carino],pressors
+43819775,OMOP959008,Dobutamine 5.6 MG/ML Injectable Solution Box of 5,pressors
+43042088,OMOP4857112,20 ML Dobutamine 12.5 MG/ML Prefilled Syringe Box of 10 by Mylan,pressors
+35160720,OMOP4817696,Dopamine 20 MG/ML [Critpan],pressors
+35148638,OMOP4805700,Dopamine 3 MG/ML Prefilled Syringe [Inovan],pressors
+35831113,OMOP5037203,dobutamine 1 MG/ML Injectable Solution [Dobutrex],pressors
+43712832,OMOP671716,Milrinone 1 MG/ML [Unacor],pressors
+35158314,OMOP4815312,50 ML Dobutamine 6 MG/ML Prefilled Syringe,pressors
+40713260,OMOP4743749,50 ML Dobutamine 1.2 MG/ML Injectable Solution Box of 1,pressors
+36813521,OMOP4827552,Milrinone 1 MG/ML Injection [Primacor] Box of 10,pressors
+43591404,OMOP768648,5 ML Dopamine 10 MG/ML Injection [Dopamin Carino] Box of 5 by Carinopharm,pressors
+43664490,OMOP785161,10 ML Milrinone 1 MG/ML Injectable Solution [Milrinon Hikma] Box of 10 by Hikma,pressors
+43585286,OMOP951236,Dopamine 5 MG/ML Injection [Dopamin Carino] Box of 2,pressors
+42940587,OMOP4667237,Dobutamine 1 MG/ML / Glucose 50 MG/ML Injectable Solution [DOBUTAMINE HCI PREMIX],pressors
+21160475,OMOP361508,Milrinone 1 MG/ML Injection Box of 1,pressors
+43826679,OMOP796552,20 ML Dobutamine 14 MG/ML Injection [Dobutamin Hameln] Box of 20,pressors
+44044328,OMOP1038959,Dobutamine Injection [Dobutamine Sdz],pressors
+43297063,OMOP563713,10 ML Milrinone 1 MG/ML Injection Box of 10,pressors
+40714146,OMOP4743544,50 ML Dopamine 2.4 MG/ML Injectable Solution Box of 1,pressors
+21146721,OMOP307736,5 ML Dobutamine 50 MG/ML Injection [Posiject] by Boehringer Ingelheim,pressors
+43753266,OMOP768640,5 ML Dopamine 10 MG/ML Injection [Dopamin Fresenius],pressors
+43647841,OMOP814792,50 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Liquid Fresenius] Box of 10 by Fresenius,pressors
+35145595,OMOP4802683,10 ML Milrinone 1 MG/ML Injectable Solution by Janssen,pressors
+35867798,OMOP5024329,dobutamine Injectable Solution [Aowanyuan],pressors
+43138640,OMOP481262,Dopamine Prefilled Syringe [DOPAMINE AGUETTANT],pressors
+43611621,OMOP814771,50 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Hameln] Box of 50,pressors
+41399259,OMOP2597221,50 ML Dopamine 10 MG/ML Injectable Solution [Dopamin Solvay],pressors
+41363678,OMOP2561640,10 ML Dopamine 5 MG/ML Injectable Solution,pressors
+35157883,OMOP4814882,Dobutamine 3 MG/ML,pressors
+2062443,OMOP4963695,dobutamine 50 MG/ML Injectable Solution [DOBUMINE],pressors
+43646322,OMOP785146,10 ML Milrinone 1 MG/ML Injectable Solution [Milrinon Carino] Box of 10 by Carinopharm,pressors
+36814674,OMOP4828714,Milrinone 1 MG/ML Injection Box of 5,pressors
+40925933,OMOP2123895,Dopamine Injectable Solution [Dopamin Ratiopharm],pressors
+40929924,OMOP2127886,Dopamine 10 MG/ML Injectable Solution Box of 50,pressors
+41366683,OMOP2564645,10 ML Dopamine 20 MG/ML Injectable Solution Box of 100,pressors
+783670,OMOP4831502,Dobutamine Injectable Solution [Dobutamine EG],pressors
+35134892,OMOP4792089,Dopamine 6 MG/ML [Inovan],pressors
+21039417,OMOP319338,50 ML Dopamine 4 MG/ML Injection,pressors
+40747702,OMOP4709602,Dopamine 1.2 MG/ML,pressors
+35865883,OMOP5022744,milrinone 1 MG/ML [Lunanlikang],pressors
+42966519,OMOP4692978,Dopamine 2 MG/ML / Glucose 50 MG/ML Injectable Solution,pressors
+35132643,OMOP4789868,Milrinone 1 MG/ML Injectable Solution [Milrila],pressors
+42940590,OMOP4667240,Dobutamine / Glucose Injectable Solution [DOBUTAMINE HCI PREMIX],pressors
+41207525,OMOP2405487,Dobutamine Injectable Suspension [Dobutrex],pressors
+41396236,OMOP2594198,50 ML Dopamine 10 MG/ML Injectable Solution Box of 1,pressors
+35783121,OMOP2784582,20 ML Dobutamine 12.5 MG/ML Injectable Suspension by A A H,pressors
+43175030,OMOP513589,5 ML Dopamine 40 MG/ML Prefilled Syringe Box of 100,pressors
+35782117,OMOP2783578,10 ML Milrinone 1 MG/ML Injectable Solution [Primacor] Box of 10,pressors
+41380083,OMOP2578045,20 ML Dobutamine 14 MG/ML Injectable Solution Box of 500,pressors
+21107552,OMOP308846,5 ML Dopamine 160 MG/ML Injection by Hospira,pressors
+41023447,OMOP2221409,Dopamine 10 MG/ML Injectable Solution Box of 20,pressors
+40747708,OMOP4709596,Dopamine 0.6 MG/ML Injectable Solution Box of 1,pressors
+41002851,OMOP2200813,Dopamine 3.2 MG/ML Injectable Solution [Dopamin Premix] Box of 12,pressors
+41382246,OMOP2580208,20 ML Dobutamine 14 MG/ML Injectable Solution [Dobutamin Hexal],pressors
+41065125,OMOP2263087,Dobutamine 14 MG/ML Injectable Solution [Dobutrex] Box of 500,pressors
+42799674,1292750,dopamine hydrochloride 1.6 MG/ML,pressors
+42966516,OMOP4692975,Dopamine 1.6 MG/ML / Glucose 50 MG/ML Injectable Solution,pressors
+35129453,OMOP4786720,Dopamine 20 MG/ML Injectable Solution [Inovan],pressors
+21174284,OMOP269849,Dopamine 4 MG/ML,pressors
+40971507,OMOP2169469,Dobutamine 250 MG Injectable Solution [Dobutrex] Box of 5,pressors
+35867799,OMOP5024330,dobutamine Injectable Solution [Anchang],pressors
+42628990,1791841,milrinone lactate 0.2 MG/ML Injection,pressors
+43844818,OMOP797742,20 ML Milrinone 1 MG/ML Injection [Unacor],pressors
+43042089,OMOP4857113,20 ML Dobutamine 12.5 MG/ML Prefilled Syringe Box of 10 by Panpharma,pressors
+43820918,OMOP671734,Milrinone 1 MG/ML Injectable Solution [Milrinon Hikma],pressors
+42799680,1292882,dopamine hydrochloride 20 MG/ML,pressors
+35147661,OMOP4804732,2.5 ML Dopamine 20 MG/ML Injectable Solution [Inovan],pressors
+36408872,OMOP3100914,Dopamine 4 MG/ML Injectable Solution Box of 1,pressors
+43736152,OMOP783216,10 ML Dopamine 20 MG/ML Injection [Dopamin Carino] Box of 20,pressors
+43754022,OMOP783207,10 ML Dopamine 20 MG/ML Injection [Dopamin Carino],pressors
+36890769,OMOP993704,Dopamine 5 MG/ML Injection,pressors
+42940603,OMOP4667253,Dobutamine Injectable Solution [DOBUTAMIN HCI MYUNGMOON],pressors
+2025408,OMOP4923994,200 ML dopamine 4 MG/ML / glucose 50 MG/ML Injectable Solution [CJ DOPAMIX] by CJ,pressors
+2028401,OMOP4927152,5 ML dobutamine 50 MG/ML Injectable Solution [DOBUMINE] by Dongkook,pressors
+42966538,OMOP4692997,Dopamine 40 MG/ML [TROPIN],pressors
+35134969,OMOP4792167,Dopamine Injectable Solution [Tsurudopami],pressors
+40909243,OMOP2107205,Dobutamine 14 MG/ML Injectable Solution [Dobutrex],pressors
+43741388,OMOP864038,530 MG Dobutamine 0.528 MG/MG Injectable Solution [Dobutamin-Ratiopharm],pressors
+43149565,OMOP481298,Dopamine 10 MG/ML Prefilled Syringe [DOPAMINE AGUETTANT] Box of 50,pressors
+2062445,OMOP4963697,dobutamine Prefilled Syringe [DOBUMINE],pressors
+41117506,OMOP2315468,Dobutamine 14 MG/ML Injectable Solution,pressors
+35781970,OMOP2783431,10 ML Milrinone 1 MG/ML Injectable Solution [Primacor],pressors
+36779629,OMOP4767939,20 ML Dobutamine 12.5 MG/ML Intravenous Solution,pressors
+35138293,OMOP4795454,Dobutamine 100 MG Injectable Solution by Pfizer,pressors
+43041059,OMOP4856089,10 ML Milrinone 1 MG/ML Prefilled Syringe Box of 10 by Stragen,pressors
+43259021,OMOP563715,10 ML Milrinone 1 MG/ML Injection [Primacor] Box of 10,pressors
+44092945,OMOP1087576,Milrinone 1 MG/ML [Apo-Milrinone],pressors
+40714149,OMOP4743541,50 ML Dopamine 0.6 MG/ML Injectable Solution Box of 1,pressors
+41381641,OMOP2579603,20 ML Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 2.5 UNT/ML Injectable Solution,pressors
+40971510,OMOP2169472,Dobutamine 14 MG/ML Injectable Solution [Dobutamin Hexal] Box of 5,pressors
+35142159,OMOP4799277,Dopamine 1 MG/ML Prefilled Syringe [Inovan],pressors
+43736151,OMOP783208,10 ML Dopamine 20 MG/ML Injection [Dopamin Carino] by Carinopharm,pressors
+21156744,OMOP308827,5 ML Dopamine 40 MG/ML Prefilled Syringe Box of 1 by UCB,pressors
+44101624,OMOP1096255,Milrinone 1 MG/ML Injection [Apo-Milrinone] by Apotex,pressors
+43701850,OMOP814788,50 ML Dobutamine 5.6 MG/ML Injectable Solution Box of 10,pressors
+42480389,OMOP419717,Dobutamine 12.5 MG/ML Injection [Dobutrex],pressors
+41117495,OMOP2315457,Dopamine 20 MG/ML Injectable Solution Box of 5,pressors
+43629740,OMOP814765,50 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Hameln] Box of 5,pressors
+43280721,OMOP562752,5 ML Dopamine 40 MG/ML Injection by Dbl,pressors
+2028387,OMOP4927138,5 ML dopamine 40 MG/ML Injectable Solution [MYUNGMOON INOPAN],pressors
+43193652,OMOP481276,Dopamine 40 MG/ML Prefilled Syringe [DOPAMINE MYLAN] Box of 50,pressors
+35146493,OMOP4803571,150 ML Milrinone 0.15 MG/ML Injectable Solution,pressors
+43843453,OMOP768649,5 ML Dopamine 10 MG/ML Injection [Dopamin Carino] Box of 6,pressors
+2062427,OMOP4963679,dopamine 1 MG/ML / glucose 50 MG/ML Injectable Solution,pressors
+43693862,OMOP959014,Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Hameln] Box of 20,pressors
+44058822,OMOP1053453,Dopamine 1.6 MG/ML / Glucose 50 MG/ML Injection,pressors
+41372729,OMOP2570691,10 ML Dopamine 20 MG/ML Injectable Solution Box of 50,pressors
+36223616,1160506,vasopressin (USP) Injectable Product,pressors
+42479551,OMOP417478,10 ML Milrinone 1 MG/ML Prefilled Syringe,pressors
+35783056,OMOP2784517,20 ML Dobutamine 12.5 MG/ML Injectable Suspension by Hameln,pressors
+43693402,OMOP951217,Dopamine 10 MG/ML [Dopamin Carino],pressors
+43041057,OMOP4856087,10 ML Milrinone 1 MG/ML Injectable Solution Box of 10 by Medac,pressors
+21068321,OMOP308837,5 ML Dopamine 40 MG/ML Injection Box of 5 by A A H,pressors
+2025406,OMOP4923992,200 ML dopamine 4 MG/ML / glucose 50 MG/ML Injectable Solution,pressors
+43863944,OMOP814796,50 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Carino] Box of 2,pressors
+44132562,OMOP1127193,0.5 ML Vasopressin (USP) 20 UNT/ML Injectable Solution Box of 10,pressors
+35161636,OMOP4818602,10 ML Milrinone 1 MG/ML Injectable Solution by Takata,pressors
+35784082,OMOP2785543,50 ML Milrinone 1 MG/ML Injectable Solution Box of 1,pressors
+41437466,OMOP2635428,250 ML Dopamine 3.2 MG/ML Injectable Solution [Dopamin Premix],pressors
+35157982,OMOP4814981,Milrinone 0.15 MG/ML Injectable Solution,pressors
+35152795,OMOP4809828,50 ML Dopamine 6 MG/ML Prefilled Syringe [Inovan],pressors
+21166490,OMOP308856,5 ML Dopamine 160 MG/ML Injection Box of 10 by A A H,pressors
+43683796,OMOP814763,50 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Hameln],pressors
+44123506,OMOP1118137,Dopamine 0.8 MG/ML / Glucose 50 MG/ML Injection,pressors
+43040180,OMOP4855213,5 ML Dopamine 40 MG/ML Injectable Solution Box of 50 by Aguettant,pressors
+35867792,OMOP5024323,dobutamine 20 MG,pressors
+40240699,1114879,dopamine hydrochloride 40 MG/ML,pressors
+43610126,OMOP785135,10 ML Milrinone 1 MG/ML Injectable Solution [Milrinon Rotexmedica] Box of 5 by Claris,pressors
+2062440,OMOP4963692,dobutamine 4 MG/ML / glucose 50 MG/ML Injectable Solution,pressors
+40742761,OMOP4714270,Milrinone Injectable Solution [Primacor],pressors
+35783916,OMOP2785377,50 ML Dobutamine 5 MG/ML Injectable Solution by Hameln,pressors
+43040184,OMOP4855217,5 ML Dopamine 40 MG/ML Prefilled Syringe Box of 100 by Renaudin,pressors
+40953988,OMOP2151950,Dopamine 10 MG/ML [Dopamin Ratiopharm],pressors
+36885592,OMOP1004460,Milrinone Injectable Solution,pressors
+35144125,OMOP4801221,Milrinone 1 MG/ML [Milrila],pressors
+36270739,OMOP3121614,Dobutamine 12.5 MG/ML Injection [Dobutamine EG],pressors
+40742759,OMOP4714272,Milrinone 1 MG/ML Injectable Solution [Primacor],pressors
+36231288,1181259,Pitressin Injectable Product,pressors
+40971462,OMOP2169424,Dopamine 10 MG/ML Injectable Solution [Dopamin Solvay] Box of 50,pressors
+43718067,OMOP785140,10 ML Milrinone 1 MG/ML Injectable Solution [Milrinon Rotexmedica] Box of 25 by Claris,pressors
+43603787,OMOP958994,Dobutamine Injectable Solution [Dobutamin Hexal],pressors
+42940589,OMOP4667239,Dobutamine / Glucose Injectable Solution,pressors
+41393533,OMOP2591495,50 ML Dopamine 10 MG/ML Injectable Solution Box of 10,pressors
+35867377,OMOP5024299,dopamine 5 MG Injectable Solution,pressors
+43041055,OMOP4856085,10 ML Milrinone 1 MG/ML Injectable Solution Box of 10 by Carinopharm,pressors
+36054969,OMOP4980277,20 ML dobutamine 12.5 MG/ML Injectable Solution [Dobutrex] Box of 1,pressors
+35161535,OMOP4818504,10 ML Dopamine 20 MG/ML Injectable Solution by Teva Takeda,pressors
+2025409,OMOP4923995,200 ML dopamine 1 MG/ML / glucose 50 MG/ML Injectable Solution,pressors
+783671,OMOP4831503,Dobutamine 12.5 MG/ML Injectable Solution [Dobutamine EG],pressors
+43150094,OMOP485899,Milrinone 1 MG/ML Prefilled Syringe [MILRINONE MEDAC],pressors
+36410338,OMOP3102380,5 ML Dopamine 160 MG/ML Injectable Solution Box of 10 by A A H,pressors
+40712104,OMOP4745034,100 ML Dobutamine 5 MG/ML Injectable Solution Box of 10,pressors
+43175260,OMOP515776,10 ML Dopamine 5 MG/ML Prefilled Syringe,pressors
+35146356,OMOP4803436,Dopamine 3 MG/ML Injectable Solution,pressors
+40847099,OMOP2045061,Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Hexal] Box of 1,pressors
+43844267,OMOP785150,10 ML Milrinone 1 MG/ML Injection [Milrinon Stragen] Box of 10,pressors
+35201975,2058469,100 ML dopamine hydrochloride 0.8 MG/ML Injection,pressors
+41078936,OMOP2276898,Dopamine 20 MG/ML [Dopamin Solvay],pressors
+40940560,OMOP2138522,Dobutamine 14 MG/ML Injectable Solution [Dobutrex] Box of 250,pressors
+21038826,OMOP308857,5 ML Dopamine 160 MG/ML Injection Box of 10 by Martindale,pressors
+35784393,OMOP2785854,50 ML Dobutamine 5 MG/ML Injectable Solution Box of 1 by Hameln,pressors
+43675669,OMOP951230,Dopamine 5 MG/ML Injection Box of 2,pressors
+43040983,OMOP4856013,10 ML Dopamine 5 MG/ML Prefilled Syringe Box of 10 by Renaudin,pressors
+2028375,OMOP4927126,5 ML dopamine 80 MG/ML Injectable Solution [TROPIN] by Hanlim,pressors
+43838955,OMOP671736,Milrinone 1 MG/ML Injectable Solution [Corotrop],pressors
+41394939,OMOP2592901,50 ML Dobutamine 0.1 MG/ML Injectable Solution Box of 1,pressors
+44088606,OMOP1083237,Milrinone 1 MG/ML Injection [Primacor] by Sanofi,pressors
+40729360,OMOP4727661,Dobutamine 1.2 MG/ML,pressors
+43610127,OMOP785145,10 ML Milrinone 1 MG/ML Injectable Solution [Milrinon Carino] Box of 10,pressors
+36404300,OMOP3096342,Dopamine 1.6 MG/ML Injectable Solution,pressors
+35140890,OMOP4798025,Dopamine 20 MG/ML [Tsurudopami],pressors
+43139156,OMOP485898,Milrinone 1 MG/ML Prefilled Syringe [COROTROPE] Box of 10,pressors
+35758640,OMOP2760101,Dobutamine 50 MG/ML Injectable Solution [Posiject],pressors
+41306966,OMOP2504928,Vasopressin (USP) 5 UNT/ML Injectable Solution [Pitressin] Box of 10,pressors
+41172797,OMOP2370759,Dobutamine 5.6 MG/ML [Dobutamin Hexal],pressors
+43280940,OMOP564635,20 ML Dobutamine 12.5 MG/ML Injection by Claris,pressors
+36410477,OMOP3102519,5 ML Dopamine 160 MG/ML Injectable Solution by A A H,pressors
+21058466,OMOP310240,10 ML Milrinone 1 MG/ML Prefilled Syringe [Primacor] Box of 10 by Sanofi,pressors
+36224130,1159604,dobutamine Injectable Product,pressors
+43186123,OMOP515785,10 ML Dopamine 5 MG/ML Prefilled Syringe [DOPAMINE PIERRE FABRE] Box of 50 by Pierre Fabre,pressors
+35149995,OMOP4807049,10 ML Milrinone 1 MG/ML Injectable Solution by Teva Takeda,pressors
+43611624,OMOP814791,50 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Liquid Fresenius] Box of 10,pressors
+40031956,377100,dopamine Injectable Solution,pressors
+43790482,OMOP796550,20 ML Dobutamine 14 MG/ML Injection [Dobutamin Hameln] Box of 5 by Hameln,pressors
+2025272,OMOP4923858,250 ML dopamine 0.8 MG/ML / glucose 50 MG/ML Injectable Solution by JW,pressors
+40729351,OMOP4727670,Dobutamine 1 MG/ML Injectable Solution Box of 10,pressors
+40747705,OMOP4709599,Dopamine 2.4 MG/ML Injectable Solution,pressors
+42966517,OMOP4692976,Dopamine 1.6 MG/ML / Glucose 50 MG/ML Injectable Solution [CJ DOPAMINE HCL PREMIX],pressors
+41370480,OMOP2568442,10 ML Dopamine 20 MG/ML Injectable Solution Box of 10,pressors
+42940600,OMOP4667250,Dobutamine 50 MG/ML [TOBUREX],pressors
+2028392,OMOP4927143,5 ML dobutamine 50 MG/ML Prefilled Syringe,pressors
+36779627,OMOP4767936,20 ML Dobutamine 12.5 MG/ML Intravenous Solution [Dobutrex] Box of 10,pressors
+42918966,OMOP4645843,200 ML Dopamine 2 MG/ML / Glucose 50 MG/ML Injectable Solution,pressors
+36808883,OMOP4822923,10 ML Milrinone 1 MG/ML Injectable Solution Box of 10 by Stragen,pressors
+43151053,OMOP494304,Dobutamine 12.5 MG/ML Prefilled Syringe [DOBUTAMINE PANPHARMA] Box of 10,pressors
+42799676,1292763,dopamine hydrochloride 10 MG/ML,pressors
+43748770,OMOP671738,Milrinone 1 MG/ML Injectable Solution [Corotrop] Box of 10,pressors
+44132850,OMOP1127481,0.5 ML Vasopressin (USP) 20 UNT/ML Injectable Solution [Pitressin],pressors
+40898812,OMOP2096774,Dobutamine 250 MG Injectable Suspension Box of 1,pressors
+44182724,OMOP3059447,Dobutamine 250 MG Injectable Suspension [Dobutamin Hexal] Box of 1 by Novartis,pressors
+42921147,OMOP4647983,5 ML Dobutamine 50 MG/ML Injectable Solution [DOBUTAMINE HCL HUONS],pressors
+35866679,OMOP5024307,dobutamine 2 MG/ML Injection [Fenghaifen],pressors
+40715091,OMOP4741899,10 ML Milrinone 1 MG/ML Injectable Solution Box of 5 by Peckforton,pressors
+35867797,OMOP5024328,dobutamine Injectable Solution [Fenghaifen],pressors
+43592188,OMOP785141,10 ML Milrinone 1 MG/ML Injectable Solution [Milrinon Carino],pressors
+35131771,OMOP4789006,Dobutamine 100 MG,pressors
+2025263,OMOP4923849,250 ML dopamine 2 MG/ML / glucose 50 MG/ML Injectable Solution,pressors
+21156745,OMOP308844,5 ML Dopamine 40 MG/ML Injection Box of 50 by Hospira,pressors
+42966541,OMOP4693000,Dopamine 80 MG/ML [TROPIN],pressors
+21068320,OMOP308830,5 ML Dopamine 40 MG/ML Injection by AMCo,pressors
+43862461,OMOP785144,10 ML Milrinone 1 MG/ML Injectable Solution [Milrinon Carino] Box of 5 by Carinopharm,pressors
+41180051,OMOP2378013,Dopamine 5 MG/ML Injectable Solution Box of 300,pressors
+40712103,OMOP4745035,100 ML Dobutamine 1 MG/ML Injectable Solution,pressors
+43723256,OMOP864039,530 MG Dobutamine 0.528 MG/MG Injectable Solution [Dobutamin-Ratiopharm] by Ratiopharm,pressors
+40087303,374284,vasopressin (USP) Injectable Suspension,pressors
+41304346,OMOP2502308,Dobutamine 5 MG/ML Injectable Solution Box of 10,pressors
+43626994,OMOP760813,3 ML Dopamine 5 MG/ML Injection Box of 10,pressors
+43290740,OMOP553968,Dobutamine 250 MG Injection,pressors
+35867779,OMOP5024310,dobutamine 2 MG/ML [Fenghaifen],pressors
+21137446,OMOP318127,50 ML Milrinone 0.2 MG/ML Injection Box of 1,pressors
+35159013,OMOP4816000,Dopamine 1 MG/ML Prefilled Syringe,pressors
+35134108,OMOP4791310,5 ML Dopamine 20 MG/ML Injectable Solution by Janssen,pressors
+36895733,OMOP996523,20 ML Dobutamine 14 MG/ML Injection Box of 5,pressors
+35867778,OMOP5024309,dobutamine 2 MG/ML Injectable Solution [Fenghaifen],pressors
+44087152,OMOP1081783,Vasopressin (USP) 20 UNT/ML Injectable Solution [Pressyn Ar],pressors
+42966542,OMOP4693001,Dopamine 2 MG/ML,pressors
+21058938,OMOP318120,50 ML Milrinone 0.4 MG/ML Injection,pressors
+44181215,OMOP3057938,Dobutamine 250 MG Injectable Suspension [Dobutamin Hexal] Box of 1,pressors
+35132382,OMOP4789608,Dobutamine 1 MG/ML Prefilled Syringe [Dobupum],pressors
+41180053,OMOP2378015,Dopamine 10 MG/ML Injectable Solution Box of 300,pressors
+43040982,OMOP4856012,10 ML Dopamine 5 MG/ML Injectable Solution Box of 50 by Mylan,pressors
+35157159,OMOP4814166,Dopamine 3 MG/ML [Catabon],pressors
+41391135,OMOP2589097,50 ML Dobutamine 5 MG/ML Injectable Solution [Dobutamin Hameln] Box of 10,pressors
+21111300,OMOP361507,Milrinone 1 MG/ML Prefilled Syringe [Primacor] Box of 10,pressors
+43646858,OMOP796545,20 ML Dobutamine 14 MG/ML Injection Box of 20,pressors
+35781607,OMOP2783068,10 ML Milrinone 1 MG/ML Injectable Solution [Primacor] Box of 10 by Sanofi,pressors
+43693864,OMOP959025,Dobutamine 11.2 MG/ML Injectable Solution [Dobutamin Liquid Fresenius] Box of 10,pressors
+2025281,OMOP4923867,250 ML dobutamine 1 MG/ML / glucose 50 MG/ML Injectable Solution by JW,pressors
+21128265,OMOP328401,250 ML Dopamine 1.6 MG/ML Prefilled Syringe by Abbott,pressors
+43184112,OMOP494290,Dobutamine Prefilled Syringe [DOBUTAMINE MYLAN],pressors
+41372950,OMOP2570912,10 ML Milrinone 1.42 MG/ML Injectable Solution [Milrinon Hikma],pressors
+43197165,OMOP516027,10 ML Milrinone 1 MG/ML Prefilled Syringe [COROTROPE],pressors
+41352357,OMOP2550319,5 ML Dopamine 40 MG/ML Injectable Solution Box of 10,pressors
+43611623,OMOP814787,50 ML Dobutamine 5.6 MG/ML Injectable Solution Box of 2,pressors
+36418515,OMOP4760823,20 ML Dobutamine 12.5 MG/ML Injectable Suspension [Dobutrex],pressors
+36811509,OMOP4825544,Milrinone 1 MG/ML Injection [Primacor],pressors
+21157288,OMOP318132,50 ML Milrinone 0.6 MG/ML Injection,pressors
+43711752,OMOP958998,Dobutamine 0.528 MG/MG Injectable Solution [Dobutamin-Ratiopharm],pressors
+35154931,OMOP4811952,Dobutamine 6 MG/ML [Dobupum],pressors
+41240991,OMOP2438953,Milrinone 1.42 MG/ML Injectable Solution,pressors
+41304347,OMOP2502309,Dobutamine 14 MG/ML Injectable Solution Box of 50,pressors
+2024778,OMOP4923360,500 ML dopamine 1 MG/ML / glucose 50 MG/ML Injectable Solution by JW,pressors
+40867719,OMOP2065681,Dopamine 10 MG/ML Injectable Solution Box of 30,pressors
+36895352,OMOP994094,5 ML Dopamine 40 MG/ML Prefilled Syringe Box of 50,pressors
+41172000,OMOP2369962,Milrinone 1.42 MG/ML [Milrinon Hikma],pressors
+43264543,OMOP564637,20 ML Dobutamine 12.5 MG/ML Injection Box of 10,pressors
+42918891,OMOP4645769,250 ML Dopamine 3.2 MG/ML / Glucose 50 MG/ML Injectable Solution [CJ DOPAMINE HCL PREMIX],pressors
+40716243,OMOP4740900,5 ML Dopamine 40 MG/ML Injectable Solution by Pfizer,pressors
+35146517,OMOP4803595,Dobutamine 3 MG/ML Injectable Solution [Dobutrex],pressors
+36054968,OMOP4980276,20 ML dobutamine 12.5 MG/ML Injectable Solution [Dobutrex] Box of 1 by Eli Lilly,pressors
+41399631,OMOP2597593,50 ML Dobutamine 5 MG/ML Injectable Solution Box of 5,pressors
+44115392,OMOP1110023,Dopamine 0.8 MG/ML / Glucose 50 MG/ML Injection by Baxter,pressors
+42628996,1791861,50 ML milrinone lactate 1 MG/ML Injection,pressors
+36808895,OMOP4822935,10 ML Milrinone 1 MG/ML Injection by Stragen,pressors
+43838954,OMOP671707,Milrinone Injection [Unacor],pressors
+40035704,374370,dobutamine Injectable Solution,pressors
+43755609,OMOP814240,50 ML Dopamine 5 MG/ML Injection [Dopamin Carino] by Carinopharm,pressors
+36420031,OMOP4762318,Dobutamine 12.5 MG/ML Injectable Suspension [Dobutrex] Box of 1,pressors
+43711324,OMOP951204,Dopamine 20 MG/ML [Dopamin Carino],pressors
+43138642,OMOP481269,Dopamine 40 MG/ML [DOPAMINE RENAUDIN],pressors
+35867382,OMOP5024304,dobutamine 250 MG Injectable Solution [Anchang],pressors
+35783321,OMOP2784782,20 ML Dobutamine 12.5 MG/ML Injectable Suspension [Dobutrex] by Lilly,pressors
+2062425,OMOP4963677,dopamine 4 MG/ML / glucose 50 MG/ML Injectable Solution [CJ DOPAMIX],pressors
+41244928,OMOP2442890,Vasopressin (USP) 5 UNT/ML Injectable Solution [Pitressin] Box of 50,pressors
+42921505,OMOP4648333,5 ML Dopamine 40 MG/ML Injectable Solution [DOPASIN],pressors
+43700903,OMOP796555,20 ML Dobutamine 14 MG/ML Injection [Dobutamin Hameln] Box of 50 by Hameln,pressors
+40940559,OMOP2138521,Dobutamine 250 MG Injectable Solution [Dobutrex] Box of 1,pressors
+35155391,OMOP4812408,50 ML Dobutamine 1 MG/ML Prefilled Syringe,pressors
+42799704,1292888,dopamine hydrochloride 5 MG/ML,pressors
+41242399,OMOP2440361,Dobutamine 0.1 MG/ML Injectable Solution Box of 1,pressors
+36892742,OMOP1003851,Dopamine 5 MG/ML Prefilled Syringe,pressors
+21166779,OMOP313686,20 ML Dobutamine 12.5 MG/ML Injection Box of 1,pressors
+2062446,OMOP4963698,dobutamine Injectable Solution [DOBUMINE],pressors
+41252668,OMOP2450630,Dopamine 10 MG/ML Injectable Solution [Cardiosteril] Box of 10,pressors
+21048644,OMOP308840,5 ML Dopamine 40 MG/ML Injection Box of 10 by A A H,pressors
+35141510,OMOP4798635,200 ML Dopamine 1 MG/ML Injectable Solution [Kakodin],pressors
+40087301,374283,vasopressin (USP) Injectable Solution,pressors
+36883927,OMOP988712,Dobutamine 28 MG/ML Injectable Solution,pressors
+35161541,OMOP4818510,200 ML Dopamine 3 MG/ML Injectable Solution [Catabon],pressors
+2025276,OMOP4923862,250 ML dobutamine 2 MG/ML / glucose 50 MG/ML Injectable Solution by Baxter,pressors
+36406629,OMOP3098671,Dopamine 160 MG/ML Injectable Solution Box of 5,pressors
+43153176,OMOP515788,10 ML Dopamine 5 MG/ML Prefilled Syringe [DOPAMINE RENAUDIN] Box of 10 by Renaudin,pressors
+35160270,OMOP4817248,Dobutamine 6 MG/ML Prefilled Syringe [Dobupum],pressors
+40859895,OMOP2057857,Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.25 UNT/ML [Neo Lidocaton],pressors
+43837869,OMOP959037,Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Carino] Box of 2,pressors
+41394787,OMOP2592749,50 ML Dobutamine 11.2 MG/ML Injectable Solution Box of 10 by Carinopharm,pressors
+41377289,OMOP2575251,20 ML Dobutamine 14 MG/ML Injectable Solution [Dobutrex] Box of 250,pressors
+42799705,1292889,dopamine hydrochloride 5 MG/ML Injectable Solution,pressors
+35606564,1743877,250 ML dopamine hydrochloride 1.6 MG/ML Injection,pressors
+43765634,OMOP959026,Dobutamine 11.2 MG/ML Injectable Solution [Dobutamin Carino],pressors
+43676121,OMOP959035,Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Liquid Fresenius] Box of 10,pressors
+43208281,OMOP518206,20 ML Dobutamine 12.5 MG/ML Prefilled Syringe [DOBUTAMINE MYLAN] Box of 10,pressors
+41159462,OMOP2357424,Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Hexal],pressors
+41078945,OMOP2276907,Dobutamine 14 MG/ML [Dobutamin Hexal],pressors
+2024777,OMOP4923359,500 ML dopamine 1 MG/ML / glucose 50 MG/ML Injectable Solution,pressors
+43748769,OMOP671737,Milrinone 1 MG/ML Injectable Solution [Corotrop] Box of 5,pressors
+37003087,2399911,vasopressin (USP) 0.4 UNT/ML Injection [Vasostrict],pressors
+43639876,OMOP958999,Dobutamine 14 MG/ML [Dobutamin Hameln],pressors
+43604943,OMOP671706,Milrinone Injection [Milrinon Stragen],pressors
+36410364,OMOP3102406,5 ML Dopamine 160 MG/ML Injectable Solution by Hospira,pressors
+36407397,OMOP3099439,Dopamine 160 MG/ML Injectable Solution Box of 10,pressors
+41148975,OMOP2346937,Dobutamine 14 MG/ML Injectable Solution Box of 250,pressors
+41380260,OMOP2578222,20 ML Dobutamine 14 MG/ML Injectable Solution [Dobutrex],pressors
+36882038,OMOP988577,Dopamine 20 MG/ML Injection,pressors
+35780582,OMOP2782043,5 ML Dopamine 40 MG/ML Injectable Solution Box of 5 by A A H,pressors
+44129916,OMOP1124547,1 ML Vasopressin (USP) 20 UNT/ML Injectable Solution [Pressyn Ar] by Ferring,pressors
+43801196,OMOP951208,Dopamine 20 MG/ML Injection Box of 10,pressors
+41148967,OMOP2346929,Dopamine 20 MG/ML Injectable Solution Box of 50,pressors
+41023457,OMOP2221419,Dobutamine 14 MG/ML Injectable Solution Box of 5,pressors
+42966534,OMOP4692993,Dopamine 40 MG/ML [DOPAMINE HCI HUONS],pressors
+43664489,OMOP785147,10 ML Milrinone 1 MG/ML Injection [Milrinon Stragen],pressors
+21059614,OMOP328404,250 ML Dopamine 3.2 MG/ML Prefilled Syringe by Abbott,pressors
+36779581,OMOP4767937,20 ML Dobutamine 12.5 MG/ML Intravenous Solution [Dobutrex],pressors
+2024782,OMOP4923364,500 ML dobutamine 4 MG/ML / glucose 50 MG/ML Injectable Solution by JW,pressors
+42940593,OMOP4667243,Dobutamine 50 MG/ML Injectable Solution [DOBUTAMIN HCI MYUNGMOON],pressors
+41366476,OMOP2564438,10 ML Dopamine 20 MG/ML Injectable Solution [Dopamin Solvay] Box of 10 by Mylan,pressors
+41323601,OMOP2521563,Dobutamine 250 MG Injectable Suspension Box of 1 by Ratiopharm,pressors
+43639450,OMOP951226,Dopamine 10 MG/ML Injection [Dopamin Carino] Box of 6,pressors
+36280089,OMOP3130964,20 ML Dobutamine 12.5 MG/ML Injection [Dobutamine EG] Box of 10 by Eurogenerics,pressors
+41371421,OMOP2569383,10 ML Milrinone 1.42 MG/ML Injectable Solution [Milrinon Rotexmedica] Box of 10,pressors
+2025280,OMOP4923866,250 ML dobutamine 1 MG/ML / glucose 50 MG/ML Injectable Solution by CJ,pressors
+41355554,OMOP2553516,5 ML Dopamine 40 MG/ML Injectable Solution Box of 300,pressors
+35139385,OMOP4796542,200 ML Dobutamine 3 MG/ML Injectable Solution by Pfizer,pressors
+2025261,OMOP4923847,250 ML dopamine 3.2 MG/ML / glucose 50 MG/ML Injectable Solution by Baxter,pressors
+41413557,OMOP2611519,1.8 ML Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.45 UNT/ML Metered Dose Inhaler Box of 1000,pressors
+36808873,OMOP4822913,10 ML Milrinone 1 MG/ML Injection Box of 10 by Wockhardt,pressors
+2028394,OMOP4927145,5 ML dobutamine 50 MG/ML Prefilled Syringe [DOBUMINE] by Dongkook,pressors
+35831112,OMOP5037204,dobutamine 3 MG/ML [Dobutrex],pressors
+43608156,OMOP733371,1 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Hameln],pressors
+41236530,OMOP2434492,Dobutamine Injectable Suspension,pressors
+41461601,OMOP2659563,2 ML Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.25 UNT/ML Injectable Solution [Neo Lidocaton] Box of 100,pressors
+36054971,OMOP4980279,20 ML dobutamine 12.5 MG/ML Injectable Solution [Dobutrex],pressors
+36410403,OMOP3102445,5 ML Dopamine 160 MG/ML Injectable Solution Box of 5,pressors
+783082,OMOP4830914,Milrinone Injectable Solution [COROTROPE],pressors
+21028967,OMOP307734,5 ML Dobutamine 50 MG/ML Injection Box of 5,pressors
+36412202,OMOP3104244,250 ML Dopamine 1.6 MG/ML Injectable Solution by Abbott,pressors
+35831110,OMOP5037206,dobutamine 100 MG [Dobutrex],pressors
+43622830,OMOP671728,Milrinone 1 MG/ML Injectable Solution [Milrinon Carino] Box of 10,pressors
+35867787,OMOP5024318,dobutamine 125 MG Injectable Solution [Aowanyuan],pressors
+43149561,OMOP481264,Dopamine Prefilled Syringe [DOPAMINE PIERRE FABRE],pressors
+41371995,OMOP2569957,10 ML Dopamine 5 MG/ML Injectable Solution Box of 50,pressors
+44132789,OMOP1127420,0.5 ML Vasopressin (USP) 20 UNT/ML Injectable Solution [Pitressin] Box of 10,pressors
+2028385,OMOP4927136,5 ML dopamine 40 MG/ML Injectable Solution by Dongkook,pressors
+41359061,OMOP2557023,5 ML Dopamine 10 MG/ML Injectable Solution [Dopamin Solvay] Box of 30,pressors
+42966523,OMOP4692982,Dopamine / Glucose Injectable Solution [CJ DOPAMINE HCL PREMIX],pressors
+35145169,OMOP4802261,Dopamine 3 MG/ML [Kakodin],pressors
+40833734,OMOP2031696,Vasopressin (USP) 5 UNT/ML Injectable Solution,pressors
+36808949,OMOP4822986,10 ML Milrinone 1 MG/ML Injection Box of 10 by Stragen,pressors
+43755622,OMOP814799,50 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Carino] Box of 10 by Carinopharm,pressors
+43737656,OMOP814767,50 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Hameln] Box of 10,pressors
+40898804,OMOP2096766,Dopamine 40 MG/ML Injectable Solution Box of 10,pressors
+43280028,OMOP555226,Milrinone 1 MG/ML Injection Box of 10,pressors
+41381205,OMOP2579167,20 ML Dobutamine 12.5 MG/ML Injectable Suspension [Dobutrex] Box of 1 by Lilly,pressors
+35606569,1743941,5 ML dopamine hydrochloride 40 MG/ML Injection,pressors
+2028380,OMOP4927131,5 ML dopamine 40 MG/ML Injectable Solution [TROPIN] by Hanlim,pressors
+40742760,OMOP4714271,Milrinone 1 MG/ML [Primacor],pressors
+19065473,252860,dobutamine 50 MG/ML Injectable Solution,pressors
+35867795,OMOP5024326,dobutamine 10 MG/ML,pressors
+41356293,OMOP2554255,5 ML Dopamine 10 MG/ML Injectable Solution [Dopamin Ratiopharm],pressors
+2028379,OMOP4927130,5 ML dopamine 40 MG/ML Prefilled Syringe by Dongkook,pressors
+41327696,OMOP2525658,1 ML Vasopressin (USP) 5 UNT/ML Injectable Solution [Pitressin] Box of 10,pressors
+43183195,OMOP485894,Milrinone 1 MG/ML [COROTROPE],pressors
+44037832,OMOP1032463,Dopamine 1.6 MG/ML / Glucose 50 MG/ML Injection by Baxter,pressors
+41369159,OMOP2567121,10 ML Milrinone 1.42 MG/ML Injectable Solution [Milrinon Carino] Box of 10,pressors
+36054886,OMOP4980281,20 ML dobutamine 12.5 MG/ML Injectable Solution by Peckforton,pressors
+43783361,OMOP951213,Dopamine 20 MG/ML Injection [Dopamin Carino] Box of 10,pressors
+43164010,OMOP513604,5 ML Dopamine 10 MG/ML Prefilled Syringe [DOPAMINE AGUETTANT] Box of 50,pressors
+35606560,1743866,dopamine hydrochloride 160 MG/ML Injection,pressors
+43771300,OMOP768646,5 ML Dopamine 10 MG/ML Injection [Dopamin Carino] by Carinopharm,pressors
+42966524,OMOP4692983,Dopamine / Glucose Injectable Solution [DOPAMIX CJ],pressors
+41362439,OMOP2560401,10 ML Milrinone 1.42 MG/ML Injectable Solution [Milrinon Stragen] Box of 10,pressors
+35831109,OMOP5037207,dobutamine 100 MG Injectable Solution by Sawai,pressors
+35143325,OMOP4800427,Dopamine 6 MG/ML Prefilled Syringe [Inovan],pressors
+43736733,OMOP796547,20 ML Dobutamine 14 MG/ML Injection [Dobutamin Hameln],pressors
+40929935,OMOP2127897,Dobutamine 250 MG Injectable Solution,pressors
+41241284,OMOP2439246,Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.25 UNT/ML Injectable Solution Box of 5,pressors
+43219043,OMOP516031,10 ML Milrinone 1 MG/ML Prefilled Syringe [MILRINONE MEDAC] Box of 10,pressors
+41235251,OMOP2433213,Dopamine 20 MG/ML [Dopamin Ratiopharm],pressors
+40715090,OMOP4741900,10 ML Milrinone 1 MG/ML Injectable Solution Box of 10 by Wockhardt,pressors
+784546,OMOP4832365,10 ML Milrinone 1 MG/ML Injectable Solution [COROTROPE] Box of 10,pressors
+40836610,OMOP2034572,Dobutamine 0.1 MG/ML Injectable Solution,pressors
+36066372,OMOP4992797,dobutamine 12.5 MG/ML Injectable Solution [Dobutrex] Box of 1,pressors
+43138644,OMOP481279,Dopamine 5 MG/ML [DOPAMINE MYLAN],pressors
+43208284,OMOP518213,20 ML Dobutamine 12.5 MG/ML Prefilled Syringe [DOBUTAMINE SILCAR] Box of 10,pressors
+36420033,OMOP4762320,Dobutamine Injectable Suspension [Dobutrex],pressors
+35202043,2103184,1 ML vasopressin (USP) 20 UNT/ML Injection [Vasostrict],pressors
+41376731,OMOP2574693,20 ML Dobutamine 14 MG/ML Injectable Solution Box of 1000,pressors
+43218806,OMOP513606,5 ML Dopamine 10 MG/ML Prefilled Syringe [DOPAMINE RENAUDIN],pressors
+41096692,OMOP2294654,Dobutamine 250 MG Injectable Solution [Dobutamin Hexal],pressors
+36888784,OMOP1000115,Dobutamine 12.5 MG/ML Prefilled Syringe,pressors
+44059621,OMOP1054252,Vasopressin (USP) 20 UNT/ML Injectable Solution [Pitressin] Box of 10,pressors
+43824151,OMOP733370,1 ML Dobutamine 5.6 MG/ML Injectable Solution,pressors
+21022935,OMOP361499,Milrinone 0.4 MG/ML,pressors
+35130722,OMOP4787970,Dobutamine 1 MG/ML [Dobupum],pressors
+37003624,2399909,100 ML vasopressin (USP) 0.4 UNT/ML Injection [Vasostrict],pressors
+43665015,OMOP797743,20 ML Milrinone 1 MG/ML Injection [Unacor] by Pharmaselect,pressors
+36894661,OMOP994463,Dobutamine 14 MG/ML Injection,pressors
+41249768,OMOP2447730,Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.45 UNT/ML Metered Dose Inhaler [Neo Lidocaton] Box of 100,pressors
+36895987,OMOP1003206,50 ML Dobutamine 11.2 MG/ML Injectable Solution,pressors
+35780583,OMOP2782044,5 ML Dopamine 40 MG/ML Injectable Solution by Martindale,pressors
+45775839,1593735,vasopressin (USP) 20 UNT/ML [Vasostrict],pressors
+41054683,OMOP2252645,Dopamine 10 MG/ML Injectable Solution Box of 1,pressors
+43693405,OMOP951222,Dopamine 10 MG/ML Injection [Dopamin Fresenius] Box of 10,pressors
+42966528,OMOP4692987,Dopamine 40 MG/ML Injectable Solution [DOPURAMIN],pressors
+43041061,OMOP4856091,10 ML Milrinone 1 MG/ML Prefilled Syringe Box of 10 by Medac,pressors
+36403593,OMOP3095635,Milrinone 0.4 MG/ML Injectable Solution,pressors
+42921508,OMOP4648336,5 ML Dopamine 40 MG/ML Injectable Solution [INOPAN MYUNG MOON],pressors
+43608320,OMOP736410,1 ML Milrinone 1 MG/ML Injectable Solution [Milrinon Hikma] by Hikma,pressors
+41381104,OMOP2579066,20 ML Dobutamine 14 MG/ML Injectable Solution [Dobutrex] Box of 50,pressors
+41327505,OMOP2525467,1 ML Vasopressin (USP) 5 UNT/ML Injectable Solution Box of 10,pressors
+42921145,OMOP4647981,5 ML Dobutamine 50 MG/ML Injectable Solution [HANA DOBUTAMINE HCL],pressors
+2024776,OMOP4923358,500 ML dopamine 1.6 MG/ML / glucose 50 MG/ML Injectable Solution by JW,pressors
+43182685,OMOP481275,Dopamine 40 MG/ML Prefilled Syringe [DOPAMINE MYLAN],pressors
+43861291,OMOP760817,3 ML Dopamine 5 MG/ML Injection [Dopamin Carino] Box of 2 by Carinopharm,pressors
+2028399,OMOP4927150,5 ML dobutamine 50 MG/ML Injectable Solution by Myungmoon,pressors
+21091570,OMOP361497,Milrinone Prefilled Syringe [Primacor],pressors
+41359872,OMOP2557834,5 ML Dopamine 10 MG/ML Injectable Solution,pressors
+43754023,OMOP783213,10 ML Dopamine 20 MG/ML Injection [Dopamin Carino] Box of 10,pressors
+21029495,OMOP318123,50 ML Milrinone 0.4 MG/ML Injection Box of 1,pressors
+43215541,OMOP481296,Dopamine 10 MG/ML Prefilled Syringe Box of 50,pressors
+41438285,OMOP2636247,250 ML Dopamine 3.2 MG/ML Injectable Solution,pressors
+35770798,OMOP2772259,Dobutamine 12.5 MG/ML Injectable Suspension Box of 5,pressors
+21136912,OMOP308854,5 ML Dopamine 160 MG/ML Injection Box of 10,pressors
+21078130,OMOP308850,5 ML Dopamine 160 MG/ML Injection Box of 5,pressors
+41380495,OMOP2578457,20 ML Dobutamine 14 MG/ML Injectable Solution Box of 50,pressors
+41381469,OMOP2579431,20 ML Dobutamine 14 MG/ML Injectable Solution [Dobutrex] Box of 10,pressors
+35142220,OMOP4799337,5 ML Dopamine 20 MG/ML Injectable Solution [Tsurudopami],pressors
+43173260,OMOP494296,Dobutamine 12.5 MG/ML [DOBUTAMINE SILCAR],pressors
+43151051,OMOP494293,Dobutamine 12.5 MG/ML [DOBUTAMINE AGUETTANT],pressors
+42940592,OMOP4667242,Dobutamine 50 MG/ML Injectable Solution [HANA DOBUTAMINE HCL],pressors
+41356838,OMOP2554800,5 ML Dopamine 10 MG/ML Injectable Solution [Cardiosteril] Box of 50,pressors
+41399946,OMOP2597908,50 ML Dopamine 5 MG/ML Injectable Solution [Dopamin Solvay] Box of 10,pressors
+21137447,OMOP318134,50 ML Milrinone 0.6 MG/ML Injection Box of 1,pressors
+21062210,OMOP361502,Milrinone 0.2 MG/ML Injection Box of 1,pressors
+21032682,OMOP361509,Milrinone 0.6 MG/ML,pressors
+43682242,OMOP783211,10 ML Dopamine 20 MG/ML Injection [Dopamin Carino] Box of 5,pressors
+2025411,OMOP4923997,200 ML dopamine 1 MG/ML / glucose 50 MG/ML Injectable Solution [CJ DOPAMIX] by CJ,pressors
+35129425,OMOP4786692,Vasopressin (USP) 20 UNT [Pitressin],pressors
+41399260,OMOP2597222,50 ML Dobutamine 0.1 MG/ML Injectable Solution [Dobutamin Hexal],pressors
+41002849,OMOP2200811,Dopamine 20 MG/ML Injectable Solution [Dopamin Solvay] Box of 100,pressors
+35146429,OMOP4803508,5 ML Dopamine 20 MG/ML Injectable Solution [Yaelista],pressors
+43264542,OMOP564636,20 ML Dobutamine 12.5 MG/ML Injection Box of 5 by Claris,pressors
+35867786,OMOP5024317,dobutamine 125 MG Injectable Solution,pressors
+36407482,OMOP3099524,Milrinone 0.6 MG/ML Injectable Solution Box of 1,pressors
+35867791,OMOP5024322,dobutamine 20 MG Injectable Solution [Aowanyuan],pressors
+35135654,OMOP4792844,Dobutamine 1 MG/ML Prefilled Syringe,pressors
+42628995,1791859,20 ML milrinone lactate 1 MG/ML Injection,pressors
+35782890,OMOP2784351,20 ML Dobutamine 12.5 MG/ML Injectable Suspension Box of 5,pressors
+2024774,OMOP4923356,500 ML dopamine 2 MG/ML / glucose 50 MG/ML Injectable Solution by JW,pressors
+41372325,OMOP2570287,10 ML Dopamine 20 MG/ML Injectable Solution [Dopamin Solvay] Box of 50,pressors
+42921511,OMOP4648339,5 ML Dopamine 80 MG/ML Injectable Solution,pressors
+43641047,OMOP671711,Milrinone 1 MG/ML [Milrinon Stragen],pressors
+36808979,OMOP4823016,10 ML Milrinone 1 MG/ML Injection [Primacor] Box of 10,pressors
+43603788,OMOP959007,Dobutamine 5.6 MG/ML [Dobutamin Hameln],pressors
+43138643,OMOP481278,Dopamine 40 MG/ML Prefilled Syringe [DOPAMINE RENAUDIN] Box of 100,pressors
+36404301,OMOP3096343,Dopamine 4 MG/ML Injectable Solution,pressors
+2025275,OMOP4923861,250 ML dobutamine 4 MG/ML / glucose 50 MG/ML Injectable Solution by JW,pressors
+35158764,OMOP4815754,Dopamine 6 MG/ML Prefilled Syringe,pressors
+37003085,2399908,vasopressin (USP) 0.4 UNT/ML [Vasostrict],pressors
+41391796,OMOP2589758,50 ML Dopamine 10 MG/ML Injectable Solution [Dopamin Solvay] Box of 10,pressors
+35867781,OMOP5024312,dobutamine 1 MG/ML Injectable Solution [Kanglituo],pressors
+43208283,OMOP518211,20 ML Dobutamine 12.5 MG/ML Prefilled Syringe [DOBUTAMINE PANPHARMA] Box of 10 by Panpharma,pressors
+36896073,OMOP990194,50 ML Dopamine 10 MG/ML Injection,pressors
+35867372,OMOP5024294,dopamine 20 MG,pressors
+42799685,1292887,250 ML dopamine hydrochloride 3.2 MG/ML Injection,pressors
+41356590,OMOP2554552,5 ML Dopamine 10 MG/ML Injectable Solution Box of 100,pressors
+35865884,OMOP5022745,milrinone Inhalation Powder,pressors
+41368486,OMOP2566448,10 ML Dopamine 20 MG/ML Injectable Solution [Dopamin Solvay] Box of 100,pressors
+36784347,OMOP4772631,Dobutamine 12.5 MG/ML Intravenous Solution [Dobutrex] Box of 10,pressors
+41148968,OMOP2346930,Dopamine 3.2 MG/ML Injectable Solution,pressors
+784675,OMOP4832493,20 ML Dobutamine 12.5 MG/ML Injectable Solution [Dobutamine EG],pressors
+35758081,OMOP2759542,Dopamine 40 MG/ML Injectable Solution Box of 1,pressors
+35144721,OMOP4801813,2 ML Dopamine 20 MG/ML Injectable Solution,pressors
+21146924,OMOP311759,10 ML Dopamine 40 MG/ML Prefilled Syringe by UCB,pressors
+21166780,OMOP313687,20 ML Dobutamine 12.5 MG/ML Injection Box of 5,pressors
+35139524,OMOP4796678,10 ML Dopamine 20 MG/ML Injectable Solution [Inovan],pressors
+35138358,OMOP4795519,50 ML Dopamine 3 MG/ML Prefilled Syringe,pressors
+43765631,OMOP959017,Dobutamine 28 MG/ML [Dobutamin Hexal],pressors
+43173259,OMOP494292,Dobutamine Prefilled Syringe [DOBUTAMINE SILCAR],pressors
+21078362,OMOP313688,20 ML Dobutamine 12.5 MG/ML Injection Box of 5 by Hameln,pressors
+42966521,OMOP4692980,Dopamine 2 MG/ML / Glucose 50 MG/ML [DOPAMIX CJ],pressors
+35157776,OMOP4814776,200 ML Dobutamine 1 MG/ML Injectable Solution,pressors
+41362438,OMOP2560400,10 ML Milrinone 1.42 MG/ML Injectable Solution [Milrinon Hikma] Box of 10,pressors
+43827630,OMOP814769,50 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Hameln] Box of 20,pressors
+44071651,OMOP1066282,Dopamine 3.2 MG/ML / Glucose 50 MG/ML Injection,pressors
+43621730,OMOP959004,Dobutamine 14 MG/ML Injection [Dobutamin Hameln] Box of 5,pressors
+43820919,OMOP671735,Milrinone 1 MG/ML Injectable Solution [Milrinon Hikma] Box of 10,pressors
+41175273,OMOP2373235,Milrinone Injectable Solution [Milrinon Stragen],pressors
+42799668,1293169,dopamine hydrochloride 0.4 MG/ML,pressors
+2062426,OMOP4963678,dopamine 4 MG/ML / glucose 50 MG/ML [CJ DOPAMIX],pressors
+42966512,OMOP4692971,Dopamine 0.8 MG/ML / Glucose 50 MG/ML [CJ DOPAMINE HCL PREMIX],pressors
+35161143,OMOP4818117,Dopamine 3 MG/ML [Inovan],pressors
+43747669,OMOP958991,Dobutamine Injection [Dobutamin Hameln],pressors
+41078944,OMOP2276906,Dobutamine 0.1 MG/ML [Dobutamin Hexal],pressors
+43610061,OMOP783202,10 ML Dopamine 20 MG/ML Injection Box of 2,pressors
+43184113,OMOP494291,Dobutamine Prefilled Syringe [DOBUTAMINE PANPHARMA],pressors
+41042529,OMOP2240491,Dobutamine 250 MG Injectable Solution [Dobutamin Hexal] Box of 1 by Novartis,pressors
+36784351,OMOP4772635,Dobutamine Intravenous Solution [Dobutrex],pressors
+43182686,OMOP481281,Dopamine 5 MG/ML [DOPAMINE RENAUDIN],pressors
+42966543,OMOP4693002,Dopamine Injectable Solution [DOPAMINE DAEWOO],pressors
+43149566,OMOP481299,Dopamine 10 MG/ML Prefilled Syringe [DOPAMINE RENAUDIN],pressors
+35867796,OMOP5024327,dobutamine Injection [Fenghaifen],pressors
+43645485,OMOP768634,5 ML Dopamine 40 MG/ML Injection [Dopamin Fresenius] Box of 10,pressors
+35606567,1743938,10 ML dopamine hydrochloride 40 MG/ML Injection,pressors
+36888224,OMOP1001165,Dobutamine 11.2 MG/ML,pressors
+43773633,OMOP814229,50 ML Dopamine 10 MG/ML Injection [Dopamin Fresenius],pressors
+36056446,OMOP4981878,50 ML dopamine 1.6 MG/ML Injectable Solution Box of 1,pressors
+35780415,OMOP2781876,5 ML Dopamine 40 MG/ML Injectable Solution Box of 10 by A A H,pressors
+41413606,OMOP2611568,1.8 ML Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.45 UNT/ML Metered Dose Inhaler [Neo Lidocaton],pressors
+41065122,OMOP2263084,Dobutamine 12.5 MG/ML Injectable Suspension [Dobutrex] Box of 1,pressors
+40729359,OMOP4727662,Dobutamine 1.2 MG/ML Injectable Solution,pressors
+21167030,OMOP318284,50 ML Dobutamine 5 MG/ML Injection Box of 1 by Hameln,pressors
+2028370,OMOP4927122,5 ML dopamine 160 MG/ML Prefilled Syringe,pressors
+36248686,1593737,Vasostrict Injectable Product,pressors
+36882933,OMOP996470,Dobutamine 5.6 MG/ML Injectable Solution,pressors
+36280309,OMOP3131184,20 ML Dobutamine 12.5 MG/ML Injection [Dobutrex] Box of 10 by Mylan,pressors
+1337749,328216,dobutamine 0.5 MG/ML,pressors
+35148466,OMOP4805530,Dobutamine 100 MG Injectable Solution by Janssen,pressors
+43608318,OMOP736403,1 ML Milrinone 1 MG/ML Injection [Milrinon Stragen],pressors
+42921148,OMOP4647984,5 ML Dobutamine 50 MG/ML Injectable Solution [TOBUREX],pressors
+43683781,OMOP814234,50 ML Dopamine 5 MG/ML Injection Box of 10,pressors
+2062435,OMOP4963687,dopamine 40 MG/ML Injectable Solution [MYUNGMOON INOPAN],pressors
+43150093,OMOP485897,Milrinone 1 MG/ML Prefilled Syringe [COROTROPE],pressors
+41354874,OMOP2552836,5 ML Dopamine 10 MG/ML Injectable Solution [Cardiosteril] Box of 10 by Fresenius,pressors
+35606562,1743870,dopamine hydrochloride 0.8 MG/ML Injection,pressors
+43736230,OMOP785152,10 ML Milrinone 1 MG/ML Injection [Unacor],pressors
+35782935,OMOP2784396,20 ML Dobutamine 12.5 MG/ML Injectable Suspension Box of 5 by Wockhardt,pressors
+43646321,OMOP785142,10 ML Milrinone 1 MG/ML Injectable Solution [Milrinon Carino] by Carinopharm,pressors
+2024783,OMOP4923365,500 ML dobutamine 2 MG/ML / glucose 50 MG/ML Injectable Solution by JW,pressors
+40906149,OMOP2104111,Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 2.5 UNT/ML Injectable Solution [Neo Lidocaton] Box of 5,pressors
+35782601,OMOP2784062,10 ML Dopamine 40 MG/ML Injectable Solution by UCB,pressors
+784677,OMOP4832495,20 ML Dobutamine 12.5 MG/ML Injectable Solution [Dobutamine EG] Box of 10 by Eurogenerics,pressors
+43164206,OMOP515780,10 ML Dopamine 5 MG/ML Prefilled Syringe [DOPAMINE MYLAN] Box of 50,pressors
+43837453,OMOP951210,Dopamine 20 MG/ML Injection [Dopamin Carino],pressors
+36787298,OMOP4775563,Milrinone 1 MG/ML Intravenous Solution,pressors
+35132820,OMOP4790041,Dobutamine 3 MG/ML Prefilled Syringe [Dobupum],pressors
+21068603,OMOP313694,20 ML Dobutamine 12.5 MG/ML Injection [Dobutrex] Box of 1 by Lilly,pressors
+42940596,OMOP4667246,Dobutamine 50 MG/ML [DOBURAN],pressors
+40836606,OMOP2034568,Dopamine 10 MG/ML Injectable Solution Box of 5,pressors
+21073484,OMOP385771,Dobutamine Injection [Posiject],pressors
+2062436,OMOP4963688,dopamine 40 MG/ML [MYUNGMOON INOPAN],pressors
+35154946,OMOP4811967,200 ML Dopamine 3 MG/ML Injectable Solution [Kakodin],pressors
+42922562,OMOP4649371,1 ML Vasopressin (USP) 20 UNT/ML Injectable Solution [VASOPRESSIN HANLIM],pressors
+36895982,OMOP990899,50 ML Dopamine 5 MG/ML Injection,pressors
+43801195,OMOP951197,Dopamine Injection [Dopamin Fresenius],pressors
+35781931,OMOP2783392,10 ML Dopamine 40 MG/ML Injectable Solution Box of 1,pressors
+43639451,OMOP951229,Dopamine 5 MG/ML [Dopamin Carino],pressors
+40747700,OMOP4709604,Dopamine 1.2 MG/ML Injectable Solution Box of 1,pressors
+19084849,330297,vasopressin (USP) 5 UNT/ML,pressors
+43604944,OMOP671708,Milrinone Injectable Solution [Milrinon Hikma],pressors
+44179700,OMOP3056423,Dobutamine Injectable Suspension [Dobutamin Hexal],pressors
+36808946,OMOP4823025,10 ML Milrinone 1 MG/ML Injection Box of 5 by Peckforton,pressors
+41054692,OMOP2252654,Dobutamine 12.5 MG/ML Injectable Suspension Box of 1,pressors
+43611622,OMOP814779,50 ML Dobutamine 11.2 MG/ML Injectable Solution [Dobutamin Liquid Fresenius] Box of 10 by Fresenius,pressors
+41304338,OMOP2502300,Dopamine 10 MG/ML Injectable Solution Box of 100,pressors
+42966545,OMOP4693004,Dopamine Injectable Solution [DOPAMINE HCI HUONS],pressors
+41390813,OMOP2588775,50 ML Dopamine 5 MG/ML Injectable Solution Box of 10,pressors
+43783797,OMOP959023,Dobutamine 11.2 MG/ML Injectable Solution [Dobutamin Liquid Fresenius],pressors
+41065126,OMOP2263088,Dobutamine 14 MG/ML Injectable Solution [Dobutrex] Box of 50,pressors
+43207808,OMOP513610,5 ML Dopamine 10 MG/ML Prefilled Syringe [DOPAMINE RENAUDIN] Box of 10 by Renaudin,pressors
+35141764,OMOP4798887,5 ML Dopamine 20 MG/ML Injectable Solution [Evetant],pressors
+43683800,OMOP814798,50 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Carino] Box of 10,pressors
+35161005,OMOP4817978,Dobutamine 3 MG/ML Prefilled Syringe,pressors
+35151437,OMOP4808484,50 ML Dobutamine 1 MG/ML Prefilled Syringe [Dobupum],pressors
+43185906,OMOP513590,5 ML Dopamine 40 MG/ML Prefilled Syringe [DOPAMINE AGUETTANT],pressors
+43138646,OMOP481300,Dopamine 10 MG/ML Prefilled Syringe [DOPAMINE RENAUDIN] Box of 10,pressors
+43183196,OMOP485900,Milrinone 1 MG/ML Prefilled Syringe [MILRINONE MEDAC] Box of 10,pressors
+21053745,OMOP385780,Dobutamine 50 MG/ML Injection [Posiject] Box of 5,pressors
+2028395,OMOP4927146,5 ML dobutamine 50 MG/ML Injectable Solution [TOBUREX] by Reyon,pressors
+21058389,OMOP308838,5 ML Dopamine 40 MG/ML Injection Box of 10,pressors
+44083822,OMOP1078453,Vasopressin (USP) 20 UNT/ML Injectable Solution Box of 10,pressors
+43807227,OMOP768633,5 ML Dopamine 40 MG/ML Injection [Dopamin Fresenius] by Fresenius,pressors
+44100570,OMOP1095201,Vasopressin (USP) 20 UNT/ML Injectable Solution by Lyphomed,pressors
+41391794,OMOP2589756,50 ML Dopamine 5 MG/ML Injectable Solution [Dopamin Solvay] Box of 50,pressors
+35866678,OMOP5024306,dobutamine 250 MG [Anchang],pressors
+35202042,2103182,1 ML vasopressin (USP) 20 UNT/ML Injection,pressors
+40982489,OMOP2180451,Milrinone 1.42 MG/ML,pressors
+41086257,OMOP2284219,Dopamine 5 MG/ML Injectable Solution Box of 1,pressors
+43824152,OMOP733372,1 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Hameln] by Hameln,pressors
+21097632,OMOP307735,5 ML Dobutamine 50 MG/ML Injection [Posiject],pressors
+43765630,OMOP959009,Dobutamine 5.6 MG/ML Injectable Solution Box of 20,pressors
+41394584,OMOP2592546,50 ML Dopamine 10 MG/ML Injectable Solution [Dopamin Solvay] Box of 50,pressors
+35131634,OMOP4788870,2.5 ML Dopamine 20 MG/ML Injectable Solution [Critpan],pressors
+35137709,OMOP4794882,Dopamine Injectable Solution [Inovan],pressors
+35867784,OMOP5024315,dobutamine 0.5 MG/ML Injectable Solution [Fenghaifen],pressors
+2028396,OMOP4927147,5 ML dobutamine 50 MG/ML Injectable Solution [DOBURAN] by Korea United Pharm,pressors
+42628991,1791842,200 ML milrinone lactate 0.2 MG/ML Injection,pressors
+35781161,OMOP2782622,5 ML Dobutamine 50 MG/ML Injectable Solution [Posiject] Box of 5 by Boehringer Ingelheim,pressors
+35157235,OMOP4814242,5 ML Dopamine 20 MG/ML Injectable Solution by Teva Takeda,pressors
+36410503,OMOP3102545,5 ML Dopamine 160 MG/ML Injectable Solution Box of 10 by Martindale,pressors
+41398226,OMOP2596188,50 ML Dobutamine 11.2 MG/ML Injectable Solution Box of 50,pressors
+43809595,OMOP814797,50 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Carino] Box of 2 by Carinopharm,pressors
+35780078,OMOP2781539,5 ML Dopamine 40 MG/ML Injectable Solution Box of 5 by Alliance,pressors
+43590325,OMOP736402,1 ML Milrinone 1 MG/ML Injection,pressors
+41381327,OMOP2579289,20 ML Dobutamine 12.5 MG/ML Injectable Suspension,pressors
+41172798,OMOP2370760,Dobutamine 5 MG/ML [Dobutamin Hameln],pressors
+43729730,OMOP959015,Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Hameln] Box of 50,pressors
+783084,OMOP4830916,Milrinone 1 MG/ML Injectable Solution [COROTROPE] Box of 10,pressors
+43844192,OMOP783204,10 ML Dopamine 20 MG/ML Injection Box of 5,pressors
+44061969,OMOP1056600,Vasopressin (USP) 20 UNT/ML Intramuscular Solution by Sandoz,pressors
+43140099,OMOP494299,Dobutamine 12.5 MG/ML Prefilled Syringe [DOBUTAMINE AGUETTANT],pressors
+42940583,OMOP4667233,Dobutamine 2 MG/ML / Glucose 50 MG/ML Injectable Solution,pressors
+40832548,OMOP2030510,Dopamine Injectable Solution [Dopamin Premix],pressors
+35749850,OMOP2751311,Dobutamine 5 MG/ML Injectable Solution Box of 1,pressors
+43040182,OMOP4855215,5 ML Dopamine 40 MG/ML Prefilled Syringe Box of 50 by Mylan,pressors
+43164467,OMOP518207,20 ML Dobutamine 12.5 MG/ML Prefilled Syringe [DOBUTAMINE MYLAN] Box of 10 by Mylan,pressors
+41023446,OMOP2221408,Dopamine 5 MG/ML Injectable Solution Box of 5,pressors
+36879550,OMOP994389,Dobutamine 28 MG/ML,pressors
+41017367,OMOP2215329,Lidocaine / Norepinephrine / Vasopressin (USP) Metered Dose Inhaler,pressors
+40729350,OMOP4727671,Dobutamine 1 MG/ML Injection Box of 1,pressors
+42799707,1292899,dopamine hydrochloride 6.4 MG/ML Injectable Solution,pressors
+35158901,OMOP4815889,Dopamine Injectable Solution [Evetant],pressors
+43629742,OMOP814794,50 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Carino],pressors
+41397174,OMOP2595136,50 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Hexal] Box of 1,pressors
+41355556,OMOP2553518,5 ML Dopamine 10 MG/ML Injectable Solution Box of 300,pressors
+36784348,OMOP4772632,Dobutamine 12.5 MG/ML Intravenous Solution [Dobutrex],pressors
+41002853,OMOP2200815,Dopamine 10 MG/ML Injectable Solution [Cardiosteril] Box of 1,pressors
+42940584,OMOP4667234,Dobutamine 2 MG/ML / Glucose 50 MG/ML Injectable Solution [DOBUTAMINE HCI PREMIX],pressors
+43206060,OMOP494289,Dobutamine Prefilled Syringe [DOBUTAMINE AGUETTANT],pressors
+36784352,OMOP4772636,Dobutamine Intravenous Solution,pressors
+21088391,OMOP318280,50 ML Dobutamine 5 MG/ML Injection,pressors
+37003089,2399914,vasopressin (USP) 0.6 UNT/ML [Vasostrict],pressors
+43802796,OMOP671717,Milrinone 1 MG/ML Injectable Solution Box of 5,pressors
+43285485,OMOP555228,Milrinone 1 MG/ML Injection [Primacor] Box of 10,pressors
+36892183,OMOP1007243,Dobutamine 5.6 MG/ML,pressors
+2025270,OMOP4923856,250 ML dopamine 0.8 MG/ML / glucose 50 MG/ML Injectable Solution by Baxter,pressors
+40971508,OMOP2169470,Dobutamine 5 MG/ML Injectable Solution [Dobutamin Hameln],pressors
+43639449,OMOP951218,Dopamine 10 MG/ML Injection Box of 5,pressors
+40240695,1114874,5 ML dopamine hydrochloride 160 MG/ML Injection,pressors
+2062439,OMOP4963691,dopamine Injectable Solution [MYUNGMOON INOPAN],pressors
+41298308,OMOP2496270,Lidocaine / Norepinephrine / Vasopressin (USP) Injectable Solution,pressors
+36405824,OMOP3097866,Dopamine 160 MG/ML Injectable Solution,pressors
+36410446,OMOP3102488,5 ML Dopamine 160 MG/ML Injectable Solution Box of 5 by A A H,pressors
+41357009,OMOP2554971,5 ML Dopamine 40 MG/ML Injectable Solution Box of 10 by Fresenius,pressors
+43801645,OMOP959032,Dobutamine 5.6 MG/ML Injectable Solution Box of 10,pressors
+2062441,OMOP4963693,dobutamine 50 MG/ML Prefilled Syringe,pressors
+21112688,OMOP385778,Dobutamine 50 MG/ML Injection Box of 5,pressors
+43207807,OMOP513602,5 ML Dopamine 10 MG/ML Prefilled Syringe Box of 50,pressors
+44029364,OMOP1023995,Vasopressin (USP) 20 UNT/ML [Pressyn Ar],pressors
+35150256,OMOP4807309,150 ML Milrinone 0.15 MG/ML Injectable Solution by Takata,pressors
+43855879,OMOP959012,Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Hameln] Box of 5,pressors
+35780768,OMOP2782229,5 ML Dopamine 40 MG/ML Injectable Solution by Alliance,pressors
+21156746,OMOP308848,5 ML Dopamine 160 MG/ML Injection by A A H,pressors
+43593644,OMOP814760,50 ML Dobutamine 5.6 MG/ML Injectable Solution Box of 20,pressors
+43683797,OMOP814764,50 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Hameln] by Hameln,pressors
+44108459,OMOP1103090,Milrinone Injection [Apo-Milrinone],pressors
+43164466,OMOP518203,20 ML Dobutamine 12.5 MG/ML Prefilled Syringe [DOBUTAMINE AGUETTANT] Box of 10,pressors
+41369710,OMOP2567672,10 ML Dopamine 5 MG/ML Injectable Solution Box of 10,pressors
+41273275,OMOP2471237,Dopamine 40 MG/ML Injectable Solution Box of 50,pressors
+41357408,OMOP2555370,5 ML Dopamine 10 MG/ML Injectable Solution [Dopamin Solvay] Box of 300,pressors
+41065085,OMOP2263047,Dopamine 10 MG/ML Injectable Solution [Dopamin Solvay] Box of 10,pressors
+35156164,OMOP4813175,5 ML Dopamine 20 MG/ML Injectable Solution [Kakodin],pressors
+42921507,OMOP4648335,5 ML Dopamine 40 MG/ML Injectable Solution [DOPURAMIN],pressors
+783672,OMOP4831504,Dobutamine 12.5 MG/ML Injectable Solution [Dobutamine EG] Box of 10,pressors
+35144426,OMOP4801521,2.5 ML Dopamine 20 MG/ML Injectable Solution,pressors
+1719042,1812188,dobutamine 1 MG/ML Injection,pressors
+40874476,OMOP2072438,Milrinone 1.42 MG/ML Injectable Solution [Milrinon Stragen],pressors
+44034760,OMOP1029391,Dobutamine 12.5 MG/ML Injection [Dobutamine Sdz],pressors
+36410476,OMOP3102518,5 ML Dopamine 160 MG/ML Injectable Solution Box of 10 by AMCo,pressors
+40714143,OMOP4743547,50 ML Dopamine 1.2 MG/ML Injectable Solution Box of 1,pressors
+41413543,OMOP2611505,1.8 ML Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.45 UNT/ML Metered Dose Inhaler,pressors
+35141123,OMOP4798252,10 ML Dopamine 20 MG/ML Injectable Solution by Janssen,pressors
+43138645,OMOP481291,Dopamine 10 MG/ML [DOPAMINE AGUETTANT],pressors
+43171697,OMOP481292,Dopamine 10 MG/ML [DOPAMINE RENAUDIN],pressors
+35867376,OMOP5024298,dopamine 10 MG [Asikeding],pressors
+41414061,OMOP2612023,100 ML Dopamine 12 MG/ML Injectable Solution Box of 10,pressors
+43819776,OMOP959020,Dobutamine 11.2 MG/ML [Dobutamin Carino],pressors
+36410536,OMOP3102578,5 ML Dopamine 160 MG/ML Injectable Solution by AMCo,pressors
+43734333,OMOP736406,1 ML Milrinone 1 MG/ML Injection [Unacor] by Pharmaselect,pressors
+43041058,OMOP4856088,10 ML Milrinone 1 MG/ML Prefilled Syringe Box of 10 by Carinopharm,pressors
+35783182,OMOP2784643,20 ML Dobutamine 12.5 MG/ML Injectable Suspension Box of 5 by A A H,pressors
+40940517,OMOP2138479,Dopamine 20 MG/ML Injectable Solution [Dopamin Solvay] Box of 50,pressors
+2028398,OMOP4927149,5 ML dobutamine 50 MG/ML Injectable Solution by Huons,pressors
+43622829,OMOP671722,Milrinone 1 MG/ML Injectable Solution [Milrinon Rotexmedica] Box of 10,pressors
+43160789,OMOP481273,Dopamine 40 MG/ML Prefilled Syringe [DOPAMINE AGUETTANT] Box of 50,pressors
+42921509,OMOP4648337,5 ML Dopamine 40 MG/ML Injectable Solution [UDOPA],pressors
+44057814,OMOP1052445,Vasopressin (USP) Injectable Solution [Pressyn Ar],pressors
+35201749,2103181,vasopressin (USP) Injection,pressors
+35782991,OMOP2784452,20 ML Dobutamine 12.5 MG/ML Injectable Suspension Box of 5 by Hameln,pressors
+43789976,OMOP785136,10 ML Milrinone 1 MG/ML Injectable Solution [Milrinon Rotexmedica] Box of 10,pressors
+43826187,OMOP785137,10 ML Milrinone 1 MG/ML Injectable Solution [Milrinon Rotexmedica] Box of 10 by Claris,pressors
+43819325,OMOP951231,Dopamine 5 MG/ML Injection Box of 10,pressors
+43195142,OMOP494303,Dobutamine 12.5 MG/ML Prefilled Syringe [DOBUTAMINE PANPHARMA],pressors
+21098238,OMOP318281,50 ML Dobutamine 5 MG/ML Injection by Hameln,pressors
+41437570,OMOP2635532,250 ML Dopamine 3.2 MG/ML Injectable Solution Box of 12,pressors
+43694997,OMOP671732,Milrinone 1 MG/ML Injection [Unacor] Box of 10,pressors
+42940594,OMOP4667244,Dobutamine 50 MG/ML Injectable Solution [DOBUTAMINE HCL HUONS],pressors
+35152919,OMOP4810057,Dopamine 3 MG/ML,pressors
+35606570,1743950,10 ML dopamine hydrochloride 80 MG/ML Injection,pressors
+43216973,OMOP494300,Dobutamine 12.5 MG/ML Prefilled Syringe [DOBUTAMINE AGUETTANT] Box of 10,pressors
+43139155,OMOP485893,Milrinone Prefilled Syringe [MILRINONE MEDAC],pressors
+43808100,OMOP785166,10 ML Milrinone 1 MG/ML Injectable Solution [Corotrop] Box of 10,pressors
+40715097,OMOP4741893,10 ML Milrinone 1 MG/ML Injectable Solution [Primacor],pressors
+41413741,OMOP2611703,1.8 ML Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.45 UNT/ML Metered Dose Inhaler [Neo Lidocaton] Box of 100,pressors
+43789975,OMOP785132,10 ML Milrinone 1 MG/ML Injectable Solution [Milrinon Rotexmedica],pressors
+43809593,OMOP814768,50 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Hameln] Box of 10 by Hameln,pressors
+40922170,OMOP2120132,Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 2.5 UNT/ML [Neo Lidocaton],pressors
+35156750,OMOP4813760,Vasopressin (USP) 20 UNT,pressors
+43185909,OMOP513603,5 ML Dopamine 10 MG/ML Prefilled Syringe [DOPAMINE AGUETTANT],pressors
+43682241,OMOP783209,10 ML Dopamine 20 MG/ML Injection [Dopamin Carino] Box of 2,pressors
+35158311,OMOP4815309,Dopamine 20 MG/ML Injectable Solution [Critpan],pressors
+42966539,OMOP4692998,Dopamine 80 MG/ML Injectable Solution,pressors
+35867371,OMOP5024293,dopamine 20 MG Injectable Solution,pressors
+21146780,OMOP308849,5 ML Dopamine 160 MG/ML Injection by Martindale,pressors
+41397854,OMOP2595816,50 ML Dobutamine 5 MG/ML Injectable Solution [Dobutamin Hameln],pressors
+41096693,OMOP2294655,Dobutamine 14 MG/ML Injectable Solution [Dobutrex] Box of 1000,pressors
+35149901,OMOP4806955,50 ML Dopamine 3 MG/ML Prefilled Syringe [Inovan],pressors
+41396722,OMOP2594684,50 ML Dobutamine 5 MG/ML Injectable Solution Box of 10 by Fresenius,pressors
+21176208,OMOP307738,5 ML Dobutamine 50 MG/ML Injection [Posiject] Box of 5 by Boehringer Ingelheim,pressors
+2024784,OMOP4923366,500 ML dobutamine 1 MG/ML / glucose 50 MG/ML Injectable Solution by JW,pressors
+1337720,3616,dobutamine,pressors
+36274695,OMOP3125570,Milrinone Injection [COROTROPE],pressors
+35155279,OMOP4812297,5 ML Dopamine 20 MG/ML Injectable Solution [Dominin],pressors
+41332314,OMOP2530276,1 ML Vasopressin (USP) 20 UNT/ML Injectable Solution [Pitressin] Box of 10,pressors
+35867381,OMOP5024303,dobutamine 250 MG Injectable Solution [Aowanyuan],pressors
+43773634,OMOP814232,50 ML Dopamine 10 MG/ML Injection [Dopamin Fresenius] Box of 10 by Fresenius,pressors
+44067799,OMOP1062430,Dobutamine 12.5 MG/ML [Dobutamine Sdz],pressors
+44132868,OMOP1127499,0.5 ML Vasopressin (USP) 20 UNT/ML Injectable Solution [Pitressin] Box of 10 by Warner-Lambert,pressors
+43693863,OMOP959021,Dobutamine 11.2 MG/ML Injectable Solution Box of 2,pressors
+36411246,OMOP3103288,50 ML Milrinone 0.4 MG/ML Injectable Solution Box of 1,pressors
+41379695,OMOP2577657,20 ML Dobutamine 12.5 MG/ML Injectable Suspension Box of 1,pressors
+42966549,OMOP4693007,Dopamine Injectable Solution [UDOPA],pressors
+21088035,OMOP311760,10 ML Dopamine 40 MG/ML Prefilled Syringe Box of 1,pressors
+41062068,OMOP2260030,Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.45 UNT/ML Metered Dose Inhaler [Neo Lidocaton],pressors
+2028384,OMOP4927135,5 ML dopamine 40 MG/ML Injectable Solution by Daewoo,pressors
+42966531,OMOP4692990,Dopamine 40 MG/ML Injectable Solution [TROPIN],pressors
+43264446,OMOP563714,10 ML Milrinone 1 MG/ML Injection [Primacor],pressors
+36885798,OMOP992855,Milrinone 1 MG/ML Injectable Solution,pressors
+35788843,OMOP2790304,250 ML Dopamine 3.2 MG/ML Injectable Solution by Abbott,pressors
+41390814,OMOP2588776,50 ML Dopamine 5 MG/ML Injectable Solution,pressors
+35142805,OMOP4799913,200 ML Dopamine 1 MG/ML Injectable Solution by Pfizer,pressors
+44089451,OMOP1084082,Dopamine 40 MG/ML Injection [Intropin] by Bristol Myers Squibb,pressors
+42940601,OMOP4667251,Dobutamine Injectable Solution [DOBURAN],pressors
+41369297,OMOP2567259,10 ML Dopamine 20 MG/ML Injectable Solution [Dopamin Solvay],pressors
+36408955,OMOP3100997,Milrinone 0.4 MG/ML Injectable Solution Box of 1,pressors
+43196879,OMOP513587,5 ML Dopamine 40 MG/ML Prefilled Syringe Box of 20,pressors
+35774820,OMOP2776281,Milrinone Injectable Solution [Primacor],pressors
+43610681,OMOP797739,20 ML Milrinone 1 MG/ML Injection [Milrinon Stragen] by Stragen,pressors
+43790523,OMOP797744,20 ML Milrinone 1 MG/ML Injection [Unacor] Box of 10,pressors
+42483347,OMOP419719,Dobutamine 5 MG/ML Injection,pressors
+42940591,OMOP4667241,Dobutamine 50 MG/ML Injectable Solution [DOBURAN],pressors
+36888783,OMOP991102,Dobutamine 11.2 MG/ML Injectable Solution,pressors
+43844212,OMOP783693,10 ML Dobutamine 28 MG/ML Injectable Solution,pressors
+41304336,OMOP2502298,Dopamine 5 MG/ML Injectable Solution Box of 20,pressors
+44037743,OMOP1032374,Dobutamine 12.5 MG/ML Injection [Dobutamine Sdz] by Sandoz,pressors
+43604945,OMOP671714,Milrinone 1 MG/ML [Milrinon Carino],pressors
+41328986,OMOP2526948,1 ML Vasopressin (USP) 5 UNT/ML Injectable Solution [Pitressin],pressors
+41382245,OMOP2580207,20 ML Dobutamine 12.5 MG/ML Injectable Suspension [Dobutrex] Box of 1,pressors
+41303265,OMOP2501227,Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.45 UNT/ML Metered Dose Inhaler Box of 1000,pressors
+42481305,OMOP417477,Milrinone 1 MG/ML Prefilled Syringe,pressors
+43711753,OMOP959034,Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Liquid Fresenius],pressors
+21042606,OMOP361503,Milrinone 1 MG/ML [Primacor],pressors
+43712831,OMOP671715,Milrinone 1 MG/ML [Corotrop],pressors
+21120974,OMOP361511,Milrinone 0.6 MG/ML Injection Box of 1,pressors
+42482197,OMOP419728,Dopamine 3.2 MG/ML Prefilled Syringe,pressors
+43747670,OMOP959002,Dobutamine 14 MG/ML Injection Box of 50,pressors
+2028372,OMOP4927124,5 ML dopamine 80 MG/ML Prefilled Syringe,pressors
+19076660,309987,250 ML dobutamine 4 MG/ML Injection,pressors
+35865882,OMOP5022743,milrinone 1 MG/ML Injectable Solution [Lunanlikang],pressors
+21058655,OMOP313683,20 ML Dobutamine 12.5 MG/ML Injection by A A H,pressors
+35142325,OMOP4799440,2.5 ML Dopamine 20 MG/ML Injectable Solution by Janssen,pressors
+41353952,OMOP2551914,5 ML Dopamine 10 MG/ML Injectable Solution Box of 1,pressors
+40747707,OMOP4709597,Dopamine 0.6 MG/ML Injectable Solution Box of 19,pressors
+21164529,OMOP269858,Dopamine 40 MG/ML Injection Box of 50,pressors
+42940599,OMOP4667249,Dobutamine 50 MG/ML [DOBUTAMINE HCL HUONS],pressors
+43701831,OMOP814228,50 ML Dopamine 10 MG/ML Injection Box of 10,pressors
+41314920,OMOP2512882,Dobutamine 14 MG/ML Injectable Solution [Dobutrex] Box of 1,pressors
+42799678,1292766,dopamine hydrochloride 12 MG/ML,pressors
+43855415,OMOP951211,Dopamine 20 MG/ML Injection [Dopamin Carino] Box of 2,pressors
+43604942,OMOP671704,Milrinone Injectable Solution [Milrinon Carino],pressors
+35155479,OMOP4812494,5 ML Dopamine 20 MG/ML Injectable Solution [Inovan],pressors
+41186711,OMOP2384673,Milrinone 1.42 MG/ML Injectable Solution [Milrinon Hikma] Box of 10,pressors
+43737657,OMOP814795,50 ML Dobutamine 5.6 MG/ML Injectable Solution [Dobutamin Carino] by Carinopharm,pressors
+43592191,OMOP785158,10 ML Milrinone 1 MG/ML Injectable Solution [Milrinon Hikma],pressors
+40712102,OMOP4745036,100 ML Dobutamine 1 MG/ML Injectable Solution Box of 1,pressors
+21048645,OMOP308841,5 ML Dopamine 40 MG/ML Injection Box of 10 by Martindale,pressors
+40715093,OMOP4741897,10 ML Milrinone 1 MG/ML Injectable Solution by Wockhardt,pressors
+42918967,OMOP4645844,200 ML Dopamine 2 MG/ML / Glucose 50 MG/ML Injectable Solution [DOPAMIX CJ],pressors
+2028371,OMOP4927123,5 ML dopamine 160 MG/ML Prefilled Syringe by Dongkook,pressors
+21097769,OMOP310238,10 ML Milrinone 1 MG/ML Prefilled Syringe [Primacor] by Sanofi,pressors
+41380931,OMOP2578893,20 ML Dobutamine 14 MG/ML Injectable Solution Box of 250,pressors
+35141530,OMOP4798655,200 ML Dopamine 1 MG/ML Injectable Solution [Catabon],pressors
+21087818,OMOP307733,5 ML Dobutamine 50 MG/ML Injection,pressors
+2062444,OMOP4963696,dobutamine 50 MG/ML [DOBUMINE],pressors
+41086264,OMOP2284226,Dobutamine 12.5 MG/ML Injectable Suspension,pressors
+35156308,OMOP4813319,200 ML Dobutamine 1 MG/ML Injectable Solution [Dobutrex],pressors
+35136154,OMOP4793337,Dopamine Injectable Solution [Catabon],pressors
+41078271,OMOP2276233,Lidocaine 20 MG/ML / Norepinephrine 0.02 MG/ML / Vasopressin (USP) 0.45 UNT/ML [Neo Lidocaton],pressors
+42966522,OMOP4692981,Dopamine / Glucose Injectable Solution,pressors
+36779628,OMOP4767938,20 ML Dobutamine 12.5 MG/ML Intravenous Solution Box of 10,pressors
+44094638,OMOP1089269,Dopamine / Glucose Injection,pressors
+21087868,OMOP308839,5 ML Dopamine 40 MG/ML Injection Box of 10 by AMCo,pressors
+2028376,OMOP4927127,5 ML dopamine 80 MG/ML Injectable Solution [DOPASIN],pressors
+43784878,OMOP671703,Milrinone Injectable Solution [Milrinon Rotexmedica],pressors
+42799706,1292898,dopamine hydrochloride 6.4 MG/ML,pressors
+35144814,OMOP4801906,Dopamine 3 MG/ML Injectable Solution [Kakodin],pressors
+43791416,OMOP814777,50 ML Dobutamine 11.2 MG/ML Injectable Solution [Dobutamin Liquid Fresenius] by Fresenius,pressors
+40956650,OMOP2154612,Lidocaine / Norepinephrine / Vasopressin (USP) Metered Dose Inhaler [Neo Lidocaton],pressors
+41082183,OMOP2280145,Dobutamine Injectable Solution [Dobutamin Hameln],pressors
+35831111,OMOP5037205,dobutamine 3 MG/ML Injectable Solution [Dobutrex],pressors
+35780767,OMOP2782228,5 ML Dopamine 40 MG/ML Injectable Solution Box of 10 by AMCo,pressors

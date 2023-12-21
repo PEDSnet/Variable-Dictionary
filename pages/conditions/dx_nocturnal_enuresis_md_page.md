@@ -1,7 +1,7 @@
 |Field            |Value                                                                                   |
 |:----------------|:---------------------------------------------------------------------------------------|
 |Codeset Name     |Nocturnal enuresis                                                                      |
-|Codeset Link     |[dx_nocturnal_enuresis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/condition/dx_nocturnal_enuresis.csv)|
+|Codeset Link     |[dx_nocturnal_enuresis](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_nocturnal_enuresis.csv)|
 |CDM              |NA                                                                                      |
 |Clinical Concept |Diagnoses for nocturnal enuresis                                                        |
 |Vocab            |ICD9CM,ICD10,ICD10CM,SNOMED                                                             |

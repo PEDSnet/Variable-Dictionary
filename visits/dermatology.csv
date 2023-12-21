@@ -1,0 +1,12 @@
+﻿concept_id,concept_name,concept_code,vocabulary_id
+45756767,Dermatopathology,OMOP4822005,ABMS
+45756807,Pediatric Dermatology,OMOP4822032,ABMS
+44777770,Paediatric Dermatology,257,HES Specialty
+44777722,Dermatology,330,HES Specialty
+38004452,Dermatology,7,Medicare Specialty
+38003838,"Allopathic & Osteopathic Physicians, Dermatology",207N00000X,NUCC
+38003840,"Dermatology, Dermatopathology",207ND0900X,NUCC
+38003841,"Dermatology, Clinical and Laboratory Dermatological Immunology",207NI0002X,NUCC
+38003842,Pediatric Dermatology,207NP0225X,NUCC
+38003843,Procedural Dermatology,207NS0135X,NUCC
+38003927,"Allopathic & Osteopathic Physicians, Pathology, Dermatopathology",207ZD0900X,NUCC

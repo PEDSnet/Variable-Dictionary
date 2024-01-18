@@ -1,6 +1,6 @@
 |Field            |Value                          |
 |:----------------|:------------------------------|
-|Codeset Name     |Area Deprivation Index         |
+|Codeset Name     |Area deprivation index         |
 |Codeset Link     |[US_2020_ADI_Census Block Group](https://github.com/PEDSnet/Variable-Dictionary/blob/main/alv/US_2020_ADI_Census Block Group.csv)|
 |CDM              |NA                             |
 |Clinical Concept |NA                             |

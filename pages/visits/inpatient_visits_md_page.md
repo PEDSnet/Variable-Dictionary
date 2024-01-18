@@ -1,9 +1,9 @@
-|Field            |Value                                                                           |
-|:----------------|:-------------------------------------------------------------------------------|
-|Codeset Name     |Inpatient visit types                                                           |
+|Field            |Value                                     |
+|:----------------|:-----------------------------------------|
+|Codeset Name     |Inpatient Visits                          |
 |Codeset Link     |[inpatient_visits](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visits/inpatient_visits.csv)|
-|CDM              |PCORnet                                                                         |
-|Clinical Concept |Inpatient visit types in the PCORnet data model based on established value sets |
-|Vocab            |NA                                                                              |
-|Date Uploaded    |2021-09-01                                                                      |
-|Metadata         |NA                                                                              |
+|CDM              |PCORnet                                   |
+|Clinical Concept |Inpatient and Emergency->Inpatient Visits |
+|Vocab            |Other                                     |
+|Date Uploaded    |2021-09-01                                |
+|Metadata         |NA                                        |

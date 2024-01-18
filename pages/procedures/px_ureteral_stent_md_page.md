@@ -1,6 +1,6 @@
 |Field            |Value                     |
 |:----------------|:-------------------------|
-|Codeset Name     |Ureteral stent procedures |
+|Codeset Name     |Ureteral stent            |
 |Codeset Link     |[px_ureteral_stent](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_ureteral_stent.csv)|
 |CDM              |PEDSnet                   |
 |Clinical Concept |Ureteral stent procedures |

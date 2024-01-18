@@ -4,6 +4,6 @@
 |Codeset Link     |[dx_overweight](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_overweight.csv)|
 |CDM              |NA            |
 |Clinical Concept |NA            |
-|Vocab            |NA            |
+|Vocab            |ICD10CM       |
 |Date Uploaded    |2021-12-10    |
 |Metadata         |NA            |

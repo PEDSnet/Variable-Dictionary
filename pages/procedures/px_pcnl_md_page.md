@@ -1,6 +1,6 @@
 |Field            |Value                                   |
 |:----------------|:---------------------------------------|
-|Codeset Name     |Percutaneous Nephrolithotomy procedures |
+|Codeset Name     |Percutaneous nephrolithotomy            |
 |Codeset Link     |[px_pcnl](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_pcnl.csv)|
 |CDM              |PEDSnet                                 |
 |Clinical Concept |Percutaneous Nephrolithotomy procedures |

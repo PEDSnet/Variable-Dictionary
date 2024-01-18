@@ -1,6 +1,6 @@
 |Field            |Value                                    |
 |:----------------|:----------------------------------------|
-|Codeset Name     |Malignancy and Neoplasm                  |
+|Codeset Name     |Malignancy and neoplasm                  |
 |Codeset Link     |[dx_malignancy](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_malignancy.csv)|
 |CDM              |PEDSnet                                  |
 |Clinical Concept |diagnoses related to malignancy/neoplasm |

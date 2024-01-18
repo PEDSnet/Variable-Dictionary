@@ -4,6 +4,6 @@
 |Codeset Link     |[dx_pulmonary_embolism](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_pulmonary_embolism.csv)|
 |CDM              |NA                    |
 |Clinical Concept |NA                    |
-|Vocab            |NA                    |
+|Vocab            |ICD10,ICD10CM         |
 |Date Uploaded    |2021-12-03            |
 |Metadata         |NA                    |

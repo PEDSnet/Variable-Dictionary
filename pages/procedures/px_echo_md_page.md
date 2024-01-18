@@ -1,6 +1,6 @@
 |Field            |Value                            |
 |:----------------|:--------------------------------|
-|Codeset Name     |Echocardiogram procedures        |
+|Codeset Name     |Echocardiogram                   |
 |Codeset Link     |[px_echo](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_echo.csv)|
 |CDM              |PEDSnet                          |
 |Clinical Concept |Echocardiogram procedures        |

@@ -1,6 +1,6 @@
 |Field            |Value                   |
 |:----------------|:-----------------------|
-|Codeset Name     |Ureteroscopy procedures |
+|Codeset Name     |Ureteroscopy            |
 |Codeset Link     |[px_urs](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_urs.csv)|
 |CDM              |PEDSnet                 |
 |Clinical Concept |Ureteroscopy procedures |

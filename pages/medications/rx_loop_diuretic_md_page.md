@@ -1,9 +1,9 @@
 |Field            |Value                                                                                                |
 |:----------------|:----------------------------------------------------------------------------------------------------|
-|Codeset Name     |Loop diuretics                                                                                       |
+|Codeset Name     |Loop diuretic                                                                                        |
 |Codeset Link     |[rx_loop_diuretic](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_loop_diuretic.csv)|
 |CDM              |PEDSnet,PCORnet                                                                                      |
 |Clinical Concept |Medication codeset for the following ingredients: Furosemide, Bumetanide, Ethacrynic acid, Torsemide |
-|Vocab            |NA                                                                                                   |
+|Vocab            |NDC,RxNorm,RxNorm Extension                                                                          |
 |Date Uploaded    |2021-11-01                                                                                           |
-|Metadata         |NA                                                                                                   |
+|Metadata         |combos included                                                                                      |

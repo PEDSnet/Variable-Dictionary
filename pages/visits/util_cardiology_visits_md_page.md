@@ -1,6 +1,6 @@
 |Field            |Value                               |
 |:----------------|:-----------------------------------|
-|Codeset Name     |Cardiology Visits                   |
+|Codeset Name     |Cardiology visits                   |
 |Codeset Link     |[util_cardiology_visits](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visits/util_cardiology_visits.csv)|
 |CDM              |PEDSnet                             |
 |Clinical Concept |cardiology providers and care sites |

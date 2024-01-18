@@ -1,9 +1,9 @@
 |Field            |Value                |
 |:----------------|:--------------------|
-|Codeset Name     |NA                   |
+|Codeset Name     |Weight (PCORnet)     |
 |Codeset Link     |[NA](https://github.com/PEDSnet/Variable-Dictionary/blob/main/lab_meas/NA.csv)|
 |CDM              |NA                   |
 |Clinical Concept |Field of VITAL table |
-|Vocab            |NA                   |
+|Vocab            |Other                |
 |Date Uploaded    |NA                   |
 |Metadata         |NA                   |

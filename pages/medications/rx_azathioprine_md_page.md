@@ -1,7 +1,7 @@
 |Field            |Value                                     |
 |:----------------|:-----------------------------------------|
 |Codeset Name     |Azathioprine                              |
-|Codeset Link     |[rx_azathioprine](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_azathioprine.csv)|
+|Codeset Link     |[rx_azathioprine](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_azathioprine.csv)|
 |CDM              |PEDSnet                                   |
 |Clinical Concept |Immunosuppressive medication azathioprine |
 |Vocab            |RxNorm,RxNorm Extension                   |

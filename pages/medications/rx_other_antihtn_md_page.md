@@ -1,7 +1,7 @@
 |Field            |Value                                                                                                                                       |
 |:----------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name     |Antihypertensive medications (other)                                                                                                        |
-|Codeset Link     |[rx_other_antihtn](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_other_antihtn.csv)                                      |
+|Codeset Link     |[rx_other_antihtn](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_other_antihtn.csv)                                     |
 |CDM              |PEDSnet                                                                                                                                     |
 |Clinical Concept |Other antihypertensive medications not otherwise classified (exclusive of RAS blockers, calcium channel blockers, beta blockers, diuretics) |
 |Vocab            |RxNorm,RxNorm Extension                                                                                                                     |

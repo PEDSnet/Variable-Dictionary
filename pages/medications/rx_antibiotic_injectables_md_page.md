@@ -1,7 +1,7 @@
 |Field            |Value                                    |
 |:----------------|:----------------------------------------|
 |Codeset Name     |Antibiotic injectables                   |
-|Codeset Link     |[rx_antibiotic_injectables](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_antibiotic_injectables.csv)|
+|Codeset Link     |[rx_antibiotic_injectables](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_antibiotic_injectables.csv)|
 |CDM              |PEDSnet                                  |
 |Clinical Concept |injectable antibiotic drugs for neonates |
 |Vocab            |RxNorm                                   |

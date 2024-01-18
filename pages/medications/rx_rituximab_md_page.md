@@ -1,7 +1,7 @@
 |Field            |Value                                  |
 |:----------------|:--------------------------------------|
 |Codeset Name     |Rituximab                              |
-|Codeset Link     |[rx_rituximab](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_rituximab.csv)|
+|Codeset Link     |[rx_rituximab](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_rituximab.csv)|
 |CDM              |PEDSnet                                |
 |Clinical Concept |Immunosuppressive medication rituximab |
 |Vocab            |RxNorm,RxNorm Extension                |

@@ -1,7 +1,7 @@
 |Field            |Value                   |
 |:----------------|:-----------------------|
 |Codeset Name     |Abatacept               |
-|Codeset Link     |[abatacept](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/abatacept.csv)|
+|Codeset Link     |[abatacept](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/abatacept.csv)|
 |CDM              |PEDSnet,PCORnet         |
 |Clinical Concept |NA                      |
 |Vocab            |RxNorm,RxNorm Extension |

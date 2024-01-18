@@ -1,7 +1,7 @@
 |Field            |Value                   |
 |:----------------|:-----------------------|
 |Codeset Name     |IV fluids               |
-|Codeset Link     |[rx_iv_fluids](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_iv_fluids.csv)|
+|Codeset Link     |[rx_iv_fluids](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_iv_fluids.csv)|
 |CDM              |NA                      |
 |Clinical Concept |RECOVER                 |
 |Vocab            |RxNorm,RxNorm Extension |

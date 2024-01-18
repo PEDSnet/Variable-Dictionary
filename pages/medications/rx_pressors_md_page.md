@@ -1,7 +1,7 @@
 |Field            |Value                   |
 |:----------------|:-----------------------|
 |Codeset Name     |Pressors                |
-|Codeset Link     |[rx_pressors](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_pressors.csv)|
+|Codeset Link     |[rx_pressors](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_pressors.csv)|
 |CDM              |NA                      |
 |Clinical Concept |RECOVER                 |
 |Vocab            |RxNorm Extension,SNOMED |

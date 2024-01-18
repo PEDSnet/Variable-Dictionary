@@ -1,7 +1,7 @@
 |Field            |Value                   |
 |:----------------|:-----------------------|
 |Codeset Name     |Fludrocortisone         |
-|Codeset Link     |[rx_fludrocortisone](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_fludrocortisone.csv)|
+|Codeset Link     |[rx_fludrocortisone](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_fludrocortisone.csv)|
 |CDM              |PEDSnet,PCORnet         |
 |Clinical Concept |Oral fludrocortisone    |
 |Vocab            |RxNorm,RxNorm Extension |

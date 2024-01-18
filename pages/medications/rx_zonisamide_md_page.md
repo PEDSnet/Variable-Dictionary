@@ -1,7 +1,7 @@
 |Field            |Value                         |
 |:----------------|:-----------------------------|
 |Codeset Name     |Zonisamide                    |
-|Codeset Link     |[rx_zonisamide](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drug/rx_zonisamide.csv)|
+|Codeset Link     |[rx_zonisamide](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_zonisamide.csv)|
 |CDM              |PEDSnet                       |
 |Clinical Concept |exposures to zonisamide: oral |
 |Vocab            |RxNorm,RxNorm Extension       |

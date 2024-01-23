@@ -1,0 +1,107 @@
+concept_id,concept_name,domain_id,vocabulary_id
+45887626,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, thoracic",Procedure,CPT4
+45887655,"Magnetic resonance imaging, brain, functional MRI",Procedure,CPT4
+45887770,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, without contrast material, followed by contrast material(s) and further sequences",Procedure,CPT4
+45889237,"Magnetic resonance (eg, proton) imaging, brain (including brain stem)",Procedure,CPT4
+45889508,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, lumbar",Procedure,CPT4
+45888645,"Magnetic resonance (eg, proton) imaging, brain (including brain stem and skull base), during open intracranial procedure (eg, to assess for residual tumor or residual vascular malformation)",Procedure,CPT4
+45890191,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, cervical",Procedure,CPT4
+2211351,"Magnetic resonance (eg, proton) imaging, brain (including brain stem); without contrast material",Procedure,CPT4
+2211353,"Magnetic resonance (eg, proton) imaging, brain (including brain stem); without contrast material, followed by contrast material(s) and further sequences",Procedure,CPT4
+2211352,"Magnetic resonance (eg, proton) imaging, brain (including brain stem); with contrast material(s)",Procedure,CPT4
+2211355,"Magnetic resonance imaging, brain, functional MRI; requiring physician or psychologist administration of entire neurofunctional testing",Procedure,CPT4
+2211354,"Magnetic resonance imaging, brain, functional MRI; including test selection and administration of repetitive body part movement and/or visual stimulation, not requiring physician or psychologist administration",Procedure,CPT4
+2211357,"Magnetic resonance (eg, proton) imaging, brain (including brain stem and skull base), during open intracranial procedure (eg, to assess for residual tumor or residual vascular malformation); with contrast material(s)",Procedure,CPT4
+2211356,"Magnetic resonance (eg, proton) imaging, brain (including brain stem and skull base), during open intracranial procedure (eg, to assess for residual tumor or residual vascular malformation); without contrast material",Procedure,CPT4
+2211358,"Magnetic resonance (eg, proton) imaging, brain (including brain stem and skull base), during open intracranial procedure (eg, to assess for residual tumor or residual vascular malformation); without contrast material(s), followed by contrast material(s) a",Procedure,CPT4
+2211411,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, cervical; with contrast material(s)",Procedure,CPT4
+2211410,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, cervical; without contrast material",Procedure,CPT4
+2211413,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, thoracic; with contrast material(s)",Procedure,CPT4
+2211412,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, thoracic; without contrast material",Procedure,CPT4
+2211415,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, lumbar; with contrast material(s)",Procedure,CPT4
+2211414,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, lumbar; without contrast material",Procedure,CPT4
+2211417,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, without contrast material, followed by contrast material(s) and further sequences; thoracic",Procedure,CPT4
+2211416,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, without contrast material, followed by contrast material(s) and further sequences; cervical",Procedure,CPT4
+2211419,"Magnetic resonance angiography, spinal canal and contents, with or without contrast material(s)",Procedure,CPT4
+2211418,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, without contrast material, followed by contrast material(s) and further sequences; lumbar",Procedure,CPT4
+2867928,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Brain @ Other Contrast @ None,Procedure,ICD10PCS
+2868103,Imaging @ Upper Arteries @ Magnetic Resonance Imaging (MRI) @ Spinal Arteries,Procedure,ICD10PCS
+2868104,Imaging @ Upper Arteries @ Magnetic Resonance Imaging (MRI) @ Spinal Arteries @ Other Contrast @ Unenhanced and Enhanced,Procedure,ICD10PCS
+2871492,"Imaging @ Axial Skeleton, Except Skull and Facial Bones @ Magnetic Resonance Imaging (MRI) @ Cervical Spine @ None",Procedure,ICD10PCS
+2787367,"Magnetic Resonance Imaging (MRI) of Spinal Arteries using Other Contrast, Unenhanced and Enhanced",Procedure,ICD10PCS
+2787368,Magnetic Resonance Imaging (MRI) of Spinal Arteries using Other Contrast,Procedure,ICD10PCS
+2787369,Magnetic Resonance Imaging (MRI) of Spinal Arteries,Procedure,ICD10PCS
+2789358,"Imaging, Central Nervous System, Magnetic Resonance Imaging (MRI)",Procedure,ICD10PCS
+2789360,Magnetic Resonance Imaging (MRI) of Brain using Other Contrast,Procedure,ICD10PCS
+2789361,Magnetic Resonance Imaging (MRI) of Brain,Procedure,ICD10PCS
+2879420,"Imaging @ Axial Skeleton, Except Skull and Facial Bones @ Magnetic Resonance Imaging (MRI) @ Lumbar Spine @ Other Contrast @ None",Procedure,ICD10PCS
+2879421,"Imaging @ Axial Skeleton, Except Skull and Facial Bones @ Magnetic Resonance Imaging (MRI) @ Lumbar Spine @ None",Procedure,ICD10PCS
+2793335,"Magnetic Resonance Imaging (MRI) of Fetal Spine using Other Contrast, Unenhanced and Enhanced",Procedure,ICD10PCS
+2793336,Magnetic Resonance Imaging (MRI) of Fetal Spine using Other Contrast,Procedure,ICD10PCS
+2793337,Magnetic Resonance Imaging (MRI) of Fetal Spine,Procedure,ICD10PCS
+2791476,"Magnetic Resonance Imaging (MRI) of Cervical Spine using Other Contrast, Unenhanced and Enhanced",Procedure,ICD10PCS
+2791477,Magnetic Resonance Imaging (MRI) of Cervical Spine using Other Contrast,Procedure,ICD10PCS
+2791478,Magnetic Resonance Imaging (MRI) of Cervical Spine,Procedure,ICD10PCS
+2791488,"Magnetic Resonance Imaging (MRI) of Thoracic Spine using Other Contrast, Unenhanced and Enhanced",Procedure,ICD10PCS
+2791489,Magnetic Resonance Imaging (MRI) of Thoracic Spine using Other Contrast,Procedure,ICD10PCS
+2791490,Magnetic Resonance Imaging (MRI) of Thoracic Spine,Procedure,ICD10PCS
+2791491,"Magnetic Resonance Imaging (MRI) of Lumbar Spine using Other Contrast, Unenhanced and Enhanced",Procedure,ICD10PCS
+2791492,Magnetic Resonance Imaging (MRI) of Lumbar Spine using Other Contrast,Procedure,ICD10PCS
+2791493,Magnetic Resonance Imaging (MRI) of Lumbar Spine,Procedure,ICD10PCS
+2789555,Magnetic Resonance Imaging (MRI) of Spinal Cord using Other Contrast,Procedure,ICD10PCS
+2789556,Magnetic Resonance Imaging (MRI) of Spinal Cord,Procedure,ICD10PCS
+2789557,"Magnetic Resonance Imaging (MRI) of Acoustic Nerves using Other Contrast, Unenhanced and Enhanced",Procedure,ICD10PCS
+2789558,Magnetic Resonance Imaging (MRI) of Acoustic Nerves using Other Contrast,Procedure,ICD10PCS
+2789559,Magnetic Resonance Imaging (MRI) of Acoustic Nerves,Procedure,ICD10PCS
+2827458,"Imaging @ Axial Skeleton, Except Skull and Facial Bones @ Magnetic Resonance Imaging (MRI) @ Cervical Spine @ Other Contrast @ None",Procedure,ICD10PCS
+2819580,"Imaging @ Axial Skeleton, Except Skull and Facial Bones @ Magnetic Resonance Imaging (MRI) @ Thoracic Spine @ Other Contrast @ None",Procedure,ICD10PCS
+2841670,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Spinal Cord @ None @ None,Procedure,ICD10PCS
+2841671,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Acoustic Nerves @ Other Contrast @ Unenhanced and Enhanced,Procedure,ICD10PCS
+2825088,Imaging @ Fetus and Obstetrical @ Magnetic Resonance Imaging (MRI) @ Fetal Spine @ None,Procedure,ICD10PCS
+2826327,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Brain @ Other Contrast,Procedure,ICD10PCS
+2826328,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Sella Turcica/Pituitary Gland @ Other Contrast,Procedure,ICD10PCS
+2826329,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Sella Turcica/Pituitary Gland @ Other Contrast @ Unenhanced and Enhanced,Procedure,ICD10PCS
+2826330,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Spinal Cord @ Other Contrast,Procedure,ICD10PCS
+2844912,"Imaging @ Axial Skeleton, Except Skull and Facial Bones @ Magnetic Resonance Imaging (MRI) @ Thoracic Spine @ None",Procedure,ICD10PCS
+2827640,Imaging @ Fetus and Obstetrical @ Magnetic Resonance Imaging (MRI) @ Fetal Spine @ Other Contrast @ Unenhanced and Enhanced,Procedure,ICD10PCS
+2846501,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Brain @ None @ None,Procedure,ICD10PCS
+2846502,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Acoustic Nerves @ None,Procedure,ICD10PCS
+2801307,Imaging @ Upper Arteries @ Magnetic Resonance Imaging (MRI) @ Spinal Arteries @ Other Contrast,Procedure,ICD10PCS
+2846688,Imaging @ Upper Arteries @ Magnetic Resonance Imaging (MRI) @ Spinal Arteries @ None,Procedure,ICD10PCS
+2806375,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Sella Turcica/Pituitary Gland @ Other Contrast @ None,Procedure,ICD10PCS
+2806376,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Acoustic Nerves @ Other Contrast,Procedure,ICD10PCS
+2806377,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Acoustic Nerves @ Other Contrast @ None,Procedure,ICD10PCS
+2802150,"Imaging @ Axial Skeleton, Except Skull and Facial Bones @ Magnetic Resonance Imaging (MRI) @ Thoracic Spine @ Other Contrast @ Unenhanced and Enhanced",Procedure,ICD10PCS
+2801004,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Spinal Cord @ Other Contrast @ Unenhanced and Enhanced,Procedure,ICD10PCS
+2801005,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Spinal Cord @ Other Contrast @ None,Procedure,ICD10PCS
+2852788,Imaging @ Fetus and Obstetrical @ Magnetic Resonance Imaging (MRI) @ Fetal Spine @ Other Contrast,Procedure,ICD10PCS
+2840040,"Imaging @ Axial Skeleton, Except Skull and Facial Bones @ Magnetic Resonance Imaging (MRI) @ Cervical Spine",Procedure,ICD10PCS
+2840041,"Imaging @ Axial Skeleton, Except Skull and Facial Bones @ Magnetic Resonance Imaging (MRI) @ Cervical Spine @ Other Contrast @ Unenhanced and Enhanced",Procedure,ICD10PCS
+2840042,"Imaging @ Axial Skeleton, Except Skull and Facial Bones @ Magnetic Resonance Imaging (MRI) @ Cervical Spine @ None @ None",Procedure,ICD10PCS
+2840043,"Imaging @ Axial Skeleton, Except Skull and Facial Bones @ Magnetic Resonance Imaging (MRI) @ Lumbar Spine @ Other Contrast @ Unenhanced and Enhanced",Procedure,ICD10PCS
+2840044,"Imaging @ Axial Skeleton, Except Skull and Facial Bones @ Magnetic Resonance Imaging (MRI) @ Lumbar Spine @ None @ None",Procedure,ICD10PCS
+2858493,Imaging @ Fetus and Obstetrical @ Magnetic Resonance Imaging (MRI) @ Fetal Spine @ Other Contrast @ None,Procedure,ICD10PCS
+2859775,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Brain,Procedure,ICD10PCS
+2831502,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Spinal Cord,Procedure,ICD10PCS
+2810172,"Imaging @ Axial Skeleton, Except Skull and Facial Bones @ Magnetic Resonance Imaging (MRI) @ Thoracic Spine",Procedure,ICD10PCS
+2855105,"Imaging @ Axial Skeleton, Except Skull and Facial Bones @ Magnetic Resonance Imaging (MRI) @ Cervical Spine @ Other Contrast",Procedure,ICD10PCS
+2855106,"Imaging @ Axial Skeleton, Except Skull and Facial Bones @ Magnetic Resonance Imaging (MRI) @ Thoracic Spine @ None @ None",Procedure,ICD10PCS
+2855107,"Imaging @ Axial Skeleton, Except Skull and Facial Bones @ Magnetic Resonance Imaging (MRI) @ Lumbar Spine @ Other Contrast",Procedure,ICD10PCS
+2814881,"Imaging @ Axial Skeleton, Except Skull and Facial Bones @ Magnetic Resonance Imaging (MRI) @ Thoracic Spine @ Other Contrast",Procedure,ICD10PCS
+2813850,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Brain @ None,Procedure,ICD10PCS
+2813851,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Acoustic Nerves,Procedure,ICD10PCS
+2814020,Imaging @ Upper Arteries @ Magnetic Resonance Imaging (MRI) @ Spinal Arteries @ None @ None,Procedure,ICD10PCS
+2818403,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Sella Turcica/Pituitary Gland @ None,Procedure,ICD10PCS
+2789359,"Magnetic Resonance Imaging (MRI) of Brain using Other Contrast, Unenhanced and Enhanced",Procedure,ICD10PCS
+2789554,"Magnetic Resonance Imaging (MRI) of Spinal Cord using Other Contrast, Unenhanced and Enhanced",Procedure,ICD10PCS
+2894087,Imaging @ Upper Arteries @ Magnetic Resonance Imaging (MRI) @ Spinal Arteries @ Other Contrast @ None,Procedure,ICD10PCS
+2898830,Imaging @ Fetus and Obstetrical @ Magnetic Resonance Imaging (MRI) @ Fetal Spine @ None @ None,Procedure,ICD10PCS
+2899790,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Brain @ Other Contrast @ Unenhanced and Enhanced,Procedure,ICD10PCS
+2899791,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Sella Turcica/Pituitary Gland @ None @ None,Procedure,ICD10PCS
+2899792,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Spinal Cord @ None,Procedure,ICD10PCS
+2899793,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Acoustic Nerves @ None @ None,Procedure,ICD10PCS
+2892606,Imaging @ Fetus and Obstetrical @ Magnetic Resonance Imaging (MRI) @ Fetal Spine,Procedure,ICD10PCS
+2892288,"Imaging @ Axial Skeleton, Except Skull and Facial Bones @ Magnetic Resonance Imaging (MRI) @ Lumbar Spine",Procedure,ICD10PCS
+2893919,Imaging @ Central Nervous System @ Magnetic Resonance Imaging (MRI) @ Sella Turcica/Pituitary Gland,Procedure,ICD10PCS
+2006956,Magnetic resonance imaging of brain and brain stem,Procedure,ICD9Proc
+2006958,Magnetic resonance imaging of spinal canal,Procedure,ICD9Proc

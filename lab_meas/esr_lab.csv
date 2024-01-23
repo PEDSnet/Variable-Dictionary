@@ -1,0 +1,5 @@
+concept_id,concept_name,concept_code,vocabulary_id
+3015183,Erythrocyte sedimentation rate,30341-2,LOINC
+3013707,Erythrocyte sedimentation rate by Westergren method,4537-7,LOINC
+4212065,Erythrocyte sedimentation rate measurement,416838001,SNOMED
+4016246,"Erythrocyte sedimentation rate, automated",104155006,SNOMED

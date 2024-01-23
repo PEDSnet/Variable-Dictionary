@@ -1,0 +1,45 @@
+concept_id,concept_name,domain_id,vocabulary_id
+37036806,Albumin | Blood | Chemistry - non-challenge,Measurement,LOINC
+37050350,Albumin | Fetus | Serum or Plasma | Chemistry - non-challenge,Measurement,LOINC
+36305571,Albumin goal [Mass/volume] Serum or Plasma,Measurement,LOINC
+37077970,Albumin.ischemia modified | Serum | Chemistry - non-challenge,Measurement,LOINC
+44817128,Albumin.ischemia modified [Units/volume] in Serum,Measurement,LOINC
+46235170,Albumin [Mass/volume] in Blood by Bromocresol purple (BCP) dye binding method,Measurement,LOINC
+3024561,Albumin [Mass/volume] in Serum or Plasma,Measurement,LOINC
+3038538,Albumin [Mass/volume] in Serum or Plasma --12 hours post XXX challenge,Measurement,LOINC
+3041773,Albumin [Mass/volume] in Serum or Plasma --1.5 hours post XXX challenge,Measurement,LOINC
+3038255,Albumin [Mass/volume] in Serum or Plasma --1 day post XXX challenge,Measurement,LOINC
+3039010,Albumin [Mass/volume] in Serum or Plasma --1 hour post XXX challenge,Measurement,LOINC
+3038283,Albumin [Mass/volume] in Serum or Plasma --2 days post XXX challenge,Measurement,LOINC
+3018721,Albumin [Mass/volume] in Serum or Plasma --2 hours post peritoneal dialysis,Measurement,LOINC
+3044559,Albumin [Mass/volume] in Serum or Plasma --2 hours post XXX challenge,Measurement,LOINC
+3040616,Albumin [Mass/volume] in Serum or Plasma --30 minutes post XXX challenge,Measurement,LOINC
+3038545,Albumin [Mass/volume] in Serum or Plasma --3 days post XXX challenge,Measurement,LOINC
+3041627,Albumin [Mass/volume] in Serum or Plasma --3 hours post XXX challenge,Measurement,LOINC
+3038666,Albumin [Mass/volume] in Serum or Plasma --45 minutes post XXX challenge,Measurement,LOINC
+3038681,Albumin [Mass/volume] in Serum or Plasma --45 minutes pre XXX challenge,Measurement,LOINC
+3042463,Albumin [Mass/volume] in Serum or Plasma --4 days post XXX challenge,Measurement,LOINC
+3040108,Albumin [Mass/volume] in Serum or Plasma --4 hours post XXX challenge,Measurement,LOINC
+3041340,Albumin [Mass/volume] in Serum or Plasma --5 hours post XXX challenge,Measurement,LOINC
+3044260,Albumin [Mass/volume] in Serum or Plasma --6.5 hours post XXX challenge,Measurement,LOINC
+3040076,Albumin [Mass/volume] in Serum or Plasma --6 hours post XXX challenge,Measurement,LOINC
+3043645,Albumin [Mass/volume] in Serum or Plasma --8 hours post XXX challenge,Measurement,LOINC
+40763912,Albumin [Mass/volume] in Serum or Plasma by Bromocresol green (BCG) dye binding method,Measurement,LOINC
+40763913,Albumin [Mass/volume] in Serum or Plasma by Bromocresol purple (BCP) dye binding method,Measurement,LOINC
+3028286,Albumin [Mass/volume] in Serum or Plasma by Electrophoresis,Measurement,LOINC
+40763956,Albumin [Mass/volume] in Serum or Plasma from Fetus,Measurement,LOINC
+3043929,Albumin [Mass/volume] in Serum or Plasma --pre XXX challenge,Measurement,LOINC
+46236953,"Albumin [Mass/volume] in Serum, Plasma or Blood by Bromocresol purple (BCP) dye binding method",Measurement,LOINC
+40757478,Albumin [Moles/volume] in Serum or Plasma,Measurement,LOINC
+40764996,Albumin [Moles/volume] in Serum or Plasma by Bromocresol green (BCG) dye binding method,Measurement,LOINC
+40764995,Albumin [Moles/volume] in Serum or Plasma by Bromocresol purple (BCP) dye binding method,Measurement,LOINC
+3043798,Albumin [Presence] in Serum or Plasma,Measurement,LOINC
+3010673,Albumin renal clearance in 24 hour Urine and Serum or Plasma,Measurement,LOINC
+37052724,Albumin renal clearance | Urine and Serum or Plasma | Chemistry - non-challenge,Measurement,LOINC
+37063387,Albumin | Serum | Chemistry - non-challenge,Measurement,LOINC
+37037187,Albumin | Serum or Plasma | Chemistry - challenge,Measurement,LOINC
+37048896,Albumin | Serum or Plasma | Chemistry - non-challenge,Measurement,LOINC
+37074175,"Albumin | Serum, Plasma or Blood | Chemistry - non-challenge",Measurement,LOINC
+40795606,Albumin | Urine and Serum or Plasma,Measurement,LOINC
+37033999,Human serum albumin,Measurement,LOINC
+40781387,Human serum albumin | White blood cells,Measurement,LOINC

@@ -1,0 +1,202 @@
+﻿concept_id,concept_name,concept_code,vocabulary_id,syndromic,systemic,condition_category
+45533869,Myositis,M60,ICD10,0,1,constitutional_musculoskeletal
+1570707,Myositis,M60,ICD10CM,0,1,constitutional_musculoskeletal
+45582177,Infective myositis,M60.0,ICD10,0,1,constitutional_musculoskeletal
+1570708,Infective myositis,M60.0,ICD10CM,0,1,constitutional_musculoskeletal
+1570709,"Infective myositis, unspecified site",M60.00,ICD10CM,0,1,constitutional_musculoskeletal
+42617916,"Infective myositis, multiple sites",M60.00,ICD10,0,1,constitutional_musculoskeletal
+45586995,"Infective myositis, unspecified right arm",M60.000,ICD10CM,0,1,constitutional_musculoskeletal
+45548445,"Infective myositis, unspecified left arm",M60.001,ICD10CM,0,1,constitutional_musculoskeletal
+45567581,"Infective myositis, unspecified arm",M60.002,ICD10CM,0,1,constitutional_musculoskeletal
+45606248,"Infective myositis, unspecified right leg",M60.003,ICD10CM,0,1,constitutional_musculoskeletal
+45557904,"Infective myositis, unspecified left leg",M60.004,ICD10CM,0,1,constitutional_musculoskeletal
+45538792,"Infective myositis, unspecified leg",M60.005,ICD10CM,0,1,constitutional_musculoskeletal
+45567582,"Infective myositis, unspecified site",M60.009,ICD10CM,0,1,constitutional_musculoskeletal
+1570710,"Infective myositis, shoulder",M60.01,ICD10CM,0,1,constitutional_musculoskeletal
+42617917,"Infective myositis, shoulder region",M60.01,ICD10,0,1,constitutional_musculoskeletal
+45596596,"Infective myositis, right shoulder",M60.011,ICD10CM,0,1,constitutional_musculoskeletal
+45577288,"Infective myositis, left shoulder",M60.012,ICD10CM,0,1,constitutional_musculoskeletal
+45543614,"Infective myositis, unspecified shoulder",M60.019,ICD10CM,0,1,constitutional_musculoskeletal
+1570711,"Infective myositis, upper arm",M60.02,ICD10CM,0,1,constitutional_musculoskeletal
+42617918,"Infective myositis, upper arm",M60.02,ICD10,0,1,constitutional_musculoskeletal
+45577289,"Infective myositis, right upper arm",M60.021,ICD10CM,0,1,constitutional_musculoskeletal
+45567583,"Infective myositis, left upper arm",M60.022,ICD10CM,0,1,constitutional_musculoskeletal
+45596597,"Infective myositis, unspecified upper arm",M60.029,ICD10CM,0,1,constitutional_musculoskeletal
+42617919,"Infective myositis, forearm",M60.03,ICD10,0,1,constitutional_musculoskeletal
+1570712,"Infective myositis, forearm",M60.03,ICD10CM,0,1,constitutional_musculoskeletal
+45606249,"Infective myositis, right forearm",M60.031,ICD10CM,0,1,constitutional_musculoskeletal
+45557905,"Infective myositis, left forearm",M60.032,ICD10CM,0,1,constitutional_musculoskeletal
+45606250,"Infective myositis, unspecified forearm",M60.039,ICD10CM,0,1,constitutional_musculoskeletal
+42617920,"Infective myositis, hand",M60.04,ICD10,0,1,constitutional_musculoskeletal
+1570713,"Infective myositis, hand and fingers",M60.04,ICD10CM,0,1,constitutional_musculoskeletal
+45577290,"Infective myositis, right hand",M60.041,ICD10CM,0,1,constitutional_musculoskeletal
+45543615,"Infective myositis, left hand",M60.042,ICD10CM,0,1,constitutional_musculoskeletal
+45562751,"Infective myositis, unspecified hand",M60.043,ICD10CM,0,1,constitutional_musculoskeletal
+45596598,"Infective myositis, right finger(s)",M60.044,ICD10CM,0,1,constitutional_musculoskeletal
+45591868,"Infective myositis, left finger(s)",M60.045,ICD10CM,0,1,constitutional_musculoskeletal
+45591869,"Infective myositis, unspecified finger(s)",M60.046,ICD10CM,0,1,constitutional_musculoskeletal
+1570714,"Infective myositis, thigh",M60.05,ICD10CM,0,1,constitutional_musculoskeletal
+42617921,"Infective myositis, pelvic region and thigh",M60.05,ICD10,0,1,constitutional_musculoskeletal
+45538793,"Infective myositis, right thigh",M60.051,ICD10CM,0,1,constitutional_musculoskeletal
+45596599,"Infective myositis, left thigh",M60.052,ICD10CM,0,1,constitutional_musculoskeletal
+45562752,"Infective myositis, unspecified thigh",M60.059,ICD10CM,0,1,constitutional_musculoskeletal
+42617922,"Infective myositis, lower leg",M60.06,ICD10,0,1,constitutional_musculoskeletal
+1570715,"Infective myositis, lower leg",M60.06,ICD10CM,0,1,constitutional_musculoskeletal
+45557906,"Infective myositis, right lower leg",M60.061,ICD10CM,0,1,constitutional_musculoskeletal
+45577291,"Infective myositis, left lower leg",M60.062,ICD10CM,0,1,constitutional_musculoskeletal
+45577292,"Infective myositis, unspecified lower leg",M60.069,ICD10CM,0,1,constitutional_musculoskeletal
+1570716,"Infective myositis, ankle, foot and toes",M60.07,ICD10CM,0,1,constitutional_musculoskeletal
+42617923,"Infective myositis, ankle and foot",M60.07,ICD10,0,1,constitutional_musculoskeletal
+45553208,"Infective myositis, right ankle",M60.070,ICD10CM,0,1,constitutional_musculoskeletal
+45538794,"Infective myositis, left ankle",M60.071,ICD10CM,0,1,constitutional_musculoskeletal
+45533870,"Infective myositis, unspecified ankle",M60.072,ICD10CM,0,1,constitutional_musculoskeletal
+45538795,"Infective myositis, right foot",M60.073,ICD10CM,0,1,constitutional_musculoskeletal
+45548446,"Infective myositis, left foot",M60.074,ICD10CM,0,1,constitutional_musculoskeletal
+45548447,"Infective myositis, unspecified foot",M60.075,ICD10CM,0,1,constitutional_musculoskeletal
+45567584,"Infective myositis, right toe(s)",M60.076,ICD10CM,0,1,constitutional_musculoskeletal
+45572472,"Infective myositis, left toe(s)",M60.077,ICD10CM,0,1,constitutional_musculoskeletal
+45543616,"Infective myositis, unspecified toe(s)",M60.078,ICD10CM,0,1,constitutional_musculoskeletal
+42617924,"Infective myositis, other",M60.08,ICD10,0,1,constitutional_musculoskeletal
+45538796,"Infective myositis, other site",M60.08,ICD10CM,0,1,constitutional_musculoskeletal
+42617925,"Infective myositis, site unspecified",M60.09,ICD10,0,1,constitutional_musculoskeletal
+45596600,"Infective myositis, multiple sites",M60.09,ICD10CM,0,1,constitutional_musculoskeletal
+1570717,Interstitial myositis,M60.1,ICD10CM,0,1,constitutional_musculoskeletal
+45591870,Interstitial myositis,M60.1,ICD10,0,1,constitutional_musculoskeletal
+42617926,"Interstitial myositis, multiple sites",M60.10,ICD10,0,1,constitutional_musculoskeletal
+45557907,Interstitial myositis of unspecified site,M60.10,ICD10CM,0,1,constitutional_musculoskeletal
+1570718,"Interstitial myositis, shoulder",M60.11,ICD10CM,0,1,constitutional_musculoskeletal
+42617927,"Interstitial myositis, shoulder region",M60.11,ICD10,0,1,constitutional_musculoskeletal
+45596601,"Interstitial myositis, right shoulder",M60.111,ICD10CM,0,1,constitutional_musculoskeletal
+45533871,"Interstitial myositis, left shoulder",M60.112,ICD10CM,0,1,constitutional_musculoskeletal
+45582178,"Interstitial myositis, unspecified shoulder",M60.119,ICD10CM,0,1,constitutional_musculoskeletal
+1570719,"Interstitial myositis, upper arm",M60.12,ICD10CM,0,1,constitutional_musculoskeletal
+42617928,"Interstitial myositis, upper arm",M60.12,ICD10,0,1,constitutional_musculoskeletal
+45567585,"Interstitial myositis, right upper arm",M60.121,ICD10CM,0,1,constitutional_musculoskeletal
+45586996,"Interstitial myositis, left upper arm",M60.122,ICD10CM,0,1,constitutional_musculoskeletal
+45543617,"Interstitial myositis, unspecified upper arm",M60.129,ICD10CM,0,1,constitutional_musculoskeletal
+1570720,"Interstitial myositis, forearm",M60.13,ICD10CM,0,1,constitutional_musculoskeletal
+42617929,"Interstitial myositis, forearm",M60.13,ICD10,0,1,constitutional_musculoskeletal
+45596602,"Interstitial myositis, right forearm",M60.131,ICD10CM,0,1,constitutional_musculoskeletal
+45596603,"Interstitial myositis, left forearm",M60.132,ICD10CM,0,1,constitutional_musculoskeletal
+45596604,"Interstitial myositis, unspecified forearm",M60.139,ICD10CM,0,1,constitutional_musculoskeletal
+1570721,"Interstitial myositis, hand",M60.14,ICD10CM,0,1,constitutional_musculoskeletal
+42617930,"Interstitial myositis, hand",M60.14,ICD10,0,1,constitutional_musculoskeletal
+45596605,"Interstitial myositis, right hand",M60.141,ICD10CM,0,1,constitutional_musculoskeletal
+45596606,"Interstitial myositis, left hand",M60.142,ICD10CM,0,1,constitutional_musculoskeletal
+45553209,"Interstitial myositis, unspecified hand",M60.149,ICD10CM,0,1,constitutional_musculoskeletal
+1570722,"Interstitial myositis, thigh",M60.15,ICD10CM,0,1,constitutional_musculoskeletal
+42617931,"Interstitial myositis, pelvic region and thigh",M60.15,ICD10,0,1,constitutional_musculoskeletal
+45582179,"Interstitial myositis, right thigh",M60.151,ICD10CM,0,1,constitutional_musculoskeletal
+45591871,"Interstitial myositis, left thigh",M60.152,ICD10CM,0,1,constitutional_musculoskeletal
+45557908,"Interstitial myositis, unspecified thigh",M60.159,ICD10CM,0,1,constitutional_musculoskeletal
+1570723,"Interstitial myositis, lower leg",M60.16,ICD10CM,0,1,constitutional_musculoskeletal
+42617932,"Interstitial myositis, lower leg",M60.16,ICD10,0,1,constitutional_musculoskeletal
+45606251,"Interstitial myositis, right lower leg",M60.161,ICD10CM,0,1,constitutional_musculoskeletal
+45533872,"Interstitial myositis, left lower leg",M60.162,ICD10CM,0,1,constitutional_musculoskeletal
+45543618,"Interstitial myositis, unspecified lower leg",M60.169,ICD10CM,0,1,constitutional_musculoskeletal
+1570724,"Interstitial myositis, ankle and foot",M60.17,ICD10CM,0,1,constitutional_musculoskeletal
+42617933,"Interstitial myositis, ankle and foot",M60.17,ICD10,0,1,constitutional_musculoskeletal
+45577293,"Interstitial myositis, right ankle and foot",M60.171,ICD10CM,0,1,constitutional_musculoskeletal
+45572473,"Interstitial myositis, left ankle and foot",M60.172,ICD10CM,0,1,constitutional_musculoskeletal
+45586997,"Interstitial myositis, unspecified ankle and foot",M60.179,ICD10CM,0,1,constitutional_musculoskeletal
+45533873,"Interstitial myositis, other site",M60.18,ICD10CM,0,1,constitutional_musculoskeletal
+42617934,"Interstitial myositis, other",M60.18,ICD10,0,1,constitutional_musculoskeletal
+42617935,"Interstitial myositis, site unspecified",M60.19,ICD10,0,1,constitutional_musculoskeletal
+45553210,"Interstitial myositis, multiple sites",M60.19,ICD10CM,0,1,constitutional_musculoskeletal
+1570725,"Foreign body granuloma of soft tissue, not elsewhere classified",M60.2,ICD10CM,0,1,constitutional_musculoskeletal
+45582180,"Foreign body granuloma of soft tissue, not elsewhere classified",M60.2,ICD10,0,1,constitutional_musculoskeletal
+42617936,"Foreign body granuloma of soft tissue, not elsewhere classified, multiple sites",M60.20,ICD10,0,1,constitutional_musculoskeletal
+45567586,"Foreign body granuloma of soft tissue, not elsewhere classified, unspecified site",M60.20,ICD10CM,0,1,constitutional_musculoskeletal
+1570726,"Foreign body granuloma of soft tissue, not elsewhere classified, shoulder",M60.21,ICD10CM,0,1,constitutional_musculoskeletal
+42617937,"Foreign body granuloma of soft tissue, not elsewhere classified, shoulder region",M60.21,ICD10,0,1,constitutional_musculoskeletal
+45548448,"Foreign body granuloma of soft tissue, not elsewhere classified, right shoulder",M60.211,ICD10CM,0,1,constitutional_musculoskeletal
+45582181,"Foreign body granuloma of soft tissue, not elsewhere classified, left shoulder",M60.212,ICD10CM,0,1,constitutional_musculoskeletal
+45533874,"Foreign body granuloma of soft tissue, not elsewhere classified, unspecified shoulder",M60.219,ICD10CM,0,1,constitutional_musculoskeletal
+1570727,"Foreign body granuloma of soft tissue, not elsewhere classified, upper arm",M60.22,ICD10CM,0,1,constitutional_musculoskeletal
+42617938,"Foreign body granuloma of soft tissue, not elsewhere classified, upper arm",M60.22,ICD10,0,1,constitutional_musculoskeletal
+45606252,"Foreign body granuloma of soft tissue, not elsewhere classified, right upper arm",M60.221,ICD10CM,0,1,constitutional_musculoskeletal
+45538797,"Foreign body granuloma of soft tissue, not elsewhere classified, left upper arm",M60.222,ICD10CM,0,1,constitutional_musculoskeletal
+45543619,"Foreign body granuloma of soft tissue, not elsewhere classified, unspecified upper arm",M60.229,ICD10CM,0,1,constitutional_musculoskeletal
+1570728,"Foreign body granuloma of soft tissue, not elsewhere classified, forearm",M60.23,ICD10CM,0,1,constitutional_musculoskeletal
+42617939,"Foreign body granuloma of soft tissue, not elsewhere classified, forearm",M60.23,ICD10,0,1,constitutional_musculoskeletal
+45601481,"Foreign body granuloma of soft tissue, not elsewhere classified, right forearm",M60.231,ICD10CM,0,1,constitutional_musculoskeletal
+45601482,"Foreign body granuloma of soft tissue, not elsewhere classified, left forearm",M60.232,ICD10CM,0,1,constitutional_musculoskeletal
+45596607,"Foreign body granuloma of soft tissue, not elsewhere classified, unspecified forearm",M60.239,ICD10CM,0,1,constitutional_musculoskeletal
+1570729,"Foreign body granuloma of soft tissue, not elsewhere classified, hand",M60.24,ICD10CM,0,1,constitutional_musculoskeletal
+42617940,"Foreign body granuloma of soft tissue, not elsewhere classified, hand",M60.24,ICD10,0,1,constitutional_musculoskeletal
+45582182,"Foreign body granuloma of soft tissue, not elsewhere classified, right hand",M60.241,ICD10CM,0,1,constitutional_musculoskeletal
+45543620,"Foreign body granuloma of soft tissue, not elsewhere classified, left hand",M60.242,ICD10CM,0,1,constitutional_musculoskeletal
+45553211,"Foreign body granuloma of soft tissue, not elsewhere classified, unspecified hand",M60.249,ICD10CM,0,1,constitutional_musculoskeletal
+1570730,"Foreign body granuloma of soft tissue, not elsewhere classified, thigh",M60.25,ICD10CM,0,1,constitutional_musculoskeletal
+42617941,"Foreign body granuloma of soft tissue, not elsewhere classified, pelvic region and thigh",M60.25,ICD10,0,1,constitutional_musculoskeletal
+45582183,"Foreign body granuloma of soft tissue, not elsewhere classified, right thigh",M60.251,ICD10CM,0,1,constitutional_musculoskeletal
+45533875,"Foreign body granuloma of soft tissue, not elsewhere classified, left thigh",M60.252,ICD10CM,0,1,constitutional_musculoskeletal
+45606253,"Foreign body granuloma of soft tissue, not elsewhere classified, unspecified thigh",M60.259,ICD10CM,0,1,constitutional_musculoskeletal
+1570731,"Foreign body granuloma of soft tissue, not elsewhere classified, lower leg",M60.26,ICD10CM,0,1,constitutional_musculoskeletal
+42617942,"Foreign body granuloma of soft tissue, not elsewhere classified, lower leg",M60.26,ICD10,0,1,constitutional_musculoskeletal
+45562753,"Foreign body granuloma of soft tissue, not elsewhere classified, right lower leg",M60.261,ICD10CM,0,1,constitutional_musculoskeletal
+45562754,"Foreign body granuloma of soft tissue, not elsewhere classified, left lower leg",M60.262,ICD10CM,0,1,constitutional_musculoskeletal
+45548449,"Foreign body granuloma of soft tissue, not elsewhere classified, unspecified lower leg",M60.269,ICD10CM,0,1,constitutional_musculoskeletal
+1570732,"Foreign body granuloma of soft tissue, not elsewhere classified, ankle and foot",M60.27,ICD10CM,0,1,constitutional_musculoskeletal
+42617943,"Foreign body granuloma of soft tissue, not elsewhere classified, ankle and foot",M60.27,ICD10,0,1,constitutional_musculoskeletal
+45557909,"Foreign body granuloma of soft tissue, not elsewhere classified, right ankle and foot",M60.271,ICD10CM,0,1,constitutional_musculoskeletal
+45572474,"Foreign body granuloma of soft tissue, not elsewhere classified, left ankle and foot",M60.272,ICD10CM,0,1,constitutional_musculoskeletal
+45606254,"Foreign body granuloma of soft tissue, not elsewhere classified, unspecified ankle and foot",M60.279,ICD10CM,0,1,constitutional_musculoskeletal
+45548450,"Foreign body granuloma of soft tissue, not elsewhere classified, other site",M60.28,ICD10CM,0,1,constitutional_musculoskeletal
+42617944,"Foreign body granuloma of soft tissue, not elsewhere classified, other",M60.28,ICD10,0,1,constitutional_musculoskeletal
+42617945,"Foreign body granuloma of soft tissue, not elsewhere classified, site unspecified",M60.29,ICD10,0,1,constitutional_musculoskeletal
+45591872,Other myositis,M60.8,ICD10,0,1,constitutional_musculoskeletal
+1570733,Other myositis,M60.8,ICD10CM,0,1,constitutional_musculoskeletal
+45596608,"Other myositis, unspecified site",M60.80,ICD10CM,0,1,constitutional_musculoskeletal
+42617946,"Other myositis, multiple sites",M60.80,ICD10,0,1,constitutional_musculoskeletal
+42617947,"Other myositis, shoulder region",M60.81,ICD10,0,1,constitutional_musculoskeletal
+1570734,Other myositis shoulder,M60.81,ICD10CM,0,1,constitutional_musculoskeletal
+45557910,"Other myositis, right shoulder",M60.811,ICD10CM,0,1,constitutional_musculoskeletal
+45567587,"Other myositis, left shoulder",M60.812,ICD10CM,0,1,constitutional_musculoskeletal
+45548451,"Other myositis, unspecified shoulder",M60.819,ICD10CM,0,1,constitutional_musculoskeletal
+1570735,"Other myositis, upper arm",M60.82,ICD10CM,0,1,constitutional_musculoskeletal
+42617948,"Other myositis, upper arm",M60.82,ICD10,0,1,constitutional_musculoskeletal
+45557911,"Other myositis, right upper arm",M60.821,ICD10CM,0,1,constitutional_musculoskeletal
+45538798,"Other myositis, left upper arm",M60.822,ICD10CM,0,1,constitutional_musculoskeletal
+45596609,"Other myositis, unspecified upper arm",M60.829,ICD10CM,0,1,constitutional_musculoskeletal
+1570736,"Other myositis, forearm",M60.83,ICD10CM,0,1,constitutional_musculoskeletal
+42617949,"Other myositis, forearm",M60.83,ICD10,0,1,constitutional_musculoskeletal
+45548452,"Other myositis, right forearm",M60.831,ICD10CM,0,1,constitutional_musculoskeletal
+45586998,"Other myositis, left forearm",M60.832,ICD10CM,0,1,constitutional_musculoskeletal
+45577294,"Other myositis, unspecified forearm",M60.839,ICD10CM,0,1,constitutional_musculoskeletal
+1570737,"Other myositis, hand",M60.84,ICD10CM,0,1,constitutional_musculoskeletal
+42617950,"Other myositis, hand",M60.84,ICD10,0,1,constitutional_musculoskeletal
+45572475,"Other myositis, right hand",M60.841,ICD10CM,0,1,constitutional_musculoskeletal
+45562755,"Other myositis, left hand",M60.842,ICD10CM,0,1,constitutional_musculoskeletal
+45543621,"Other myositis, unspecified hand",M60.849,ICD10CM,0,1,constitutional_musculoskeletal
+1570738,"Other myositis, thigh",M60.85,ICD10CM,0,1,constitutional_musculoskeletal
+42617951,"Other myositis, pelvic region and thigh",M60.85,ICD10,0,1,constitutional_musculoskeletal
+45548453,"Other myositis, right thigh",M60.851,ICD10CM,0,1,constitutional_musculoskeletal
+45591873,"Other myositis, left thigh",M60.852,ICD10CM,0,1,constitutional_musculoskeletal
+45582184,"Other myositis, unspecified thigh",M60.859,ICD10CM,0,1,constitutional_musculoskeletal
+1570739,"Other myositis, lower leg",M60.86,ICD10CM,0,1,constitutional_musculoskeletal
+42617952,"Other myositis, lower leg",M60.86,ICD10,0,1,constitutional_musculoskeletal
+45567588,"Other myositis, right lower leg",M60.861,ICD10CM,0,1,constitutional_musculoskeletal
+45553212,"Other myositis, left lower leg",M60.862,ICD10CM,0,1,constitutional_musculoskeletal
+45606255,"Other myositis, unspecified lower leg",M60.869,ICD10CM,0,1,constitutional_musculoskeletal
+1570740,"Other myositis, ankle and foot",M60.87,ICD10CM,0,1,constitutional_musculoskeletal
+42617953,"Other myositis, ankle and foot",M60.87,ICD10,0,1,constitutional_musculoskeletal
+45557912,"Other myositis, right ankle and foot",M60.871,ICD10CM,0,1,constitutional_musculoskeletal
+45572476,"Other myositis, left ankle and foot",M60.872,ICD10CM,0,1,constitutional_musculoskeletal
+45557913,"Other myositis, unspecified ankle and foot",M60.879,ICD10CM,0,1,constitutional_musculoskeletal
+45567589,"Other myositis, other site",M60.88,ICD10CM,0,1,constitutional_musculoskeletal
+42617954,"Other myositis, other",M60.88,ICD10,0,1,constitutional_musculoskeletal
+42617955,"Other myositis, site unspecified",M60.89,ICD10,0,1,constitutional_musculoskeletal
+45538799,"Other myositis, multiple sites",M60.89,ICD10CM,0,1,constitutional_musculoskeletal
+35208972,"Myositis, unspecified",M60.9,ICD10CM,0,1,constitutional_musculoskeletal
+45567590,"Myositis, unspecified",M60.9,ICD10,0,1,constitutional_musculoskeletal
+42617956,"Myositis, unspecified, multiple sites",M60.90,ICD10,0,1,constitutional_musculoskeletal
+42617957,"Myositis, unspecified, shoulder region",M60.91,ICD10,0,1,constitutional_musculoskeletal
+42617958,"Myositis, unspecified, upper arm",M60.92,ICD10,0,1,constitutional_musculoskeletal
+42617959,"Myositis, unspecified, forearm",M60.93,ICD10,0,1,constitutional_musculoskeletal
+42617960,"Myositis, unspecified, hand",M60.94,ICD10,0,1,constitutional_musculoskeletal
+42617961,"Myositis, unspecified, pelvic region and thigh",M60.95,ICD10,0,1,constitutional_musculoskeletal
+42617962,"Myositis, unspecified, lower leg",M60.96,ICD10,0,1,constitutional_musculoskeletal
+42617963,"Myositis, unspecified, ankle and foot",M60.97,ICD10,0,1,constitutional_musculoskeletal
+42617964,"Myositis, unspecified, other",M60.98,ICD10,0,1,constitutional_musculoskeletal
+42617965,"Myositis, unspecified, site unspecified",M60.99,ICD10,0,1,constitutional_musculoskeletal

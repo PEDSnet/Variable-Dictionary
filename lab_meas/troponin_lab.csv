@@ -1,0 +1,8 @@
+"concept_id","concept_name","concept_code","vocabulary_id"
+3019800,Troponin T.cardiac [Mass/volume] in Serum or Plasma,"6598-7",LOINC
+3021337,Troponin I.cardiac [Mass/volume] in Serum or Plasma,"10839-9",LOINC
+3033745,Troponin I.cardiac [Mass/volume] in Blood,"42757-5",LOINC
+3048529,Troponin T.cardiac [Mass/volume] in Blood,"48425-3",LOINC
+4007805,Troponin I measurement,"121870001",SNOMED
+36306105,Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method,"89579-7",LOINC
+40769783,Troponin T.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method,"67151-1",LOINC

@@ -1,0 +1,172 @@
+concept_code,concept_id,vocabulary_id,concept_name
+414920002,4189665,SM,Obesity by fat distribution pattern
+293481008,4163032,SM,Hyperplastic-hypertrophic obesity
+5036006,4177337,SM,Hypogonadal obesity
+295509007,4171147,SM,Hypertrophic obesity
+298464002,4183240,SM,Obesity of endocrine origin
+238136002,434005,SM,Morbid obesity
+414438005,4185912,SM,Hyperplastic obesity
+248311001,4087487,SM,Central obesity
+414918000,4189664,SM,Obesity by age of onset
+238134004,4029276,SM,Generalized obesity
+719809005,36714527,SM,X-linked intellectual disability with precocious puberty and obesity syndrome
+297500005,4182506,SM,Endogenous obesity
+722053001,36716151,SM,Obesity due to prohormone convertase I deficiency
+722037004,36716144,SM,MEHMO syndrome
+414916001,433736,SM,Obesity
+292464007,4097929,SM,Constitutional obesity
+82793005,4220527,SM,Hypothalamic obesity
+294493008,4171317,SM,Lifelong obesity
+238133005,4029900,SM,Gynecoid obesity
+415530009,4217557,SM,Simple obesity
+111036000,4005991,SM,Hyperinsulinar obesity
+414917005,4212443,SM,Obesity by adipocyte growth pattern
+248312008,4093860,SM,Peripheral obesity
+190966007,4100857,SM,Extreme obesity with alveolar hypoventilation
+722596001,36716555,SM,Obesity caused by energy imbalance
+53146006,4203289,SM,Hypothyroid obesity
+62999006,4271317,SM,Adiposogenital dystrophy
+717269008,37397209,SM,Obesity due to melanocortin 4 receptor deficiency
+190965006,4097996,SM,Drug-induced obesity
+414919008,4215969,SM,Obesity by contributing factors
+360566006,4235799,SM,Buffalo obesity
+83911000119104,37018860,SM,Severe obesity
+238132000,4079899,SM,Android obesity
+444862003,40481140,SM,Childhood obesity
+450451007,42872460,SM,Overweight in childhood
+162863004,4060705,SM,Body mass index 25-29 - overweight
+275947003,4175214,SM,O/E - overweight
+268916007,4146858,SM,O/E - weight greater than 20% over ideal
+162690006,4037679,SM,O/E - obese
+268915006,4150937,SM,O/E - weight 10-20% over ideal
+238131007,437525,SM,Overweight
+408512008,4256640,SM,Body mass index 40+ - severely obese
+443371000124107,763588,SM,Obese class I
+443381000124105,763589,SM,Obese class II
+162864005,4060985,SM,Body mass index 30+ - obesity
+414915002,4215968,SM,Obese
+914741000000103,44811757,SM,Obese class III
+914721000000105,44811711,SM,Obese class I
+914731000000107,44811712,SM,Obese class II
+278,44824092,09,"Overweight, obesity and other hyperalimentation"
+278.0,44834569,09,Overweight and obesity
+278.00,44833387,09,"Obesity, unspecified"
+278.01,44831059,09,Morbid obesity
+278.02,44821800,09,Overweight
+278.03,44822953,09,Obesity hypoventilation syndrome
+E66,1568022,10,Overweight and obesity
+E66.0,1568023,10,Obesity due to excess calories
+E66.01,45600659,10,Morbid (severe) obesity due to excess calories
+E66.09,45591051,10,Other obesity due to excess calories
+E66.1,35207021,10,Drug-induced obesity
+E66.2,35207022,10,Morbid (severe) obesity with alveolar hypoventilation
+E66.3,45586164,10,Overweight
+E66.8,35207023,10,Other obesity
+E66.9,35207024,10,"Obesity, unspecified"
+V85.2,44829684,09,"Body Mass Index between 25-29, adult"
+V85.21,44837875,09,"Body Mass Index 25.0-25.9, adult"
+V85.22,44836721,09,"Body Mass Index 26.0-26.9, adult"
+V85.23,44836722,09,"Body Mass Index 27.0-27.9, adult"
+V85.24,44825073,09,"Body Mass Index 28.0-28.9, adult"
+V85.25,44821625,09,"Body Mass Index 29.0-29.9, adult"
+V85.3,44830872,09,"Body Mass Index between 30-39, adult"
+V85.30,44835553,09,"Body Mass Index 30.0-30.9, adult"
+V85.31,44834364,09,"Body Mass Index 31.0-31.9, adult"
+V85.32,44828615,09,"Body Mass Index 32.0-32.9, adult"
+V85.33,44836723,09,"Body Mass Index 33.0-33.9, adult"
+V85.34,44829685,09,"Body Mass Index 34.0-34.9, adult"
+V85.35,44834365,09,"Body Mass Index 35.0-35.9, adult"
+V85.36,44834366,09,"Body Mass Index 36.0-36.9, adult"
+V85.37,44823910,09,"Body Mass Index 37.0-37.9, adult"
+V85.38,44821626,09,"Body Mass Index 38.0-38.9, adult"
+V85.39,44828616,09,"Body Mass Index 39.0-39.9, adult"
+V85.4,44822764,09,"Body Mass Index 40 and over, adult"
+V85.41,44833167,09,"Body Mass Index 40.0-44.9, adult"
+V85.42,44826271,09,"Body Mass Index 45.0-49.9, adult"
+V85.43,44825074,09,"Body Mass Index 50.0-59.9, adult"
+V85.44,44833168,09,"Body Mass Index 60.0-69.9, adult"
+V85.45,44836724,09,"Body Mass Index 70 and over, adult"
+V85.53,44830873,09,"Body Mass Index, pediatric, 85th percentile to less than 95th percentile for age"
+V85.54,44826272,09,"Body Mass Index, pediatric, greater than or equal to 95th percentile for age"
+Z68.25,45576171,10,"Body mass index (BMI) 25.0-25.9, adult"
+Z68.26,45581057,10,"Body mass index (BMI) 26.0-26.9, adult"
+Z68.27,45600347,10,"Body mass index (BMI) 27.0-27.9, adult"
+Z68.28,45590750,10,"Body mass index (BMI) 28.0-28.9, adult"
+Z68.29,45605144,10,"Body mass index (BMI) 29.0-29.9, adult"
+Z68.3,1576153,10,"Body mass index (BMI) 30-39, adult"
+Z68.30,45566451,10,"Body mass index (BMI) 30.0-30.9, adult"
+Z68.31,45600348,10,"Body mass index (BMI) 31.0-31.9, adult"
+Z68.32,45595538,10,"Body mass index (BMI) 32.0-32.9, adult"
+Z68.33,45547336,10,"Body mass index (BMI) 33.0-33.9, adult"
+Z68.34,45585849,10,"Body mass index (BMI) 34.0-34.9, adult"
+Z68.35,45566452,10,"Body mass index (BMI) 35.0-35.9, adult"
+Z68.36,45566453,10,"Body mass index (BMI) 36.0-36.9, adult"
+Z68.37,45581058,10,"Body mass index (BMI) 37.0-37.9, adult"
+Z68.38,45609961,10,"Body mass index (BMI) 38.0-38.9, adult"
+Z68.39,45609962,10,"Body mass index (BMI) 39.0-39.9, adult"
+Z68.4,35225256,10,"Body mass index (BMI) 40 or greater, adult"
+Z68.41,45590751,10,"Body mass index (BMI) 40.0-44.9, adult"
+Z68.42,45609963,10,"Body mass index (BMI) 45.0-49.9, adult"
+Z68.43,45576172,10,"Body mass index (BMI) 50-59.9 , adult"
+Z68.44,45566454,10,"Body mass index (BMI) 60.0-69.9, adult"
+Z68.45,45571383,10,"Body mass index (BMI) 70 or greater, adult"
+2780,44834569,09,Overweight and obesity
+27800,44833387,09,"Obesity, unspecified"
+27801,44831059,09,Morbid obesity
+27802,44821800,09,Overweight
+27803,44822953,09,Obesity hypoventilation syndrome
+E660,1568023,10,Obesity due to excess calories
+E6601,45600659,10,Morbid (severe) obesity due to excess calories
+E6609,45591051,10,Other obesity due to excess calories
+E661,35207021,10,Drug-induced obesity
+E662,35207022,10,Morbid (severe) obesity with alveolar hypoventilation
+E663,45586164,10,Overweight
+E668,35207023,10,Other obesity
+E669,35207024,10,"Obesity, unspecified"
+V852,44829684,09,"Body Mass Index between 25-29, adult"
+V8521,44837875,09,"Body Mass Index 25.0-25.9, adult"
+V8522,44836721,09,"Body Mass Index 26.0-26.9, adult"
+V8523,44836722,09,"Body Mass Index 27.0-27.9, adult"
+V8524,44825073,09,"Body Mass Index 28.0-28.9, adult"
+V8525,44821625,09,"Body Mass Index 29.0-29.9, adult"
+V853,44830872,09,"Body Mass Index between 30-39, adult"
+V8530,44835553,09,"Body Mass Index 30.0-30.9, adult"
+V8531,44834364,09,"Body Mass Index 31.0-31.9, adult"
+V8532,44828615,09,"Body Mass Index 32.0-32.9, adult"
+V8533,44836723,09,"Body Mass Index 33.0-33.9, adult"
+V8534,44829685,09,"Body Mass Index 34.0-34.9, adult"
+V8535,44834365,09,"Body Mass Index 35.0-35.9, adult"
+V8536,44834366,09,"Body Mass Index 36.0-36.9, adult"
+V8537,44823910,09,"Body Mass Index 37.0-37.9, adult"
+V8538,44821626,09,"Body Mass Index 38.0-38.9, adult"
+V8539,44828616,09,"Body Mass Index 39.0-39.9, adult"
+V854,44822764,09,"Body Mass Index 40 and over, adult"
+V8541,44833167,09,"Body Mass Index 40.0-44.9, adult"
+V8542,44826271,09,"Body Mass Index 45.0-49.9, adult"
+V8543,44825074,09,"Body Mass Index 50.0-59.9, adult"
+V8544,44833168,09,"Body Mass Index 60.0-69.9, adult"
+V8545,44836724,09,"Body Mass Index 70 and over, adult"
+V8553,44830873,09,"Body Mass Index, pediatric, 85th percentile to less than 95th percentile for age"
+V8554,44826272,09,"Body Mass Index, pediatric, greater than or equal to 95th percentile for age"
+Z6825,45576171,10,"Body mass index (BMI) 25.0-25.9, adult"
+Z6826,45581057,10,"Body mass index (BMI) 26.0-26.9, adult"
+Z6827,45600347,10,"Body mass index (BMI) 27.0-27.9, adult"
+Z6828,45590750,10,"Body mass index (BMI) 28.0-28.9, adult"
+Z6829,45605144,10,"Body mass index (BMI) 29.0-29.9, adult"
+Z683,1576153,10,"Body mass index (BMI) 30-39, adult"
+Z6830,45566451,10,"Body mass index (BMI) 30.0-30.9, adult"
+Z6831,45600348,10,"Body mass index (BMI) 31.0-31.9, adult"
+Z6832,45595538,10,"Body mass index (BMI) 32.0-32.9, adult"
+Z6833,45547336,10,"Body mass index (BMI) 33.0-33.9, adult"
+Z6834,45585849,10,"Body mass index (BMI) 34.0-34.9, adult"
+Z6835,45566452,10,"Body mass index (BMI) 35.0-35.9, adult"
+Z6836,45566453,10,"Body mass index (BMI) 36.0-36.9, adult"
+Z6837,45581058,10,"Body mass index (BMI) 37.0-37.9, adult"
+Z6838,45609961,10,"Body mass index (BMI) 38.0-38.9, adult"
+Z6839,45609962,10,"Body mass index (BMI) 39.0-39.9, adult"
+Z684,35225256,10,"Body mass index (BMI) 40 or greater, adult"
+Z6841,45590751,10,"Body mass index (BMI) 40.0-44.9, adult"
+Z6842,45609963,10,"Body mass index (BMI) 45.0-49.9, adult"
+Z6843,45576172,10,"Body mass index (BMI) 50-59.9 , adult"
+Z6844,45566454,10,"Body mass index (BMI) 60.0-69.9, adult"
+Z6845,45571383,10,"Body mass index (BMI) 70 or greater, adult"

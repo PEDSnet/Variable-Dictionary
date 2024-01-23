@@ -1,0 +1,24 @@
+﻿concept_id,concept_name,concept_code,vocabulary_id,syndromic,systemic,condition_category
+1568078,"Other disorders of fluid, electrolyte and acid-base balance",E87,ICD10CM,0,1,renal
+45755369,"Other disorders of fluid, electrolyte and acid-base balance",E87,ICD10,0,1,renal
+45571696,Hyperosmolality and hypernatraemia,E87.0,ICD10,0,1,renal
+35207092,Hyperosmolality and hypernatremia,E87.0,ICD10CM,0,1,renal
+35207093,Hypo-osmolality and hyponatremia,E87.1,ICD10CM,0,1,renal
+45542779,Hypo-osmolality and hyponatraemia,E87.1,ICD10,0,1,renal
+45571697,Acidosis,E87.2,ICD10,0,1,renal
+35207094,Acidosis,E87.2,ICD10CM,0,1,renal
+45533050,Alkalosis,E87.3,ICD10,0,1,renal
+35207095,Alkalosis,E87.3,ICD10CM,0,1,renal
+45547666,Mixed disorder of acid-base balance,E87.4,ICD10,0,1,renal
+35207096,Mixed disorder of acid-base balance,E87.4,ICD10CM,0,1,renal
+35207097,Hyperkalemia,E87.5,ICD10CM,0,1,renal
+45537990,Hyperkalaemia,E87.5,ICD10,0,1,renal
+45537991,Hypokalaemia,E87.6,ICD10,0,1,renal
+35207098,Hypokalemia,E87.6,ICD10CM,0,1,renal
+45595838,Fluid overload,E87.7,ICD10,0,1,renal
+35207099,Fluid overload,E87.7,ICD10CM,0,1,renal
+45576480,"Fluid overload, unspecified",E87.70,ICD10CM,0,1,renal
+45542780,Transfusion associated circulatory overload,E87.71,ICD10CM,0,1,renal
+45542781,Other fluid overload,E87.79,ICD10CM,0,1,renal
+45542782,"Other disorders of electrolyte and fluid balance, not elsewhere classified",E87.8,ICD10,0,1,renal
+35207100,"Other disorders of electrolyte and fluid balance, not elsewhere classified",E87.8,ICD10CM,0,1,renal

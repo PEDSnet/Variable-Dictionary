@@ -1,0 +1,20 @@
+concept_id,concept_name,concept_code,vocabulary_id
+3010834,Platelets [#/volume] in Blood by Manual count,778-1,LOINC
+3031586,Platelets [#/volume] in Blood by Estimate,49497-1,LOINC
+3024929,Platelets [#/volume] in Blood by Automated count,777-3,LOINC
+3006297,Platelets [#/volume] in Plasma,26516-5,LOINC
+3016682,Platelets [#/volume] in Plasma by Automated count,13056-7,LOINC
+40654106,Platelets|NCnc|Pt|Bld,LG32892-8,LOINC
+40654107,Platelets|NCnc|Pt|BldCo,LG32923-1,LOINC
+40654108,Platelets|NCnc|Pt|Plas,LG32776-3,LOINC
+40786570,Platelets | Bld-Ser-Plas,LP41375-4,LOINC
+40772688,Platelet,LP16772-3,LOINC
+40779159,Platelets,LP14597-6,LOINC
+44787167,Platelets | Blood capillary,LP181025-0,LOINC
+44787107,Platelets [#/volume] in Capillary blood by Manual count,74464-9,LOINC
+36205024,Platelet | Bld-Ser-Plas,LP256136-5,LOINC
+36310193,Platelets,LA19726-1,LOINC
+3007461,Platelets [#/volume] in Blood,26515-7,LOINC
+37037425,Platelets | Blood | Hematology and Cell counts,LP393218-5,LOINC
+37058547,Platelets | Plasma | Hematology and Cell counts,LP393224-3,LOINC
+37071943,Platelets | Blood capillary | Hematology and Cell counts,LP393219-3,LOINC

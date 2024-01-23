@@ -1,0 +1,51 @@
+concept_code,concept_id,vocabulary_id,concept_name
+83036,2212392,CH,Hemoglobin; glycosylated (A1C)
+67761-7,40770369,LC,"HEDIS 2012, 2013 Codes to identify HbA1c tests (CDC-D)"
+74246-0,44786901,LC,HEDIS 2014 Value Set - HbA1c Tests
+83037,2212393,CH,Hemoglobin; glycosylated (A1C) by device cleared by FDA for home use
+71875-9,42869630,LC,Hemoglobin A1c/Hemoglobin.total [Pure mass fraction] in Blood
+17855-8,3007263,LC,Hemoglobin A1c/Hemoglobin.total in Blood by calculation
+3045F,2106238,CH,Most recent hemoglobin A1c (HbA1c) level 7.0-9.0% (DM)
+41963-0,3034957,LC,HbA1c measurement device Vendor serial number
+371981000000106,44793001,SM,Haemoglobin A1c level - International Federation of Clinical Chemistry and Laboratory Medicine standardised
+313835008,4197971,SM,HbA1c measurement
+54039-3,3040295,LC,HEDIS 2009-2011 Codes to identify HbA1c tests (CDC-D)
+55454-3,40758583,LC,Hemoglobin A1c in Blood
+LP16413-4,40789263,LC,Hemoglobin A1c
+41960-6,3031232,LC,Type of HbA1c measurement device
+41962-2,3034070,LC,HbA1c measurement device Vendor model code
+59261-8,40762352,LC,Hemoglobin A1c/Hemoglobin.total in Blood by IFCC protocol
+41961-4,3032856,LC,HbA1c measurement device Vendor name
+3044F,2106236,CH,Most recent hemoglobin A1c (HbA1c) level less than 7.0% (DM)
+41964-8,3031861,LC,HbA1c measurement device Vendor software version
+43150-2,3033145,LC,Hemoglobin A1c measurement device panel
+43396009,4184637,SM,Hemoglobin A1c measurement
+3046F,2106252,CH,Most recent hemoglobin A1c level greater than 9.0% (DM)
+17856-6,3005673,LC,Hemoglobin A1c/Hemoglobin.total in Blood by HPLC
+4549-2,3003309,LC,Hemoglobin A1c/Hemoglobin.total in Blood by Electrophoresis
+LP100945-7,40775446,LC,Hemoglobin A1c | Bld-Ser-Plas
+75862-3,46235675,LC,HEDIS 2015-2018 Value Set - HbA1C Tests
+41995-2,3034639,LC,Hemoglobin A1c [Mass/volume] in Blood
+4548-4,3004410,LC,Hemoglobin A1c (Glycated)
+62388-4,40765129,LC,Hemoglobin A1c/Hemoglobin.total in Blood by JDS/JSCC protocol
+677617,40770369,LC,"HEDIS 2012, 2013 Codes to identify HbA1c tests (CDC-D)"
+742460,44786901,LC,HEDIS 2014 Value Set - HbA1c Tests
+718759,42869630,LC,Hemoglobin A1c/Hemoglobin.total [Pure mass fraction] in Blood
+178558,3007263,LC,Hemoglobin A1c/Hemoglobin.total in Blood by calculation
+419630,3034957,LC,HbA1c measurement device Vendor serial number
+540393,3040295,LC,HEDIS 2009-2011 Codes to identify HbA1c tests (CDC-D)
+554543,40758583,LC,Hemoglobin A1c in Blood
+LP164134,40789263,LC,Hemoglobin A1c
+419606,3031232,LC,Type of HbA1c measurement device
+419622,3034070,LC,HbA1c measurement device Vendor model code
+592618,40762352,LC,Hemoglobin A1c/Hemoglobin.total in Blood by IFCC protocol
+419614,3032856,LC,HbA1c measurement device Vendor name
+419648,3031861,LC,HbA1c measurement device Vendor software version
+431502,3033145,LC,Hemoglobin A1c measurement device panel
+178566,3005673,LC,Hemoglobin A1c/Hemoglobin.total in Blood by HPLC
+45492,3003309,LC,Hemoglobin A1c/Hemoglobin.total in Blood by Electrophoresis
+LP1009457,40775446,LC,Hemoglobin A1c | Bld-Ser-Plas
+758623,46235675,LC,HEDIS 2015-2018 Value Set - HbA1C Tests
+419952,3034639,LC,Hemoglobin A1c [Mass/volume] in Blood
+45484,3004410,LC,Hemoglobin A1c (Glycated)
+623884,40765129,LC,Hemoglobin A1c/Hemoglobin.total in Blood by JDS/JSCC protocol

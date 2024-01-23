@@ -1,0 +1,55 @@
+concept_id,concept_code,concept_name,vocabulary_id
+75004,197941005,Frank hematuria,SNOMED
+78472,197940006,Microscopic hematuria,SNOMED
+79864,53298000,Hematuria syndrome,SNOMED
+437038,34436003,Blood in urine,SNOMED
+4032453,236718002,Chemical hematuria,SNOMED
+4054915,197688006,"Acute nephritic syndrome, diffuse crescentic glomerulonephritis",SNOMED
+4054993,197708002,"Chronic nephritic syndrome, minor glomerular abnormality",SNOMED
+4056465,197627003,Recurrent benign hematuria syndrome,SNOMED
+4056478,197707007,Chronic nephritic syndrome,SNOMED
+4056624,197942003,Clot hematuria,SNOMED
+4059740,197938001,Painless hematuria,SNOMED
+4060922,197939009,Painful hematuria,SNOMED
+4068106,20407004,Benign hematuria,SNOMED
+4083806,281855006,Persistent frank hematuria,SNOMED
+4085875,281857003,Persistent microscopic hematuria,SNOMED
+4085876,281858008,Recurrent microscopic hematuria,SNOMED
+4085877,281859000,Persistent hematuria,SNOMED
+4085878,281860005,Recurrent hematuria,SNOMED
+4106057,281856007,Recurrent frank hematuria,SNOMED
+4127720,236717007,Upper urinary tract hematuria,SNOMED
+4159136,371020003,Renal hematuria,SNOMED
+4194436,314280007,Hematuria of undiagnosed cause,SNOMED
+4221663,40233000,Nephrotic-nephritic syndrome,SNOMED
+4298809,7724006,Nephritic syndrome,SNOMED
+4313575,86208007,Loin pain-hematuria syndrome,SNOMED
+4316364,95567008,Traumatic hematuria,SNOMED
+36714355,719551008,Hematuria due to radiation cystitis,SNOMED
+37016338,367171000119100,Hematuria co-occurrent and due to cystitis,SNOMED
+37016343,367671000119108,Hematuria co-occurrent and due to irradiation cystitis,SNOMED
+37016352,368371000119102,Hematuria co-occurrent and due to trigonitis,SNOMED
+37016361,368901000119106,Chronic nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,SNOMED
+37016363,368921000119102,Nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,SNOMED
+37016367,368971000119101,Hematuria co-occurrent and due to chronic cystitis,SNOMED
+37018341,714813000,Recurrent hematuria co-occurrent and due to dense deposit disease,SNOMED
+37018342,714814006,Persistent hematuria co-occurrent and due to dense deposit disease,SNOMED
+37018343,714815007,Recurrent hematuria co-occurrent and due to diffuse crescentic glomerulonephritis,SNOMED
+37018344,714816008,Persistent hematuria co-occurrent and due to diffuse crescentic glomerulonephritis,SNOMED
+37018345,714817004,Recurrent hematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis,SNOMED
+37018346,714819001,Recurrent hematuria co-occurrent and due to diffuse mesangiocapillary glomerulonephritis,SNOMED
+37018347,714820007,Persistent hematuria co-occurrent and due to diffuse mesangiocapillary glomerulonephritis,SNOMED
+37018348,714821006,Recurrent hematuria co-occurrent and due to diffuse membranous glomerulonephritis,SNOMED
+37018349,714822004,Persistent hematuria co-occurrent and due to diffuse membranous glomerulonephritis,SNOMED
+37018350,714823009,Recurrent hematuria co-occurrent and due to minor glomerular abnormality,SNOMED
+37018351,714824003,Persistent hematuria co-occurrent and due to minor glomerular abnormality,SNOMED
+37018352,714825002,Recurrent hematuria co-occurrent and due to diffuse mesangial proliferative glomerulonephritis,SNOMED
+37018353,714826001,Persistent hematuria co-occurrent and due to diffuse mesangial proliferative glomerulonephritis,SNOMED
+37018354,714827005,Recurrent hematuria co-occurrent and due to focal and segmental glomerular lesions,SNOMED
+37018355,714828000,Persistent hematuria co-occurrent and due to focal and segmental glomerular lesions,SNOMED
+37018854,366941000119107,Hematuria co-occurrent and due to acute cystitis,SNOMED
+37018952,367661000119102,Hematuria co-occurrent and due to chronic interstitial cystitis,SNOMED
+37019162,714818009,Persistent hematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis,SNOMED
+37309664,16698651000119109,Asymptomatic microscopic hematuria,SNOMED
+45757736,367011000119109,Benign essential microscopic hematuria,SNOMED
+46270347,28191000119109,Chronic nephritic syndrome with membranous glomerulonephritis,SNOMED

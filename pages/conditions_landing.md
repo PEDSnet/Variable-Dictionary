@@ -1,6 +1,8 @@
 |Codesets                                                     |
 |:------------------------------------------------------------|
 |[Abdominal pain](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_abdominal_pain_md_page.html)|
+|[Abnormal weight gain](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_weight_gain_md_page.html)|
+|[Acquired acanthosis nigricans](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_acan_concepts_md_page.html)|
 |[Acute respiratory distress syndrome](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_acute_respiratory_distress_md_page.html)|
 |[Addison's disease](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_addison_md_page.html)|
 |[AHRQ Clusters](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_ccsr_labels_md_page.html)|
@@ -47,7 +49,7 @@
 |[Eating disorder](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/ed_concepts_md_page.html)|
 |[Eczema/atopic dermatitis](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/eczema_concepts_md_page.html)|
 |[Edema](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_edema_md_page.html)|
-|[Epilepsy](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/seizure_md_page.html)|
+|[Epilepsy](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_seizure_md_page.html)|
 |[Esophageal reflux](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_gas_reflux_concepts_md_page.html)|
 |[Fatigue](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_fatigue_md_page.html)|
 |[Fever/chills](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_fever_chills_md_page.html)|
@@ -78,7 +80,7 @@
 |[Kidney dialysis](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_kidney_dialysis_md_page.html)|
 |[Kidney transplant](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_kidney_transplant_md_page.html)|
 |[Learning disorder](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_learning_disability_md_page.html)|
-|[Leukemia](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/leukemia_lymphoma_md_page.html)|
+|[Leukemia and Lymphoma](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/leukemia_lymphoma_md_page.html)|
 |[Loss of taste/smell](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_taste_smell_loss_md_page.html)|
 |[Major depressive disorder](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/depression_md_page.html)|
 |[Major depressive disorder](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/depressive_disorders_md_page.html)|

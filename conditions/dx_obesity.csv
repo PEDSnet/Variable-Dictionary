@@ -1,0 +1,10 @@
+﻿concept_id,concept_name,concept_code,vocabulary_id,syndromic,systemic,condition_category
+45581372,Obesity due to excess calories,E66.0,ICD10,1,1,gastrointestinal
+1568023,Obesity due to excess calories,E66.0,ICD10CM,1,1,gastrointestinal
+35207022,Morbid (severe) obesity with alveolar hypoventilation,E66.2,ICD10CM,1,1,gastrointestinal
+45581373,Extreme obesity with alveolar hypoventilation,E66.2,ICD10,1,1,gastrointestinal
+45586164,Overweight,E66.3,ICD10CM,1,1,gastrointestinal
+45533036,Other obesity,E66.8,ICD10,1,1,gastrointestinal
+35207023,Other obesity,E66.8,ICD10CM,1,1,gastrointestinal
+35207024,"Obesity, unspecified",E66.9,ICD10CM,1,1,gastrointestinal
+45576460,"Obesity, unspecified",E66.9,ICD10,1,1,gastrointestinal

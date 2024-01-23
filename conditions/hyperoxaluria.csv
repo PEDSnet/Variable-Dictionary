@@ -1,0 +1,10 @@
+﻿concept_id,concept_code,concept_name,vocabulary_id,type
+45757753,367621000119107,Hyperoxaluria,SNOMED,ox
+4288991,69718008,Oxalate nephropathy,SNOMED,ox
+4162444,373607009,Oxalosis,SNOMED,ox
+4074393,17901006,Primary hyperoxaluria,SNOMED,ph
+40388218,190766003,Primary hyperoxaluria,SNOMED,ph
+4276513,65520001,"Primary hyperoxaluria, type I",SNOMED,ph
+4164956,40951006,"Primary hyperoxaluria, type II",SNOMED,ph
+42536261,734990008,Primary hyperoxaluria type III,SNOMED,ph
+437515,20957000,Disorder of carbohydrate metabolism,SNOMED,broad

@@ -1,0 +1,146 @@
+concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason
+45596216,"Cerebral infarction, unspecified",Condition,ICD10,ICD10 code,NA,I63.9,5/1/90,12/31/99,NA
+35207821,"Cerebral infarction, unspecified",Condition,ICD10CM,4-char billing code,NA,I63.9,1/1/07,12/31/99,NA
+4219010,"Juvenile myopathy, encephalopathy, lactic acidosis AND stroke",Condition,SNOMED,Clinical Finding,S,39925003,1/31/02,12/31/99,NA
+4111710,Brainstem stroke syndrome,Condition,SNOMED,Clinical Finding,S,195212005,1/31/02,12/31/99,NA
+40480273,Superior cerebellar artery syndrome,Condition,SNOMED,Clinical Finding,S,444657001,7/31/10,12/31/99,NA
+42535114,Cerebrovascular accident due to thrombus of left middle cerebral artery,Condition,SNOMED,Clinical Finding,S,1.60021E+16,1/31/18,12/31/99,NA
+42535146,Cerebrovascular accident due to occlusion of left pontine artery,Condition,SNOMED,Clinical Finding,S,1.6024E+16,1/31/18,12/31/99,NA
+37110678,Cerebral ischemic stroke due to occlusion of extracranial large artery,Condition,SNOMED,Clinical Finding,S,724993002,7/31/17,12/31/99,NA
+602590,Cerebrovascular accident of basal ganglia,Condition,SNOMED,Clinical Finding,S,5.959E+17,1/31/21,12/31/99,NA
+762351,Ruptured acquired aneurysm of cerebral artery,Condition,SNOMED,Clinical Finding,S,3.30111E+14,9/1/17,12/31/99,NA
+619830,Cerebrovascular accident due to embolism of basilar artery,Condition,SNOMED,Clinical Finding,S,9.15142E+17,1/31/21,12/31/99,NA
+443864,Multi-infarct dementia with depression,Condition,SNOMED,Clinical Finding,S,14070001,1/31/02,12/31/99,NA
+608742,Cerebrovascular accident due to embolism of bilateral carotid arteries,Condition,SNOMED,Clinical Finding,S,1.52149E+17,7/31/21,12/31/99,NA
+4099974,Completed stroke,Condition,SNOMED,Clinical Finding,S,25133001,1/31/02,12/31/99,NA
+4078314,Foville syndrome,Condition,SNOMED,Clinical Finding,S,276220007,1/31/02,12/31/99,NA
+37312016,Cerebral ischemic stroke due to aortic arch embolism,Condition,SNOMED,Clinical Finding,S,788881005,1/31/20,12/31/99,NA
+42535111,Cerebrovascular accident due to occlusion of right middle cerebral artery,Condition,SNOMED,Clinical Finding,S,1.60004E+16,1/31/18,12/31/99,NA
+42539262,Cerebrovascular accident due to occlusion of left carotid artery,Condition,SNOMED,Clinical Finding,S,1.60241E+16,1/31/18,12/31/99,NA
+4045734,CVA - cerebrovascular accident due to cerebral artery occlusion,Condition,SNOMED,Clinical Finding,S,230691006,1/31/02,12/31/99,NA
+609188,Cerebrovascular accident due to embolism of bilateral posterior cerebral arteries,Condition,SNOMED,Clinical Finding,S,1.68748E+17,7/31/21,12/31/99,NA
+764707,Ruptured aneurysm of intracranial artery,Condition,SNOMED,Clinical Finding,S,5.471E+12,3/1/12,12/31/99,NA
+42535148,Cerebrovascular accident due to occlusion of left cerebellar artery,Condition,SNOMED,Clinical Finding,S,1.60242E+16,1/31/18,12/31/99,NA
+36684840,Acute stroke,Condition,SNOMED,Clinical Finding,S,4.57551E+14,9/1/18,12/31/99,NA
+618686,Cerebrovascular accident due to thrombosis of left posterior cerebral artery,Condition,SNOMED,Clinical Finding,S,8.51366E+17,7/31/21,12/31/99,NA
+42535113,Cerebrovascular accident due to thrombus of right middle cerebral artery,Condition,SNOMED,Clinical Finding,S,1.6002E+16,1/31/18,12/31/99,NA
+4045748,Posterior circulation stroke of uncertain pathology,Condition,SNOMED,Clinical Finding,S,230715005,1/31/02,12/31/99,NA
+4301259,Posterior inferior cerebellar artery syndrome,Condition,SNOMED,Clinical Finding,S,78569004,1/31/02,12/31/99,NA
+604171,Cerebrovascular accident due to thrombosis of right cerebellar artery,Condition,SNOMED,Clinical Finding,S,4.9637E+17,7/31/21,12/31/99,NA
+35609033,Haemorrhagic stroke,Condition,SNOMED,Clinical Finding,S,1.078E+15,10/1/17,12/31/99,NA
+42539195,Cerebrovascular accident due to occlusion of left posterior cerebral artery,Condition,SNOMED,Clinical Finding,S,1.60004E+16,1/31/18,12/31/99,NA
+763094,Anterior inferior cerebellar artery occlusion with infarction,Condition,SNOMED,Clinical Finding,S,4.36031E+14,9/1/13,12/31/99,NA
+609245,Cerebrovascular accident due to occlusion of bilateral middle cerebral arteries,Condition,SNOMED,Clinical Finding,S,1.88175E+17,7/31/21,12/31/99,NA
+381316,Cerebrovascular accident,Condition,SNOMED,Clinical Finding,S,230690007,1/31/02,12/31/99,NA
+618658,Cerebrovascular accident due to occlusion of bilateral anterior cerebral arteries,Condition,SNOMED,Clinical Finding,S,7.20262E+17,7/31/21,12/31/99,NA
+444091,Multi-infarct dementia with delirium,Condition,SNOMED,Clinical Finding,S,10349009,1/31/02,12/31/99,NA
+377254,"Multi-infarct dementia, uncomplicated",Condition,SNOMED,Clinical Finding,S,70936005,1/31/02,12/31/99,NA
+619944,Cerebrovascular accident due to thrombosis of left cerebellar artery,Condition,SNOMED,Clinical Finding,S,9.5732E+17,7/31/21,12/31/99,NA
+37395574,Cerebrovascular accident due to right carotid artery occlusion,Condition,SNOMED,Clinical Finding,S,1.60239E+16,7/31/16,12/31/99,NA
+618628,Cerebrovascular accident due to embolism of left vertebral artery,Condition,SNOMED,Clinical Finding,S,5.17253E+17,7/31/21,12/31/99,NA
+618640,Cerebrovascular accident of brainstem,Condition,SNOMED,Clinical Finding,S,6.52287E+17,1/31/21,12/31/99,NA
+619046,Cerebrovascular accident of medulla oblongata,Condition,SNOMED,Clinical Finding,S,8.81695E+17,1/31/21,12/31/99,NA
+42535512,Cerebrovascular accident due to thrombus of right carotid artery,Condition,SNOMED,Clinical Finding,S,3.29651E+14,1/31/18,12/31/99,NA
+37395576,Cerebrovascular accident due to left carotid artery stenosis,Condition,SNOMED,Clinical Finding,S,1.6027E+16,7/31/16,12/31/99,NA
+4023571,Paralytic stroke,Condition,SNOMED,Clinical Finding,S,116288000,1/31/02,12/31/99,NA
+762345,Left vertebral artery thrombosis with stroke,Condition,SNOMED,Clinical Finding,S,3.29631E+14,3/1/18,12/31/99,NA
+619802,Cerebrovascular accident due to occlusion of bilateral vertebral arteries,Condition,SNOMED,Clinical Finding,S,8.98942E+17,7/31/21,12/31/99,NA
+37110679,Cerebral ischemic stroke due to stenosis of extracranial large artery,Condition,SNOMED,Clinical Finding,S,724994008,7/31/17,12/31/99,NA
+42535110,Cerebrovascular accident due to occlusion of right posterior cerebral artery,Condition,SNOMED,Clinical Finding,S,1.60004E+16,1/31/18,12/31/99,NA
+37209562,Cerebrovascular accident due to stenosis of bilateral carotid arteries,Condition,SNOMED,Clinical Finding,S,1.6662E+16,7/31/19,12/31/99,NA
+618677,Cerebrovascular accident due to embolism of right vertebral artery,Condition,SNOMED,Clinical Finding,S,8.06162E+17,7/31/21,12/31/99,NA
+42535112,Cerebrovascular accident due to occlusion of left middle cerebral artery,Condition,SNOMED,Clinical Finding,S,1.60005E+16,1/31/18,12/31/99,NA
+609314,Cerebrovascular accident due to thrombosis of right posterior cerebral artery,Condition,SNOMED,Clinical Finding,S,3.85951E+16,7/31/21,12/31/99,NA
+42535507,Cerebrovascular accident due to occlusion of right cerebellar artery by embolus,Condition,SNOMED,Clinical Finding,S,3.29451E+14,1/31/18,12/31/99,NA
+604192,Cerebrovascular accident of thalamus,Condition,SNOMED,Clinical Finding,S,7.69023E+17,7/31/21,12/31/99,NA
+36716757,Perinatal arterial ischemic stroke,Condition,SNOMED,Clinical Finding,S,722929005,1/31/17,12/31/99,NA
+43530669,Ischemic stroke with coma,Condition,SNOMED,Clinical Finding,S,1.40911E+14,7/31/13,12/31/99,NA
+37110238,Cerebral ischemic stroke due to intracranial large artery atherosclerosis,Condition,SNOMED,Clinical Finding,S,724425005,7/31/17,12/31/99,NA
+42535461,Cerebrovascular accident due to occlusion of left vertebral artery,Condition,SNOMED,Clinical Finding,S,2.92691E+14,1/31/18,12/31/99,NA
+42535458,Cerebrovascular accident due to stenosis of right vertebral artery,Condition,SNOMED,Clinical Finding,S,2.92661E+14,1/31/18,12/31/99,NA
+762344,Cerebrovascular accident due to thrombus of right vertebral artery,Condition,SNOMED,Clinical Finding,S,3.29621E+14,9/1/17,12/31/99,NA
+606048,Neonatal ischemic stroke,Condition,SNOMED,Clinical Finding,S,1142056004,7/31/21,12/31/99,NA
+761794,Right vertebral artery embolism with stroke,Condition,SNOMED,Clinical Finding,S,1.60024E+16,3/1/18,12/31/99,NA
+609313,Cerebrovascular accident due to embolism of right carotid artery,Condition,SNOMED,Clinical Finding,S,3.8443E+17,7/31/21,12/31/99,NA
+603206,Cerebrovascular accident due to occlusion of left posterior communicating artery,Condition,SNOMED,Clinical Finding,S,1.17777E+17,7/31/21,12/31/99,NA
+42535506,Cerebrovascular accident due to occlusion of left posterior cerebral artery by embolus,Condition,SNOMED,Clinical Finding,S,3.29431E+14,1/31/18,12/31/99,NA
+42535505,Cerebrovascular accident due to occlusion of right posterior cerebral artery by embolus,Condition,SNOMED,Clinical Finding,S,3.29421E+14,1/31/18,12/31/99,NA
+37395575,Cerebrovascular accident due to right carotid artery stenosis,Condition,SNOMED,Clinical Finding,S,1.6027E+16,7/31/16,12/31/99,NA
+37110241,Stroke co-occurrent with migraine,Condition,SNOMED,Clinical Finding,S,724429004,7/31/17,12/31/99,NA
+602615,Cerebrovascular accident due to occlusion of right anterior cerebral artery,Condition,SNOMED,Clinical Finding,S,6.55081E+17,7/31/21,12/31/99,NA
+37110237,Cerebral ischemic stroke due to small artery occlusion,Condition,SNOMED,Clinical Finding,S,724424009,7/31/17,12/31/99,NA
+42535460,Cerebrovascular accident due to right vertebral artery occlusion,Condition,SNOMED,Clinical Finding,S,2.92681E+14,1/31/18,12/31/99,NA
+4337830,Claude's syndrome,Condition,SNOMED,Clinical Finding,S,87555007,1/31/02,12/31/99,NA
+37312015,Cerebral ischemic stroke due to global hypoperfusion with watershed infarct,Condition,SNOMED,Clinical Finding,S,788882003,1/31/20,12/31/99,NA
+42535508,Cerebrovascular accident due to occlusion of left cerebellar artery by embolus,Condition,SNOMED,Clinical Finding,S,3.29461E+14,1/31/18,12/31/99,NA
+42535503,Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus,Condition,SNOMED,Clinical Finding,S,3.29361E+14,1/31/18,12/31/99,NA
+4006295,Nonparalytic stroke,Condition,SNOMED,Clinical Finding,S,111297002,1/31/02,12/31/99,NA
+4159140,Thrombotic stroke,Condition,SNOMED,Clinical Finding,S,371040005,7/31/02,12/31/99,NA
+618670,Cerebrovascular accident due to embolism of bilateral vertebral arteries,Condition,SNOMED,Clinical Finding,S,7.3233E+17,7/31/21,12/31/99,NA
+763095,Posterior inferior cerebellar artery occlusion with infarction,Condition,SNOMED,Clinical Finding,S,4.36041E+14,9/1/13,12/31/99,NA
+4112022,Left sided cerebral hemisphere cerebrovascular accident,Condition,SNOMED,Clinical Finding,S,195216008,1/31/02,12/31/99,NA
+4090122,Extension of cerebrovascular accident,Condition,SNOMED,Clinical Finding,S,281240008,1/31/02,12/31/99,NA
+4159152,Neonatal stroke,Condition,SNOMED,Clinical Finding,S,371121002,7/31/02,12/31/99,NA
+761796,Right carotid artery embolism with stroke,Condition,SNOMED,Clinical Finding,S,1.60024E+16,3/1/18,12/31/99,NA
+761789,Cerebrovascular accident due to thrombus of right cerebellar artery,Condition,SNOMED,Clinical Finding,S,1.60021E+16,9/1/17,12/31/99,NA
+618684,Cerebrovascular accident due to embolism of right anterior cerebral artery,Condition,SNOMED,Clinical Finding,S,8.49489E+17,7/31/21,12/31/99,NA
+43531607,Cerebral infarction due to stenosis of carotid artery,Condition,SNOMED,Clinical Finding,S,9.9451E+13,7/31/13,12/31/99,NA
+4046363,Stroke of uncertain pathology,Condition,SNOMED,Clinical Finding,S,230713003,1/31/02,12/31/99,NA
+4238315,Progressing stroke,Condition,SNOMED,Clinical Finding,S,57981008,1/31/02,12/31/99,NA
+605421,Cerebrovascular accident due to embolism of bilateral anterior cerebral arteries,Condition,SNOMED,Clinical Finding,S,1.07557E+17,7/31/21,12/31/99,NA
+37309665,Cerebrovascular accident due to occlusion of bilateral pontine arteries,Condition,SNOMED,Clinical Finding,S,1.66447E+16,1/31/20,12/31/99,NA
+42535459,Cerebrovascular accident due to stenosis of left vertebral artery,Condition,SNOMED,Clinical Finding,S,2.92671E+14,1/31/18,12/31/99,NA
+42535147,Cerebrovascular accident due to occlusion of right pontine artery,Condition,SNOMED,Clinical Finding,S,1.6024E+16,1/31/18,12/31/99,NA
+761797,Left carotid artery embolism with stroke,Condition,SNOMED,Clinical Finding,S,1.60025E+16,3/1/18,12/31/99,NA
+4045747,Anterior circulation stroke of uncertain pathology,Condition,SNOMED,Clinical Finding,S,230714009,1/31/02,12/31/99,NA
+4298750,Periventricular hemorrhagic venous infarct,Condition,SNOMED,Clinical Finding,S,384993003,1/31/03,12/31/99,NA
+37312014,Cerebral ischemic stroke due to hypercoagulable state,Condition,SNOMED,Clinical Finding,S,788883008,1/31/20,12/31/99,NA
+36717605,Silent cerebral infarct,Condition,SNOMED,Clinical Finding,S,723082006,1/31/17,12/31/99,NA
+42539166,Cerebrovascular accident due to thrombus of left carotid artery,Condition,SNOMED,Clinical Finding,S,3.30791E+14,1/31/18,12/31/99,NA
+618672,Cerebrovascular accident due to thrombosis of left vertebral artery,Condition,SNOMED,Clinical Finding,S,7.59951E+17,7/31/21,12/31/99,NA
+37312017,Cerebral ischemic stroke due to dissection of artery,Condition,SNOMED,Clinical Finding,S,788880006,1/31/20,12/31/99,NA
+762340,Left anterior cerebral artery embolism with stroke,Condition,SNOMED,Clinical Finding,S,3.29401E+14,3/1/18,12/31/99,NA
+42535149,Cerebrovascular accident due to occlusion of right cerebellar artery,Condition,SNOMED,Clinical Finding,S,1.60243E+16,1/31/18,12/31/99,NA
+42535511,Cerebrovascular accident due to thrombus of basilar artery,Condition,SNOMED,Clinical Finding,S,3.29641E+14,1/31/18,12/31/99,NA
+764721,Cerebrovascular accident with intracranial hemorrhage,Condition,SNOMED,Clinical Finding,S,5.571E+12,3/1/12,12/31/99,NA
+765568,Chronic cerebrovascular accident,Condition,SNOMED,Clinical Finding,S,4.34141E+14,3/1/13,12/31/99,NA
+4189462,Occlusive stroke,Condition,SNOMED,Clinical Finding,S,373606000,7/31/02,12/31/99,NA
+379778,Multi-infarct dementia,Condition,SNOMED,Clinical Finding,S,56267009,1/31/02,12/31/99,NA
+761793,Left posterior cerebral artery thrombosis with stroke,Condition,SNOMED,Clinical Finding,S,1.60023E+16,3/1/18,12/31/99,NA
+761791,Left cerebellar artery thrombosis with stroke,Condition,SNOMED,Clinical Finding,S,1.60022E+16,3/1/18,12/31/99,NA
+4211509,Cardioembolic stroke,Condition,SNOMED,Clinical Finding,S,413758000,1/31/05,12/31/99,NA
+4111711,Cerebellar stroke syndrome,Condition,SNOMED,Clinical Finding,S,195213000,1/31/02,12/31/99,NA
+42535504,Cerebrovascular accident due to occlusion of left middle cerebral artery by embolus,Condition,SNOMED,Clinical Finding,S,3.29371E+14,1/31/18,12/31/99,NA
+618627,Cerebrovascular accident due to thrombosis of right vertebral artery,Condition,SNOMED,Clinical Finding,S,5.11452E+17,7/31/21,12/31/99,NA
+4086178,Weber-Gubler syndrome,Condition,SNOMED,Clinical Finding,S,24654003,1/31/02,12/31/99,NA
+43531605,Occlusion of cerebral artery with stroke,Condition,SNOMED,Clinical Finding,S,9.901E+12,7/31/13,12/31/99,NA
+443790,Multi-infarct dementia with delusions,Condition,SNOMED,Clinical Finding,S,25772007,1/31/02,12/31/99,NA
+4310996,Ischemic stroke,Condition,SNOMED,Clinical Finding,S,422504002,1/31/07,12/31/99,NA
+37110239,Cerebral ischemic stroke due to extracranial large artery atherosclerosis,Condition,SNOMED,Clinical Finding,S,724426006,7/31/17,12/31/99,NA
+761795,Left vertebral artery embolism with stroke,Condition,SNOMED,Clinical Finding,S,1.60024E+16,3/1/18,12/31/99,NA
+37396293,CVA (cerebrovascular accident) during surgery,Condition,SNOMED,Clinical Finding,S,716051003,7/31/16,12/31/99,NA
+37109288,Traumatic subarachnoid hemorrhage with loss of consciousness,Condition,SNOMED,Clinical Finding,S,3.29671E+14,7/31/17,12/31/99,NA
+4153352,Embolic stroke,Condition,SNOMED,Clinical Finding,S,371041009,7/31/02,12/31/99,NA
+602584,Cerebrovascular accident due to occlusion of basilar artery,Condition,SNOMED,Clinical Finding,S,2.39965E+17,7/31/21,12/31/99,NA
+618688,Cerebrovascular accident due to embolism of left carotid artery,Condition,SNOMED,Clinical Finding,S,8.59423E+17,7/31/21,12/31/99,NA
+618689,Cerebrovascular accident due to occlusion of bilateral posterior cerebral arteries,Condition,SNOMED,Clinical Finding,S,8.65538E+16,7/31/21,12/31/99,NA
+36716999,Cerebellar stroke,Condition,SNOMED,Clinical Finding,S,1.63718E+16,1/31/17,12/31/99,NA
+4110196,Right sided cerebral hemisphere cerebrovascular accident,Condition,SNOMED,Clinical Finding,S,195217004,1/31/02,12/31/99,NA
+609242,Cerebrovascular accident due to occlusion of left anterior cerebral artery,Condition,SNOMED,Clinical Finding,S,1.82961E+17,7/31/21,12/31/99,NA
+603326,Cryptogenic stroke,Condition,SNOMED,Clinical Finding,S,1.68911E+16,1/31/21,12/31/99,NA
+762339,Right anterior cerebral artery embolism with stroke,Condition,SNOMED,Clinical Finding,S,3.29391E+14,3/1/18,12/31/99,NA
+618685,Cerebrovascular accident due to occlusion of right posterior communicating artery,Condition,SNOMED,Clinical Finding,S,8.49579E+17,7/31/21,12/31/99,NA
+37312013,Cerebral ischemic stroke due to subarachnoid hemorrhage,Condition,SNOMED,Clinical Finding,S,788884002,1/31/20,12/31/99,NA
+761792,Cerebrovascular accident due to thrombus of right posterior cerebral artery,Condition,SNOMED,Clinical Finding,S,1.60022E+16,9/1/17,12/31/99,NA
+602613,Cerebrovascular accident due to embolism of bilateral cerebellar arteries,Condition,SNOMED,Clinical Finding,S,5.81733E+16,7/31/21,12/31/99,NA
+37395562,Multi-infarct dementia due to atherosclerosis,Condition,SNOMED,Clinical Finding,S,1.06021E+14,7/31/16,12/31/99,NA
+4077819,Millard-Gubler syndrome,Condition,SNOMED,Clinical Finding,S,276221006,1/31/02,12/31/99,NA
+4168056,Stroke in the puerperium,Condition,SNOMED,Clinical Finding,S,275434003,1/31/02,12/31/99,NA
+43530670,Ischemic stroke without coma,Condition,SNOMED,Clinical Finding,S,1.40921E+14,7/31/13,12/31/99,NA
+37110765,Ischemic stroke without residual deficits,Condition,SNOMED,Clinical Finding,S,725132001,7/31/17,12/31/99,NA
+761790,Nonpyogenic cerebral venous thrombosis with stroke,Condition,SNOMED,Clinical Finding,S,1.60022E+16,3/1/18,12/31/99,NA
+619933,Cerebrovascular accident due to embolism of bilateral middle cerebral arteries,Condition,SNOMED,Clinical Finding,S,9.39885E+17,7/31/21,12/31/99,NA
+609301,Cerebrovascular accident due to occlusion of bilateral cerebellar arteries,Condition,SNOMED,Clinical Finding,S,3.46675E+17,7/31/21,12/31/99,NA
+609263,Cerebrovascular accident due to embolism of left anterior cerebral artery,Condition,SNOMED,Clinical Finding,S,2.51771E+17,7/31/21,12/31/99,NA
+37309657,Cerebrovascular accident due to stenosis of bilateral vertebral arteries,Condition,SNOMED,Clinical Finding,S,1.66619E+16,1/31/20,12/31/99,NA
+761798,Basilar artery embolism with stroke,Condition,SNOMED,Clinical Finding,S,1.60025E+16,3/1/18,12/31/99,NA

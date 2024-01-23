@@ -1,86 +1,86 @@
-concept_id,concept_code,concept_name,vocabulary_id,pcornet_vocabulary_id
-45553437,N18.2,"Chronic kidney disease, stage 2",ICD10,10
-45543858,N18.3,"Chronic kidney disease, stage 3",ICD10,10
-35209275,N18.2,"Chronic kidney disease, stage 2 (mild)",ICD10CM,10
-725441,N18.31,"Chronic kidney disease, stage 3a",ICD10CM,10
-725442,N18.32,"Chronic kidney disease, stage 3b",ICD10CM,10
-35209276,N18.3,"Chronic kidney disease, stage 3 (moderate)",ICD10CM,10
-725440,N18.30,"Chronic kidney disease, stage 3 unspecified",ICD10CM,10
-44827888,585.3,"Chronic kidney disease, Stage III (moderate)",ICD9CM,09
-44830173,585.2,"Chronic kidney disease, Stage II (mild)",ICD9CM,09
-37019193,691421000119108,Anemia co-occurrent and due to chronic kidney disease stage 3,SNOMED,SM
-762000,285061000119106,Benign hypertensive heart disease and chronic renal disease stage 2,SNOMED,SM
-762001,285081000119102,Benign hypertensive heart disease and chronic renal disease stage 3,SNOMED,SM
-3559376,834011000000104,Chronic kidney disease stage 2,SNOMED,SM
-3553778,211951000000100,Chronic kidney disease stage 2,SNOMED,SM
-3577568,211941000000103,Chronic kidney disease stage 2,SNOMED,SM
-443601,431856006,Chronic kidney disease stage 2,SNOMED,SM
-3566135,200441000000104,Chronic kidney disease stage 2,SNOMED,SM
-46270355,284981000119102,Chronic kidney disease stage 2 due to benign hypertension,SNOMED,SM
-44782692,129181000119109,Chronic kidney disease stage 2 due to hypertension,SNOMED,SM
-45769901,90731000119103,Chronic kidney disease stage 2 due to type 1 diabetes mellitus,SNOMED,SM
-43531566,741000119101,Chronic kidney disease stage 2 due to type 2 diabetes mellitus,SNOMED,SM
-44792229,324211000000106,Chronic kidney disease stage 2 without proteinuria,SNOMED,SM
-3555428,324231000000103,Chronic kidney disease stage 2 without proteinuria,SNOMED,SM
-3555427,324221000000100,Chronic kidney disease stage 2 without proteinuria,SNOMED,SM
-44792228,324181000000105,Chronic kidney disease stage 2 with proteinuria,SNOMED,SM
-3577569,211961000000102,Chronic kidney disease stage 3,SNOMED,SM
-443597,433144002,Chronic kidney disease stage 3,SNOMED,SM
-3559377,834021000000105,Chronic kidney disease stage 3,SNOMED,SM
-3564953,200451000000101,Chronic kidney disease stage 3,SNOMED,SM
-3553779,211971000000109,Chronic kidney disease stage 3,SNOMED,SM
-45763854,700378005,Chronic kidney disease stage 3A,SNOMED,SM
-44792017,309861000000100,Chronic kidney disease stage 3A,SNOMED,SM
-3579736,337041000000108,Chronic kidney disease stage 3A,SNOMED,SM
-3579741,337481000000108,Chronic kidney disease stage 3A,SNOMED,SM
-3555435,324351000000102,Chronic kidney disease stage 3A without proteinuria,SNOMED,SM
-3555436,324361000000104,Chronic kidney disease stage 3A without proteinuria,SNOMED,SM
-44792249,324341000000100,Chronic kidney disease stage 3A without proteinuria,SNOMED,SM
-44792232,324311000000101,Chronic kidney disease stage 3A with proteinuria,SNOMED,SM
-3555434,324331000000109,Chronic kidney disease stage 3A with proteinuria,SNOMED,SM
-3555433,324321000000107,Chronic kidney disease stage 3A with proteinuria,SNOMED,SM
-45763855,700379002,Chronic kidney disease stage 3B,SNOMED,SM
-3579737,337051000000106,Chronic kidney disease stage 3B,SNOMED,SM
-44792018,309871000000107,Chronic kidney disease stage 3B,SNOMED,SM
-3555546,337491000000105,Chronic kidney disease stage 3B,SNOMED,SM
-3555440,324431000000102,Chronic kidney disease stage 3B without proteinuria,SNOMED,SM
-44792251,324411000000105,Chronic kidney disease stage 3B without proteinuria,SNOMED,SM
-3555439,324421000000104,Chronic kidney disease stage 3B without proteinuria,SNOMED,SM
-44792250,324371000000106,Chronic kidney disease stage 3B with proteinuria,SNOMED,SM
-3555438,324391000000105,Chronic kidney disease stage 3B with proteinuria,SNOMED,SM
-3555437,324381000000108,Chronic kidney disease stage 3B with proteinuria,SNOMED,SM
-46273636,284991000119104,Chronic kidney disease stage 3 due to benign hypertension,SNOMED,SM
-44782691,129171000119106,Chronic kidney disease stage 3 due to hypertension,SNOMED,SM
-45771075,90741000119107,Chronic kidney disease stage 3 due to type 1 diabetes mellitus,SNOMED,SM
-43531653,731000119105,Chronic kidney disease stage 3 due to type 2 diabetes mellitus,SNOMED,SM
-3555431,324291000000102,Chronic kidney disease stage 3 without proteinuria,SNOMED,SM
-44792231,324281000000104,Chronic kidney disease stage 3 without proteinuria,SNOMED,SM
-3555432,324301000000103,Chronic kidney disease stage 3 without proteinuria,SNOMED,SM
-44792230,324251000000105,Chronic kidney disease stage 3 with proteinuria,SNOMED,SM
-3555430,324271000000101,Chronic kidney disease stage 3 with proteinuria,SNOMED,SM
-3555429,324261000000108,Chronic kidney disease stage 3 with proteinuria,SNOMED,SM
-46284572,949521000000108,CKD G2A1 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A1,SNOMED,SM
-46287169,949561000000100,CKD G2A2 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A2,SNOMED,SM
-46284575,949621000000109,CKD G2A3 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A3,SNOMED,SM
-46284587,949881000000106,CKD G3aA1 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1,SNOMED,SM
-46286992,949901000000109,CKD G3aA2 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2,SNOMED,SM
-46284588,949921000000100,CKD G3aA3 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3,SNOMED,SM
-46284591,950061000000103,CKD G3bA1 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1,SNOMED,SM
-46284592,950081000000107,CKD G3bA2 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2,SNOMED,SM
-46284593,950101000000101,CKD G3bA3 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3,SNOMED,SM
-45757447,140131000119102,Hypertension in chronic kidney disease stage 2 due to type 2 diabetes mellitus,SNOMED,SM
-45757446,140121000119100,Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus,SNOMED,SM
-43021836,96741000119109,Hypertensive heart AND chronic kidney disease stage 2,SNOMED,SM
-43021835,96731000119100,Hypertensive heart AND chronic kidney disease stage 3,SNOMED,SM
-43021854,285861000119100,Malignant hypertensive chronic kidney disease stage 2,SNOMED,SM
-43020456,285871000119106,Malignant hypertensive chronic kidney disease stage 3,SNOMED,SM
-762033,285911000119109,Malignant hypertensive heart disease and chronic renal disease stage 3,SNOMED,SM
-NA,N182,"Chronic kidney disease, stage 2",ICD10,10
-NA,N183,"Chronic kidney disease, stage 3",ICD10,10
-NA,N182,"Chronic kidney disease, stage 2 (mild)",ICD10CM,10
-NA,N1831,"Chronic kidney disease, stage 3a",ICD10CM,10
-NA,N1832,"Chronic kidney disease, stage 3b",ICD10CM,10
-NA,N183,"Chronic kidney disease, stage 3 (moderate)",ICD10CM,10
-NA,N1830,"Chronic kidney disease, stage 3 unspecified",ICD10CM,10
-NA,5853,"Chronic kidney disease, Stage III (moderate)",ICD9CM,09
-NA,5852,"Chronic kidney disease, Stage II (mild)",ICD9CM,09
+concept_id,concept_code,concept_name,vocabulary_id,pcornet_vocabulary_id,cc_decimal_removal
+443597,433144002,Chronic kidney disease stage 3,SNOMED,SM,FALSE
+443601,431856006,Chronic kidney disease stage 2,SNOMED,SM,FALSE
+725440,N18.30,"Chronic kidney disease, stage 3 unspecified",ICD10CM,10,FALSE
+725440,N1830,"Chronic kidney disease, stage 3 unspecified",ICD10CM,10,TRUE
+725441,N18.31,"Chronic kidney disease, stage 3a",ICD10CM,10,FALSE
+725441,N1831,"Chronic kidney disease, stage 3a",ICD10CM,10,TRUE
+725442,N18.32,"Chronic kidney disease, stage 3b",ICD10CM,10,FALSE
+725442,N1832,"Chronic kidney disease, stage 3b",ICD10CM,10,TRUE
+762000,285061000119106,Benign hypertensive heart disease and chronic renal disease stage 2,SNOMED,SM,FALSE
+762001,285081000119102,Benign hypertensive heart disease and chronic renal disease stage 3,SNOMED,SM,FALSE
+762033,285911000119109,Malignant hypertensive heart disease and chronic renal disease stage 3,SNOMED,SM,FALSE
+3553778,211951000000100,Chronic kidney disease stage 2,SNOMED,SM,FALSE
+3553779,211971000000109,Chronic kidney disease stage 3,SNOMED,SM,FALSE
+3555427,324221000000100,Chronic kidney disease stage 2 without proteinuria,SNOMED,SM,FALSE
+3555428,324231000000103,Chronic kidney disease stage 2 without proteinuria,SNOMED,SM,FALSE
+3555429,324261000000108,Chronic kidney disease stage 3 with proteinuria,SNOMED,SM,FALSE
+3555430,324271000000101,Chronic kidney disease stage 3 with proteinuria,SNOMED,SM,FALSE
+3555431,324291000000102,Chronic kidney disease stage 3 without proteinuria,SNOMED,SM,FALSE
+3555432,324301000000103,Chronic kidney disease stage 3 without proteinuria,SNOMED,SM,FALSE
+3555433,324321000000107,Chronic kidney disease stage 3A with proteinuria,SNOMED,SM,FALSE
+3555434,324331000000109,Chronic kidney disease stage 3A with proteinuria,SNOMED,SM,FALSE
+3555435,324351000000102,Chronic kidney disease stage 3A without proteinuria,SNOMED,SM,FALSE
+3555436,324361000000104,Chronic kidney disease stage 3A without proteinuria,SNOMED,SM,FALSE
+3555437,324381000000108,Chronic kidney disease stage 3B with proteinuria,SNOMED,SM,FALSE
+3555438,324391000000105,Chronic kidney disease stage 3B with proteinuria,SNOMED,SM,FALSE
+3555439,324421000000104,Chronic kidney disease stage 3B without proteinuria,SNOMED,SM,FALSE
+3555440,324431000000102,Chronic kidney disease stage 3B without proteinuria,SNOMED,SM,FALSE
+3555546,337491000000105,Chronic kidney disease stage 3B,SNOMED,SM,FALSE
+3559376,834011000000104,Chronic kidney disease stage 2,SNOMED,SM,FALSE
+3559377,834021000000105,Chronic kidney disease stage 3,SNOMED,SM,FALSE
+3564953,200451000000101,Chronic kidney disease stage 3,SNOMED,SM,FALSE
+3566135,200441000000104,Chronic kidney disease stage 2,SNOMED,SM,FALSE
+3577568,211941000000103,Chronic kidney disease stage 2,SNOMED,SM,FALSE
+3577569,211961000000102,Chronic kidney disease stage 3,SNOMED,SM,FALSE
+3579736,337041000000108,Chronic kidney disease stage 3A,SNOMED,SM,FALSE
+3579737,337051000000106,Chronic kidney disease stage 3B,SNOMED,SM,FALSE
+3579741,337481000000108,Chronic kidney disease stage 3A,SNOMED,SM,FALSE
+35209275,N18.2,"Chronic kidney disease, stage 2 (mild)",ICD10CM,10,FALSE
+35209275,N182,"Chronic kidney disease, stage 2 (mild)",ICD10CM,10,TRUE
+35209276,N18.3,"Chronic kidney disease, stage 3 (moderate)",ICD10CM,10,FALSE
+35209276,N183,"Chronic kidney disease, stage 3 (moderate)",ICD10CM,10,TRUE
+37019193,691421000119108,Anemia co-occurrent and due to chronic kidney disease stage 3,SNOMED,SM,FALSE
+43020456,285871000119106,Malignant hypertensive chronic kidney disease stage 3,SNOMED,SM,FALSE
+43021835,96731000119100,Hypertensive heart AND chronic kidney disease stage 3,SNOMED,SM,FALSE
+43021836,96741000119109,Hypertensive heart AND chronic kidney disease stage 2,SNOMED,SM,FALSE
+43021854,285861000119100,Malignant hypertensive chronic kidney disease stage 2,SNOMED,SM,FALSE
+43531566,741000119101,Chronic kidney disease stage 2 due to type 2 diabetes mellitus,SNOMED,SM,FALSE
+43531653,731000119105,Chronic kidney disease stage 3 due to type 2 diabetes mellitus,SNOMED,SM,FALSE
+44782691,129171000119106,Chronic kidney disease stage 3 due to hypertension,SNOMED,SM,FALSE
+44782692,129181000119109,Chronic kidney disease stage 2 due to hypertension,SNOMED,SM,FALSE
+44792017,309861000000100,Chronic kidney disease stage 3A,SNOMED,SM,FALSE
+44792018,309871000000107,Chronic kidney disease stage 3B,SNOMED,SM,FALSE
+44792228,324181000000105,Chronic kidney disease stage 2 with proteinuria,SNOMED,SM,FALSE
+44792229,324211000000106,Chronic kidney disease stage 2 without proteinuria,SNOMED,SM,FALSE
+44792230,324251000000105,Chronic kidney disease stage 3 with proteinuria,SNOMED,SM,FALSE
+44792231,324281000000104,Chronic kidney disease stage 3 without proteinuria,SNOMED,SM,FALSE
+44792232,324311000000101,Chronic kidney disease stage 3A with proteinuria,SNOMED,SM,FALSE
+44792249,324341000000100,Chronic kidney disease stage 3A without proteinuria,SNOMED,SM,FALSE
+44792250,324371000000106,Chronic kidney disease stage 3B with proteinuria,SNOMED,SM,FALSE
+44792251,324411000000105,Chronic kidney disease stage 3B without proteinuria,SNOMED,SM,FALSE
+44827888,585.3,"Chronic kidney disease, Stage III (moderate)",ICD9CM,09,FALSE
+44827888,5853,"Chronic kidney disease, Stage III (moderate)",ICD9CM,09,TRUE
+44830173,585.2,"Chronic kidney disease, Stage II (mild)",ICD9CM,09,FALSE
+44830173,5852,"Chronic kidney disease, Stage II (mild)",ICD9CM,09,TRUE
+45543858,N18.3,"Chronic kidney disease, stage 3",ICD10,10,FALSE
+45543858,N183,"Chronic kidney disease, stage 3",ICD10,10,TRUE
+45553437,N18.2,"Chronic kidney disease, stage 2",ICD10,10,FALSE
+45553437,N182,"Chronic kidney disease, stage 2",ICD10,10,TRUE
+45757446,140121000119100,Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus,SNOMED,SM,FALSE
+45757447,140131000119102,Hypertension in chronic kidney disease stage 2 due to type 2 diabetes mellitus,SNOMED,SM,FALSE
+45763854,700378005,Chronic kidney disease stage 3A,SNOMED,SM,FALSE
+45763855,700379002,Chronic kidney disease stage 3B,SNOMED,SM,FALSE
+45769901,90731000119103,Chronic kidney disease stage 2 due to type 1 diabetes mellitus,SNOMED,SM,FALSE
+45771075,90741000119107,Chronic kidney disease stage 3 due to type 1 diabetes mellitus,SNOMED,SM,FALSE
+46270355,284981000119102,Chronic kidney disease stage 2 due to benign hypertension,SNOMED,SM,FALSE
+46273636,284991000119104,Chronic kidney disease stage 3 due to benign hypertension,SNOMED,SM,FALSE
+46284572,949521000000108,CKD G2A1 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A1,SNOMED,SM,FALSE
+46284575,949621000000109,CKD G2A3 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A3,SNOMED,SM,FALSE
+46284587,949881000000106,CKD G3aA1 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1,SNOMED,SM,FALSE
+46284588,949921000000100,CKD G3aA3 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3,SNOMED,SM,FALSE
+46284591,950061000000103,CKD G3bA1 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1,SNOMED,SM,FALSE
+46284592,950081000000107,CKD G3bA2 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2,SNOMED,SM,FALSE
+46284593,950101000000101,CKD G3bA3 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3,SNOMED,SM,FALSE
+46286992,949901000000109,CKD G3aA2 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2,SNOMED,SM,FALSE
+46287169,949561000000100,CKD G2A2 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A2,SNOMED,SM,FALSE

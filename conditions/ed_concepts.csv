@@ -1,0 +1,24 @@
+concept_id,concept_code,concept_name,vocabulary_id
+436675,56882008,Anorexia nervosa,SNOMED
+4269485,63393005,"Anorexia nervosa, binge-eating purging type",SNOMED
+36716779,722959000,Anorexia nervosa co-occurrent with dangerously low body weight,SNOMED
+36717597,722960005,Anorexia nervosa co-occurrent with significantly low body weight,SNOMED
+4300305,77675002,"Anorexia nervosa, restricting type",SNOMED
+4333683,231522009,Atypical anorexia nervosa,SNOMED
+4333684,231523004,Atypical bulimia nervosa,SNOMED
+45763720,700213005,Avoidant restrictive food intake disorder,SNOMED
+4208913,439960005,Binge eating disorder,SNOMED
+438407,78004001,Bulimia nervosa,SNOMED
+4245170,59645001,"Bulimia nervosa, nonpurging type",SNOMED
+4139256,32721004,"Bulimia nervosa, purging type",SNOMED
+37109946,723918000,Dangerously low body weight co-occurrent and due to anorexia nervosa of binge-eating purging type,SNOMED
+37109945,723917005,Dangerously low body weight co-occurrent and due to anorexia nervosa of restricting type,SNOMED
+439002,72366004,Eating disorder,SNOMED
+4253315,407666007,Nocturnal sleep-related eating disorder,SNOMED
+3655965,870568002,Orthorexia nervosa,SNOMED
+4173812,275474009,Psychogenic overeating,SNOMED
+4091520,249520001,Self-induced purging,SNOMED
+4085361,248118000,Self-induced purging to lose weight,SNOMED
+45767550,705001007,Self-induced vomiting to lose weight,SNOMED
+37118987,723920002,Significantly low body weight co-occurrent and due to anorexia nervosa of binge-eating purging type,SNOMED
+37109947,723919008,Significantly low body weight co-occurrent and due to anorexia nervosa of restricting type,SNOMED

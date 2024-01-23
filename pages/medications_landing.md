@@ -14,12 +14,12 @@
 |[Anti-reflux medications](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_reflux_meds_md_page.html)|
 |[Antibiotic injectables](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_antibiotic_injectables_md_page.html)|
 |[Antihypertensive medications (other)](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_other_antihtn_md_page.html)|
-|[Antineoplastic drugs](https://pedsnet.github.io/Variable-Dictionary/pages/medications/NA_md_page.html)|
+|[Antineoplastic drugs](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_antineoplastics_md_page.html)|
 |[Antipsychotic prescription](https://pedsnet.github.io/Variable-Dictionary/pages/medications/antipsychotic_drugs_md_page.html)|
 |[Azathioprine](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_azathioprine_md_page.html)|
 |[Beta blockers](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_bb_md_page.html)|
 |[Calcium channel blockers](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_ccb_md_page.html)|
-|[Chemotherapy](https://pedsnet.github.io/Variable-Dictionary/pages/medications/NA_md_page.html)|
+|[Chemotherapy](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_chemo_md_page.html)|
 |[Citrate exposures](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_citrate_md_page.html)|
 |[COVID-19 medications](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_meds_c19_md_page.html)|
 |[Cyclophosphamide](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_cyclophosphamide_md_page.html)|
@@ -30,13 +30,13 @@
 |[IV fluids SCDF](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_iv_fluids_scdf_md_page.html)|
 |[Loop diuretic](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_loop_diuretic_md_page.html)|
 |[Mycophenolate](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_mycophenolate_md_page.html)|
-|[Nephrotoxic Chemotherapy](https://pedsnet.github.io/Variable-Dictionary/pages/medications/NA_md_page.html)|
+|[Nephrotoxic Chemotherapy](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_nephrotoxic_chemo_md_page.html)|
 |[Opioids](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_opioids_md_page.html)|
 |[Paxlovid](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_paxlovid_md_page.html)|
 |[Paxlovid](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_paxlovid_md_page.html)|
 |[Pressors](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_pressors_md_page.html)|
 |[Proton-pump inhibitors](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_ppi_md_page.html)|
-|[Renin-angiotensin-aldosterone system (RAAS) blockers](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_ras_md_page.html)|
+|[Renin-angiotensin-aldosterone system (RAAS) blockers](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_raas_md_page.html)|
 |[Renin-angiotensin-aldosterone system blocking medications](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_ras_md_page.html)|
 |[Rituximab](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_rituximab_md_page.html)|
 |[SGLT2 inhibitors](https://pedsnet.github.io/Variable-Dictionary/pages/medications/rx_sglt2_medications_md_page.html)|

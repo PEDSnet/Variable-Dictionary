@@ -1,0 +1,54 @@
+﻿concept_id,concept_name,concept_code,vocabulary_id,syndromic,systemic,condition_category
+1572212,Disturbances of skin sensation,R20,ICD10CM,1,0,other
+45597172,Disturbances of skin sensation,R20,ICD10,1,0,other
+45587502,Anaesthesia of skin,R20.0,ICD10,1,0,other
+35211304,Anesthesia of skin,R20.0,ICD10CM,1,0,other
+35211305,Hypoesthesia of skin,R20.1,ICD10CM,1,0,other
+45568119,Hypoaesthesia of skin,R20.1,ICD10,1,0,other
+45568120,Paraesthesia of skin,R20.2,ICD10,1,0,other
+35211306,Paresthesia of skin,R20.2,ICD10CM,1,0,other
+35211307,Hyperesthesia,R20.3,ICD10CM,1,0,other
+45587503,Hyperaesthesia,R20.3,ICD10,1,0,other
+45602013,Other and unspecified disturbances of skin sensation,R20.8,ICD10,1,0,other
+35211308,Other disturbances of skin sensation,R20.8,ICD10CM,1,0,other
+45606799,Unspecified disturbances of skin sensation,R20.9,ICD10CM,1,0,other
+45553721,Rash and other nonspecific skin eruption,R21,ICD10,1,0,other
+35211309,Rash and other nonspecific skin eruption,R21,ICD10CM,1,0,other
+1572213,"Localized swelling, mass and lump of skin and subcutaneous tissue",R22,ICD10CM,1,0,other
+45573018,"Localized swelling, mass and lump of skin and subcutaneous tissue",R22,ICD10,1,0,other
+45548955,"Localized swelling, mass and lump, head",R22.0,ICD10,1,0,other
+35211310,"Localized swelling, mass and lump, head",R22.0,ICD10CM,1,0,other
+35211311,"Localized swelling, mass and lump, neck",R22.1,ICD10CM,1,0,other
+45592412,"Localized swelling, mass and lump, neck",R22.1,ICD10,1,0,other
+45602014,"Localized swelling, mass and lump, trunk",R22.2,ICD10,1,0,other
+35211312,"Localized swelling, mass and lump, trunk",R22.2,ICD10CM,1,0,other
+1572214,"Localized swelling, mass and lump, upper limb",R22.3,ICD10CM,1,0,other
+45548956,"Localized swelling, mass and lump, upper limb",R22.3,ICD10,1,0,other
+45544135,"Localized swelling, mass and lump, unspecified upper limb",R22.30,ICD10CM,1,0,other
+45539324,"Localized swelling, mass and lump, right upper limb",R22.31,ICD10CM,1,0,other
+45553722,"Localized swelling, mass and lump, left upper limb",R22.32,ICD10CM,1,0,other
+45568121,"Localized swelling, mass and lump, upper limb, bilateral",R22.33,ICD10CM,1,0,other
+45597173,"Localized swelling, mass and lump, lower limb",R22.4,ICD10,1,0,other
+1572215,"Localized swelling, mass and lump, lower limb",R22.4,ICD10CM,1,0,other
+45573019,"Localized swelling, mass and lump, unspecified lower limb",R22.40,ICD10CM,1,0,other
+45592413,"Localized swelling, mass and lump, right lower limb",R22.41,ICD10CM,1,0,other
+45548957,"Localized swelling, mass and lump, left lower limb",R22.42,ICD10CM,1,0,other
+45548958,"Localized swelling, mass and lump, lower limb, bilateral",R22.43,ICD10CM,1,0,other
+45539325,"Localized swelling, mass and lump, multiple sites",R22.7,ICD10,1,0,other
+35211313,"Localized swelling, mass and lump, unspecified",R22.9,ICD10CM,1,0,other
+45577788,"Localized swelling, mass and lump, unspecified",R22.9,ICD10,1,0,other
+45568122,Other skin changes,R23,ICD10,1,0,other
+1572216,Other skin changes,R23,ICD10CM,1,0,other
+35211314,Cyanosis,R23.0,ICD10CM,1,0,other
+45553723,Cyanosis,R23.0,ICD10,1,0,other
+35211315,Pallor,R23.1,ICD10CM,1,0,other
+45544136,Pallor,R23.1,ICD10,1,0,other
+45568123,Flushing,R23.2,ICD10,1,0,other
+35211316,Flushing,R23.2,ICD10CM,1,0,other
+35211317,Spontaneous ecchymoses,R23.3,ICD10CM,1,0,other
+45539326,Spontaneous ecchymoses,R23.3,ICD10,1,0,other
+45563295,Changes in skin texture,R23.4,ICD10,1,0,other
+35211318,Changes in skin texture,R23.4,ICD10CM,1,0,other
+35211319,Other skin changes,R23.8,ICD10CM,1,0,other
+45573020,Other and unspecified skin changes,R23.8,ICD10,1,0,other
+45606800,Unspecified skin changes,R23.9,ICD10CM,1,0,other

@@ -1,0 +1,67 @@
+concept_id,concept_name,domain_id,vocabulary_id
+3051227,Blood [Presence] in Urine by Visual,Measurement,LOINC
+40791741,Blood | Urine,Measurement,LOINC
+37042473,Blood | Urine | Urinalysis,Measurement,LOINC
+3048402,Erythrocytes [#/area] in Urine sediment by Automated count,Measurement,LOINC
+3035124,Erythrocytes [#/area] in Urine sediment by Microscopy high power field,Measurement,LOINC
+40771455,Erythrocytes by Light microscopy in Urine sediment collected for unspecified duration,Measurement,LOINC
+3038315,Erythrocytes.dysmorphic/100 erythrocytes in Urine sediment by Light microscopy,Measurement,LOINC
+37057628,Erythrocytes.dysmorphic/100 erythrocytes | Urine sediment | Urinalysis,Measurement,LOINC
+3039174,Erythrocytes.dysmorphic G1/100 erythrocytes in Urine sediment by Light microscopy,Measurement,LOINC
+37050040,Erythrocytes.dysmorphic G1/100 erythrocytes | Urine sediment | Urinalysis,Measurement,LOINC
+40798292,Erythrocytes.dysmorphic G1 | Urine sediment,Measurement,LOINC
+40761545,Erythrocytes.dysmorphic [Presence] in Urine sediment by Light microscopy,Measurement,LOINC
+40787497,Erythrocytes.dysmorphic | Urine,Measurement,LOINC
+40778490,Erythrocytes.dysmorphic | Urine sediment,Measurement,LOINC
+37051477,Erythrocytes.dysmorphic | Urine sediment | Urinalysis,Measurement,LOINC
+37056635,Erythrocytes.dysmorphic | Urine | Urinalysis,Measurement,LOINC
+40657684,Erythrocytes.dysmorphic|Urine/Urine sed,Measurement,LOINC
+3043133,Erythrocytes.dysmorphic [#/volume] in Urine by Light microscopy,Measurement,LOINC
+3038345,Erythrocytes.ghost cells [Presence] in Urine sediment by Light microscopy,Measurement,LOINC
+40771458,Erythrocytes in 24 hour Urine sediment by Light microscopy,Measurement,LOINC
+40762891,Erythrocytes in 3 hour Urine sediment by Light microscopy,Measurement,LOINC
+40656107,Erythrocytes|NCnc|Urine,Measurement,LOINC
+3051266,Erythrocytes.non-dysmorphic [Presence] in Urine sediment by Light microscopy,Measurement,LOINC
+40791742,Erythrocytes.non-dysmorphic | Urine sediment,Measurement,LOINC
+37058323,Erythrocytes.non-dysmorphic | Urine sediment | Urinalysis,Measurement,LOINC
+3045424,Erythrocytes [Presence] in Urine,Measurement,LOINC
+3041096,Erythrocytes [Presence] in Urine by Automated,Measurement,LOINC
+3046030,Erythrocytes [Presence] in Urine sediment by Light microscopy,Measurement,LOINC
+40656108,Erythrocytes|PrThr|Urine,Measurement,LOINC
+40777400,Erythrocytes | Urine,Measurement,LOINC
+37077796,Erythrocytes | Urine sediment | Urinalysis,Measurement,LOINC
+37049472,Erythrocytes | Urine | Urinalysis,Measurement,LOINC
+40657685,Erythrocytes|Urine/Urine sed,Measurement,LOINC
+40771454,Erythrocytes [#/volume] by Light microscopy in Urine sediment collected for unspecified duration,Measurement,LOINC
+3002582,Erythrocytes [#/volume] in Urine,Measurement,LOINC
+3002864,Erythrocytes [#/volume] in Urine by Automated count,Measurement,LOINC
+40760857,Erythrocytes [#/volume] in Urine by Automated test strip,Measurement,LOINC
+3001695,Erythrocytes [#/volume] in Urine by Manual count,Measurement,LOINC
+3009105,Erythrocytes [#/volume] in Urine by Test strip,Measurement,LOINC
+3001494,Erythrocytes [#/volume] in Urine sediment by Microscopy high power field,Measurement,LOINC
+3045775,Hemoglobin casts [Presence] in Urine sediment by Light microscopy,Measurement,LOINC
+40774164,Hemoglobin Casts | Urine sediment,Measurement,LOINC
+37034041,Hemoglobin casts | Urine sediment | Urinalysis,Measurement,LOINC
+3002719,Hemoglobin [Mass/volume] in Urine,Measurement,LOINC
+3030267,Hemoglobin [Mass/volume] in Urine by Automated test strip,Measurement,LOINC
+3049185,Hemoglobin [Mass/volume] in Urine by Test strip,Measurement,LOINC
+40656172,Hemoglobin|MCnc|Urine,Measurement,LOINC
+3003344,Hemoglobin [Presence] in Urine,Measurement,LOINC
+40760861,Hemoglobin [Presence] in Urine by Automated test strip,Measurement,LOINC
+3011397,Hemoglobin [Presence] in Urine by Test strip,Measurement,LOINC
+40656173,Hemoglobin|PrThr|Urine,Measurement,LOINC
+40784534,Hemoglobin | Urine,Measurement,LOINC
+37068784,Hemoglobin | Urine | Hematology and Cell counts,Measurement,LOINC
+37056155,Hemoglobin | Urine | Urinalysis,Measurement,LOINC
+40657695,Hemoglobin|Urine/Urine sed,Measurement,LOINC
+3030940,RBC casts [#/area] in Urine by Computer assisted method,Measurement,LOINC
+36304849,RBC casts [#/area] in Urine sediment,Measurement,LOINC
+3042421,RBC casts [#/area] in Urine sediment by Microscopy high power field,Measurement,LOINC
+3002587,RBC casts [#/area] in Urine sediment by Microscopy low power field,Measurement,LOINC
+3041951,RBC casts [Presence] in Urine by Computer assisted method,Measurement,LOINC
+3046326,RBC casts [Presence] in Urine sediment by Light microscopy,Measurement,LOINC
+40784853,RBC Casts | Urine,Measurement,LOINC
+40780886,RBC Casts | Urine sediment,Measurement,LOINC
+37024486,RBC casts | Urine sediment | Urinalysis,Measurement,LOINC
+37054611,RBC casts | Urine | Urinalysis,Measurement,LOINC
+3039915,RBC casts [#/volume] in Urine by Computer assisted method,Measurement,LOINC

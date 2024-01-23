@@ -1,9 +1,9 @@
 |Codesets                                     |
 |:--------------------------------------------|
-|[ABPM](https://pedsnet.github.io/Variable-Dictionary/pages/procedures/NA_md_page.html)|
+|[ABPM](https://pedsnet.github.io/Variable-Dictionary/pages/procedures/px_abpm_md_page.html)|
 |[Bone density procedures](https://pedsnet.github.io/Variable-Dictionary/pages/procedures/px_bone_density_md_page.html)|
 |[Bone marrow transplant](https://pedsnet.github.io/Variable-Dictionary/pages/procedures/px_bmt_md_page.html)|
-|[Chronic kidney dialysis](https://pedsnet.github.io/Variable-Dictionary/pages/procedures/NA_md_page.html)|
+|[Chronic kidney dialysis](https://pedsnet.github.io/Variable-Dictionary/pages/procedures/px_chronic_dialysis_md_page.html)|
 |[Echocardiogram](https://pedsnet.github.io/Variable-Dictionary/pages/procedures/px_echo_md_page.html)|
 |[Electrocardiogram (ECG)](https://pedsnet.github.io/Variable-Dictionary/pages/procedures/px_ecg_md_page.html)|
 |[Gastrostomy](https://pedsnet.github.io/Variable-Dictionary/pages/procedures/px_gastrostomy_md_page.html)|

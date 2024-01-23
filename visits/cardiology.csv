@@ -1,0 +1,18 @@
+concept_id,concept_code,concept_name,vocabulary_id
+45756805,OMOP4821938,Pediatric Cardiology,ABMS
+45756779,OMOP4821964,Interventional Cardiology,ABMS
+45756749,OMOP4822003,Advanced Heart Failure and Transplant Cardiology,ABMS
+903237,207RA0001X,"Allopathic & Osteopathic Physicians, Internal Medicine, Advanced Heart Failure and Transplant Cardiology",NUCC
+44777721,320,Cardiology,HES Specialty
+44777779,321,Paediatric cardiology,HES Specialty
+903276,C3,Interventional Cardiology,Medicare Specialty
+903279,C7,Advanced Heart Failure and Transplant Cardiology,Medicare Specialty
+38004451,6,Cardiology,Medicare Specialty
+38003877,207RI0011X,"Allopathic & Osteopathic Physicians, Internal Medicine, Interventional Cardiology",NUCC
+38003895,207UN0901X,Nuclear Cardiology,NUCC
+38003948,2080P0202X,"Allopathic & Osteopathic Physicians, Pediatrics, Pediatric Cardiology",NUCC
+3195514,17561000,Cardiologist,Nebraska Lexicon
+38004146,246W00000X,Cardiology Technician,NUCC
+3191152,309330006,Paediatric cardiologist,Nebraska Lexicon
+4069453,17561000,Cardiologist,SNOMED
+4202806,309330006,Pediatric cardiologist,SNOMED

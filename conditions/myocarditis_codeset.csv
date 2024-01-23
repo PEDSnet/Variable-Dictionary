@@ -1,0 +1,11 @@
+concept_id,concept_name,concept_code,vocabulary_id
+35207638,Acute rheumatic myocarditis,I01.2,ICD10CM
+45581156,Viral myocarditis,B33.22,ICD10CM
+35207664,Rheumatic myocarditis,I09.0,ICD10CM
+1569160,Acute myocarditis,I40,ICD10CM
+35207750,Infective myocarditis,I40.0,ICD10CM
+35207751,Isolated myocarditis,I40.1,ICD10CM
+35207752,Other acute myocarditis,I40.8,ICD10CM
+35207753,"Acute myocarditis, unspecified",I40.9,ICD10CM
+35207754,Myocarditis in diseases classified elsewhere,I41,ICD10CM
+35207798,"Myocarditis, unspecified",I51.4,ICD10CM

@@ -1,0 +1,19 @@
+﻿concept_id,concept_name,concept_code,vocabulary_id,syndromic,systemic,condition_category
+1567893,Other hypothyroidism,E03,ICD10CM,0,1,endo
+45581337,Other hypothyroidism,E03,ICD10,0,1,endo
+45586129,Congenital hypothyroidism with diffuse goitre,E03.0,ICD10,0,1,endo
+35206852,Congenital hypothyroidism with diffuse goiter,E03.0,ICD10CM,0,1,endo
+35206853,Congenital hypothyroidism without goiter,E03.1,ICD10CM,0,1,endo
+45576424,Congenital hypothyroidism without goitre,E03.1,ICD10,0,1,endo
+45566718,Hypothyroidism due to medicaments and other exogenous substances,E03.2,ICD10,0,1,endo
+35206854,Hypothyroidism due to medicaments and other exogenous substances,E03.2,ICD10CM,0,1,endo
+35206855,Postinfectious hypothyroidism,E03.3,ICD10CM,0,1,endo
+45586130,Postinfectious hypothyroidism,E03.3,ICD10,0,1,endo
+45542724,Atrophy of thyroid (acquired),E03.4,ICD10,0,1,endo
+35206856,Atrophy of thyroid (acquired),E03.4,ICD10CM,0,1,endo
+35206857,Myxedema coma,E03.5,ICD10CM,0,1,endo
+45600627,Myxoedema coma,E03.5,ICD10,0,1,endo
+45557102,Other specified hypothyroidism,E03.8,ICD10,0,1,endo
+35206858,Other specified hypothyroidism,E03.8,ICD10CM,0,1,endo
+35206859,"Hypothyroidism, unspecified",E03.9,ICD10CM,0,1,endo
+45537945,"Hypothyroidism, unspecified",E03.9,ICD10,0,1,endo

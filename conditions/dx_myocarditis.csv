@@ -1,0 +1,14 @@
+﻿concept_id,concept_name,concept_code,vocabulary_id,syndromic,systemic,condition_category
+45581156,Viral myocarditis,B33.22,ICD10CM,0,1,cardiovascular
+45601033,Acute myocarditis,I40,ICD10,0,1,cardiovascular
+1569160,Acute myocarditis,I40,ICD10CM,0,1,cardiovascular
+45562348,Infective myocarditis,I40.0,ICD10,0,1,cardiovascular
+35207750,Infective myocarditis,I40.0,ICD10CM,0,1,cardiovascular
+45538380,Isolated myocarditis,I40.1,ICD10,0,1,cardiovascular
+35207751,Isolated myocarditis,I40.1,ICD10CM,0,1,cardiovascular
+45533449,Other acute myocarditis,I40.8,ICD10,0,1,cardiovascular
+35207752,Other acute myocarditis,I40.8,ICD10CM,0,1,cardiovascular
+45596203,"Acute myocarditis, unspecified",I40.9,ICD10,0,1,cardiovascular
+35207753,"Acute myocarditis, unspecified",I40.9,ICD10CM,0,1,cardiovascular
+45596208,"Myocarditis, unspecified",I51.4,ICD10,0,1,cardiovascular
+35207798,"Myocarditis, unspecified",I51.4,ICD10CM,0,1,cardiovascular

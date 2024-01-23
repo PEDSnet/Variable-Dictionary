@@ -1,0 +1,13 @@
+﻿concept_id,concept_name,concept_code,vocabulary_id,syndromic,systemic,condition_category
+45571457,Other specified acute viral hepatitis,B17.8,ICD10,0,1,gastrointestinal
+35205767,Other specified acute viral hepatitis,B17.8,ICD10CM,0,1,gastrointestinal
+45581150,"Acute viral hepatitis, unspecified",B17.9,ICD10,0,1,gastrointestinal
+35205768,"Acute viral hepatitis, unspecified",B17.9,ICD10CM,0,1,gastrointestinal
+45547440,Other chronic viral hepatitis,B18.8,ICD10,0,1,gastrointestinal
+35205772,Other chronic viral hepatitis,B18.8,ICD10CM,0,1,gastrointestinal
+45547441,"Chronic viral hepatitis, unspecified",B18.9,ICD10,0,1,gastrointestinal
+35205773,"Chronic viral hepatitis, unspecified",B18.9,ICD10CM,0,1,gastrointestinal
+45585949,Unspecified viral hepatitis with hepatic coma,B19.0,ICD10,0,1,gastrointestinal
+35205774,Unspecified viral hepatitis with hepatic coma,B19.0,ICD10CM,0,1,gastrointestinal
+45595609,Unspecified viral hepatitis without hepatic coma,B19.9,ICD10,0,1,gastrointestinal
+35205775,Unspecified viral hepatitis without hepatic coma,B19.9,ICD10CM,0,1,gastrointestinal

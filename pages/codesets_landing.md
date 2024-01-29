@@ -28,13 +28,8 @@
 ### [Procedures](https://pedsnet.github.io/Variable-Dictionary/pages/procedures_landing.html)
 
 
-### [Sociodemographics](https://pedsnet.github.io/Variable-Dictionary/pages/socio_landing.html)
-
-
 ### [Utilization, costs, payers](https://pedsnet.github.io/Variable-Dictionary/pages/visits_landing.html)
 
-
-### [Other](https://pedsnet.github.io/Variable-Dictionary/pages/other_landing.html)
 
 
 #### [Home Page](https://pedsnet.github.io/Variable-Dictionary/)

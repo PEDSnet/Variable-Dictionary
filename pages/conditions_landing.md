@@ -7,16 +7,13 @@
 |[Addison's disease](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_addison_md_page.html)|
 |[AHRQ Clusters](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_ccsr_labels_md_page.html)|
 |[Allergic rhinitis](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/allergic_rhinitis_codes_md_page.html)|
-|[Allergic rhinitis](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/rhinitis_md_page.html)|
 |[Alopecia areata](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_alopecia_areata_md_page.html)|
 |[Anaphylaxis](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/anaphylaxis_codeset_md_page.html)|
 |[Anemia](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_anemia_md_page.html)|
 |[Anorexia nervosa](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_anorexia_md_page.html)|
 |[Antiphospholipid syndrome](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_antiphospholid_syn_md_page.html)|
 |[Anxiety](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/anxiety_disorder_snomed_mapped_md_page.html)|
-|[Anxiety](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_anxiety_concepts_md_page.html)|
 |[ARDS](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_ards_md_page.html)|
-|[Asthma](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_asthma_md_page.html)|
 |[Asthma](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_asthma_md_page.html)|
 |[Atopic dermatitis](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/atopic_dermatitis_md_page.html)|
 |[Attention-deficit hyperactivity disorder (ADHD)](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_ADHD_md_page.html)|
@@ -31,7 +28,6 @@
 |[Chronic kidney disease (all stages)](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_ckd_allstages_md_page.html)|
 |[Chronic kidney disease (stage 2 and 3)](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_ckd_stage23_md_page.html)|
 |[Congenital anomalies of the kidney and urinary tract (CAKUT)](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_cakut_md_page.html)|
-|[Cough](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_cough_md_page.html)|
 |[Cough](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_cough_md_page.html)|
 |[COVID-19 Diagnoses](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_covid_md_page.html)|
 |[Crohn's disease](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/crohns_dx_full_md_page.html)|
@@ -63,7 +59,6 @@
 |[Guillain Barre Syndrome (GBS)](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_guillain_barre_md_page.html)|
 |[Hair loss](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_hair_loss_md_page.html)|
 |[Headache](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_headache_md_page.html)|
-|[Headache](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_headache_md_page.html)|
 |[Hematuria](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/hematuria_md_page.html)|
 |[Henoch-Schonlein purpura (HSP)](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_hsp_md_page.html)|
 |[Hepatitis](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_hepatitis_md_page.html)|
@@ -83,9 +78,6 @@
 |[Leukemia and Lymphoma](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/leukemia_lymphoma_md_page.html)|
 |[Loss of taste/smell](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_taste_smell_loss_md_page.html)|
 |[Major depressive disorder](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/depression_md_page.html)|
-|[Major depressive disorder](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/depressive_disorders_md_page.html)|
-|[Major depressive disorder](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_depression_md_page.html)|
-|[Major depressive disorder](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_depression_concepts_md_page.html)|
 |[Malabsorption](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_malabsorption_md_page.html)|
 |[Malaise/Fatigue](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_malaise_fatigue_md_page.html)|
 |[Malignancy and neoplasm](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_malignancy_md_page.html)|
@@ -95,7 +87,6 @@
 |[Multisystem Inflammatory Syndrome (MIS-C)](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_mis_md_page.html)|
 |[Myalgia](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_myalgia_md_page.html)|
 |[Myocarditis](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_myocarditis_md_page.html)|
-|[Myocarditis](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/myocarditis_codeset_md_page.html)|
 |[Myositis](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_myositis_md_page.html)|
 |[Narcolepsy](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_narcolepsy_md_page.html)|
 |[Nasal Congestion](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_congestion_md_page.html)|
@@ -106,9 +97,7 @@
 |[Nocturnal enuresis](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_nocturnal_enuresis_md_page.html)|
 |[Non-respiratory sequelae of COVID-19](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_c19_noresp_md_page.html)|
 |[Obesity](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_obesity_md_page.html)|
-|[Obesity](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/obesity_md_page.html)|
 |[Otitis media](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/om_icd_md_page.html)|
-|[Otitis media](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/otitis_media_md_page.html)|
 |[Overweight](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_overweight_md_page.html)|
 |[Pericarditis](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_pericarditis_md_page.html)|
 |[Peripheral neuropathy](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_peripheral_neuropathy_md_page.html)|
@@ -120,7 +109,6 @@
 |[Proteinuria](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/persistent_recurrent_proteinuria_md_page.html)|
 |[Psoriasis](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_psoriasis_md_page.html)|
 |[Pulmonary embolism](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_pe_md_page.html)|
-|[Pulmonary embolism](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_pulmonary_embolism_md_page.html)|
 |[Pyelonephritis](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_pyelonephritis_md_page.html)|
 |[Renal failure](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_renal_failure_chronic_md_page.html)|
 |[Respiratory distress (general)](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/respiratory_distress_codeset_md_page.html)|
@@ -144,7 +132,6 @@
 |[Temporal arteritis](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_temporal_arteritis_md_page.html)|
 |[Tonsilitis](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_tonsillitis_md_page.html)|
 |[Trisomy 21](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_trisomy21_md_page.html)|
-|[Urinary tract infection](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_uti_md_page.html)|
 |[Urinary tract infection](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_uti_md_page.html)|
 |[Urinary tract obstruction](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/dx_urinary_tract_obstruction_md_page.html)|
 |[Viral illness](https://pedsnet.github.io/Variable-Dictionary/pages/conditions/noncovid_respiratory_infections_md_page.html)|

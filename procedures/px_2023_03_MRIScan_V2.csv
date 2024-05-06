@@ -1,0 +1,46 @@
+concept_id,concept_name,concept_code,vocabulary_id
+2211385,"Magnetic resonance angiography, chest (excluding myocardium), with or without contrast material(s)",71555,CPT4
+2616254,"Magnetic resonance angiography with contrast, chest (excluding myocardium)",C8909,HCPCS
+2616255,"Magnetic resonance angiography without contrast, chest (excluding myocardium)",C8910,HCPCS
+2616256,"Magnetic resonance angiography without contrast followed by with contrast, chest (excluding myocardium)",C8911,HCPCS
+2827634,Imaging @ Anatomical Regions @ Magnetic Resonance Imaging (MRI) @ Chest,BW33,ICD10PCS
+2807682,Imaging @ Anatomical Regions @ Magnetic Resonance Imaging (MRI) @ Chest @ Other Contrast,BW33Y,ICD10PCS
+2807683,Imaging @ Anatomical Regions @ Magnetic Resonance Imaging (MRI) @ Chest @ Other Contrast @ None,BW33YZ,ICD10PCS
+2827635,Imaging @ Anatomical Regions @ Magnetic Resonance Imaging (MRI) @ Chest @ Other Contrast @ Unenhanced and Enhanced,BW33Y0,ICD10PCS
+2881371,"Imaging @ Veins @ Magnetic Resonance Imaging (MRI) @ Pulmonary Veins, Bilateral",B53S,ICD10PCS
+2894386,"Imaging @ Veins @ Magnetic Resonance Imaging (MRI) @ Pulmonary Veins, Bilateral @ None",B53SZ,ICD10PCS
+2832036,"Imaging @ Veins @ Magnetic Resonance Imaging (MRI) @ Pulmonary Veins, Bilateral @ None @ None",B53SZZ,ICD10PCS
+2897669,"Imaging @ Veins @ Magnetic Resonance Imaging (MRI) @ Pulmonary Veins, Bilateral @ Other Contrast",B53SY,ICD10PCS
+2801493,"Imaging @ Veins @ Magnetic Resonance Imaging (MRI) @ Pulmonary Veins, Bilateral @ Other Contrast @ None",B53SYZ,ICD10PCS
+2818908,"Imaging @ Veins @ Magnetic Resonance Imaging (MRI) @ Pulmonary Veins, Bilateral @ Other Contrast @ Unenhanced and Enhanced",B53SY0,ICD10PCS
+2786399,Magnetic Resonance Imaging (MRI) of Bilateral Pulmonary Veins,B53SZZZ,ICD10PCS
+2786398,Magnetic Resonance Imaging (MRI) of Bilateral Pulmonary Veins using Other Contrast,B53SYZZ,ICD10PCS
+2786397,"Magnetic Resonance Imaging (MRI) of Bilateral Pulmonary Veins using Other Contrast, Unenhanced and Enhanced",B53SY0Z,ICD10PCS
+2793094,Magnetic Resonance Imaging (MRI) of Chest using Other Contrast,BW33YZZ,ICD10PCS
+2793093,"Magnetic Resonance Imaging (MRI) of Chest using Other Contrast, Unenhanced and Enhanced",BW33Y0Z,ICD10PCS
+2006957,Magnetic resonance imaging of chest and myocardium,88.92,ICD9Proc
+44514576,Magnetic resonance imaging of chest,U07.2,OPCS4
+46273026,Magnetic resonance angiography of vascular structure of chest with contrast,711498001,SNOMED
+3553181,Magnetic resonance imaging of thorax abnormal,187561000000104,SNOMED
+3553288,Magnetic resonance imaging of thorax abnormal,191001000000102,SNOMED
+3553290,Magnetic resonance imaging of thorax normal,191021000000106,SNOMED
+3553183,Magnetic resonance imaging of thorax normal,187581000000108,SNOMED
+4302333,MRI angiography of pulmonary arteries,418786005,SNOMED
+3562624,MRI angiography of pulmonary arteries,183471000000104,SNOMED
+44783486,"MRI (Magnetic resonance imaging) of thorax, abdomen and pelvis",699583008,SNOMED
+4246485,MRI of chest,6007000,SNOMED
+3525903,MRI of chest,270491000000104,SNOMED
+4267450,MRI of chest and myocardium,62658002,SNOMED
+43531504,MRI of chest for hilar and mediastinal lymphadenopathy,609222001,SNOMED
+43531501,MRI of chest for hilar lymphadenopathy,609219003,SNOMED
+43531502,MRI of chest for mediastinal lymphadenopathy,609220009,SNOMED
+3563981,MRI of chest with contrast,311851000000101,SNOMED
+4202274,MRI of chest with contrast,432815006,SNOMED
+36685470,MRI of chest with contrast for proton therapy planning,1098061000000100,SNOMED
+36713045,MRI of chest without contrast,16334561000119101,SNOMED
+4082708,MRI of lungs,241616006,SNOMED
+4335537,MRI of pulmonary perfusion,432877007,SNOMED
+4204006,MRI of pulmonary vein,438532008,SNOMED
+3546402,"MRI of thorax, abdomen and pelvis",889961000000107,SNOMED
+35610639,"MRI of thorax, abdomen and pelvis with radiopaque contrast",1095281000000107,SNOMED
+3565418,MRI pulmonary perfusion scan,311791000000101,SNOMED

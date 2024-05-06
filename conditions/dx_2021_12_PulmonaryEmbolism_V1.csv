@@ -1,0 +1,16 @@
+﻿concept_id,concept_name,concept_code,vocabulary_id,syndromic,systemic,condition_category
+45548014,Pulmonary embolism,I26,ICD10,0,1,heme
+1569147,Pulmonary embolism,I26,ICD10CM,0,1,heme
+45567169,Pulmonary embolism with mention of acute cor pulmonale,I26.0,ICD10,0,1,heme
+1569148,Pulmonary embolism with acute cor pulmonale,I26.0,ICD10CM,0,1,heme
+45572083,Septic pulmonary embolism with acute cor pulmonale,I26.01,ICD10CM,0,1,heme
+45557540,Saddle embolus of pulmonary artery with acute cor pulmonale,I26.02,ICD10CM,0,1,heme
+45586576,Other pulmonary embolism with acute cor pulmonale,I26.09,ICD10CM,0,1,heme
+45552785,Pulmonary embolism without mention of acute cor pulmonale,I26.9,ICD10,0,1,heme
+1569149,Pulmonary embolism without acute cor pulmonale,I26.9,ICD10CM,0,1,heme
+45605789,Septic pulmonary embolism without acute cor pulmonale,I26.90,ICD10CM,0,1,heme
+45552786,Saddle embolus of pulmonary artery without acute cor pulmonale,I26.92,ICD10CM,0,1,heme
+1553749,Single subsegmental pulmonary embolism without acute cor pulmonale,I26.93,ICD10CM,0,1,heme
+1553750,Multiple subsegmental pulmonary emboli without acute cor pulmonale,I26.94,ICD10CM,0,1,heme
+45572084,Other pulmonary embolism without acute cor pulmonale,I26.99,ICD10CM,0,1,heme
+45533441,Chronic pulmonary embolism,I27.82,ICD10CM,0,1,heme

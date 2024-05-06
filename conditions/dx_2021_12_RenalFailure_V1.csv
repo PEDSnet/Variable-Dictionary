@@ -1,0 +1,23 @@
+﻿concept_id,concept_name,concept_code,vocabulary_id,syndromic,systemic,condition_category
+1571486,Chronic kidney disease (CKD),N18,ICD10CM,0,1,renal
+45582391,Chronic kidney disease,N18,ICD10,0,1,renal
+45601717,End-stage renal disease,N18.0,ICD10,0,1,renal
+45582392,"Chronic kidney disease, stage 1",N18.1,ICD10,0,1,renal
+35209274,"Chronic kidney disease, stage 1",N18.1,ICD10CM,0,1,renal
+35209275,"Chronic kidney disease, stage 2 (mild)",N18.2,ICD10CM,0,1,renal
+45553437,"Chronic kidney disease, stage 2",N18.2,ICD10,0,1,renal
+45543858,"Chronic kidney disease, stage 3",N18.3,ICD10,0,1,renal
+35209276,"Chronic kidney disease, stage 3 (moderate)",N18.3,ICD10CM,0,1,renal
+725440,"Chronic kidney disease, stage 3 unspecified",N18.30,ICD10CM,0,1,renal
+725441,"Chronic kidney disease, stage 3a",N18.31,ICD10CM,0,1,renal
+725442,"Chronic kidney disease, stage 3b",N18.32,ICD10CM,0,1,renal
+35209277,"Chronic kidney disease, stage 4 (severe)",N18.4,ICD10CM,0,1,renal
+45582393,"Chronic kidney disease, stage 4",N18.4,ICD10,0,1,renal
+45582394,"Chronic kidney disease, stage 5",N18.5,ICD10,0,1,renal
+35209278,"Chronic kidney disease, stage 5",N18.5,ICD10CM,0,1,renal
+45548653,End stage renal disease,N18.6,ICD10CM,0,1,renal
+45534123,Other chronic renal failure,N18.8,ICD10,0,1,renal
+45553438,"Chronic kidney disease, unspecified",N18.9,ICD10,0,1,renal
+35209279,"Chronic kidney disease, unspecified",N18.9,ICD10CM,0,1,renal
+35209280,Unspecified kidney failure,N19,ICD10CM,0,1,renal
+45601718,Unspecified kidney failure,N19,ICD10,0,1,renal

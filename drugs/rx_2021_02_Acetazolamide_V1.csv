@@ -1,0 +1,472 @@
+concept_id,concept_code,concept_name,vocabulary_id,ancestor_concept_id,name,rxcui
+21022627,OMOP355779,Acetazolamide 5 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+43026549,OMOP4841645,Acetazolamide 500 MG Injectable Solution [Diamox] Box of 25 by Cooper,RxNorm Extension,929435,acetazolamide,167
+44103819,OMOP1098450,Acetazolamide 500 MG Injectable Suspension by Sterimax,RxNorm Extension,929435,acetazolamide,167
+21081493,OMOP355800,Acetazolamide 250 MG Extended Release Oral Capsule [Eytazox] Box of 30 by Auden Mckenzie,RxNorm Extension,929435,acetazolamide,167
+43834025,OMOP765313,Acetazolamide 250 MG Oral Tablet [Glaupax],RxNorm Extension,929435,acetazolamide,167
+43692317,OMOP931965,Acetazolamide Injectable Solution,RxNorm Extension,929435,acetazolamide,167
+41163232,OMOP2361194,Acetazolamide 250 MG Oral Tablet [Glaupax] Box of 30,RxNorm Extension,929435,acetazolamide,167
+36788132,OMOP4776393,Acetazolamide 500 MG Injection [Diamox] Box of 1,RxNorm Extension,929435,acetazolamide,167
+21032366,OMOP355810,Acetazolamide 250 MG Oral Tablet by DE,RxNorm Extension,929435,acetazolamide,167
+42723849,OMOP2737119,Acetazolamide 0.911 MG/MG Injectable Solution [Diamox Parenteral],RxNorm Extension,929435,acetazolamide,167
+40004826,370525,acetazolamide Oral Tablet,RxNorm,929435,acetazolamide,167
+41262816,OMOP2460778,Acetazolamide 500 MG Extended Release Oral Capsule [Diamox] Box of 30 by Mercury,RxNorm Extension,929435,acetazolamide,167
+43165963,OMOP512112,Acetazolamide Injectable Suspension [Diamox],RxNorm Extension,929435,acetazolamide,167
+44103820,OMOP1098451,Acetazolamide 500 MG Extended Release Oral Capsule [Diamox Src] by Storz,RxNorm Extension,929435,acetazolamide,167
+21150227,OMOP355778,Acetazolamide 5 MG/ML,RxNorm Extension,929435,acetazolamide,167
+21067401,OMOP291829,1 ML Acetazolamide 20 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+43276398,OMOP528916,Acetazolamide 500 MG Injection [Glaumox],RxNorm Extension,929435,acetazolamide,167
+44090806,OMOP1085437,Acetazolamide 500 MG Injectable Suspension [Diamox] by Storz,RxNorm Extension,929435,acetazolamide,167
+43176954,OMOP425876,Acetazolamide 100 MG/ML Topical Cream [DEFILTRAN],RxNorm Extension,929435,acetazolamide,167
+35851095,OMOP5007653,acetazolamide 25 MG,RxNorm Extension,929435,acetazolamide,167
+41025648,OMOP2223610,Acetazolamide 250 MG Oral Tablet Box of 240,RxNorm Extension,929435,acetazolamide,167
+21081499,OMOP355887,Acetazolamide 4 MG/ML,RxNorm Extension,929435,acetazolamide,167
+19072240,307702,acetazolamide 500 MG Injection,RxNorm,929435,acetazolamide,167
+41075620,OMOP2273582,Acetazolamide 250 MG Oral Tablet [Glaupax] Box of 100 by Novartis,RxNorm Extension,929435,acetazolamide,167
+44029544,OMOP1024175,Acetazolamide 250 MG [Acetazolam],RxNorm Extension,929435,acetazolamide,167
+21150232,OMOP355849,Acetazolamide 60 MG/ML,RxNorm Extension,929435,acetazolamide,167
+21061881,OMOP355750,Acetazolamide 25 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+19021495,566111,acetazolamide 250 MG [Diamox],RxNorm,929435,acetazolamide,167
+43707877,OMOP765334,Acetazolamide 250 MG Oral Tablet [Acemit],RxNorm Extension,929435,acetazolamide,167
+21032365,OMOP355799,Acetazolamide 250 MG Extended Release Oral Capsule [Eytazox] Box of 30,RxNorm Extension,929435,acetazolamide,167
+21160163,OMOP355847,Acetazolamide 22 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+21032371,OMOP355861,Acetazolamide 1 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+21071797,OMOP355770,Acetazolamide 15 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+35851092,OMOP5007650,acetazolamide 50 MG [Nimukesi],RxNorm Extension,929435,acetazolamide,167
+42963839,OMOP4690323,Acetazolamide 500 MG [ZOLADIN],RxNorm Extension,929435,acetazolamide,167
+41119593,OMOP2317555,Acetazolamide 500 MG Injectable Suspension Box of 20,RxNorm Extension,929435,acetazolamide,167
+44039074,OMOP1033705,Acetazolamide 250 MG Oral Tablet by AA,RxNorm Extension,929435,acetazolamide,167
+40167830,876437,acetazolamide 500 MG [Diamox],RxNorm,929435,acetazolamide,167
+21052065,OMOP355741,Acetazolamide 85 MG/ML,RxNorm Extension,929435,acetazolamide,167
+21022630,OMOP355828,Acetazolamide 250 MG Oral Tablet Box of 112 by DE,RxNorm Extension,929435,acetazolamide,167
+21022624,OMOP355754,Acetazolamide 500 MG Injection Box of 1,RxNorm Extension,929435,acetazolamide,167
+21120644,OMOP355795,Acetazolamide 250 MG Extended Release Oral Capsule [Diamox SR] Box of 30,RxNorm Extension,929435,acetazolamide,167
+21169952,OMOP355790,Acetazolamide 250 MG Extended Release Oral Capsule [Diamox SR],RxNorm Extension,929435,acetazolamide,167
+40167831,876438,acetazolamide Extended Release Oral Capsule [Diamox],RxNorm,929435,acetazolamide,167
+35411713,OMOP1145298,Acetazolamide 0.1 MG/MG Topical Cream [DEFILTRAN] Box of 1,RxNorm Extension,929435,acetazolamide,167
+21096801,OMOP291838,1 ML Acetazolamide 80 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+21140375,OMOP355817,Acetazolamide 250 MG Oral Tablet Box of 112,RxNorm Extension,929435,acetazolamide,167
+21081501,OMOP355913,Acetazolamide 50 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+43219912,OMOP427055,100 ML Acetazolamide 100 MG/ML Topical Cream,RxNorm Extension,929435,acetazolamide,167
+21175348,OMOP291780,1 ML Acetazolamide 40 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+43165966,OMOP432576,Acetazolamide 500 MG Injectable Suspension [Diamox],RxNorm Extension,929435,acetazolamide,167
+21130423,OMOP355809,Acetazolamide 250 MG Oral Tablet by Waymade,RxNorm Extension,929435,acetazolamide,167
+41318940,OMOP2516902,Acetazolamide 500 MG Injectable Suspension [Diamox] Box of 10,RxNorm Extension,929435,acetazolamide,167
+35131695,OMOP4788930,Acetazolamide 1000 MG Oral Powder [Diamox],RxNorm Extension,929435,acetazolamide,167
+21042298,OMOP355724,Acetazolamide 44 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+35421078,OMOP1154663,100000 MG Acetazolamide 0.1 MG/MG Topical Cream [DEFILTRAN] Box of 1 by Tradiphar,RxNorm Extension,929435,acetazolamide,167
+36892840,OMOP990630,Acetazolamide 500 MG Injectable Suspension Box of 1,RxNorm Extension,929435,acetazolamide,167
+21110983,OMOP355781,Acetazolamide 5 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+21071805,OMOP355902,Acetazolamide 2 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+43154101,OMOP427057,100 ML Acetazolamide 100 MG/ML Topical Cream Box of 1,RxNorm Extension,929435,acetazolamide,167
+41244545,OMOP2442507,Acetazolamide 250 MG Oral Tablet Box of 40,RxNorm Extension,929435,acetazolamide,167
+40746775,OMOP4711332,Acetazolamide 250 MG Oral Tablet by Sigma,RxNorm Extension,929435,acetazolamide,167
+35407495,OMOP1141080,Acetazolamide 0.1 MG/MG Topical Cream Box of 1,RxNorm Extension,929435,acetazolamide,167
+21160156,OMOP355768,Acetazolamide 15 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+36887568,OMOP996559,Acetazolamide Injectable Suspension,RxNorm Extension,929435,acetazolamide,167
+21022633,OMOP355915,Acetazolamide 30 MG/ML,RxNorm Extension,929435,acetazolamide,167
+21071806,OMOP355910,Acetazolamide 50 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+40857266,OMOP2055228,Acetazolamide 250 MG Oral Tablet [Diurapid] Box of 20 by Medphano,RxNorm Extension,929435,acetazolamide,167
+41131879,OMOP2329841,Acetazolamide 250 MG Oral Tablet [Glaupax] Box of 100,RxNorm Extension,929435,acetazolamide,167
+21140372,OMOP355757,Acetazolamide 40 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+21042301,OMOP355803,Acetazolamide 250 MG Oral Tablet by Mawdsley-Brooks,RxNorm Extension,929435,acetazolamide,167
+41275445,OMOP2473407,Acetazolamide 250 MG Oral Tablet Box of 1000,RxNorm Extension,929435,acetazolamide,167
+21047759,OMOP291860,1 ML Acetazolamide 50 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+36058154,OMOP4983748,acetazolamide 250 MG Oral Tablet Box of 112 by Dawa,RxNorm Extension,929435,acetazolamide,167
+41287540,OMOP2485502,Acetazolamide 500 MG Injectable Suspension [Diamox] Box of 300,RxNorm Extension,929435,acetazolamide,167
+35851089,OMOP5007647,acetazolamide 50 MG Oral Tablet,RxNorm Extension,929435,acetazolamide,167
+42963843,OMOP4690327,Acetazolamide Oral Tablet [ACETAZOL],RxNorm Extension,929435,acetazolamide,167
+41325330,OMOP2523292,Acetazolamide 250 MG Oral Tablet Box of 30 by Monem,RxNorm Extension,929435,acetazolamide,167
+36058153,OMOP4983747,acetazolamide 250 MG Oral Tablet Box of 112 by Medihealth,RxNorm Extension,929435,acetazolamide,167
+21169951,OMOP355788,Acetazolamide 250 MG Extended Release Oral Capsule Box of 30,RxNorm Extension,929435,acetazolamide,167
+43026548,OMOP4841644,Acetazolamide 500 MG Injectable Solution [Diamox] by Cooper,RxNorm Extension,929435,acetazolamide,167
+40850899,OMOP2048861,Acetazolamide 500 MG Injectable Solution [Diamox] Box of 25,RxNorm Extension,929435,acetazolamide,167
+21087020,OMOP291849,1 ML Acetazolamide 2 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+21160165,OMOP355894,Acetazolamide 55 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+41044234,OMOP2242196,Acetazolamide 500 MG Injectable Solution [Diamox] Box of 1 by Mercury,RxNorm Extension,929435,acetazolamide,167
+21081496,OMOP355880,Acetazolamide 35 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+36217004,1152848,acetazolamide Pill,RxNorm,929435,acetazolamide,167
+21140373,OMOP355796,Acetazolamide 250 MG Extended Release Oral Capsule [Diamox SR] Box of 30 by AMCo,RxNorm Extension,929435,acetazolamide,167
+42716690,OMOP2723068,Acetazolamide 0.911 MG/MG Injectable Solution,RxNorm Extension,929435,acetazolamide,167
+41194527,OMOP2392489,Acetazolamide 250 MG Oral Tablet [Diurapid] Box of 100,RxNorm Extension,929435,acetazolamide,167
+21126140,OMOP291765,1 ML Acetazolamide 8 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+44048730,OMOP1043361,Acetazolamide 250 MG Oral Tablet [Novo-Zolamide],RxNorm Extension,929435,acetazolamide,167
+21028123,OMOP291807,1 ML Acetazolamide 22 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+40746766,OMOP4711341,Acetazolamide 500 MG Injectable Solution [Diamox] by AMCo,RxNorm Extension,929435,acetazolamide,167
+40167793,876439,12 HR acetazolamide 500 MG Extended Release Oral Capsule [Diamox],RxNorm,929435,acetazolamide,167
+41163231,OMOP2361193,Acetazolamide 500 MG Injectable Solution [Diamox] Box of 1,RxNorm Extension,929435,acetazolamide,167
+35851096,OMOP5007654,acetazolamide 25 MG [Nimukesi],RxNorm Extension,929435,acetazolamide,167
+40746776,OMOP4711331,Acetazolamide 250 MG Extended Release Oral Capsule [Eytazox] Box of 30 by TEVA,RxNorm Extension,929435,acetazolamide,167
+40746769,OMOP4711338,Acetazolamide 250 MG Oral Tablet Box of 112 by Phoenix Healthcare Distribution,RxNorm Extension,929435,acetazolamide,167
+21032362,OMOP355728,Acetazolamide 100 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+21077289,OMOP291769,1 ML Acetazolamide 85 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+41201013,OMOP2398975,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 500 by Mercury,RxNorm Extension,929435,acetazolamide,167
+41232083,OMOP2430045,Acetazolamide 250 MG Oral Tablet [Glaupax] Box of 10 by OmniVision,RxNorm Extension,929435,acetazolamide,167
+21160158,OMOP355804,Acetazolamide 250 MG Oral Tablet by Phoenix Labs,RxNorm Extension,929435,acetazolamide,167
+21169953,OMOP355807,Acetazolamide 250 MG Oral Tablet by Sigma-Tau,RxNorm Extension,929435,acetazolamide,167
+41244544,OMOP2442506,Acetazolamide 500 MG Injectable Solution Box of 1,RxNorm Extension,929435,acetazolamide,167
+43777307,OMOP864132,549 MG Acetazolamide 0.911 MG/MG Injectable Solution,RxNorm Extension,929435,acetazolamide,167
+41138506,OMOP2336468,Acetazolamide 250 MG Oral Tablet [Glaupax] Box of 40 by OmniVision,RxNorm Extension,929435,acetazolamide,167
+21150228,OMOP355786,Acetazolamide 250 MG Extended Release Oral Capsule by Mercury,RxNorm Extension,929435,acetazolamide,167
+21042308,OMOP355876,Acetazolamide 35 MG/ML,RxNorm Extension,929435,acetazolamide,167
+43165964,OMOP517921,Acetazolamide 100 MG/ML [DEFILTRAN],RxNorm Extension,929435,acetazolamide,167
+44120167,OMOP1114798,Acetazolamide 500 MG [Diamox Sequels],RxNorm Extension,929435,acetazolamide,167
+21077288,OMOP291756,1 ML Acetazolamide 100 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+19104992,417569,acetazolamide 100 MG/ML Topical Cream,RxNorm,929435,acetazolamide,167
+21160160,OMOP355814,Acetazolamide 250 MG Oral Tablet by Actavis,RxNorm Extension,929435,acetazolamide,167
+43208905,OMOP427058,100 ML Acetazolamide 100 MG/ML Topical Cream [DEFILTRAN],RxNorm Extension,929435,acetazolamide,167
+21087019,OMOP291844,1 ML Acetazolamide 55 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+21140376,OMOP355823,Acetazolamide 250 MG Oral Tablet Box of 112 by Sigma-Tau,RxNorm Extension,929435,acetazolamide,167
+40981859,OMOP2179821,Acetazolamide 250 MG Oral Tablet [Glaupax] Box of 40 by Novartis,RxNorm Extension,929435,acetazolamide,167
+21150238,OMOP355916,Acetazolamide 30 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+21022625,OMOP355755,Acetazolamide 500 MG Injection Box of 1 by AMCo,RxNorm Extension,929435,acetazolamide,167
+43165967,OMOP432746,Acetazolamide 500 MG Injectable Suspension [Diamox] Box of 1 by Sanofi,RxNorm Extension,929435,acetazolamide,167
+35157997,OMOP4814996,Acetazolamide 1000 MG Oral Powder,RxNorm Extension,929435,acetazolamide,167
+21150229,OMOP355797,Acetazolamide 250 MG Extended Release Oral Capsule [Eytazox],RxNorm Extension,929435,acetazolamide,167
+43854334,OMOP931969,Acetazolamide 0.91 MG/MG Injectable Solution [Diamox Parenteral],RxNorm Extension,929435,acetazolamide,167
+21091233,OMOP355726,Acetazolamide 100 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+42726866,OMOP2739168,Acetazolamide 0.911 MG/MG,RxNorm Extension,929435,acetazolamide,167
+41088338,OMOP2286300,Acetazolamide 250 MG Oral Tablet Box of 6,RxNorm Extension,929435,acetazolamide,167
+41006764,OMOP2204726,Acetazolamide 250 MG Oral Tablet [Acemit] Box of 100,RxNorm Extension,929435,acetazolamide,167
+36269115,OMOP3119990,Acetazolamide 500 MG Injection [Diamox] by Mercury,RxNorm Extension,929435,acetazolamide,167
+21165623,OMOP291767,1 ML Acetazolamide 8 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+21169954,OMOP355821,Acetazolamide 250 MG Oral Tablet Box of 112 by Crescent,RxNorm Extension,929435,acetazolamide,167
+35786535,OMOP2787996,100 ML Acetazolamide 50 MG/ML Oral Solution by Drug Tariff Special Order,RxNorm Extension,929435,acetazolamide,167
+21032368,OMOP355830,Acetazolamide 250 MG Oral Tablet Box of 112 by A A H,RxNorm Extension,929435,acetazolamide,167
+35411714,OMOP1145299,Acetazolamide 0.1 MG/MG Topical Cream [DEFILTRAN],RxNorm Extension,929435,acetazolamide,167
+41069096,OMOP2267058,Acetazolamide 500 MG Injectable Suspension [Diamox] Box of 20,RxNorm Extension,929435,acetazolamide,167
+44083724,OMOP1078355,Acetazolamide Extended Release Oral Capsule [Diamox Src],RxNorm Extension,929435,acetazolamide,167
+43292594,OMOP528904,Acetazolamide 500 MG [Glaumox],RxNorm Extension,929435,acetazolamide,167
+41025647,OMOP2223609,Acetazolamide 500 MG Extended Release Oral Capsule Box of 30,RxNorm Extension,929435,acetazolamide,167
+929517,317288,acetazolamide 500 MG,RxNorm,929435,acetazolamide,167
+40857267,OMOP2055229,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 100 by Mercury,RxNorm Extension,929435,acetazolamide,167
+41225583,OMOP2423545,Acetazolamide 250 MG Oral Tablet [Acemit] Box of 30,RxNorm Extension,929435,acetazolamide,167
+40882134,OMOP2080096,Acetazolamide 500 MG Injectable Solution [Diamox] Box of 60,RxNorm Extension,929435,acetazolamide,167
+44077858,OMOP1072489,Acetazolamide 250 MG Oral Tablet [Novo-Zolamide] by Novopharm,RxNorm Extension,929435,acetazolamide,167
+21130426,OMOP355882,Acetazolamide 80 MG/ML,RxNorm Extension,929435,acetazolamide,167
+35420936,OMOP1154521,99300 MG Acetazolamide 0.1 MG/MG Topical Cream [DEFILTRAN] Box of 1 by Tradiphar,RxNorm Extension,929435,acetazolamide,167
+21101131,OMOP355736,Acetazolamide 8 MG/ML,RxNorm Extension,929435,acetazolamide,167
+35851093,OMOP5007651,acetazolamide 25 MG Oral Tablet,RxNorm Extension,929435,acetazolamide,167
+35421119,OMOP1154704,100000 MG Acetazolamide 0.1 MG/MG Topical Cream Box of 1,RxNorm Extension,929435,acetazolamide,167
+21120643,OMOP355776,Acetazolamide 29 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+41306533,OMOP2504495,Acetazolamide 500 MG Injectable Solution Box of 500,RxNorm Extension,929435,acetazolamide,167
+21145874,OMOP291758,1 ML Acetazolamide 100 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+41201014,OMOP2398976,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 100 by Logosys,RxNorm Extension,929435,acetazolamide,167
+21136006,OMOP291811,1 ML Acetazolamide 60 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+21022631,OMOP355841,Acetazolamide 10 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+21057557,OMOP291809,1 ML Acetazolamide 60 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+41107054,OMOP2305016,Acetazolamide 500 MG Injectable Solution [Diamox] Box of 1 by Pfizer,RxNorm Extension,929435,acetazolamide,167
+21137803,OMOP321887,100 ML Acetazolamide 25 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+21057562,OMOP291842,1 ML Acetazolamide 4 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+35851097,OMOP5007655,acetazolamide Oral Tablet [Nimukesi],RxNorm Extension,929435,acetazolamide,167
+35132212,OMOP4789438,Acetazolamide 1000 MG [Diamox],RxNorm Extension,929435,acetazolamide,167
+21061890,OMOP355907,Acetazolamide 3.6 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+21120647,OMOP355850,Acetazolamide 60 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+43176953,OMOP516016,Acetazolamide Topical Cream [DEFILTRAN],RxNorm Extension,929435,acetazolamide,167
+21091238,OMOP355888,Acetazolamide 4 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+40746777,OMOP4711330,Acetazolamide 250 MG Extended Release Oral Capsule [Eytazox] by TEVA,RxNorm Extension,929435,acetazolamide,167
+21140377,OMOP355833,Acetazolamide 250 MG Oral Tablet Box of 120 by Waymade,RxNorm Extension,929435,acetazolamide,167
+21091239,OMOP355899,Acetazolamide 2 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+21071802,OMOP355831,Acetazolamide 250 MG Oral Tablet Box of 112 by Actavis,RxNorm Extension,929435,acetazolamide,167
+36272281,OMOP3123156,Acetazolamide Injection [Diamox],RxNorm Extension,929435,acetazolamide,167
+40746770,OMOP4711337,Acetazolamide 250 MG Oral Tablet Box of 112 by Sigma,RxNorm Extension,929435,acetazolamide,167
+21169958,OMOP355893,Acetazolamide 55 MG/ML,RxNorm Extension,929435,acetazolamide,167
+41006763,OMOP2204725,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 500,RxNorm Extension,929435,acetazolamide,167
+44077857,OMOP1072488,Acetazolamide 500 MG Extended Release Oral Capsule [Diamox Sequels] by Wyeth,RxNorm Extension,929435,acetazolamide,167
+2037616,OMOP4937066,acetazolamide 500 MG Injection [ZOLADIN] by BC World,RxNorm Extension,929435,acetazolamide,167
+43187920,OMOP426888,Acetazolamide 100 MG/ML Topical Cream [DEFILTRAN] Box of 1,RxNorm Extension,929435,acetazolamide,167
+36788131,OMOP4776392,Acetazolamide 500 MG Injection [Diamox] Box of 1 by Mercury,RxNorm Extension,929435,acetazolamide,167
+43617827,OMOP765271,Acetazolamide 250 MG [Acemit],RxNorm Extension,929435,acetazolamide,167
+21160162,OMOP355843,Acetazolamide 22 MG/ML,RxNorm Extension,929435,acetazolamide,167
+21160161,OMOP355816,Acetazolamide 250 MG Oral Tablet Box of 100 by Sigma-Tau,RxNorm Extension,929435,acetazolamide,167
+41138508,OMOP2336470,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 100 by Pfizer,RxNorm Extension,929435,acetazolamide,167
+21061884,OMOP355815,Acetazolamide 250 MG Oral Tablet Box of 100,RxNorm Extension,929435,acetazolamide,167
+21022628,OMOP355785,Acetazolamide 250 MG [Eytazox],RxNorm Extension,929435,acetazolamide,167
+42963842,OMOP4690326,Acetazolamide Injection [ZOLADIN],RxNorm Extension,929435,acetazolamide,167
+21077293,OMOP291820,1 ML Acetazolamide 1 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+21136008,OMOP291824,1 ML Acetazolamide 24 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+21042306,OMOP355866,Acetazolamide 24 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+36276378,OMOP3127253,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 25 by Mercury,RxNorm Extension,929435,acetazolamide,167
+19119952,572038,acetazolamide 125 MG [Diamox],RxNorm,929435,acetazolamide,167
+42727096,OMOP2737618,Acetazolamide 0.911 MG/MG [Diamox Parenteral],RxNorm Extension,929435,acetazolamide,167
+21160154,OMOP355734,Acetazolamide 32 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+43617828,OMOP765324,Acetazolamide 250 MG Oral Tablet [Glaupax] by OmniVision,RxNorm Extension,929435,acetazolamide,167
+41244542,OMOP2442504,Acetazolamide 500 MG Injectable Solution Box of 20,RxNorm Extension,929435,acetazolamide,167
+40825071,OMOP2023033,Acetazolamide 500 MG Extended Release Oral Capsule [Diamox] Box of 10 by Pfizer,RxNorm Extension,929435,acetazolamide,167
+40746773,OMOP4711334,Acetazolamide 250 MG Oral Tablet by Genesis,RxNorm Extension,929435,acetazolamide,167
+21061877,OMOP355717,Acetazolamide Extended Release Oral Capsule [Diamox SR],RxNorm Extension,929435,acetazolamide,167
+21150226,OMOP355772,Acetazolamide 29 MG/ML,RxNorm Extension,929435,acetazolamide,167
+41056854,OMOP2254816,Acetazolamide 500 MG Injectable Solution Box of 25,RxNorm Extension,929435,acetazolamide,167
+43165965,OMOP431863,Acetazolamide 500 MG Injectable Suspension Box of 25,RxNorm Extension,929435,acetazolamide,167
+35851091,OMOP5007649,acetazolamide 50 MG,RxNorm Extension,929435,acetazolamide,167
+21052071,OMOP355827,Acetazolamide 250 MG Oral Tablet Box of 112 by Waymade,RxNorm Extension,929435,acetazolamide,167
+21101134,OMOP355826,Acetazolamide 250 MG Oral Tablet Box of 112 by Alliance,RxNorm Extension,929435,acetazolamide,167
+35421112,OMOP1154697,100000 MG Acetazolamide 0.1 MG/MG Topical Cream [DEFILTRAN],RxNorm Extension,929435,acetazolamide,167
+21165627,OMOP291816,1 ML Acetazolamide 70 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+21136005,OMOP291800,1 ML Acetazolamide 10 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+40882135,OMOP2080097,Acetazolamide 500 MG Injectable Solution [Diamox] Box of 12,RxNorm Extension,929435,acetazolamide,167
+41169625,OMOP2367587,Acetazolamide 250 MG Oral Tablet [Acemit] Box of 20 by Medphano,RxNorm Extension,929435,acetazolamide,167
+44107148,OMOP1101779,Acetazolamide 500 MG [Diamox Src],RxNorm Extension,929435,acetazolamide,167
+44065142,OMOP1059773,Acetazolamide 250 MG Oral Tablet [Diamox] by Storz,RxNorm Extension,929435,acetazolamide,167
+43831339,OMOP864133,549 MG Acetazolamide 0.911 MG/MG Injectable Solution [Diamox Parenteral],RxNorm Extension,929435,acetazolamide,167
+36882107,OMOP1001077,Acetazolamide 500 MG Injectable Suspension,RxNorm Extension,929435,acetazolamide,167
+21052066,OMOP355745,Acetazolamide 85 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+21101138,OMOP355871,Acetazolamide 20 MG/ML,RxNorm Extension,929435,acetazolamide,167
+35420791,OMOP1154376,99300 MG Acetazolamide 0.1 MG/MG Topical Cream Box of 1,RxNorm Extension,929435,acetazolamide,167
+35776703,OMOP2778164,1 ML Acetazolamide 50 MG/ML Oral Solution by Drug Tariff Special Order,RxNorm Extension,929435,acetazolamide,167
+21101136,OMOP355838,Acetazolamide 10 MG/ML,RxNorm Extension,929435,acetazolamide,167
+21067399,OMOP291813,1 ML Acetazolamide 70 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+40900955,OMOP2098917,Acetazolamide 250 MG Oral Tablet Box of 20,RxNorm Extension,929435,acetazolamide,167
+40975387,OMOP2173349,Acetazolamide 500 MG Extended Release Oral Capsule [Diamox] Box of 300,RxNorm Extension,929435,acetazolamide,167
+41119591,OMOP2317553,Acetazolamide 500 MG Injectable Suspension Box of 300,RxNorm Extension,929435,acetazolamide,167
+21150235,OMOP355896,Acetazolamide 55 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+36217005,1152849,acetazolamide Topical Product,RxNorm,929435,acetazolamide,167
+21061879,OMOP355739,Acetazolamide 8 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+21047752,OMOP291772,1 ML Acetazolamide 85 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+21101135,OMOP355832,Acetazolamide 250 MG Oral Tablet Box of 120,RxNorm Extension,929435,acetazolamide,167
+21087018,OMOP291833,1 ML Acetazolamide 35 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+43132871,OMOP424890,Acetazolamide 100 MG/ML Topical Cream Box of 1,RxNorm Extension,929435,acetazolamide,167
+21052068,OMOP355761,Acetazolamide 12.5 MG/ML,RxNorm Extension,929435,acetazolamide,167
+41131880,OMOP2329842,Acetazolamide 250 MG Oral Tablet [Diurapid] Box of 20,RxNorm Extension,929435,acetazolamide,167
+41006762,OMOP2204724,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 1000,RxNorm Extension,929435,acetazolamide,167
+21140374,OMOP355811,Acetazolamide 250 MG Oral Tablet by AMCo,RxNorm Extension,929435,acetazolamide,167
+19026107,202131,acetazolamide 250 MG Oral Tablet [Diamox],RxNorm,929435,acetazolamide,167
+41138507,OMOP2336469,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 500 by Logosys,RxNorm Extension,929435,acetazolamide,167
+43813350,OMOP864134,549 MG Acetazolamide 0.911 MG/MG Injectable Solution [Diamox Parenteral] by Mercury,RxNorm Extension,929435,acetazolamide,167
+35134618,OMOP4791821,Acetazolamide Oral Powder [Diamox],RxNorm Extension,929435,acetazolamide,167
+41088337,OMOP2286299,Acetazolamide 250 MG Oral Tablet Box of 25,RxNorm Extension,929435,acetazolamide,167
+43143812,OMOP432674,Acetazolamide 500 MG Injectable Suspension [Diamox] Box of 1,RxNorm Extension,929435,acetazolamide,167
+40746774,OMOP4711333,Acetazolamide 250 MG Oral Tablet by Phoenix Healthcare Distribution,RxNorm Extension,929435,acetazolamide,167
+40932054,OMOP2130016,Acetazolamide 500 MG Injectable Solution Box of 10,RxNorm Extension,929435,acetazolamide,167
+43654041,OMOP765259,Acetazolamide 250 MG [Glaupax],RxNorm Extension,929435,acetazolamide,167
+44035582,OMOP1030213,Acetazolamide 500 MG Extended Release Oral Capsule [Diamox Sequels],RxNorm Extension,929435,acetazolamide,167
+35603082,1719786,acetazolamide Injection,RxNorm,929435,acetazolamide,167
+21110985,OMOP355798,Acetazolamide 250 MG Extended Release Oral Capsule [Eytazox] by Auden Mckenzie,RxNorm Extension,929435,acetazolamide,167
+21081498,OMOP355885,Acetazolamide 80 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+21042302,OMOP355829,Acetazolamide 250 MG Oral Tablet Box of 112 by AMCo,RxNorm Extension,929435,acetazolamide,167
+44077859,OMOP1072490,Acetazolamide 250 MG Oral Tablet [Acetazolam] by Valeant,RxNorm Extension,929435,acetazolamide,167
+21081490,OMOP355719,Acetazolamide 44 MG/ML,RxNorm Extension,929435,acetazolamide,167
+21101133,OMOP355794,Acetazolamide 250 MG Extended Release Oral Capsule [Diamox SR] Box of 28 by AMCo,RxNorm Extension,929435,acetazolamide,167
+43176955,OMOP433149,Acetazolamide 500 MG Injectable Suspension [Diamox] Box of 25 by Sanofi,RxNorm Extension,929435,acetazolamide,167
+21077292,OMOP291796,1 ML Acetazolamide 5 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+41244543,OMOP2442505,Acetazolamide 500 MG Injectable Solution Box of 12,RxNorm Extension,929435,acetazolamide,167
+41075621,OMOP2273583,Acetazolamide 250 MG Oral Tablet [Diurapid] Box of 100 by Medphano,RxNorm Extension,929435,acetazolamide,167
+35773926,OMOP2775387,Acetazolamide 500 MG Injectable Solution by AMCo,RxNorm Extension,929435,acetazolamide,167
+21116411,OMOP291818,1 ML Acetazolamide 1 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+43045233,OMOP4860231,100000 MG Acetazolamide 0.1 MG/MG Topical Cream [DEFILTRAN] by Tradiphar,RxNorm Extension,929435,acetazolamide,167
+40994571,OMOP2192533,Acetazolamide 250 MG Oral Tablet Box of 30,RxNorm Extension,929435,acetazolamide,167
+40850900,OMOP2048862,Acetazolamide 500 MG Injectable Solution [Diamox] Box of 10,RxNorm Extension,929435,acetazolamide,167
+40838783,OMOP2036745,Acetazolamide 500 MG Extended Release Oral Capsule Box of 10,RxNorm Extension,929435,acetazolamide,167
+44129779,OMOP1124410,Acetazolamide 250 MG Oral Tablet [Diamox] by Wyeth,RxNorm Extension,929435,acetazolamide,167
+40913177,OMOP2111139,Acetazolamide 500 MG Injectable Suspension [Diamox] Box of 100,RxNorm Extension,929435,acetazolamide,167
+21091235,OMOP355789,Acetazolamide 250 MG Extended Release Oral Capsule Box of 30 by Mercury,RxNorm Extension,929435,acetazolamide,167
+40004827,367671,acetazolamide Oral Tablet [Diamox],RxNorm,929435,acetazolamide,167
+21087021,OMOP291853,1 ML Acetazolamide 3.6 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+40004822,370526,acetazolamide Extended Release Oral Capsule,RxNorm,929435,acetazolamide,167
+36222721,1166321,Diamox Oral Product,RxNorm,929435,acetazolamide,167
+21110979,OMOP355743,Acetazolamide 85 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+21140380,OMOP355904,Acetazolamide 3.6 MG/ML,RxNorm Extension,929435,acetazolamide,167
+21022632,OMOP355898,Acetazolamide 2 MG/ML,RxNorm Extension,929435,acetazolamide,167
+21071795,OMOP355747,Acetazolamide 25 MG/ML,RxNorm Extension,929435,acetazolamide,167
+21150231,OMOP355820,Acetazolamide 250 MG Oral Tablet Box of 112 by Phoenix Labs,RxNorm Extension,929435,acetazolamide,167
+19062824,250461,acetazolamide 250 MG Extended Release Oral Capsule,RxNorm,929435,acetazolamide,167
+41037861,OMOP2235823,Acetazolamide 500 MG Injectable Solution [Diamox] Box of 20,RxNorm Extension,929435,acetazolamide,167
+19018781,197304,acetazolamide 250 MG Oral Tablet,RxNorm,929435,acetazolamide,167
+21118190,OMOP321890,100 ML Acetazolamide 50 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+41201012,OMOP2398974,Acetazolamide 250 MG Oral Tablet [Glaupax] Box of 10 by Novartis,RxNorm Extension,929435,acetazolamide,167
+21145875,OMOP291761,1 ML Acetazolamide 32 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+42963838,OMOP4690322,Acetazolamide 500 MG Injection [ZOLADIN],RxNorm Extension,929435,acetazolamide,167
+43026550,OMOP4841646,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 24 by Cooper,RxNorm Extension,929435,acetazolamide,167
+41075619,OMOP2273581,Acetazolamide 500 MG Injectable Solution [Diamox] Box of 1 by Emra-Med,RxNorm Extension,929435,acetazolamide,167
+35421111,OMOP1154696,100000 MG Acetazolamide 0.1 MG/MG Topical Cream [DEFILTRAN] Box of 1,RxNorm Extension,929435,acetazolamide,167
+41131877,OMOP2329839,Acetazolamide 500 MG Extended Release Oral Capsule [Diamox] Box of 30,RxNorm Extension,929435,acetazolamide,167
+41225581,OMOP2423543,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 240,RxNorm Extension,929435,acetazolamide,167
+43800116,OMOP931966,Acetazolamide Injectable Solution [Diamox Parenteral],RxNorm Extension,929435,acetazolamide,167
+21042303,OMOP355858,Acetazolamide 70 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+41262817,OMOP2460779,Acetazolamide 250 MG Oral Tablet [Acemit] Box of 30 by Medphano,RxNorm Extension,929435,acetazolamide,167
+41138509,OMOP2336471,Acetazolamide 250 MG Oral Tablet Box of 100 by Monem,RxNorm Extension,929435,acetazolamide,167
+21071798,OMOP355774,Acetazolamide 29 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+40882136,OMOP2080098,Acetazolamide 250 MG Oral Tablet [Glaupax] Box of 10,RxNorm Extension,929435,acetazolamide,167
+40944448,OMOP2142410,Acetazolamide 500 MG Injectable Solution [Diamox] Box of 300,RxNorm Extension,929435,acetazolamide,167
+44031960,OMOP1026591,Acetazolamide Oral Tablet [Acetazolam],RxNorm Extension,929435,acetazolamide,167
+929518,329139,acetazolamide 100 MG/ML,RxNorm,929435,acetazolamide,167
+21028125,OMOP291864,1 ML Acetazolamide 30 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+41318941,OMOP2516903,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 10,RxNorm Extension,929435,acetazolamide,167
+36217002,1152846,acetazolamide Injectable Product,RxNorm,929435,acetazolamide,167
+43746182,OMOP931968,Acetazolamide 0.91 MG/MG Injectable Solution,RxNorm Extension,929435,acetazolamide,167
+21071801,OMOP355822,Acetazolamide 250 MG Oral Tablet Box of 112 by Sandoz,RxNorm Extension,929435,acetazolamide,167
+43710231,OMOP931967,Acetazolamide 0.91 MG/MG [Diamox Parenteral],RxNorm Extension,929435,acetazolamide,167
+35776141,OMOP2777602,1 ML Acetazolamide 50 MG/ML Oral Suspension by Drug Tariff Special Order,RxNorm Extension,929435,acetazolamide,167
+35786598,OMOP2788059,100 ML Acetazolamide 25 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+21028121,OMOP291778,1 ML Acetazolamide 40 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+21106647,OMOP291855,1 ML Acetazolamide 3.6 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+41213545,OMOP2411507,Acetazolamide 500 MG Injectable Suspension Box of 10,RxNorm Extension,929435,acetazolamide,167
+43265402,OMOP528804,Acetazolamide Injection [Glaumox],RxNorm Extension,929435,acetazolamide,167
+44090805,OMOP1085436,Acetazolamide 500 MG Injectable Suspension [Diamox] by Wyeth,RxNorm Extension,929435,acetazolamide,167
+41287541,OMOP2485503,Acetazolamide 500 MG Injectable Suspension [Diamox] Box of 12,RxNorm Extension,929435,acetazolamide,167
+40900954,OMOP2098916,Acetazolamide 500 MG Extended Release Oral Capsule Box of 300,RxNorm Extension,929435,acetazolamide,167
+21155820,OMOP291752,1 ML Acetazolamide 44 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+21047758,OMOP291857,1 ML Acetazolamide 50 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+21160157,OMOP355784,Acetazolamide 250 MG [Diamox SR],RxNorm Extension,929435,acetazolamide,167
+21145877,OMOP291785,1 ML Acetazolamide 12.5 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+40981858,OMOP2179820,Acetazolamide 500 MG Extended Release Oral Capsule [Diamox] Box of 30 by Logosys,RxNorm Extension,929435,acetazolamide,167
+21165628,OMOP291846,1 ML Acetazolamide 55 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+21110981,OMOP355759,Acetazolamide 40 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+40994570,OMOP2192532,Acetazolamide 250 MG Oral Tablet Box of 500,RxNorm Extension,929435,acetazolamide,167
+21140369,OMOP355732,Acetazolamide 32 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+21052070,OMOP355793,Acetazolamide 250 MG Extended Release Oral Capsule [Diamox SR] Box of 28,RxNorm Extension,929435,acetazolamide,167
+21120646,OMOP355844,Acetazolamide 22 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+41163234,OMOP2361196,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 6,RxNorm Extension,929435,acetazolamide,167
+21061891,OMOP355918,Acetazolamide 30 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+21047757,OMOP291827,1 ML Acetazolamide 20 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+40746772,OMOP4711335,Acetazolamide 250 MG Oral Tablet by TEVA,RxNorm Extension,929435,acetazolamide,167
+41169623,OMOP2367585,Acetazolamide 250 MG Oral Tablet [Glaupax] Box of 100 by OmniVision,RxNorm Extension,929435,acetazolamide,167
+41025646,OMOP2223608,Acetazolamide 500 MG Injectable Suspension Box of 60,RxNorm Extension,929435,acetazolamide,167
+35420877,OMOP1154462,99300 MG Acetazolamide 0.1 MG/MG Topical Cream,RxNorm Extension,929435,acetazolamide,167
+41169624,OMOP2367586,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 30 by Pfizer,RxNorm Extension,929435,acetazolamide,167
+19018750,197303,acetazolamide 125 MG Oral Tablet,RxNorm,929435,acetazolamide,167
+40869867,OMOP2067829,Acetazolamide 500 MG Injectable Solution,RxNorm Extension,929435,acetazolamide,167
+40713023,OMOP4744666,100 ML Acetazolamide 10 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+44048729,OMOP1043360,Acetazolamide 500 MG Extended Release Oral Capsule [Diamox Src],RxNorm Extension,929435,acetazolamide,167
+21032372,OMOP355874,Acetazolamide 20 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+41075622,OMOP2273584,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 10 by Pfizer,RxNorm Extension,929435,acetazolamide,167
+21101130,OMOP355715,Acetazolamide Oral Solution,RxNorm Extension,929435,acetazolamide,167
+40746771,OMOP4711336,Acetazolamide 250 MG Oral Tablet Box of 100 by Sigma,RxNorm Extension,929435,acetazolamide,167
+36217003,1152847,acetazolamide Oral Product,RxNorm,929435,acetazolamide,167
+21091237,OMOP355837,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 112 by AMCo,RxNorm Extension,929435,acetazolamide,167
+21071800,OMOP355801,Acetazolamide 250 MG Oral Tablet by Consilient,RxNorm Extension,929435,acetazolamide,167
+41037862,OMOP2235824,Acetazolamide 250 MG Oral Tablet [Glaupax] Box of 40,RxNorm Extension,929435,acetazolamide,167
+35132090,OMOP4789319,Acetazolamide Oral Powder,RxNorm Extension,929435,acetazolamide,167
+43154944,OMOP433052,Acetazolamide 500 MG Injectable Suspension [Diamox] Box of 25,RxNorm Extension,929435,acetazolamide,167
+21022629,OMOP355806,Acetazolamide 250 MG Oral Tablet by Sandoz,RxNorm Extension,929435,acetazolamide,167
+21057560,OMOP291831,1 ML Acetazolamide 35 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+36222722,1166322,Diamox Pill,RxNorm,929435,acetazolamide,167
+21126143,OMOP291805,1 ML Acetazolamide 22 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+41163233,OMOP2361195,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 120,RxNorm Extension,929435,acetazolamide,167
+21106643,OMOP291787,1 ML Acetazolamide 15 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+21136004,OMOP291783,1 ML Acetazolamide 12.5 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+40888584,OMOP2086546,Acetazolamide 250 MG Oral Tablet [Acemit] Box of 100 by Medphano,RxNorm Extension,929435,acetazolamide,167
+41201011,OMOP2398973,Acetazolamide 500 MG Injectable Solution [Diamox] Box of 1 by Logosys,RxNorm Extension,929435,acetazolamide,167
+41075618,OMOP2273580,Acetazolamide 500 MG Injectable Solution [Diamox] Box of 10 by Emra-Med,RxNorm Extension,929435,acetazolamide,167
+21081497,OMOP355883,Acetazolamide 80 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+21130424,OMOP355836,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 112,RxNorm Extension,929435,acetazolamide,167
+40004828,437297,acetazolamide Topical Cream,RxNorm,929435,acetazolamide,167
+21165625,OMOP291802,1 ML Acetazolamide 10 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+41306534,OMOP2504496,Acetazolamide 500 MG Injectable Suspension Box of 100,RxNorm Extension,929435,acetazolamide,167
+21042299,OMOP355730,Acetazolamide 32 MG/ML,RxNorm Extension,929435,acetazolamide,167
+40975386,OMOP2173348,Acetazolamide 500 MG Injectable Suspension [Diamox] Box of 60,RxNorm Extension,929435,acetazolamide,167
+21120642,OMOP355753,Acetazolamide 500 MG Injection by AMCo,RxNorm Extension,929435,acetazolamide,167
+43743933,OMOP765228,Acetazolamide Oral Tablet [Acemit],RxNorm Extension,929435,acetazolamide,167
+21032367,OMOP355812,Acetazolamide 250 MG Oral Tablet by A A H,RxNorm Extension,929435,acetazolamide,167
+41163230,OMOP2361192,Acetazolamide 500 MG Injectable Solution [Diamox] Box of 100,RxNorm Extension,929435,acetazolamide,167
+21145881,OMOP291835,1 ML Acetazolamide 80 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+35851090,OMOP5007648,acetazolamide 50 MG Oral Tablet [Nimukesi],RxNorm Extension,929435,acetazolamide,167
+43797767,OMOP765345,Acetazolamide 250 MG Oral Tablet [Acemit] by Medphano,RxNorm Extension,929435,acetazolamide,167
+21110988,OMOP355865,Acetazolamide 24 MG/ML,RxNorm Extension,929435,acetazolamide,167
+21081500,OMOP355909,Acetazolamide 50 MG/ML,RxNorm Extension,929435,acetazolamide,167
+41006760,OMOP2204722,Acetazolamide 500 MG Injectable Solution [Diamox] Box of 500,RxNorm Extension,929435,acetazolamide,167
+21022626,OMOP355765,Acetazolamide 12.5 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+21081489,OMOP355716,Acetazolamide Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+42963841,OMOP4690325,Acetazolamide 250 MG [ACETAZOL],RxNorm Extension,929435,acetazolamide,167
+35744486,OMOP2745947,Acetazolamide 50 MG/ML Oral Suspension by Drug Tariff Special Order,RxNorm Extension,929435,acetazolamide,167
+21106645,OMOP291851,1 ML Acetazolamide 2 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+41176938,OMOP2374900,Acetazolamide Oral Tablet [Diurapid],RxNorm Extension,929435,acetazolamide,167
+35761242,OMOP2762703,Acetazolamide 500 MG Injectable Solution Box of 1 by AMCo,RxNorm Extension,929435,acetazolamide,167
+21106641,OMOP291774,1 ML Acetazolamide 25 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+43219913,OMOP427059,100 ML Acetazolamide 100 MG/ML Topical Cream [DEFILTRAN] Box of 1,RxNorm Extension,929435,acetazolamide,167
+21071794,OMOP355718,Acetazolamide Extended Release Oral Capsule [Eytazox],RxNorm Extension,929435,acetazolamide,167
+42656194,OMOP4867769,Acetazolamide 500 MG Injectable Solution [Diamox] by Mercury,RxNorm Extension,929435,acetazolamide,167
+40932055,OMOP2130017,Acetazolamide 250 MG Oral Tablet Box of 10,RxNorm Extension,929435,acetazolamide,167
+44109521,OMOP1104152,Acetazolamide Oral Tablet [Novo-Zolamide],RxNorm Extension,929435,acetazolamide,167
+21061887,OMOP355852,Acetazolamide 60 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+21150225,OMOP355767,Acetazolamide 15 MG/ML,RxNorm Extension,929435,acetazolamide,167
+40825112,OMOP2023074,Acetazolamide 250 MG [Diurapid],RxNorm Extension,929435,acetazolamide,167
+929441,211695,acetazolamide 125 MG Oral Tablet [Diamox],RxNorm,929435,acetazolamide,167
+21047760,OMOP291862,1 ML Acetazolamide 30 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+21047754,OMOP291798,1 ML Acetazolamide 5 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+41318942,OMOP2516904,Acetazolamide 250 MG Oral Tablet [Acemit] Box of 20,RxNorm Extension,929435,acetazolamide,167
+21110984,OMOP355791,Acetazolamide 250 MG Extended Release Oral Capsule [Diamox SR] by AMCo,RxNorm Extension,929435,acetazolamide,167
+36058156,OMOP4983750,acetazolamide 250 MG Oral Tablet by Dawa,RxNorm Extension,929435,acetazolamide,167
+35143509,OMOP4800610,Acetazolamide 1000 MG,RxNorm Extension,929435,acetazolamide,167
+41325329,OMOP2523291,Acetazolamide 500 MG Injectable Solution [Diamox] Box of 1 by Eurim-Pharm,RxNorm Extension,929435,acetazolamide,167
+36880607,OMOP998057,Acetazolamide 0.91 MG/MG,RxNorm Extension,929435,acetazolamide,167
+929515,315271,acetazolamide 125 MG,RxNorm,929435,acetazolamide,167
+44029543,OMOP1024174,Acetazolamide 250 MG [Novo-Zolamide],RxNorm Extension,929435,acetazolamide,167
+21101140,OMOP355891,Acetazolamide 4 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+21169949,OMOP355737,Acetazolamide 8 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+21042307,OMOP355869,Acetazolamide 24 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+40981860,OMOP2179822,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 30 by Logosys,RxNorm Extension,929435,acetazolamide,167
+40746359,OMOP4711342,Acetazolamide 500 MG Injectable Solution [Diamox] Box of 1 by AMCo,RxNorm Extension,929435,acetazolamide,167
+21047753,OMOP291789,1 ML Acetazolamide 15 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+21052067,OMOP355748,Acetazolamide 25 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+41256495,OMOP2454457,Acetazolamide 500 MG Extended Release Oral Capsule [Diamox] Box of 10,RxNorm Extension,929435,acetazolamide,167
+21032370,OMOP355860,Acetazolamide 1 MG/ML,RxNorm Extension,929435,acetazolamide,167
+35420834,OMOP1154419,99300 MG Acetazolamide 0.1 MG/MG Topical Cream [DEFILTRAN],RxNorm Extension,929435,acetazolamide,167
+35786597,OMOP2788058,100 ML Acetazolamide 50 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+43154945,OMOP440484,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 24 by Sanofi,RxNorm Extension,929435,acetazolamide,167
+41107055,OMOP2305017,Acetazolamide 250 MG Oral Tablet [Glaupax] Box of 30 by Novartis,RxNorm Extension,929435,acetazolamide,167
+40895947,OMOP2093909,Acetazolamide Injectable Solution [Diamox],RxNorm Extension,929435,acetazolamide,167
+21081492,OMOP355787,Acetazolamide 250 MG Extended Release Oral Capsule Box of 28,RxNorm Extension,929435,acetazolamide,167
+21175349,OMOP291791,1 ML Acetazolamide 29 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+43725830,OMOP765302,Acetazolamide 250 MG Oral Tablet [Diamox] by Mercury,RxNorm Extension,929435,acetazolamide,167
+40975388,OMOP2173350,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 30,RxNorm Extension,929435,acetazolamide,167
+35421082,OMOP1154667,100000 MG Acetazolamide 0.1 MG/MG Topical Cream,RxNorm Extension,929435,acetazolamide,167
+41006759,OMOP2204721,Acetazolamide 500 MG Injectable Suspension [Diamox] Box of 500,RxNorm Extension,929435,acetazolamide,167
+41107056,OMOP2305018,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 30 by Mercury,RxNorm Extension,929435,acetazolamide,167
+40963308,OMOP2161270,Acetazolamide 500 MG Injectable Suspension Box of 500,RxNorm Extension,929435,acetazolamide,167
+21160159,OMOP355805,Acetazolamide 250 MG Oral Tablet by Crescent,RxNorm Extension,929435,acetazolamide,167
+41232082,OMOP2430044,Acetazolamide 250 MG Oral Tablet [Glaupax] Box of 30 by OmniVision,RxNorm Extension,929435,acetazolamide,167
+42963840,OMOP4690324,Acetazolamide 250 MG Oral Tablet [ACETAZOL],RxNorm Extension,929435,acetazolamide,167
+21145878,OMOP291794,1 ML Acetazolamide 29 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+35851094,OMOP5007652,acetazolamide 25 MG Oral Tablet [Nimukesi],RxNorm Extension,929435,acetazolamide,167
+21120645,OMOP355808,Acetazolamide 250 MG Oral Tablet by Alliance,RxNorm Extension,929435,acetazolamide,167
+21150237,OMOP355905,Acetazolamide 3.6 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+21120649,OMOP355877,Acetazolamide 35 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+929519,562524,12 HR acetazolamide 500 MG Extended Release Oral Capsule,RxNorm,929435,acetazolamide,167
+35787612,OMOP2789073,100 ML Acetazolamide 50 MG/ML Oral Suspension by Drug Tariff Special Order,RxNorm Extension,929435,acetazolamide,167
+21061888,OMOP355854,Acetazolamide 70 MG/ML,RxNorm Extension,929435,acetazolamide,167
+41232084,OMOP2430046,Acetazolamide 250 MG Oral Tablet Box of 10 by Monem,RxNorm Extension,929435,acetazolamide,167
+21150233,OMOP355855,Acetazolamide 70 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+41006761,OMOP2204723,Acetazolamide 250 MG Oral Tablet [Glaupax] Box of 25,RxNorm Extension,929435,acetazolamide,167
+43176115,OMOP427060,100 ML Acetazolamide 100 MG/ML Topical Cream [DEFILTRAN] Box of 1 by SFDB,RxNorm Extension,929435,acetazolamide,167
+35411998,OMOP1145583,Acetazolamide 0.1 MG/MG [DEFILTRAN],RxNorm Extension,929435,acetazolamide,167
+21136003,OMOP291776,1 ML Acetazolamide 25 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+35410294,OMOP1143879,Acetazolamide 0.1 MG/MG,RxNorm Extension,929435,acetazolamide,167
+43834024,OMOP765217,Acetazolamide Oral Tablet [Glaupax],RxNorm Extension,929435,acetazolamide,167
+40746768,OMOP4711339,Acetazolamide 250 MG Oral Tablet Box of 112 by Genesis,RxNorm Extension,929435,acetazolamide,167
+43143813,OMOP437275,Acetazolamide 250 MG Oral Tablet Box of 24,RxNorm Extension,929435,acetazolamide,167
+41138505,OMOP2336467,Acetazolamide 500 MG Extended Release Oral Capsule [Diamox] Box of 30 by Pfizer,RxNorm Extension,929435,acetazolamide,167
+21042305,OMOP355863,Acetazolamide 1 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+41119592,OMOP2317554,Acetazolamide 500 MG Injectable Solution Box of 60,RxNorm Extension,929435,acetazolamide,167
+41088336,OMOP2286298,Acetazolamide 500 MG Injectable Suspension Box of 12,RxNorm Extension,929435,acetazolamide,167
+41194528,OMOP2392490,Acetazolamide 250 MG Oral Tablet [Diurapid],RxNorm Extension,929435,acetazolamide,167
+43270890,OMOP528888,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 100,RxNorm Extension,929435,acetazolamide,167
+40913178,OMOP2111140,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 25,RxNorm Extension,929435,acetazolamide,167
+21169950,OMOP355763,Acetazolamide 12.5 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+21067400,OMOP291822,1 ML Acetazolamide 24 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+40746767,OMOP4711340,Acetazolamide 250 MG Oral Tablet Box of 112 by TEVA,RxNorm Extension,929435,acetazolamide,167
+41213544,OMOP2411506,Acetazolamide 500 MG Injectable Solution Box of 300,RxNorm Extension,929435,acetazolamide,167
+21106644,OMOP291840,1 ML Acetazolamide 4 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+43198952,OMOP439423,Acetazolamide 250 MG Oral Tablet [Diamox] Box of 24,RxNorm Extension,929435,acetazolamide,167
+35410604,OMOP1144189,Acetazolamide 0.1 MG/MG Topical Cream,RxNorm Extension,929435,acetazolamide,167
+41182181,OMOP2380143,Acetazolamide 500 MG Injectable Solution Box of 100,RxNorm Extension,929435,acetazolamide,167
+21042297,OMOP355722,Acetazolamide 44 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+35420833,OMOP1154418,99300 MG Acetazolamide 0.1 MG/MG Topical Cream [DEFILTRAN] Box of 1,RxNorm Extension,929435,acetazolamide,167
+21150230,OMOP355819,Acetazolamide 250 MG Oral Tablet Box of 112 by Mawdsley-Brooks,RxNorm Extension,929435,acetazolamide,167
+21061885,OMOP355818,Acetazolamide 250 MG Oral Tablet Box of 112 by Consilient,RxNorm Extension,929435,acetazolamide,167
+21136001,OMOP291763,1 ML Acetazolamide 32 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+36058155,OMOP4983749,acetazolamide 250 MG Oral Tablet by Medihealth,RxNorm Extension,929435,acetazolamide,167
+36258296,OMOP3109171,Acetazolamide 500 MG Injection [Diamox],RxNorm Extension,929435,acetazolamide,167
+21136000,OMOP291754,1 ML Acetazolamide 44 MG/ML Oral Suspension,RxNorm Extension,929435,acetazolamide,167
+19072239,307701,acetazolamide 500 MG Extended Release Oral Capsule,RxNorm,929435,acetazolamide,167
+44122635,OMOP1117266,Acetazolamide Extended Release Oral Capsule [Diamox Sequels],RxNorm Extension,929435,acetazolamide,167
+21071796,OMOP355756,Acetazolamide 40 MG/ML,RxNorm Extension,929435,acetazolamide,167
+21091236,OMOP355834,Acetazolamide 250 MG Oral Tablet [Diamox] by AMCo,RxNorm Extension,929435,acetazolamide,167
+929516,315272,acetazolamide 250 MG,RxNorm,929435,acetazolamide,167
+21061886,OMOP355839,Acetazolamide 10 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+40167829,876440,acetazolamide 500 MG Extended Release Oral Capsule [Diamox],RxNorm,929435,acetazolamide,167
+44113195,OMOP1107826,Acetazolamide 250 MG Oral Tablet [Acetazolam],RxNorm Extension,929435,acetazolamide,167
+21081495,OMOP355872,Acetazolamide 20 MG/ML Oral Solution,RxNorm Extension,929435,acetazolamide,167
+929435,167,acetazolamide,RxNorm,929435,acetazolamide,167
+41131878,OMOP2329840,Acetazolamide 500 MG Injectable Solution [Diamox],RxNorm Extension,929435,acetazolamide,167
+35773925,OMOP2775386,Acetazolamide 50 MG/ML Oral Solution by Drug Tariff Special Order,RxNorm Extension,929435,acetazolamide,167

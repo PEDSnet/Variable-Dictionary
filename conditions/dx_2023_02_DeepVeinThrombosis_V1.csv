@@ -1,0 +1,380 @@
+concept_id,concept_code,concept_name,vocabulary_id
+44782425,100751000119101,Venous thrombosis due to central venous access device,SNOMED
+45757143,10759191000119106,Postpartum septic thrombophlebitis,SNOMED
+444247,111293003,Venous thrombosis,SNOMED
+4009180,111458008,Postpartum venous thrombosis,SNOMED
+760875,12237551000119104,Acute deep venous thrombosis of bilateral calves,SNOMED
+760876,12237631000119109,Acute deep venous thrombosis of left calf,SNOMED
+760877,12237711000119106,Acute deep venous thrombosis of right calf,SNOMED
+35611569,12237791000119102,Bilateral acute thrombosis of superficial vein of upper limbs,SNOMED
+36712810,12237831000119108,Acute thrombosis of superficial vein of left upper limb,SNOMED
+36712811,12237871000119106,Acute thrombosis of superficial vein of right upper limb,SNOMED
+4133004,128053003,Deep venous thrombosis,SNOMED
+4028057,128054009,Deep venous thrombosis of upper extremity,SNOMED
+4133975,128055005,Deep venous thrombosis of pelvic vein,SNOMED
+46270070,132091000119104,Chronic deep venous thrombosis of lower limb due to coronary artery bypass grafting,SNOMED
+46270071,132111000119107,Acute deep venous thrombosis of lower limb due to coronary artery bypass grafting,SNOMED
+44782734,132131000119102,Chronic deep venous thrombosis of calf,SNOMED
+44782735,132141000119106,Chronic deep venous thrombosis of lower extremity,SNOMED
+44782736,132151000119108,Chronic deep venous thrombosis of popliteal vein,SNOMED
+44782737,132161000119105,Chronic deep venous thrombosis of tibial vein,SNOMED
+44782738,132171000119104,Chronic deep venous thrombosis of thigh,SNOMED
+44782739,132191000119103,Chronic deep venous thrombosis of femoral vein,SNOMED
+44782740,132201000119100,Chronic deep venous thrombosis of iliofemoral vein,SNOMED
+44782741,132221000119109,Chronic deep venous thrombosis of upper extremity,SNOMED
+44782742,132241000119103,Acute deep venous thrombosis of calf,SNOMED
+44782743,132251000119101,Acute deep venous thrombosis of popliteal vein,SNOMED
+44782744,132261000119104,Acute deep venous thrombosis of tibial vein,SNOMED
+44782745,132271000119105,Acute deep venous thrombosis of thigh,SNOMED
+44782746,132281000119108,Acute deep venous thrombosis,SNOMED
+44782747,132291000119106,Acute deep venous thrombosis of femoral vein,SNOMED
+44782748,132301000119107,Acute deep venous thrombosis of iliofemoral vein,SNOMED
+44782421,132321000119103,Acute deep venous thrombosis of upper extremity,SNOMED
+44782754,132531000119105,Chronic thrombosis of superficial vein of upper extremity,SNOMED
+761013,132541000119101,Deep venous thrombosis of bilateral pelvic veins,SNOMED
+44782759,132551000119104,Chronic thrombosis of subclavian vein,SNOMED
+44782760,132591000119109,Acute thrombosis of superficial vein of upper extremity,SNOMED
+44782761,132601000119102,Acute deep venous thrombosis of pelvic vein,SNOMED
+44782762,132611000119104,Acute thrombosis of subclavian vein,SNOMED
+45757409,133411000119108,Chronic thrombosis of mesenteric vein,SNOMED
+45757410,133421000119101,Acute thrombosis of mesenteric vein,SNOMED
+4046884,134399007,Deep vein thrombosis of leg related to air travel,SNOMED
+761026,134971000119105,Chronic deep venous thrombosis of axillary vein,SNOMED
+44782751,134961000119104,Acute deep venous thrombosis of axillary vein,SNOMED
+44782752,135001000119100,Acute deep venous thrombosis of internal jugular vein,SNOMED
+44782755,135011000119102,Chronic deep venous thrombosis of internal jugular vein,SNOMED
+44782756,135061000119104,Chronic thrombosis of superior vena cava,SNOMED
+44782757,135071000119105,Acute thrombosis of superior vena cava,SNOMED
+44782765,136751000119108,Chronic deep venous thrombosis of upper extremity as complication of procedure,SNOMED
+44782766,136771000119104,Acute deep venous thrombosis of upper extremity as complication of procedure,SNOMED
+44782767,136781000119101,Acute deep venous thrombosis of lower extremity as complication of procedure,SNOMED
+761039,13720001000004105,Superficial venous thrombosis of upper extremity,SNOMED
+46273489,13730001000004107,Thrombosis of vein of upper limb,SNOMED
+36712891,143551000119106,Chronic thrombosis of splenic vein,SNOMED
+36712892,143561000119108,Acute thrombosis of splenic vein,SNOMED
+4033521,14534009,Splenic vein thrombosis,SNOMED
+761098,14640001000004103,Thrombosis of left cephalic vein,SNOMED
+35615030,15708201000119101,Acute deep vein thrombosis of right upper limb following procedure,SNOMED
+761415,15708281000119109,Acute deep vein thrombosis of right upper limb following coronary artery bypass graft,SNOMED
+35615031,15708401000119100,Acute deep vein thrombosis of left upper limb following procedure,SNOMED
+761416,15708441000119103,Acute deep vein thrombosis of left upper limb following coronary artery bypass graft,SNOMED
+761417,15708481000119108,Chronic deep vein thrombosis of right upper limb following procedure,SNOMED
+761418,15708521000119108,Chronic deep vein thrombosis of left upper limb following procedure,SNOMED
+761439,15711001000119104,Chronic deep vein thrombosis of left pelvic vein,SNOMED
+761440,15711041000119102,Chronic deep venous thrombosis of bilateral pelvic veins,SNOMED
+761441,15711081000119107,Chronic deep vein thrombosis of right pelvic vein,SNOMED
+35615034,15711241000119106,Acute deep vein thrombosis of right lower limb following procedure,SNOMED
+761444,15711361000119101,Acute deep vein thrombosis of bilateral lower limbs following coronary artery bypass graft,SNOMED
+35615035,15711401000119105,Acute deep vein thrombosis of left lower limb following procedure,SNOMED
+761445,15711441000119107,Chronic deep venous thrombosis of bilateral calves,SNOMED
+761446,15711481000119102,Chronic deep venous thrombosis of left thigh,SNOMED
+761447,15711521000119102,Chronic deep venous thrombosis of left calf,SNOMED
+761448,15711561000119107,Chronic deep venous thrombosis of right thigh,SNOMED
+761449,15711601000119107,Chronic deep venous thrombosis of bilateral thighs,SNOMED
+761450,15711641000119109,Chronic deep venous thrombosis of right calf,SNOMED
+761451,15711681000119104,Chronic thrombosis of superficial vein of right leg,SNOMED
+765228,15711721000119105,Chronic thrombosis of superficial veins of both lower extremities,SNOMED
+761452,15711761000119100,Acute thrombosis of superficial vein of right lower extremity,SNOMED
+761453,15711801000119108,Acute thrombosis of superficial vein of left lower extremity,SNOMED
+761454,15711841000119105,Acute thrombosis of superficial veins of both lower extremities,SNOMED
+761455,15711921000119107,Thrombosis of bilateral renal veins,SNOMED
+761456,15711961000119102,Thrombosis of left renal vein,SNOMED
+761457,15712001000119106,Thrombosis of right renal vein,SNOMED
+761458,15712041000119108,Chronic thrombosis of superficial vein of right upper extremity,SNOMED
+761459,15712081000119103,Chronic thrombosis of superficial vein of left upper extremity,SNOMED
+761460,15712121000119101,Chronic thrombosis of superficial vein of bilateral upper limbs,SNOMED
+46273494,15712161000119106,Acute thrombosis of inferior vena cava,SNOMED
+761461,15712201000119101,Acute deep venous thrombosis of bilateral pelvic veins,SNOMED
+761462,15712241000119104,Acute deep venous thrombosis of left pelvic vein,SNOMED
+765229,15712281000119109,Acute deep venous thrombosis of right pelvic vein,SNOMED
+46270157,15712441000119103,Chronic thrombosis of inferior vena cava,SNOMED
+4048890,15742000,Thrombosis of inferior sagittal sinus,SNOMED
+36712971,15760351000119105,Chronic deep venous thrombosis,SNOMED
+4049318,15842009,Thrombosis of renal vein,SNOMED
+37108983,16006031000119103,Thrombophlebitis of vein of right upper limb,SNOMED
+36713001,16006071000119100,Thrombophlebitis of vein of left upper limb,SNOMED
+35615077,16006111000119107,Bilateral upper limb superficial vein thrombophlebitis,SNOMED
+36713002,16006151000119108,Thrombophlebitis of superficial vein of right upper limb,SNOMED
+36713003,16006191000119103,Thrombophlebitis of superficial vein of left upper limb,SNOMED
+761808,16006271000119105,Thrombophlebitis of deep vein of left upper limb,SNOMED
+761809,16006311000119105,Thrombophlebitis of deep vein of right upper limb,SNOMED
+35615078,16006351000119106,Bilateral upper limb vein thrombophlebitis,SNOMED
+36713009,16011751000119102,Thrombophlebitis of left saphenous vein,SNOMED
+36713010,16011791000119107,Thrombophlebitis of right saphenous vein,SNOMED
+761817,16011831000119101,Thrombophlebitis of bilateral saphenous veins,SNOMED
+761818,16011991000119109,Thrombophlebitis of right femoral vein,SNOMED
+761819,16012071000119101,Thrombophlebitis of left femoral vein,SNOMED
+761820,16012111000119108,Thrombophlebitis of right deep femoral vein,SNOMED
+761821,16012151000119109,Thrombophlebitis of left deep femoral vein,SNOMED
+35615101,16014311000119102,Bilateral lower limb vein thrombophlebitis,SNOMED
+761830,16014351000119101,Thrombophlebitis of deep vein of left lower limb,SNOMED
+761831,16014391000119106,Thrombophlebitis of deep vein of bilateral lower limbs,SNOMED
+761832,16014431000119101,Thrombophlebitis of deep vein of right lower limb,SNOMED
+35615103,16014471000119103,Right lower limb vein thrombophlebitis,SNOMED
+37108993,16014511000119107,Thrombophlebitis of superficial vein of right lower limb,SNOMED
+36713011,16014551000119108,Thrombophlebitis of superficial vein of left lower limb,SNOMED
+35615104,16014591000119103,Bilateral lower limb superficial vein thrombophlebitis,SNOMED
+35615105,16014631000119103,Left lower limb vein thrombophlebitis,SNOMED
+35615120,16025551000119102,Thrombophlebitis of left jugular vein,SNOMED
+35615121,16025591000119107,Thrombophlebitis of right jugular vein,SNOMED
+35615125,16026431000119101,Chronic venous thrombosis,SNOMED
+765049,16730001000004104,Thrombosis of left peroneal vein,SNOMED
+4042396,16750002,Deep thrombophlebitis,SNOMED
+4069561,1748006,Thrombophlebitis of deep femoral vein,SNOMED
+199837,17920008,Portal vein thrombosis,SNOMED
+4079905,18322005,Thrombosis of torcular Herophili,SNOMED
+318137,192753009,Phlebitis and thrombophlebitis of intracranial sinuses,SNOMED
+4102202,192759008,Cerebral venous sinus thrombosis,SNOMED
+4102203,192760003,Thrombosis of superior longitudinal sinus,SNOMED
+4105338,192761004,Thrombosis transverse sinus,SNOMED
+4104695,192770001,Thrombophlebitis of cavernous sinus,SNOMED
+4100224,192771002,Thrombophlebitis of superior longitudinal venous sinus,SNOMED
+4100225,192772009,Thrombophlebitis lateral venous sinus,SNOMED
+4111713,195229008,Non-pyogenic venous sinus thrombosis,SNOMED
+313219,195394007,Phlebitis and thrombophlebitis,SNOMED
+4110337,195396009,Superficial thrombophlebitis of long saphenous vein,SNOMED
+4109873,195397000,Superficial thrombophlebitis of short saphenous vein,SNOMED
+439314,195410000,Thrombophlebitis of the femoral vein,SNOMED
+4112171,195411001,Thrombophlebitis of the popliteal vein,SNOMED
+4110339,195412008,Thrombophlebitis of the anterior tibial vein,SNOMED
+4112172,195414009,Thrombophlebitis of the posterior tibial vein,SNOMED
+4111868,195425000,Thrombophlebitis of the common iliac vein,SNOMED
+4109877,195426004,Thrombophlebitis of the internal iliac vein,SNOMED
+4110343,195427008,Thrombophlebitis of the external iliac vein,SNOMED
+435565,195437003,Embolism and thrombosis of the vena cava,SNOMED
+193512,195438008,Embolism and thrombosis of the renal vein,SNOMED
+4055089,197001004,Superior mesenteric vein thrombosis,SNOMED
+441649,200232006,Antenatal deep vein thrombosis - delivered,SNOMED
+435885,200233001,Antenatal deep vein thrombosis with antenatal complication,SNOMED
+435031,200237000,Postnatal deep vein thrombosis - delivered with postnatal complication,SNOMED
+4062264,200238005,Postnatal deep vein thrombosis with postnatal complication,SNOMED
+4061473,200258006,Obstetric cerebral venous thrombosis,SNOMED
+4062269,200259003,Cerebral venous thrombosis in pregnancy,SNOMED
+4066234,200260008,Cerebral venous thrombosis in the puerperium,SNOMED
+761928,20850001000004108,Deep venous thrombosis of right upper extremity,SNOMED
+4057329,21258007,Thrombosis of lateral venous sinus,SNOMED
+4309333,213220000,Postoperative deep vein thrombosis,SNOMED
+4308840,213310008,Thrombophlebitis after infusion,SNOMED
+4041679,230222003,Septic thrombophlebitis of straight sinus,SNOMED
+4041680,230223008,Septic thrombophlebitis of sigmoid sinus,SNOMED
+4047634,230224002,Septic thrombophlebitis of cortical vein,SNOMED
+4043901,230225001,Septic thrombophlebitis of great cerebral vein,SNOMED
+4043735,230720005,Cerebral venous thrombosis of straight sinus,SNOMED
+4048786,230721009,Cerebral venous thrombosis of sigmoid sinus,SNOMED
+4046443,230722002,Cerebral venous thrombosis of cortical vein,SNOMED
+4048787,230723007,Cerebral venous thrombosis of great cerebral vein,SNOMED
+4338761,231847000,Orbital thrombophlebitis,SNOMED
+4334888,232041003,Central retinal vein occlusion - juvenile with neovascularization,SNOMED
+4334246,232038007,Central retinal vein occlusion with neovascularization,SNOMED
+4339010,232039004,Central retinal vein occlusion with macular edema,SNOMED
+4339011,232040002,Central retinal vein occlusion - juvenile,SNOMED
+4335591,232042005,Central retinal vein occlusion - juvenile with macular edema,SNOMED
+4334247,232043000,Hemispheric retinal vein occlusion,SNOMED
+4336005,232044006,Hemispheric retinal vein occlusion with neovascularization,SNOMED
+4335592,232045007,Hemispheric retinal vein occlusion with macular edema,SNOMED
+4334248,232046008,Branch retinal vein occlusion with neovascularization,SNOMED
+4339013,232048009,Branch retinal vein occlusion with macular edema,SNOMED
+4124855,234036007,Superficial thrombophlebitis of cephalic vein,SNOMED
+4119758,234037003,Superficial thrombophlebitis of basilic vein,SNOMED
+4119759,234040003,Saphenous vein thrombophlebitis,SNOMED
+4124856,234041004,Inferior mesenteric vein thrombosis,SNOMED
+4124857,234043001,Thrombosis of vein of lower leg,SNOMED
+4119760,234044007,Iliofemoral deep vein thrombosis,SNOMED
+4120114,234045008,Thrombosis of transplanted vein,SNOMED
+4124858,234046009,Transplant renal vein thrombosis,SNOMED
+4124859,234047000,Radiation thrombophlebitis,SNOMED
+4120115,234048005,Recurrent idiopathic thrombophlebitis,SNOMED
+312622,24596005,Venous retinal branch occlusion,SNOMED
+4085025,2477008,Superficial thrombophlebitis,SNOMED
+4092406,24805007,Portal thrombophlebitis,SNOMED
+761980,25820001000004100,Deep venous thrombosis of left upper extremity,SNOMED
+201045,26373009,Thrombosed external hemorrhoids,SNOMED
+77310,266267005,Deep vein phlebitis and thrombophlebitis of the leg,SNOMED
+4098706,26954004,Thrombophlebitis of superior sagittal sinus,SNOMED
+4077218,275517008,Superficial vein thrombosis,SNOMED
+4089917,280966008,Phlegmasia alba dolens - obstetric,SNOMED
+4084446,281595001,Thrombosis of inferior vena cava,SNOMED
+4084941,281596000,Thrombosis of superior vena cava,SNOMED
+4084942,281597009,Brachiocephalic vein thrombosis,SNOMED
+762004,285261000119104,Acute deep venous thrombosis of both upper extremities,SNOMED
+765537,285271000119105,Acute deep venous thrombosis of left upper extremity,SNOMED
+762005,285281000119108,Acute deep venous thrombosis of right upper extremity,SNOMED
+762006,285291000119106,Chronic deep venous thrombosis of both upper extremities,SNOMED
+765538,285301000119107,Chronic deep venous thrombosis of left upper extremity,SNOMED
+762007,285311000119105,Chronic deep vein thrombosis of right upper extremity,SNOMED
+762008,285321000119103,Acute deep venous thrombosis of bilateral axillary veins,SNOMED
+762009,285331000119100,Acute deep venous thrombosis of left axillary vein,SNOMED
+762010,285341000119109,Acute deep venous thrombosis of right axillary vein,SNOMED
+762011,285351000119106,Chronic deep venous thrombosis of bilateral axillary veins,SNOMED
+762012,285361000119108,Chronic deep venous thrombosis of left axillary vein,SNOMED
+765541,285461000119103,Acute deep venous thrombosis of ileofemoral vein of right lower extremity,SNOMED
+765539,285371000119102,Chronic deep vein thrombosis of right axillary vein,SNOMED
+37109253,285381000119104,Bilateral acute deep vein thrombosis of femoral veins,SNOMED
+765540,285391000119101,Acute deep venous thrombosis of left femoral vein,SNOMED
+762013,285401000119104,Acute deep venous thrombosis of right femoral vein,SNOMED
+762014,285411000119101,Chronic deep venous thrombosis of femoral veins of both lower extremities,SNOMED
+765153,285421000119108,Chronic deep venous thrombosis of femoral vein of left lower extremity,SNOMED
+765154,285431000119106,Chronic deep venous thrombosis of femoral vein of right lower extremity,SNOMED
+765155,285441000119102,Acute deep venous thrombosis of bilateral ileofemoral veins,SNOMED
+762015,285451000119100,Acute deep venous thrombosis of ileofemoral vein of left leg,SNOMED
+765542,285471000119109,Chronic deep venous thrombosis of bilateral ileofemoral veins,SNOMED
+765543,285481000119107,Chronic deep venous thrombosis of left ileofemoral vein,SNOMED
+762016,285491000119105,Chronic deep venous thrombosis of right ileofemoral vein,SNOMED
+762017,285501000119103,Acute deep venous thrombosis of bilateral internal jugular veins,SNOMED
+765922,285511000119100,Acute deep venous thrombosis of left internal jugular vein,SNOMED
+762018,285521000119107,Acute deep venous thrombosis of right internal jugular vein,SNOMED
+762019,285531000119105,Chronic deep venous thrombosis of bilateral internal jugular veins,SNOMED
+765544,285541000119101,Chronic deep venous thrombosis of left internal jugular vein,SNOMED
+765545,285551000119104,Chronic deep venous thrombosis of right internal jugular vein,SNOMED
+762020,285561000119102,Acute deep venous thrombosis of bilateral popliteal veins,SNOMED
+762021,285571000119108,Acute deep venous thrombosis of popliteal vein of left leg,SNOMED
+762022,285581000119106,Acute deep venous thrombosis of politeal vein of right leg,SNOMED
+762023,285591000119109,Chronic deep venous thrombosis of bilateral popliteal veins,SNOMED
+762024,285601000119102,Chronic deep venous thrombosis of popliteal vein of left leg,SNOMED
+762025,285611000119104,Chronic deep venous thrombosis of popliteal vein of right leg,SNOMED
+765546,285621000119106,Acute deep venous thrombosis of bilateral tibial veins,SNOMED
+762026,285631000119109,Acute deep venous thrombosis of tibial vein of left leg,SNOMED
+765156,285641000119100,Acute deep venous thrombosis of tibial vein of right leg,SNOMED
+762027,285651000119103,Chronic deep venous thrombosis of tibial vein of bilateral lower extremities,SNOMED
+762028,285661000119101,Chronic deep venous thrombosis of tibial vein of left leg,SNOMED
+762029,285671000119107,Chronic deep venous thrombosis of tibial vein of right leg,SNOMED
+762050,286441000119107,Chronic thrombosis of bilateral subclavian veins,SNOMED
+762046,286381000119105,Chronic thrombosis of right subclavian vein,SNOMED
+762047,286411000119108,Acute bilateral thrombosis of subclavian veins,SNOMED
+762048,286421000119101,Acute thrombosis of left subclavian vein,SNOMED
+762049,286431000119103,Acute thrombosis of right subclavian vein,SNOMED
+762051,286451000119109,Chronic thrombosis of left subclavian vein,SNOMED
+765152,293441000119104,Chronic deep vein thrombosis of bilateral iliac veins,SNOMED
+35616025,293451000119102,Chronic deep vein thrombosis of right iliac vein,SNOMED
+35616026,293461000119100,Chronic deep vein thrombosis of left iliac vein,SNOMED
+762148,293471000119106,Acute deep vein thrombosis of bilateral iliac veins,SNOMED
+35616027,293481000119109,Acute deep vein thrombosis of right iliac vein,SNOMED
+35616028,293491000119107,Acute deep vein thrombosis of left iliac vein,SNOMED
+4179911,297156001,Axillary vein thrombosis,SNOMED
+4179912,297157005,Intracranial venous thrombosis,SNOMED
+4120316,302878004,Intracranial septic thrombophlebitis,SNOMED
+4116206,302879007,Septic thrombophlebitis of cavernous sinus,SNOMED
+4119136,302880005,Septic thrombophlebitis of sagittal sinus,SNOMED
+4121335,302881009,Septic thrombophlebitis of lateral sinus,SNOMED
+4149782,309735004,Thrombosis of vein of lower limb,SNOMED
+4207615,312584000,Thrombosis of vein of trunk,SNOMED
+4194609,312586003,Intracranial thrombophlebitis,SNOMED
+439838,31268005,Thrombophlebitis migrans,SNOMED
+4208221,312997008,Central retinal vein occlusion - ischemic,SNOMED
+4208222,312998003,Central retinal vein occlusion - non-ischemic,SNOMED
+4199035,314000002,Branch retinal vein occlusion with no neovascularization,SNOMED
+4135330,3168002,Thrombophlebitis of intracranial venous sinus,SNOMED
+762417,350291000119100,Acute deep venous thrombosis of bilateral legs,SNOMED
+762418,350301000119104,Acute deep venous thrombosis of left lower extremity,SNOMED
+762419,350311000119101,Acute deep venous thrombosis of right lower extremity,SNOMED
+762420,350321000119108,Bilateral chronic deep venous thrombosis of lower extremities,SNOMED
+762421,350331000119106,Chronic deep venous thrombosis of left lower extremity,SNOMED
+762422,350341000119102,Chronic deep venous thrombosis of right lower extremity,SNOMED
+4146840,35386004,Cavernous sinus syndrome,SNOMED
+4158798,361278002,Mondor's phlebitis of the penis,SNOMED
+4277833,3681008,Thrombophlebitis of torcular Herophili,SNOMED
+762443,368351000119106,Thrombosis of superficial vein of penis,SNOMED
+4153353,371051005,Traumatic thrombosis of axillary vein,SNOMED
+4301208,38739001,Hepatic vein thrombosis,SNOMED
+4221821,40198004,Thrombophlebitis of deep veins of lower extremity,SNOMED
+444055,40283005,Thrombophlebitis of superficial veins of lower extremity,SNOMED
+443537,404223003,Deep venous thrombosis of lower extremity,SNOMED
+4322565,427775006,Deep venous thrombosis of profunda femoris vein,SNOMED
+4175649,427776007,Thrombosis of the popliteal vein,SNOMED
+4176614,42861008,Thrombophlebitis of iliac vein,SNOMED
+4181315,428781001,Deep venous thrombosis associated with coronary artery bypass graft,SNOMED
+4327889,429098002,Thromboembolism of vein,SNOMED
+4323778,429434005,Thrombosis of superficial vein of lower limb,SNOMED
+314667,42970005,Nonpyogenic thrombosis of intracranial venous sinus,SNOMED
+762811,432261000124102,Cerebral venous thrombosis of cortical vein without infarction,SNOMED
+762828,432481000124106,Thrombosis of cerebral medullary veins,SNOMED
+762938,433971000124107,Cerebral venous thrombosis of cortical vein with infarction,SNOMED
+763149,436591000124109,Thrombophlebitis of superior anastomotic vein,SNOMED
+4205652,438483005,Thrombophlebitis of subclavian vein,SNOMED
+4230403,438646004,Thrombophlebitis of axillary vein,SNOMED
+4203836,438647008,Thrombosis of subclavian vein,SNOMED
+4207899,438785004,Deep venous thrombosis of tibial vein,SNOMED
+4235812,439731006,Septic thrombophlebitis,SNOMED
+40480555,443210003,Deep venous thrombosis of peroneal vein,SNOMED
+40478951,444325005,Bilateral deep vein thrombosis of lower extremities,SNOMED
+763795,446491000124106,Thrombosis of cephalic vein,SNOMED
+763926,448661000124102,Chronic thrombosis of superficial vein of left leg,SNOMED
+763941,448831000124105,Deep venous thrombosis of right lower extremity,SNOMED
+763942,448841000124100,Deep venous thrombosis of left lower extremity,SNOMED
+764016,449691000124103,Acute deep venous thrombosis of upper extremity after coronary artery bypass graft,SNOMED
+42710054,449926001,Thrombophlebitis of superficial veins of lower leg,SNOMED
+764503,455901000124101,Occlusion of cerebral vein by nonpyogenic thrombus,SNOMED
+4187790,46085004,Thrombosis of retinal vein,SNOMED
+444097,46253008,Thrombophlebitis of lower extremities,SNOMED
+192981,47780009,Superficial thrombophlebitis complicating pregnancy AND/OR puerperium,SNOMED
+4167985,48248005,Thrombophlebitis of inferior sagittal sinus,SNOMED
+435887,49956009,Antepartum deep vein thrombosis,SNOMED
+4203618,52496006,Thrombophlebitis of femoropopliteal vein,SNOMED
+201595,52931009,Thrombosed internal hemorrhoids,SNOMED
+764708,5481000124104,Thrombophlebitis of straight sinus,SNOMED
+764710,5491000124101,Thrombophlebitis of transverse sinus,SNOMED
+764712,5501000124109,Thrombophlebitis of internal cerebral vein,SNOMED
+764714,5511000124107,Thrombophlebitis of sigmoid sinus,SNOMED
+764715,5521000124104,Thrombophlebitis of internal jugular vein,SNOMED
+764716,5531000124101,Thrombophlebitis of basal vein of Rosenthal,SNOMED
+764723,5591000124102,Thrombosis of superior anastomotic vein,SNOMED
+764726,5611000124108,Thrombosis of basal vein,SNOMED
+438820,56272000,Postpartum deep phlebothrombosis,SNOMED
+4269051,62583006,Puerperal phlegmasia alba dolens,SNOMED
+4273550,63795001,Thrombosis of intracranial venous sinus of pregnancy AND/OR puerperium,SNOMED
+320741,64156001,Thrombophlebitis,SNOMED
+43531681,651000119108,Acute deep vein thrombosis of lower limb,SNOMED
+4284538,66877004,Phlegmasia cerulea dolens,SNOMED
+4281689,66923004,Phlegmasia alba dolens,SNOMED
+4285751,67486009,Postpartum pelvic thrombophlebitis,SNOMED
+4238705,682004,Thrombosis complicating pregnancy AND/OR puerperium,SNOMED
+313761,68478007,Central retinal vein occlusion,SNOMED
+44784475,698627005,Postoperative phlebitis and thrombophlebitis of intracranial sinuses,SNOMED
+4289731,69954004,Thrombophlebitis of breast,SNOMED
+45765438,702374000,Neonatal noninfectious cerebral venous sinus thrombosis,SNOMED
+45773536,703277001,Deep venous thrombosis of femoropopliteal vein,SNOMED
+4290940,70607008,Thrombosis of superior sagittal sinus,SNOMED
+46271471,709597002,Acute thrombosis of superficial vein of lower limb,SNOMED
+46271475,709602009,Chronic thrombosis of superficial vein of lower limb,SNOMED
+46271548,709687000,Chronic deep vein thrombosis of pelvic vein,SNOMED
+46271900,710167004,Recurrent deep vein thrombosis,SNOMED
+4216561,71719003,Thrombophlebitis of retinal vein,SNOMED
+36717594,722930000,Neonatal thrombosis of cerebral venous sinus,SNOMED
+4218759,72930009,Superficial migratory thrombophlebitis,SNOMED
+42535735,733325006,Combined occlusion by thrombus of retinal artery and retinal vein,SNOMED
+4250765,7387004,Thrombophlebitis of tibial vein,SNOMED
+195294,75955007,Thrombosed hemorrhoids,SNOMED
+764882,7600001000004104,Thrombosis of jugular vein,SNOMED
+42538533,762256003,Thrombosis of iliac vein,SNOMED
+4295878,76598006,Thrombosis of penile vein,SNOMED
+35626336,770111009,Thrombophlebitis of dorsal venous arch of foot,SNOMED
+4300990,77892009,Pulmonary venous thrombosis,SNOMED
+37312159,789671000,Thrombophlebitis during procedure,SNOMED
+37312158,789672007,Thrombophlebitis due to procedure,SNOMED
+37312149,789681001,Thrombophlebitis following perfusion,SNOMED
+37312148,789682008,Thrombophlebitis following transfusion,SNOMED
+4217471,8166000,Thrombophlebitis of basilar sinus,SNOMED
+196715,82385007,Budd-Chiari syndrome,SNOMED
+4222152,83916000,Postpartum thrombophlebitis,SNOMED
+4222639,83938003,Thrombosis of vena cava,SNOMED
+3655084,840713005,Phlebitis and thrombophlebitis of iliac vein,SNOMED
+4223544,84216001,Cerebral venous thrombosis of pregnancy AND/OR puerperium,SNOMED
+3655221,860699005,Deep vein thrombosis of lower extremity due to intravenous drug use,SNOMED
+44811347,864191000000104,Thrombosis of internal jugular vein,SNOMED
+44811348,864211000000100,Thrombosis of external jugular vein,SNOMED
+3656111,871637001,Thrombosis of multiple cerebral veins,SNOMED
+4228209,88922007,Thrombosis of basilar sinus,SNOMED
+4234264,89980009,Thrombosis of cavernous venous sinus,SNOMED
+4316223,95445009,Thrombophlebitis of vena cava,SNOMED
+4317289,95446005,Thrombosis of mesenteric vein,SNOMED
+4318407,95447001,Thrombophlebitis of mesenteric vein,SNOMED
+4319327,95448006,Thrombosis of pelvic vein,SNOMED
+4317290,95449003,Thrombophlebitis of pelvic vein,SNOMED
+319054,95450003,Thrombophlebitis of upper extremities,SNOMED
+433218,95451004,Thrombophlebitis of superficial veins of upper extremities,SNOMED
+440750,95452006,Thrombophlebitis of deep veins of upper extremities,SNOMED
+4319329,95455008,Thrombosis of cerebral veins,SNOMED
+4319332,95461006,Thrombophlebitis of cerebral vein,SNOMED
+4319459,95620003,Thrombophlebitis of the newborn,SNOMED
+46285904,978421000000101,Unprovoked deep vein thrombosis,SNOMED
+46285905,978441000000108,Provoked deep vein thrombosis,SNOMED

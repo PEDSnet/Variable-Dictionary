@@ -1,0 +1,10 @@
+|Field        |Value                                                                                                                                                                                           |
+|:------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Codeset Name |Atopic Dermatitis                                                                                                                                                                               |
+|Codeset Link |[dx_2023_10_AtopicDermatitis_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2023_10_AtopicDermatitis_V1.csv.csv)                                                |
+|CDM          |PEDSnet                                                                                                                                                                                         |
+|Description  |Code set used to determine whether patient had this condition.                                                                                                                                  |
+|Vocabulary   |SNOMED                                                                                                                                                                                          |
+|Date Updated |2023-10-31                                                                                                                                                                                      |
+|Study        |Creation of Computable Alopecia Areata Phenotype to Evaluate Epidemiology of Pediatric Alopecia Areata and Potential Health Care Disparities in care among children living with Alopecia Areata |
+|Validity     |Not Reviewed                                                                                                                                                                                    |

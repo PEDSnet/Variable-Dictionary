@@ -1,0 +1,133 @@
+concept_id,concept_code,concept_name,vocabulary_id
+374948,359609001,Acute secretory otitis media,SNOMED
+381301,81564005,Chronic serous otitis media,SNOMED
+372652,89723004,Chronic tympanitis,SNOMED
+373501,17866004,Acute allergic sanguinous otitis media,SNOMED
+374049,52353000,Acute mucoid otitis media,SNOMED
+377886,38394007,Chronic purulent otitis media,SNOMED
+260730,41954005,Chronic atticoantral suppurative otitis media,SNOMED
+373784,59275002,Acute allergic serous otitis media,SNOMED
+375281,14948001,Acute suppurative otitis media without spontaneous rupture of ear drum,SNOMED
+375290,87665008,Chronic tubotympanic suppurative otitis media,SNOMED
+375291,33528003,Bullous myringitis,SNOMED
+381028,86279000,Acute suppurative otitis media with spontaneous rupture of ear drum,SNOMED
+381040,297009,Acute myringitis,SNOMED
+379823,194311006,Acute myringitis without otitis media,SNOMED
+376712,39288006,Purulent otitis media,SNOMED
+375820,7699004,Adhesive middle ear disease,SNOMED
+375827,194240006,Acute non-suppurative otitis media - serous,SNOMED
+372328,65363002,Otitis media,SNOMED
+379028,194282005,Acute suppurative otitis media due to another disease,SNOMED
+439264,194281003,Acute suppurative otitis media,SNOMED
+372330,8326008,Acute allergic mucoid otitis media,SNOMED
+381592,78868004,Chronic mucoid otitis media,SNOMED
+4032466,14852000,Myringitis,SNOMED
+378768,77478005,Acute sanguinous otitis media,SNOMED
+376425,232254004,Chronic non-suppurative otitis media,SNOMED
+4095693,26169004,Allergic otitis media,SNOMED
+4042562,16664009,Malignant otitis media,SNOMED
+4059746,1980003,Seromucinous otitis media,SNOMED
+4023590,19399000,Acute exudative otitis media,SNOMED
+4052079,21186006,Chronic otitis media,SNOMED
+4077608,19021002,Haemophilus influenzae otitis media,SNOMED
+4103242,28795002,Subacute exudative otitis media,SNOMED
+4104063,194248004,Bilateral chronic serous otitis,SNOMED
+4155526,270490007,Acute otitis media with effusion,SNOMED
+4111238,194289001,Acute right otitis media,SNOMED
+4108522,194286008,Bilateral suppurative otitis media,SNOMED
+4111114,194237006,Non-suppurative otitis media with eustachian tube disorders,SNOMED
+4110794,194287004,Recurrent acute otitis media,SNOMED
+4110795,194288009,Acute left otitis media,SNOMED
+4110796,194290005,Acute bilateral otitis media,SNOMED
+4163038,29350000,Catarrhal otitis media,SNOMED
+4139613,32760002,Exudative otitis media,SNOMED
+4148068,35183001,Acute transudative otitis media,SNOMED
+4150372,3110003,Acute otitis media,SNOMED
+4170137,275481002,Non-suppurative otitis media,SNOMED
+4182570,429767005,Chronic otitis media after insertion of tympanic ventilation tube,SNOMED
+4214270,80327007,Serous otitis media,SNOMED
+4236391,360595002,Acute necrotizing otitis media,SNOMED
+4183867,43561008,Chronic exudative otitis media,SNOMED
+4216852,71958004,Chronic allergic otitis media,SNOMED
+4226177,85108007,Acute tubotympanic catarrh,SNOMED
+4238492,58194007,Chronic seromucinous otitis media,SNOMED
+4300835,38596008,Chronic tubotympanic catarrh,SNOMED
+4208784,312218008,Infective otitis media,SNOMED
+4288879,6965008,Subacute nonsuppurative otitis media,SNOMED
+4228369,89145009,Subacute tubotympanic catarrh,SNOMED
+4274322,6485001,Mucosanguinous chronic otitis media,SNOMED
+4306953,8304007,Acute seromucinous otitis media,SNOMED
+4336165,232252000,Recurrent acute non-suppurative otitis media,SNOMED
+4335736,232251007,Recurrent acute suppurative otitis media,SNOMED
+4336553,86850004,Serosanguineous chronic otitis media,SNOMED
+45766332,703469002,Bacterial otitis media,SNOMED
+4313707,86359006,Subacute transudative otitis media,SNOMED
+45771046,84261000119106,Acute persistent otitis media,SNOMED
+45769847,7361000119105,Perforation of tympanic membrane due to otitis media,SNOMED
+46269706,10624951000119108,Otitis media due to influenza,SNOMED
+46269922,1090001000119105,Otitis media due to scarlet fever,SNOMED
+46269815,1082561000119104,Recurrent acute suppurative otitis media with spontaneous rupture of ear drum,SNOMED
+36685072,1083061000119100,Bilateral spontaneous rupture of tympanic membranes of ears co-occurrent and due to recurrent acute suppurative otitis media,SNOMED
+46269769,10674911000119108,Otitis media due to Influenza A virus,SNOMED
+36684474,290051000119103,Bilateral recurrent acute suppurative otitis media of middle ears,SNOMED
+36685204,1090791000119102,Recurrent acute suppurative otitis media of right ear with spontaneous rupture of tympanic membrane,SNOMED
+36685077,1083331000119106,Bilateral middle ear chronic mucoid otitis media,SNOMED
+36685082,1083401000119107,Bilateral chronic otitis media of ears following insertion of tympanic ventilation tube,SNOMED
+36685083,1083431000119100,Bilateral chronic suppurative otitis media of middle ears,SNOMED
+36685133,1088181000119100,Recurrent acute suppurative otitis media of left ear with spontaneous rupture of tympanic membrane,SNOMED
+36685134,1088241000119102,Adhesive otitis media of left middle ear,SNOMED
+36685071,1083051000119102,Bilateral recurrent acute serous otitis media of middle ears,SNOMED
+36685141,1088461000119102,Chronic mucoid otitis media of left middle ear,SNOMED
+36685146,1088531000119109,Chronic otitis media of left ear following insertion of tympanic ventilation tube,SNOMED
+36685147,1088571000119107,Chronic suppurative otitis media of left middle ear,SNOMED
+761701,15916831000119102,Acute otitis media of left ear with effusion,SNOMED
+36685212,1091071000119109,Chronic mucoid otitis media of right middle ear,SNOMED
+36685217,1091141000119103,Chronic otitis media of right ear following insertion of tympanic ventilation tube,SNOMED
+36685218,1091181000119108,Chronic suppurative otitis media of right middle ear,SNOMED
+36715948,721742004,Otitis media caused by Streptococcus pneumoniae,SNOMED
+764118,450991000124101,Spontaneous rupture of right tympanic membrane co-occurrent and due to acute suppurative otitis media,SNOMED
+760061,1083371000119109,Chronic nonsuppurative otitis media of bilateral ears,SNOMED
+760065,1083391000119105,Chronic otitis media of bilateral ears,SNOMED
+760161,1089351000119103,Perforation of tympanic membrane of left ear due to otitis media,SNOMED
+760030,1082961000119109,Acute myringitis of bilateral ears,SNOMED
+760031,1082981000119100,Acute non-suppurative otitis media of bilateral ears,SNOMED
+760034,1083041000119104,Acute recurrent allergic otitis media of bilateral middle ears,SNOMED
+760037,1083081000119109,Acute allergic serous otitis media of bilateral middle ears,SNOMED
+760038,1083091000119107,Acute serous otitis media of bilateral ears,SNOMED
+760039,1083101000119102,Acute suppurative otitis media of bilateral ears,SNOMED
+760045,1083221000119102,Bullous myringitis of bilateral ears,SNOMED
+760119,1084271000119103,Otitis media of bilateral ears,SNOMED
+760126,1084581000119102,Serous otitis media of bilateral ears,SNOMED
+760139,1088071000119104,Acute myringitis of left ear,SNOMED
+760140,1088091000119103,Acute non-suppurative otitis media of left ear,SNOMED
+760142,1088171000119103,Recurrent acute serous otitis media of left middle ear,SNOMED
+760143,1088211000119101,Acute serous otitis media of left ear,SNOMED
+760144,1088221000119108,Acute suppurative otitis media of left ear,SNOMED
+760146,1088351000119105,Bullous myringitis of left ear,SNOMED
+760149,1088501000119102,Chronic nonsuppurative otitis media of left ear,SNOMED
+760167,1089551000119105,Recurrent acute otitis media of left ear,SNOMED
+760168,1089581000119103,Serous otitis media of left ear,SNOMED
+760169,1089661000119108,Suppurative otitis media of left ear,SNOMED
+760177,1090691000119108,Acute myringitis of right ear,SNOMED
+760178,1090711000119106,Acute non-suppurative otitis media of right ear,SNOMED
+760180,1090731000119101,Acute otitis media of right ear with effusion,SNOMED
+760181,1090781000119100,Recurrent acute serous otitis media of right middle ear,SNOMED
+760182,1090821000119105,Acute serous otitis media of right ear,SNOMED
+760183,1090831000119108,Acute suppurative otitis media of right ear,SNOMED
+760185,1090961000119107,Bullous myringitis of right ear,SNOMED
+760189,1091131000119107,Chronic otitis media of right ear,SNOMED
+760203,1091951000119104,Otitis media of right ear,SNOMED
+760204,1091961000119102,Rupture of right tympanic membrane due to otitis media,SNOMED
+760210,1092161000119106,Recurrent acute otitis media of right ear,SNOMED
+763025,435141000124102,Recurrent acute suppurative otitis media of right ear,SNOMED
+763029,435201000124109,Recurrent acute suppurative otitis media of left ear,SNOMED
+764985,1084551000119109,Recurrent acute otitis media of bilateral ears,SNOMED
+765309,1084281000119100,Perforation of tympanic membrane of bilateral ears due to otitis media,SNOMED
+765311,1088231000119106,Spontaneous rupture of left tympanic membrane co-occurrent and due to acute suppurative otitis media,SNOMED
+765314,1089341000119100,Otitis media of left ear,SNOMED
+765889,1088521000119106,Chronic otitis media of left ear,SNOMED
+765323,1092191000119104,Serous otitis media of right ear,SNOMED
+764991,1091111000119102,Chronic nonsuppurative otitis media of right ear,SNOMED
+764995,1092271000119106,Suppurative otitis media of right ear,SNOMED
+35622916,765152004,Chronic serous otitis media of left ear,SNOMED
+35622917,765153009,Chronic serous otitis media of right ear,SNOMED

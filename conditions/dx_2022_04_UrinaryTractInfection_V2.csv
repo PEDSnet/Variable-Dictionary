@@ -1,0 +1,531 @@
+concept_id,concept_code,concept_name,vocabulary_id,pcornet_vocabulary_id,cc_decimal_removal
+72817,111830007,Tuberculosis of urinary organs,SNOMED,SM,FALSE
+74415,199108000,Genitourinary tract infection in pregnancy - not delivered,SNOMED,SM,FALSE
+77340,267204006,Genitourinary tract infection in pregnancy,SNOMED,SM,FALSE
+80778,199107005,Genitourinary tract infection in pregnancy - delivered with postnatal complication,SNOMED,SM,FALSE
+81357,199106001,Genitourinary tract infection in pregnancy - delivered,SNOMED,SM,FALSE
+81902,68566005,Urinary tract infectious disease,SNOMED,SM,FALSE
+192964,129128006,Infectious disorder of kidney,SNOMED,SM,FALSE
+193140,24868007,Acute gonococcal cystitis,SNOMED,SM,FALSE
+193817,197915004,Urethral stricture due to infection EC,SNOMED,SM,FALSE
+193955,44323002,Tuberculosis of kidney,SNOMED,SM,FALSE
+194685,197764002,Non-obstructive reflux-associated chronic pyelonephritis,SNOMED,SM,FALSE
+195743,48278001,Diphtheritic cystitis,SNOMED,SM,FALSE
+196338,88813005,Chronic gonococcal cystitis,SNOMED,SM,FALSE
+196735,197768004,Acute pyelonephritis without medullary necrosis,SNOMED,SM,FALSE
+197035,197769007,Acute pyelonephritis with medullary necrosis,SNOMED,SM,FALSE
+197919,80375002,Urethral stricture due to infection,SNOMED,SM,FALSE
+198199,45816000,Pyelonephritis,SNOMED,SM,FALSE
+198674,32268008,Tuberculosis of bladder,SNOMED,SM,FALSE
+198957,81359005,Tuberculosis of ureter,SNOMED,SM,FALSE
+199872,197760006,Chronic pyelonephritis without medullary necrosis,SNOMED,SM,FALSE
+200657,30116001,Trichomonal urethritis,SNOMED,SM,FALSE
+201792,84619001,Nongonococcal urethritis,SNOMED,SM,FALSE
+201908,197761005,Chronic pyelonephritis with medullary necrosis,SNOMED,SM,FALSE
+439686,179101003,Urethritis due to Chlamydia trachomatis,SNOMED,SM,FALSE
+442345,59530001,Syphilis of kidney,SNOMED,SM,FALSE
+760135,1087041000119107,Gonorrhea of kidney and ureter,SNOMED,SM,FALSE
+764968,96171000119103,Urinary tract infection following procedure,SNOMED,SM,FALSE
+1571673,O23.0,Infections of kidney in pregnancy,ICD10CM,10,FALSE
+1571673,O230,Infections of kidney in pregnancy,ICD10CM,10,TRUE
+1571674,O23.1,Infections of bladder in pregnancy,ICD10CM,10,FALSE
+1571674,O231,Infections of bladder in pregnancy,ICD10CM,10,TRUE
+1571675,O23.2,Infections of urethra in pregnancy,ICD10CM,10,FALSE
+1571675,O232,Infections of urethra in pregnancy,ICD10CM,10,TRUE
+1571676,O23.3,Infections of other parts of urinary tract in pregnancy,ICD10CM,10,FALSE
+1571676,O233,Infections of other parts of urinary tract in pregnancy,ICD10CM,10,TRUE
+1571677,O23.4,Unspecified infection of urinary tract in pregnancy,ICD10CM,10,FALSE
+1571677,O234,Unspecified infection of urinary tract in pregnancy,ICD10CM,10,TRUE
+1571682,O23.9,Unspecified genitourinary tract infection in pregnancy,ICD10CM,10,FALSE
+1571682,O239,Unspecified genitourinary tract infection in pregnancy,ICD10CM,10,TRUE
+1571872,O86.2,Urinary tract infection following delivery,ICD10CM,10,FALSE
+1571872,O862,Urinary tract infection following delivery,ICD10CM,10,TRUE
+3519895,577541000000102,Chronic pyelonephritis NOS,SNOMED,SM,FALSE
+3520446,614151000000102,Tuberculosis of kidney NOS,SNOMED,SM,FALSE
+3523395,165581000000103,Urinary tuberculosis,SNOMED,SM,FALSE
+3529639,491401000000105,Infection of urinary tract,SNOMED,SM,FALSE
+3533683,577551000000104,Acute pyelonephritis NOS,SNOMED,SM,FALSE
+3535184,601491000000104,Pyelonephritis and pyonephrosis unspecified,SNOMED,SM,FALSE
+3535185,601501000000105,Pyelonephritis unspecified,SNOMED,SM,FALSE
+3535187,601511000000107,Pyelitis unspecified,SNOMED,SM,FALSE
+3535188,601521000000101,Pyonephrosis unspecified,SNOMED,SM,FALSE
+3535189,601531000000104,Unspecified pyelonephritis NOS,SNOMED,SM,FALSE
+3535337,604031000000107,"Urinary tract infection, site not specified NOS",SNOMED,SM,FALSE
+3539968,672571000000100,Genitourinary tract infection in pregnancy NOS,SNOMED,SM,FALSE
+3541846,698921000000100,Genitourinary tract infection in pregnancy unspecified,SNOMED,SM,FALSE
+3545545,835011000000100,Acute infective interstitial nephritis,SNOMED,SM,FALSE
+3545772,855191000000109,Candida pyelonephritis,SNOMED,SM,FALSE
+3545904,857251000000104,Cytomegalovirus-induced glomerulonephritis,SNOMED,SM,FALSE
+3545907,857281000000105,Chronic infective interstitial nephritis,SNOMED,SM,FALSE
+3546104,869701000000108,On urinary tract infection care pathway,SNOMED,SM,FALSE
+3546313,883441000000101,Catheter associated urinary tract infection,SNOMED,SM,FALSE
+3547128,938351000000102,Emphysematous pyelonephritis,SNOMED,SM,FALSE
+3547129,938361000000104,Emphysematous pyelitis,SNOMED,SM,FALSE
+3563366,655341000000108,Urethral stricture due to unspecified infection,SNOMED,SM,FALSE
+3654610,838301001,Bladder disorder caused by Schistosoma,SNOMED,SM,FALSE
+3654611,838302008,Bladder disorder caused by Schistosoma japonicum,SNOMED,SM,FALSE
+3654660,838353009,Acute pyelonephritis caused by bacterium,SNOMED,SM,FALSE
+4026929,225956009,At risk of urinary tract infection,SNOMED,SM,FALSE
+4027122,197606008,Nephrotic syndrome in malaria,SNOMED,SM,FALSE
+4030507,236377000,Fungal infection of kidney,SNOMED,SM,FALSE
+4030508,236378005,Candida pyelonephritis,SNOMED,SM,FALSE
+4032427,236599009,Schistosomiasis of ureter,SNOMED,SM,FALSE
+4032428,236600007,Candida ureteritis,SNOMED,SM,FALSE
+4032445,236681009,Infective urethritis,SNOMED,SM,FALSE
+4032449,236703003,Recurrent infective cystitis,SNOMED,SM,FALSE
+4032450,236706006,Urinary schistosomiasis,SNOMED,SM,FALSE
+4032454,236721000,Candiduria,SNOMED,SM,FALSE
+4033096,1469007,Miscarriage with urinary tract infection,SNOMED,SM,FALSE
+4034818,23754003,Calculous pyelonephritis,SNOMED,SM,FALSE
+4042397,16751003,Acute tubulointerstitial nephritis associated with systemic infection,SNOMED,SM,FALSE
+4047937,12301009,Neonatal urinary tract infection,SNOMED,SM,FALSE
+4048058,123611003,Subacute pyelonephritis,SNOMED,SM,FALSE
+4048676,123754002,Focal pyelonephritis,SNOMED,SM,FALSE
+4049424,123755001,Diffuse pyelonephritis,SNOMED,SM,FALSE
+4056022,197767009,Chronic pyelonephritis NOS,SNOMED,SM,FALSE
+4056023,197770008,Acute pyonephrosis,SNOMED,SM,FALSE
+4056024,197778001,Pyelonephritis and pyonephrosis unspecified,SNOMED,SM,FALSE
+4056025,197780007,Pyelitis unspecified,SNOMED,SM,FALSE
+4056026,197782004,Pyelonephritis associated with another disorder,SNOMED,SM,FALSE
+4056027,197785002,Infection of kidney NOS,SNOMED,SM,FALSE
+4056597,197763008,Chronic pyonephrosis,SNOMED,SM,FALSE
+4056598,197771007,Acute pyelonephritis NOS,SNOMED,SM,FALSE
+4056600,197784003,Unspecified pyelonephritis NOS,SNOMED,SM,FALSE
+4056610,197850006,Trichomonal cystitis,SNOMED,SM,FALSE
+4056621,197927001,Recurrent urinary tract infection,SNOMED,SM,FALSE
+4056622,197928006,Chronic urinary tract infection,SNOMED,SM,FALSE
+4059131,197757004,Late syphilis of kidney,SNOMED,SM,FALSE
+4059142,197849006,Monilial cystitis,SNOMED,SM,FALSE
+4059597,197779009,Pyelonephritis unspecified,SNOMED,SM,FALSE
+4059598,197781006,Pyonephrosis unspecified,SNOMED,SM,FALSE
+4059608,197848003,Gonococcal cystitis,SNOMED,SM,FALSE
+4059733,197903003,Candidal urethritis,SNOMED,SM,FALSE
+4059735,197914000,Urethral stricture due to unspecified infection,SNOMED,SM,FALSE
+4059736,197916003,Infective urethral stricture NOS,SNOMED,SM,FALSE
+4059737,197926005,Postoperative urinary tract infection,SNOMED,SM,FALSE
+4060294,199109008,Genitourinary tract infection in pregnancy with postnatal complication,SNOMED,SM,FALSE
+4060295,199110003,Infections of kidney in pregnancy,SNOMED,SM,FALSE
+4060312,199206009,Infections of urethra in pregnancy,SNOMED,SM,FALSE
+4060921,197930008,"Urinary tract infection, site not specified NOS",SNOMED,SM,FALSE
+4062493,17121006,Mumps nephritis,SNOMED,SM,FALSE
+4062568,199105002,Genitourinary tract infection in pregnancy unspecified,SNOMED,SM,FALSE
+4062569,199111004,Urinary tract infection following delivery,SNOMED,SM,FALSE
+4063038,199205008,Infections of bladder in pregnancy,SNOMED,SM,FALSE
+4066017,1723008,Urethral stricture due to schistosomiasis,SNOMED,SM,FALSE
+4080340,240576002,Gonococcal Cowperitis,SNOMED,SM,FALSE
+4080456,240721007,Renal tract candidiasis,SNOMED,SM,FALSE
+4080595,240574004,Gonococcal Skenitis,SNOMED,SM,FALSE
+4080596,240577006,Gonococcal Littritis,SNOMED,SM,FALSE
+4080597,240579009,Gonococcal paraurethral gland abscess,SNOMED,SM,FALSE
+4080779,240578001,Gonococcal Littré gland abscess,SNOMED,SM,FALSE
+4087287,186235002,Tuberculous nephropathy,SNOMED,SM,FALSE
+4087288,186236001,Tuberculosis of kidney NOS,SNOMED,SM,FALSE
+4089498,187144000,Hydatid cyst of kidney,SNOMED,SM,FALSE
+4089973,186796004,Plasmodium malariae malaria with nephropathy,SNOMED,SM,FALSE
+4091171,186238000,Tuberculosis of other urinary organs,SNOMED,SM,FALSE
+4100954,27810000,Acute viral tubulointerstitial nephritis,SNOMED,SM,FALSE
+4105744,29500006,Urethral stricture due to syphilis,SNOMED,SM,FALSE
+4107240,29864006,Acute gonococcal urethritis,SNOMED,SM,FALSE
+4114033,301012009,Proteus urinary tract infection,SNOMED,SM,FALSE
+4114034,301013004,Pseudomonas urinary tract infection,SNOMED,SM,FALSE
+4114273,198870002,Urinary tract infection following abortive pregnancy,SNOMED,SM,FALSE
+4116490,301010001,Coliform urinary tract infection,SNOMED,SM,FALSE
+4116491,301011002,Escherichia coli urinary tract infection,SNOMED,SM,FALSE
+4125951,236373001,Emphysematous pyelonephritis,SNOMED,SM,FALSE
+4125952,236374007,Chronic infective interstitial nephritis,SNOMED,SM,FALSE
+4125953,236375008,Emphysematous pyelitis,SNOMED,SM,FALSE
+4126282,236683007,Chlamydial urethritis,SNOMED,SM,FALSE
+4126283,236684001,Tuberculous urethritis,SNOMED,SM,FALSE
+4126296,236376009,Infected renal cyst,SNOMED,SM,FALSE
+4126297,236379002,Chronic obstructive pyelonephritis,SNOMED,SM,FALSE
+4127558,236602004,Tuberculous stricture of ureter,SNOMED,SM,FALSE
+4127562,236620008,Infective cystitis,SNOMED,SM,FALSE
+4127563,236622000,Chronic infective cystitis,SNOMED,SM,FALSE
+4127709,236686004,Schistosomal urethral fistula,SNOMED,SM,FALSE
+4127710,236688003,Gonococcal periurethral gland abscess,SNOMED,SM,FALSE
+4128060,236406007,Acquired immune deficiency syndrome-related nephropathy,SNOMED,SM,FALSE
+4128374,236590008,Cytomegalovirus-induced glomerulonephritis,SNOMED,SM,FALSE
+4128397,236682002,Gonococcal urethritis,SNOMED,SM,FALSE
+4128398,236685000,Schistosomiasis of the urethra,SNOMED,SM,FALSE
+4128399,236687008,Gonococcal urethral abscess,SNOMED,SM,FALSE
+4128400,236690002,Urethritis due to reactive arthritis triad,SNOMED,SM,FALSE
+4128401,236702008,Acute culture positive cystitis,SNOMED,SM,FALSE
+4137361,425562008,Recurrent bacterial cystitis,SNOMED,SM,FALSE
+4140509,33046001,Illegal termination of pregnancy with urinary tract infection,SNOMED,SM,FALSE
+4144035,307426000,Acute infective cystitis,SNOMED,SM,FALSE
+4145196,426479005,Urethral wart,SNOMED,SM,FALSE
+4145634,266563005,Non-venereal urethritis,SNOMED,SM,FALSE
+4146482,307534009,Urinary tract infection in pregnancy,SNOMED,SM,FALSE
+4147331,267205007,Genitourinary tract infection in pregnancy NOS,SNOMED,SM,FALSE
+4157002,370368007,Renal candidiasis,SNOMED,SM,FALSE
+4158914,274110008,Urinary infection NOS,SNOMED,SM,FALSE
+4159655,371061003,Infection of bladder catheter,SNOMED,SM,FALSE
+4159744,371093006,Sepsis due to urinary tract infection,SNOMED,SM,FALSE
+4167926,275410008,Infected diverticulum of bladder,SNOMED,SM,FALSE
+4174994,48631008,Pyonephrosis,SNOMED,SM,FALSE
+4175166,424551004,Bacterial cystitis,SNOMED,SM,FALSE
+4176285,5093001,Cystitis with actinomycosis,SNOMED,SM,FALSE
+4177850,428091000,Chronic lower urinary tract infection,SNOMED,SM,FALSE
+4179205,52123000,Emphysematous cystitis,SNOMED,SM,FALSE
+4186202,44412000,Chronic gonococcal urethritis,SNOMED,SM,FALSE
+4190328,373611003,Pyocystis,SNOMED,SM,FALSE
+4192381,75712001,Renal coccidiosis,SNOMED,SM,FALSE
+4196799,51105006,Nongonococcal urethritis due to Ureaplasma urealyticum,SNOMED,SM,FALSE
+4198427,314940005,Suspected UTI (urinary tract infection),SNOMED,SM,FALSE
+4203790,53991003,Cystitis with bilharziasis,SNOMED,SM,FALSE
+4207309,312221005,Infective ureteritis,SNOMED,SM,FALSE
+4207359,54026009,Cystitis with Echinococcus infestation,SNOMED,SM,FALSE
+4208664,312124009,Bacterial urinary infection,SNOMED,SM,FALSE
+4216859,72225002,Urethral stricture due to gonococcal infection,SNOMED,SM,FALSE
+4220328,4009004,Lower urinary tract infectious disease,SNOMED,SM,FALSE
+4239213,91195006,Acute fungal tubulointerstitial nephritis,SNOMED,SM,FALSE
+4242401,38176009,Urinary tract infection following molar AND/OR ectopic pregnancy,SNOMED,SM,FALSE
+4245041,5945005,Legal termination of pregnancy with urinary tract infection,SNOMED,SM,FALSE
+4245715,396185002,Referral to urology service for recurrent female urinary tract infection,SNOMED,SM,FALSE
+4247613,40635000,Cystitis due to Pseudomonas,SNOMED,SM,FALSE
+4251796,7448003,Acute pyonephrosis with renal medullary necrosis,SNOMED,SM,FALSE
+4263853,60867007,Klebsiella cystitis,SNOMED,SM,FALSE
+4269363,63302006,Chronic pyelonephritis,SNOMED,SM,FALSE
+4275723,65127006,Tuberculous pyelonephritis,SNOMED,SM,FALSE
+4280571,36689008,Acute pyelonephritis,SNOMED,SM,FALSE
+4281684,66892003,Failed attempted termination of pregnancy with urinary tract infection,SNOMED,SM,FALSE
+4284564,66993009,Acute infectious tubulointerstitial nephritis,SNOMED,SM,FALSE
+4290623,37133005,Tuberculous pyelitis,SNOMED,SM,FALSE
+4307400,423322005,Recurrent obstructive pyelonephritis,SNOMED,SM,FALSE
+4310661,85495007,Acute pyonephrosis without renal medullary necrosis,SNOMED,SM,FALSE
+4311853,422747000,Upper urinary tract infection,SNOMED,SM,FALSE
+4312595,85884009,Pyoureter,SNOMED,SM,FALSE
+4318119,95889002,Mycoplasmal pyelonephritis,SNOMED,SM,FALSE
+4320652,69982006,Malarial nephrosis,SNOMED,SM,FALSE
+4324904,429728004,Bacterial urethritis,SNOMED,SM,FALSE
+4329106,431308006,Acute upper urinary tract infection,SNOMED,SM,FALSE
+4329572,22352007,Acute bacterial tubulointerstitial nephritis,SNOMED,SM,FALSE
+4330644,431737008,Acute lower urinary tract infection,SNOMED,SM,FALSE
+4331815,431309003,Acute urinary tract infection,SNOMED,SM,FALSE
+4337382,87307008,Abortion with urinary tract infection,SNOMED,SM,FALSE
+4338362,8776008,Amebic cystitis,SNOMED,SM,FALSE
+35205897,B52.0,Plasmodium malariae malaria with nephropathy,ICD10CM,10,FALSE
+35205897,B520,Plasmodium malariae malaria with nephropathy,ICD10CM,10,TRUE
+35205924,B65.0,Schistosomiasis due to Schistosoma haematobium [urinary schistosomiasis],ICD10CM,10,FALSE
+35205924,B650,Schistosomiasis due to Schistosoma haematobium [urinary schistosomiasis],ICD10CM,10,TRUE
+35209246,N10,Acute pyelonephritis,ICD10CM,10,FALSE
+35209247,N11.0,Nonobstructive reflux-associated chronic pyelonephritis,ICD10CM,10,FALSE
+35209247,N110,Nonobstructive reflux-associated chronic pyelonephritis,ICD10CM,10,TRUE
+35209248,N11.1,Chronic obstructive pyelonephritis,ICD10CM,10,FALSE
+35209248,N111,Chronic obstructive pyelonephritis,ICD10CM,10,TRUE
+35209256,N13.6,Pyonephrosis,ICD10CM,10,FALSE
+35209256,N136,Pyonephrosis,ICD10CM,10,TRUE
+35209313,N34.1,Nonspecific urethritis,ICD10CM,10,FALSE
+35209313,N341,Nonspecific urethritis,ICD10CM,10,TRUE
+35209324,N39.0,"Urinary tract infection, site not specified",ICD10CM,10,FALSE
+35209324,N390,"Urinary tract infection, site not specified",ICD10CM,10,TRUE
+35210545,P39.3,Neonatal urinary tract infection,ICD10CM,10,FALSE
+35210545,P393,Neonatal urinary tract infection,ICD10CM,10,TRUE
+35610224,1090711000000102,Uncomplicated urinary tract infection,SNOMED,SM,FALSE
+36713241,42231000009109,Bacterial nephritis,SNOMED,SM,FALSE
+36715430,721104000,Sepsis due to urinary tract infection,SNOMED,SM,FALSE
+36716009,721817004,Disorder of kidney and/or ureter caused by Schistosoma haematobium,SNOMED,SM,FALSE
+37016368,368991000119100,Urinary tract infection caused by Enterococcus,SNOMED,SM,FALSE
+37016369,369001000119100,Urinary tract infection caused by Klebsiella,SNOMED,SM,FALSE
+37016370,369011000119102,Urinary tract infection caused by Pseudomonas,SNOMED,SM,FALSE
+37017217,713453003,Renal impairment caused by Polyomavirus,SNOMED,SM,FALSE
+37017585,713886006,BK virus nephropathy,SNOMED,SM,FALSE
+37311936,788962001,Infection of urinary tract caused by Herpes simplex,SNOMED,SM,FALSE
+37311937,788961008,Gonorrhea of penis,SNOMED,SM,FALSE
+37395567,110041000119104,Reactive arthritis co-occurrent and due to nonspecific urethritis,SNOMED,SM,FALSE
+40276850,111828005,Tuberculosis of other urinary organs,SNOMED,SM,FALSE
+40288247,123293005,Chronic pyelonephritis,SNOMED,SM,FALSE
+40305037,139466007,Recurrent urinary tract infections,SNOMED,SM,FALSE
+40317625,155860007,Infection of kidney (& [pyelonephritis &/or pyelitis]),SNOMED,SM,FALSE
+40317627,155861006,(Chronic pyelonephritis) or (chronic pyonephrosis),SNOMED,SM,FALSE
+40317628,155862004,(Acute pyelonephritis) or (acute pyonephrosis),SNOMED,SM,FALSE
+40317631,155865002,Infection of kidney NOS,SNOMED,SM,FALSE
+40317660,155891001,Non-venereal urethritis,SNOMED,SM,FALSE
+40317666,155897002,Urinary tract infection (& [NOS]),SNOMED,SM,FALSE
+40317669,155900009,(Urinary obstruction unspecified) or (recurrent urinary tract infection),SNOMED,SM,FALSE
+40317672,155901008,Recurrent urinary tract infection,SNOMED,SM,FALSE
+40318679,156128005,Pregnancy with genitourinary infections (& UTI [& cystitis]),SNOMED,SM,FALSE
+40319650,154388003,Nonspecific urethritis,SNOMED,SM,FALSE
+40326352,162183000,Recurrent urinary tract infections,SNOMED,SM,FALSE
+40346990,266618004,Infection of kidney (& [pyelonephritis &/or pyelitis]),SNOMED,SM,FALSE
+40346991,266619007,(Chronic pyelonephritis) or (chronic pyonephrosis),SNOMED,SM,FALSE
+40346992,266620001,(Acute pyelonephritis) or (acute pyonephrosis),SNOMED,SM,FALSE
+40347000,266627003,(Renal disease NOS) or (pyoureter),SNOMED,SM,FALSE
+40347009,266635000,Urinary tract infection (& [NOS]),SNOMED,SM,FALSE
+40347010,266636004,(Urinary obstruction unspecified) or (recurrent urinary tract infection),SNOMED,SM,FALSE
+40358552,267313006,Pregnancy with genitourinary infections (& UTI [& cystitis]),SNOMED,SM,FALSE
+40382767,186237005,Tuberculous cystitis,SNOMED,SM,FALSE
+40394495,200500007,[X]Other and unspecified genitourinary tract infection in pregnancy,SNOMED,SM,FALSE
+40394793,199114007,Urinary tract infection complicating pregnancy,SNOMED,SM,FALSE
+40394794,199115008,UTI infection in pregnancy (& [NOS]),SNOMED,SM,FALSE
+40394891,200560009,[X]Other genitourinary tract infections following delivery,SNOMED,SM,FALSE
+40395618,197765001,Chronic obstructive pyelonephritis,SNOMED,SM,FALSE
+40395619,197766000,Calculous pyelonephritis,SNOMED,SM,FALSE
+40396036,197846004,Schistosomiasis of bladder,SNOMED,SM,FALSE
+40396037,197847008,Diphtheritic cystitis,SNOMED,SM,FALSE
+40396093,197898002,(Periurethritis) or (urethritis due to non venereal causes),SNOMED,SM,FALSE
+40396111,197913006,Infective urethral stricture,SNOMED,SM,FALSE
+40396519,197924008,Urinary tract infection: [site not specified] or [recurrent],SNOMED,SM,FALSE
+40441322,236621007,Recurrent infective cystitis,SNOMED,SM,FALSE
+40445958,24295008,Reflux nephropathy,SNOMED,SM,FALSE
+40446183,246832008,Nongonococcal urethritis due to Chlamydia trachomatis,SNOMED,SM,FALSE
+40481109,444834005,Abscess of urethral gland due to Neisseria gonorrhoeae,SNOMED,SM,FALSE
+40515204,309782006,Urinary tract infection complicating pregnancy,SNOMED,SM,FALSE
+40521837,315242001,Recurrent urinary tract infections,SNOMED,SM,FALSE
+40600666,51131008,Nongonococcal urethritis due to Chlamydia trachomatis,SNOMED,SM,FALSE
+42535233,16271000119108,Pyelonephritis in pregnancy,SNOMED,SM,FALSE
+43530945,609491002,Induced termination of pregnancy complicated by urinary tract infection,SNOMED,SM,FALSE
+44799822,450451000000108,[X]Other genitourinary tract infections following delivery,SNOMED,SM,FALSE
+44800680,478781000000109,[X]Infections of other parts of urinary tract in pregnancy,SNOMED,SM,FALSE
+44800681,478791000000106,[X]Other and unspecified genitourinary tract infection in pregnancy,SNOMED,SM,FALSE
+44801972,522551000000101,Familial non-obstructive reflux-associated chronic pyelonephritis,SNOMED,SM,FALSE
+44810610,869371000000101,Absence of signs and symptoms of urinary tract infection,SNOMED,SM,FALSE
+44810636,869761000000107,Urinary tract infection care pathway,SNOMED,SM,FALSE
+44811291,883431000000105,Catheter-associated urinary tract infection,SNOMED,SM,FALSE
+44813985,869691000000108,On urinary tract infection care pathway,SNOMED,SM,FALSE
+44819334,016.04,"Tuberculosis of kidney, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,FALSE
+44819334,01604,"Tuberculosis of kidney, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,TRUE
+44819335,016.11,"Tuberculosis of bladder, bacteriological or histological examination not done",ICD9CM,09,FALSE
+44819335,01611,"Tuberculosis of bladder, bacteriological or histological examination not done",ICD9CM,09,TRUE
+44819336,016.32,"Tuberculosis of other urinary organs, bacteriological or histological examination unknown (at present)",ICD9CM,09,FALSE
+44819336,01632,"Tuberculosis of other urinary organs, bacteriological or histological examination unknown (at present)",ICD9CM,09,TRUE
+44819392,099.4,Other nongonococcal urethritis [NGU],ICD9CM,09,FALSE
+44819392,0994,Other nongonococcal urethritis [NGU],ICD9CM,09,TRUE
+44820536,016.00,"Tuberculosis of kidney, unspecified",ICD9CM,09,FALSE
+44820536,01600,"Tuberculosis of kidney, unspecified",ICD9CM,09,TRUE
+44820537,016.03,"Tuberculosis of kidney, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,FALSE
+44820537,01603,"Tuberculosis of kidney, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,TRUE
+44820538,016.16,"Tuberculosis of bladder, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,FALSE
+44820538,01616,"Tuberculosis of bladder, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,TRUE
+44820979,599,Other disorders of urethra and urinary tract,ICD9CM,09,FALSE
+44820980,599.0,"Urinary tract infection, site not specified",ICD9CM,09,FALSE
+44820980,5990,"Urinary tract infection, site not specified",ICD9CM,09,TRUE
+44822044,590.01,Chronic pyelonephritis with lesion of renal medullary necrosis,ICD9CM,09,FALSE
+44822044,59001,Chronic pyelonephritis with lesion of renal medullary necrosis,ICD9CM,09,TRUE
+44822045,590.1,Acute pyelonephritis,ICD9CM,09,FALSE
+44822045,5901,Acute pyelonephritis,ICD9CM,09,TRUE
+44822796,016.10,"Tuberculosis of bladder, unspecified",ICD9CM,09,FALSE
+44822796,01610,"Tuberculosis of bladder, unspecified",ICD9CM,09,TRUE
+44822797,016.22,"Tuberculosis of ureter, bacteriological or histological examination unknown (at present)",ICD9CM,09,FALSE
+44822797,01622,"Tuberculosis of ureter, bacteriological or histological examination unknown (at present)",ICD9CM,09,TRUE
+44822798,016.30,"Tuberculosis of other urinary organs, unspecified",ICD9CM,09,FALSE
+44822798,01630,"Tuberculosis of other urinary organs, unspecified",ICD9CM,09,TRUE
+44822799,016.35,"Tuberculosis of other urinary organs, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,FALSE
+44822799,01635,"Tuberculosis of other urinary organs, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,TRUE
+44823193,590.11,Acute pyelonephritis with lesion of renal medullary necrosis,ICD9CM,09,FALSE
+44823193,59011,Acute pyelonephritis with lesion of renal medullary necrosis,ICD9CM,09,TRUE
+44823945,016.05,"Tuberculosis of kidney, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,FALSE
+44823945,01605,"Tuberculosis of kidney, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,TRUE
+44823946,016.2,Tuberculosis of ureter,ICD9CM,09,FALSE
+44823946,0162,Tuberculosis of ureter,ICD9CM,09,TRUE
+44824600,771.82,Urinary tract infection of newborn,ICD9CM,09,FALSE
+44824600,77182,Urinary tract infection of newborn,ICD9CM,09,TRUE
+44825114,016.12,"Tuberculosis of bladder, bacteriological or histological examination unknown (at present)",ICD9CM,09,FALSE
+44825114,01612,"Tuberculosis of bladder, bacteriological or histological examination unknown (at present)",ICD9CM,09,TRUE
+44825115,016.21,"Tuberculosis of ureter, bacteriological or histological examination not done",ICD9CM,09,FALSE
+44825115,01621,"Tuberculosis of ureter, bacteriological or histological examination not done",ICD9CM,09,TRUE
+44825542,590,Infections of kidney,ICD9CM,09,FALSE
+44826305,016.31,"Tuberculosis of other urinary organs, bacteriological or histological examination not done",ICD9CM,09,FALSE
+44826305,01631,"Tuberculosis of other urinary organs, bacteriological or histological examination not done",ICD9CM,09,TRUE
+44826306,016.36,"Tuberculosis of other urinary organs, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,FALSE
+44826306,01636,"Tuberculosis of other urinary organs, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,TRUE
+44826361,095.4,Syphilis of kidney,ICD9CM,09,FALSE
+44826361,0954,Syphilis of kidney,ICD9CM,09,TRUE
+44826367,099.49,"Other nongonococcal urethritis, other specified organism",ICD9CM,09,FALSE
+44826367,09949,"Other nongonococcal urethritis, other specified organism",ICD9CM,09,TRUE
+44827475,016.20,"Tuberculosis of ureter, unspecified",ICD9CM,09,FALSE
+44827475,01620,"Tuberculosis of ureter, unspecified",ICD9CM,09,TRUE
+44827520,099.40,"Other nongonococcal urethritis, unspecified",ICD9CM,09,FALSE
+44827520,09940,"Other nongonococcal urethritis, unspecified",ICD9CM,09,TRUE
+44827891,590.0,Chronic pyelonephritis,ICD9CM,09,FALSE
+44827891,5900,Chronic pyelonephritis,ICD9CM,09,TRUE
+44828653,016.25,"Tuberculosis of ureter, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,FALSE
+44828653,01625,"Tuberculosis of ureter, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,TRUE
+44828654,016.34,"Tuberculosis of other urinary organs, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,FALSE
+44828654,01634,"Tuberculosis of other urinary organs, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,TRUE
+44828709,098.31,"Gonococcal cystitis, chronic",ICD9CM,09,FALSE
+44828709,09831,"Gonococcal cystitis, chronic",ICD9CM,09,TRUE
+44829719,016.15,"Tuberculosis of bladder, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,FALSE
+44829719,01615,"Tuberculosis of bladder, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9CM,09,TRUE
+44829720,016.24,"Tuberculosis of ureter, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,FALSE
+44829720,01624,"Tuberculosis of ureter, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,TRUE
+44829721,016.26,"Tuberculosis of ureter, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,FALSE
+44829721,01626,"Tuberculosis of ureter, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,TRUE
+44830903,016.13,"Tuberculosis of bladder, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,FALSE
+44830903,01613,"Tuberculosis of bladder, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,TRUE
+44830913,032.84,Diphtheritic cystitis,ICD9CM,09,FALSE
+44830913,03284,Diphtheritic cystitis,ICD9CM,09,TRUE
+44831330,590.9,"Infection of kidney, unspecified",ICD9CM,09,FALSE
+44831330,5909,"Infection of kidney, unspecified",ICD9CM,09,TRUE
+44832055,016.23,"Tuberculosis of ureter, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,FALSE
+44832055,01623,"Tuberculosis of ureter, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,TRUE
+44832056,016.33,"Tuberculosis of other urinary organs, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,FALSE
+44832056,01633,"Tuberculosis of other urinary organs, tubercle bacilli found (in sputum) by microscopy",ICD9CM,09,TRUE
+44832105,098.11,Gonococcal cystitis (acute),ICD9CM,09,FALSE
+44832105,09811,Gonococcal cystitis (acute),ICD9CM,09,TRUE
+44832107,099.41,"Other nongonococcal urethritis, chlamydia trachomatis",ICD9CM,09,FALSE
+44832107,09941,"Other nongonococcal urethritis, chlamydia trachomatis",ICD9CM,09,TRUE
+44833204,016.0,Tuberculosis of kidney,ICD9CM,09,FALSE
+44833204,0160,Tuberculosis of kidney,ICD9CM,09,TRUE
+44833205,016.01,"Tuberculosis of kidney, bacteriological or histological examination not done",ICD9CM,09,FALSE
+44833205,01601,"Tuberculosis of kidney, bacteriological or histological examination not done",ICD9CM,09,TRUE
+44833206,016.1,Tuberculosis of bladder,ICD9CM,09,FALSE
+44833206,0161,Tuberculosis of bladder,ICD9CM,09,TRUE
+44833207,016.14,"Tuberculosis of bladder, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,FALSE
+44833207,01614,"Tuberculosis of bladder, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9CM,09,TRUE
+44833662,590.10,Acute pyelonephritis without lesion of renal medullary necrosis,ICD9CM,09,FALSE
+44833662,59010,Acute pyelonephritis without lesion of renal medullary necrosis,ICD9CM,09,TRUE
+44833668,598.00,Urethral stricture due to unspecified infection,ICD9CM,09,FALSE
+44833668,59800,Urethral stricture due to unspecified infection,ICD9CM,09,TRUE
+44834408,016.02,"Tuberculosis of kidney, bacteriological or histological examination unknown (at present)",ICD9CM,09,FALSE
+44834408,01602,"Tuberculosis of kidney, bacteriological or histological examination unknown (at present)",ICD9CM,09,TRUE
+44834831,590.00,Chronic pyelonephritis without lesion of renal medullary necrosis,ICD9CM,09,FALSE
+44834831,59000,Chronic pyelonephritis without lesion of renal medullary necrosis,ICD9CM,09,TRUE
+44835591,016.3,Tuberculosis of other urinary organs,ICD9CM,09,FALSE
+44835591,0163,Tuberculosis of other urinary organs,ICD9CM,09,TRUE
+44835657,131.02,Trichomonal urethritis,ICD9CM,09,FALSE
+44835657,13102,Trichomonal urethritis,ICD9CM,09,TRUE
+44836039,598.0,Urethral stricture due to infection,ICD9CM,09,FALSE
+44836039,5980,Urethral stricture due to infection,ICD9CM,09,TRUE
+44836040,598.01,Urethral stricture due to infective diseases classified elsewhere,ICD9CM,09,FALSE
+44836040,59801,Urethral stricture due to infective diseases classified elsewhere,ICD9CM,09,TRUE
+44836759,016.06,"Tuberculosis of kidney, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,FALSE
+44836759,01606,"Tuberculosis of kidney, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9CM,09,TRUE
+44837194,590.80,"Pyelonephritis, unspecified",ICD9CM,09,FALSE
+44837194,59080,"Pyelonephritis, unspecified",ICD9CM,09,TRUE
+45534163,O08.83,Urinary tract infection following an ectopic and molar pregnancy,ICD10CM,10,FALSE
+45534163,O0883,Urinary tract infection following an ectopic and molar pregnancy,ICD10CM,10,TRUE
+45534183,O23.1,Infections of bladder in pregnancy,ICD10,10,FALSE
+45534183,O231,Infections of bladder in pregnancy,ICD10,10,TRUE
+45534184,O23.41,"Unspecified infection of urinary tract in pregnancy, first trimester",ICD10CM,10,FALSE
+45534184,O2341,"Unspecified infection of urinary tract in pregnancy, first trimester",ICD10CM,10,TRUE
+45539030,N11.1,Chronic obstructive pyelonephritis,ICD10,10,FALSE
+45539030,N111,Chronic obstructive pyelonephritis,ICD10,10,TRUE
+45539038,N29.0,Late syphilis of kidney,ICD10,10,FALSE
+45539038,N290,Late syphilis of kidney,ICD10,10,TRUE
+45539101,O23.01,"Infections of kidney in pregnancy, first trimester",ICD10CM,10,FALSE
+45539101,O2301,"Infections of kidney in pregnancy, first trimester",ICD10CM,10,TRUE
+45539102,O23.31,"Infections of other parts of urinary tract in pregnancy, first trimester",ICD10CM,10,FALSE
+45539102,O2331,"Infections of other parts of urinary tract in pregnancy, first trimester",ICD10CM,10,TRUE
+45539103,O23.4,Unspecified infection of urinary tract in pregnancy,ICD10,10,FALSE
+45539103,O234,Unspecified infection of urinary tract in pregnancy,ICD10,10,TRUE
+45543918,O23.0,Infections of kidney in pregnancy,ICD10,10,FALSE
+45543918,O230,Infections of kidney in pregnancy,ICD10,10,TRUE
+45543919,O23.13,"Infections of bladder in pregnancy, third trimester",ICD10CM,10,FALSE
+45543919,O2313,"Infections of bladder in pregnancy, third trimester",ICD10CM,10,TRUE
+45543920,O23.91,"Unspecified genitourinary tract infection in pregnancy, first trimester",ICD10CM,10,FALSE
+45543920,O2391,"Unspecified genitourinary tract infection in pregnancy, first trimester",ICD10CM,10,TRUE
+45547402,A36.84,Diphtheritic tubulo-interstitial nephropathy,ICD10CM,10,FALSE
+45547402,A3684,Diphtheritic tubulo-interstitial nephropathy,ICD10CM,10,TRUE
+45547414,A51.44,Secondary syphilitic nephritis,ICD10CM,10,FALSE
+45547414,A5144,Secondary syphilitic nephritis,ICD10CM,10,TRUE
+45548647,N11.0,Nonobstructive reflux-associated chronic pyelonephritis,ICD10,10,FALSE
+45548647,N110,Nonobstructive reflux-associated chronic pyelonephritis,ICD10,10,TRUE
+45548665,N39.0,"Urinary tract infection, site not specified",ICD10,10,FALSE
+45548665,N390,"Urinary tract infection, site not specified",ICD10,10,TRUE
+45548713,O23.21,"Infections of urethra in pregnancy, first trimester",ICD10CM,10,FALSE
+45548713,O2321,"Infections of urethra in pregnancy, first trimester",ICD10CM,10,TRUE
+45552150,A02.25,Salmonella pyelonephritis,ICD10CM,10,FALSE
+45552150,A0225,Salmonella pyelonephritis,ICD10CM,10,TRUE
+45552157,A18.12,Tuberculosis of bladder,ICD10CM,10,FALSE
+45552157,A1812,Tuberculosis of bladder,ICD10CM,10,TRUE
+45552158,A18.13,Tuberculosis of other urinary organs,ICD10CM,10,FALSE
+45552158,A1813,Tuberculosis of other urinary organs,ICD10CM,10,TRUE
+45553433,N13.6,Pyonephrosis,ICD10,10,FALSE
+45553433,N136,Pyonephrosis,ICD10,10,TRUE
+45553442,N34.1,Nonspecific urethritis,ICD10,10,FALSE
+45553442,N341,Nonspecific urethritis,ICD10,10,TRUE
+45553466,O03.38,Urinary tract infection following incomplete spontaneous abortion,ICD10CM,10,FALSE
+45553466,O0338,Urinary tract infection following incomplete spontaneous abortion,ICD10CM,10,TRUE
+45553481,O23.40,"Unspecified infection of urinary tract in pregnancy, unspecified trimester",ICD10CM,10,FALSE
+45553481,O2340,"Unspecified infection of urinary tract in pregnancy, unspecified trimester",ICD10CM,10,TRUE
+45553598,O86.2,Urinary tract infection following delivery,ICD10,10,FALSE
+45553598,O862,Urinary tract infection following delivery,ICD10,10,TRUE
+45558151,N33.0,Tuberculous cystitis,ICD10,10,FALSE
+45558151,N330,Tuberculous cystitis,ICD10,10,TRUE
+45558186,O03.88,Urinary tract infection following complete or unspecified spontaneous abortion,ICD10CM,10,FALSE
+45558186,O0388,Urinary tract infection following complete or unspecified spontaneous abortion,ICD10CM,10,TRUE
+45558207,O23.03,"Infections of kidney in pregnancy, third trimester",ICD10CM,10,FALSE
+45558207,O2303,"Infections of kidney in pregnancy, third trimester",ICD10CM,10,TRUE
+45558208,O23.11,"Infections of bladder in pregnancy, first trimester",ICD10CM,10,FALSE
+45558208,O2311,"Infections of bladder in pregnancy, first trimester",ICD10CM,10,TRUE
+45558209,O23.20,"Infections of urethra in pregnancy, unspecified trimester",ICD10CM,10,FALSE
+45558209,O2320,"Infections of urethra in pregnancy, unspecified trimester",ICD10CM,10,TRUE
+45558211,O23.90,"Unspecified genitourinary tract infection in pregnancy, unspecified trimester",ICD10CM,10,FALSE
+45558211,O2390,"Unspecified genitourinary tract infection in pregnancy, unspecified trimester",ICD10CM,10,TRUE
+45558212,O23.92,"Unspecified genitourinary tract infection in pregnancy, second trimester",ICD10CM,10,FALSE
+45558212,O2392,"Unspecified genitourinary tract infection in pregnancy, second trimester",ICD10CM,10,TRUE
+45563056,O23.3,Infections of other parts of urinary tract in pregnancy,ICD10,10,FALSE
+45563056,O233,Infections of other parts of urinary tract in pregnancy,ICD10,10,TRUE
+45563182,O86.22,Infection of bladder following delivery,ICD10CM,10,FALSE
+45563182,O8622,Infection of bladder following delivery,ICD10CM,10,TRUE
+45566489,A06.81,Amebic cystitis,ICD10CM,10,FALSE
+45566489,A0681,Amebic cystitis,ICD10CM,10,TRUE
+45566542,B26.83,Mumps nephritis,ICD10CM,10,FALSE
+45566542,B2683,Mumps nephritis,ICD10CM,10,TRUE
+45567895,O23.22,"Infections of urethra in pregnancy, second trimester",ICD10CM,10,FALSE
+45567895,O2322,"Infections of urethra in pregnancy, second trimester",ICD10CM,10,TRUE
+45572769,O23.2,Infections of urethra in pregnancy,ICD10,10,FALSE
+45572769,O232,Infections of urethra in pregnancy,ICD10,10,TRUE
+45572894,O86.3,Other genitourinary tract infections following delivery,ICD10,10,FALSE
+45572894,O863,Other genitourinary tract infections following delivery,ICD10,10,TRUE
+45577565,O23.93,"Unspecified genitourinary tract infection in pregnancy, third trimester",ICD10CM,10,FALSE
+45577565,O2393,"Unspecified genitourinary tract infection in pregnancy, third trimester",ICD10CM,10,TRUE
+45577662,O86.20,"Urinary tract infection following delivery, unspecified",ICD10CM,10,FALSE
+45577662,O8620,"Urinary tract infection following delivery, unspecified",ICD10CM,10,TRUE
+45581178,B58.83,Toxoplasma tubulo-interstitial nephropathy,ICD10CM,10,FALSE
+45581178,B5883,Toxoplasma tubulo-interstitial nephropathy,ICD10CM,10,TRUE
+45581179,B65.0,Schistosomiasis due to Schistosoma haematobium [urinary schistosomiasis],ICD10,10,FALSE
+45581179,B650,Schistosomiasis due to Schistosoma haematobium [urinary schistosomiasis],ICD10,10,TRUE
+45582438,O04.88,Urinary tract infection following (induced) termination of pregnancy,ICD10CM,10,FALSE
+45582438,O0488,Urinary tract infection following (induced) termination of pregnancy,ICD10CM,10,TRUE
+45582453,O23.42,"Unspecified infection of urinary tract in pregnancy, second trimester",ICD10CM,10,FALSE
+45582453,O2342,"Unspecified infection of urinary tract in pregnancy, second trimester",ICD10CM,10,TRUE
+45582454,O23.43,"Unspecified infection of urinary tract in pregnancy, third trimester",ICD10CM,10,FALSE
+45582454,O2343,"Unspecified infection of urinary tract in pregnancy, third trimester",ICD10CM,10,TRUE
+45590808,A36.85,Diphtheritic cystitis,ICD10CM,10,FALSE
+45590808,A3685,Diphtheritic cystitis,ICD10CM,10,TRUE
+45592166,N99.521,Infection of incontinent external stoma of urinary tract,ICD10CM,10,FALSE
+45592166,N99521,Infection of incontinent external stoma of urinary tract,ICD10CM,10,TRUE
+45592194,O23.23,"Infections of urethra in pregnancy, third trimester",ICD10CM,10,FALSE
+45592194,O2323,"Infections of urethra in pregnancy, third trimester",ICD10CM,10,TRUE
+45592197,O23.9,Other and unspecified genitourinary tract infection in pregnancy,ICD10,10,FALSE
+45592197,O239,Other and unspecified genitourinary tract infection in pregnancy,ICD10,10,TRUE
+45592299,O86.29,Other urinary tract infection following delivery,ICD10CM,10,FALSE
+45592299,O8629,Other urinary tract infection following delivery,ICD10CM,10,TRUE
+45596926,O23.33,"Infections of other parts of urinary tract in pregnancy, third trimester",ICD10CM,10,FALSE
+45596926,O2333,"Infections of other parts of urinary tract in pregnancy, third trimester",ICD10CM,10,TRUE
+45597078,P39.3,Neonatal urinary tract infection,ICD10,10,FALSE
+45597078,P393,Neonatal urinary tract infection,ICD10,10,TRUE
+45600400,A18.11,Tuberculosis of kidney and ureter,ICD10CM,10,FALSE
+45600400,A1811,Tuberculosis of kidney and ureter,ICD10CM,10,TRUE
+45601764,N99.531,Infection of continent stoma of urinary tract,ICD10CM,10,FALSE
+45601764,N99531,Infection of continent stoma of urinary tract,ICD10CM,10,TRUE
+45601770,O07.38,Urinary tract infection following failed attempted termination of pregnancy,ICD10CM,10,FALSE
+45601770,O0738,Urinary tract infection following failed attempted termination of pregnancy,ICD10CM,10,TRUE
+45601781,O23.02,"Infections of kidney in pregnancy, second trimester",ICD10CM,10,FALSE
+45601781,O2302,"Infections of kidney in pregnancy, second trimester",ICD10CM,10,TRUE
+45601782,O23.10,"Infections of bladder in pregnancy, unspecified trimester",ICD10CM,10,FALSE
+45601782,O2310,"Infections of bladder in pregnancy, unspecified trimester",ICD10CM,10,TRUE
+45601783,O23.12,"Infections of bladder in pregnancy, second trimester",ICD10CM,10,FALSE
+45601783,O2312,"Infections of bladder in pregnancy, second trimester",ICD10CM,10,TRUE
+45601784,O23.32,"Infections of other parts of urinary tract in pregnancy, second trimester",ICD10CM,10,FALSE
+45601784,O2332,"Infections of other parts of urinary tract in pregnancy, second trimester",ICD10CM,10,TRUE
+45605239,B52.0,Plasmodium malariae malaria with nephropathy,ICD10,10,FALSE
+45605239,B520,Plasmodium malariae malaria with nephropathy,ICD10,10,TRUE
+45606544,O23.00,"Infections of kidney in pregnancy, unspecified trimester",ICD10CM,10,FALSE
+45606544,O2300,"Infections of kidney in pregnancy, unspecified trimester",ICD10CM,10,TRUE
+45606545,O23.30,"Infections of other parts of urinary tract in pregnancy, unspecified trimester",ICD10CM,10,FALSE
+45606545,O2330,"Infections of other parts of urinary tract in pregnancy, unspecified trimester",ICD10CM,10,TRUE
+45606653,O86.21,Infection of kidney following delivery,ICD10CM,10,FALSE
+45606653,O8621,Infection of kidney following delivery,ICD10CM,10,TRUE
+45757237,1086071000119103,Diphtheria tubulointerstitial nephropathy,SNOMED,SM,FALSE
+45757268,1092371000119103,Salmonella pyelonephritis,SNOMED,SM,FALSE
+45757273,1092831000119109,Toxoplasma tubulointerstitial nephropathy,SNOMED,SM,FALSE
+45757792,4181000119109,Obstructive pyelonephritis,SNOMED,SM,FALSE
+45763849,700372006,Catheter-associated urinary tract infection,SNOMED,SM,FALSE
+45768718,707208009,Familial non-obstructive reflux-associated chronic pyelonephritis,SNOMED,SM,FALSE
+45770841,99631000119101,Febrile urinary tract infection,SNOMED,SM,FALSE
+45772089,1084821000119103,Cystitis due to Chlamydia,SNOMED,SM,FALSE
+46269809,10751431000119104,Urinary tract infection due to ectopic pregnancy,SNOMED,SM,FALSE
+46269813,10812041000119103,Urinary tract infection due to incomplete miscarriage,SNOMED,SM,FALSE

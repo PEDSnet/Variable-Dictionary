@@ -1,0 +1,91 @@
+concept_id,concept_code,concept_name,codeset
+260139,10509002,Acute bronchitis,bronchitis
+3661405,1.38E+17,Acute bronchitis caused by SARS-CoV-2,bronchitis
+37017852,714203003,Acute bronchitis co-occurrent with bronchiectasis,bronchitis
+37206139,785745000,Acute bronchitis co-occurrent with wheeze,bronchitis
+4197404,80257001,Acute bronchitis with bronchospasm,bronchitis
+4243199,5875001,Acute bronchitis with obstruction,bronchitis
+4208807,312371005,Acute infective bronchitis,bronchitis
+4208810,312400008,Acute infective tracheobronchitis,bronchitis
+4112357,195717003,Acute purulent bronchitis,bronchitis
+4148204,35301006,Acute tracheobronchitis,bronchitis
+4052543,233601004,Acute viral bronchitis,bronchitis
+256451,32398004,Bronchitis,bronchitis
+756031,4873909,Bronchitis caused by COVID-19,bronchitis
+46269726,1.06E+16,Bronchopneumonia due to virus,bronchitis
+4232302,89549007,Catarrhal bronchitis,bronchitis
+260134,71186008,Croup,bronchitis
+4028970,13617004,Tracheobronchitis,bronchitis
+4058712,16146001,Viral bronchitis,bronchitis
+756023,873906,Acute bronchitis caused by severe acute respiratory syndrome coronavirus 2,bronchitis
+260125,5505005,Acute bronchiolitis,bronchiolitis
+4035960,15199004,Acute bronchiolitis with bronchospasm,bronchiolitis
+4215773,718004,Acute bronchiolitis with obstruction,bronchiolitis
+4112524,195737004,Acute exudative bronchiolitis,bronchiolitis
+4052544,233602006,Acute viral bronchiolitis,bronchiolitis
+4165112,4120002,Bronchiolitis,bronchiolitis
+4179634,52409006,Bronchiolitis exudativa,bronchiolitis
+4289001,69776003,Acute gastroenteritis,gastroenteritis_dehydration
+4230249,359613008,Acute infectious nonbacterial gastroenteritis,gastroenteritis_dehydration
+4276105,36789003,Acute infective gastroenteritis,gastroenteritis_dehydration
+4001167,109814008,Acute ulcerative gastroenteritis complicating pneumonia,gastroenteritis_dehydration
+35623412,765756007,Benign infantile seizure with mild gastroenteritis syndrome,gastroenteritis_dehydration
+195453,266081001,"Colitis, enteritis and gastroenteritis presumed infectious",gastroenteritis_dehydration
+45768728,707222009,Epidemic gastroenteritis,gastroenteritis_dehydration
+195306,196731005,Gastroduodenitis,gastroenteritis_dehydration
+4101468,25374005,Gastroenteritis,gastroenteritis_dehydration
+37310283,1.24E+15,Gastroenteritis caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2),gastroenteritis_dehydration
+4211852,57419008,Gastroenteritis presumed infectious,gastroenteritis_dehydration
+4260059,409506009,Hemorrhagic gastroenteritis,gastroenteritis_dehydration
+4347422,240332005,Infantile gastroenteritis,gastroenteritis_dehydration
+4146457,308119005,Infantile viral gastroenteritis,gastroenteritis_dehydration
+4049881,12463005,Infectious gastroenteritis,gastroenteritis_dehydration
+4234751,359651008,Nonbacterial gastroenteritis of infant,gastroenteritis_dehydration
+197596,71583005,Toxic gastroenteritis,gastroenteritis_dehydration
+4008724,111843007,Viral gastroenteritis,gastroenteritis_dehydration
+4048517,123587001,Acute bronchopneumonia,pneumonia
+4341520,236302005,Acute interstitial pneumonia,pneumonia
+4050869,233606009,Atypical pneumonia,pneumonia
+4116487,300999006,Basal pneumonia,pneumonia
+4138769,425996009,Bilateral basal pneumonia,pneumonia
+4236311,407671000,Bilateral pneumonia,pneumonia
+256722,396285007,Bronchopneumonia,pneumonia
+46269726,1.06E+16,Bronchopneumonia due to virus,pneumonia
+4293463,385093006,Community acquired pneumonia,pneumonia
+45763749,700249006,Idiopathic interstitial pneumonia,pneumonia
+36712839,1.24E+13,Idiopathic pneumonia syndrome,pneumonia
+443410,312342009,Infective pneumonia,pneumonia
+4186568,41269000,Influenzal bronchopneumonia,pneumonia
+4273378,64667001,Interstitial pneumonia,pneumonia
+4116488,301000005,Left lower zone pneumonia,pneumonia
+4114030,301002002,Left upper zone pneumonia,pneumonia
+4145369,426696003,Lingular pneumonia,pneumonia
+4133224,278516003,Lobar pneumonia,pneumonia
+4044215,129452008,Nonspecific interstitial pneumonia,pneumonia
+255848,233604007,Pneumonia,pneumonia
+37016927,713084008,Pneumonia caused by Human coronavirus,pneumonia
+3661408,8.83E+17,Pneumonia caused by SARS-CoV-2,pneumonia
+40479642,441590008,Pneumonia due to Severe acute respiratory syndrome coronavirus,pneumonia
+4117114,301001009,Right lower zone pneumonia,pneumonia
+4102253,301003007,Right middle zone pneumonia,pneumonia
+4114031,301004001,Right upper zone pneumonia,pneumonia
+261326,75570004,Viral pneumonia,pneumonia
+37396786,716723000,Acute inflammatory demyelinating polyradiculoneuropathy,guillain-barre
+37396086,715770009,Acute motor axonal neuropathy,guillain-barre
+37396785,716722005,Acute motor sensory axonal neuropathy,guillain-barre
+37204541,783244002,Acute pure sensory neuropathy,guillain-barre
+35623634,766049000,Acute sensory ataxic neuropathy,guillain-barre
+4164770,40956001,Guillain-Barre syndrome,guillain-barre
+35624130,766722008,Paraparetic variant of Guillain-Barré syndrome,guillain-barre
+37204369,783010003,Pharyngeal-cervical-brachial variant of Guillain-Barré syndrome,guillain-barre
+42535201,1.61E+16,Sequela of Guillain Barre syndrome,guillain-barre
+435796,34095006,Dehydration,gastroenteritis_dehydration
+4170869,49513005,Dehydration fever in newborn,gastroenteritis_dehydration
+42536885,735909008,Dehydration following exertion,gastroenteritis_dehydration
+4322552,427784006,Hypernatremic dehydration,gastroenteritis_dehydration
+4098610,190894003,Isonatremic dehydration,gastroenteritis_dehydration
+42872401,1.611E+12,Mild dehydration,gastroenteritis_dehydration
+42872404,1.601E+12,Moderate dehydration,gastroenteritis_dehydration
+4302027,78812008,Neonatal dehydration,gastroenteritis_dehydration
+4037854,162685008,O/E - dehydrated,gastroenteritis_dehydration
+42873066,450316000,Severe dehydration,gastroenteritis_dehydration

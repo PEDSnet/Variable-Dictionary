@@ -1,0 +1,8 @@
+concept_id,concept_name,concept_code,vocabulary_id
+3001838,Sodium [Moles/volume] in Red Blood Cells,12907-2,LOINC
+3000285,Sodium [Moles/volume] in Blood,2947-0,LOINC
+3019550,Sodium [Moles/volume] in Serum or Plasma,2951-2,LOINC
+3041473,Sodium [Moles/volume] in Venous blood,39791-9,LOINC
+3038702,Sodium [Moles/volume] in Capillary blood,39792-7,LOINC
+4097430,Sodium measurement,25197003,SNOMED
+4208938,"Sodium measurement, blood",312469006,SNOMED

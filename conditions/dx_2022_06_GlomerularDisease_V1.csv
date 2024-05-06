@@ -1,0 +1,799 @@
+concept_id,concept_code,concept_name,vocabulary_id,pcornet_vocabulary_id,cc_decimal_removal
+192362,197591002,Nephrotic syndrome with membranoproliferative glomerulonephritis,SNOMED,SM,FALSE
+192364,197603000,Nephrotic syndrome associated with another disorder,SNOMED,SM,FALSE
+194405,197590001,Nephrotic syndrome with membranous glomerulonephritis,SNOMED,SM,FALSE
+195289,50581000,Goodpasture's syndrome,SNOMED,SM,FALSE
+195314,52254009,Nephrotic syndrome,SNOMED,SM,FALSE
+197319,197589005,Nephrotic syndrome with proliferative glomerulonephritis,SNOMED,SM,FALSE
+199071,266549004,Nephrotic syndrome with minimal change glomerulonephritis,SNOMED,SM,FALSE
+252365,77182004,Membranous glomerulonephritis,SNOMED,SM,FALSE
+259070,197579006,Acute proliferative glomerulonephritis,SNOMED,SM,FALSE
+261071,197661001,Glomerulosclerosis,SNOMED,SM,FALSE
+312358,20917003,Chronic glomerulonephritis,SNOMED,SM,FALSE
+433257,80321008,Mesangiocapillary glomerulonephritis,SNOMED,SM,FALSE
+435003,197580009,Acute nephritis with lesions of necrotizing glomerulitis,SNOMED,SM,FALSE
+435308,19351000,Acute glomerulonephritis,SNOMED,SM,FALSE
+435320,197582001,Acute glomerulonephritis associated with another disorder,SNOMED,SM,FALSE
+442074,197626007,Focal membranoproliferative glomerulonephritis,SNOMED,SM,FALSE
+442075,197616000,Chronic glomerulonephritis associated with another disorder,SNOMED,SM,FALSE
+725432,N00.A,Acute nephritic syndrome with C3 glomerulonephritis,ICD10CM,10,FALSE
+725432,N00A,Acute nephritic syndrome with C3 glomerulonephritis,ICD10CM,10,TRUE
+725433,N01.A,Rapidly progressive nephritic syndrome with C3 glomerulonephritis,ICD10CM,10,FALSE
+725433,N01A,Rapidly progressive nephritic syndrome with C3 glomerulonephritis,ICD10CM,10,TRUE
+725434,N02.A,Recurrent and persistent hematuria with C3 glomerulonephritis,ICD10CM,10,FALSE
+725434,N02A,Recurrent and persistent hematuria with C3 glomerulonephritis,ICD10CM,10,TRUE
+725435,N03.A,Chronic nephritic syndrome with C3 glomerulonephritis,ICD10CM,10,FALSE
+725435,N03A,Chronic nephritic syndrome with C3 glomerulonephritis,ICD10CM,10,TRUE
+725436,N04.A,Nephrotic syndrome with C3 glomerulonephritis,ICD10CM,10,FALSE
+725436,N04A,Nephrotic syndrome with C3 glomerulonephritis,ICD10CM,10,TRUE
+725437,N05.A,Unspecified nephritic syndrome with C3 glomerulonephritis,ICD10CM,10,FALSE
+725437,N05A,Unspecified nephritic syndrome with C3 glomerulonephritis,ICD10CM,10,TRUE
+725438,N06.A,Isolated proteinuria with C3 glomerulonephritis,ICD10CM,10,FALSE
+725438,N06A,Isolated proteinuria with C3 glomerulonephritis,ICD10CM,10,TRUE
+725439,N07.A,"Hereditary nephropathy, not elsewhere classified with C3 glomerulonephritis",ICD10CM,10,FALSE
+725439,N07A,"Hereditary nephropathy, not elsewhere classified with C3 glomerulonephritis",ICD10CM,10,TRUE
+766398,M35.0A,Sjogren syndrome with glomerular disease,ICD10CM,10,FALSE
+766398,M350A,Sjogren syndrome with glomerular disease,ICD10CM,10,TRUE
+1571469,N00,Acute nephritic syndrome,ICD10CM,10,FALSE
+1571470,N01,Rapidly progressive nephritic syndrome,ICD10CM,10,FALSE
+1571471,N02,Recurrent and persistent hematuria,ICD10CM,10,FALSE
+1571472,N03,Chronic nephritic syndrome,ICD10CM,10,FALSE
+1571473,N04,Nephrotic syndrome,ICD10CM,10,FALSE
+1571474,N05,Unspecified nephritic syndrome,ICD10CM,10,FALSE
+1571475,N06,Isolated proteinuria with specified morphological lesion,ICD10CM,10,FALSE
+1571476,N07,"Hereditary nephropathy, not elsewhere classified",ICD10CM,10,FALSE
+3519363,519691000000105,Familial immunoglobulin A nephropathy,SNOMED,SM,FALSE
+3520397,610511000000101,Unspecified glomerulonephritis NOS,SNOMED,SM,FALSE
+3520406,611321000000108,Renal sclerosis NOS,SNOMED,SM,FALSE
+3520413,611871000000103,Acute glomerulonephritis NOS,SNOMED,SM,FALSE
+3520430,612881000000109,Other chronic glomerulonephritis,SNOMED,SM,FALSE
+3521162,687391000000104,Mesangioproliferative glomerulonephritis NEC,SNOMED,SM,FALSE
+3521163,687421000000105,Hypocomplementaemic persistent glomerulonephritis NEC,SNOMED,SM,FALSE
+3521164,687431000000107,Mesangiocapillary glomerulonephritis NEC,SNOMED,SM,FALSE
+3526663,292651000000104,IgA nephropathy,SNOMED,SM,FALSE
+3528929,414271000000101,"[X]Unspecified nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",SNOMED,SM,FALSE
+3528948,414941000000104,"[X]Hereditary nephropathy, unspecified morphological changes",SNOMED,SM,FALSE
+3529164,454861000000102,"[X]Isolated proteinuria, with other specified morphological changes",SNOMED,SM,FALSE
+3529190,456591000000101,"[X]Unspecified nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",SNOMED,SM,FALSE
+3530282,519611000000101,Autosomal recessive focal segmental glomerulosclerosis,SNOMED,SM,FALSE
+3530283,519621000000107,Autosomal dominant focal segmental glomerulosclerosis,SNOMED,SM,FALSE
+3535921,612891000000106,Other chronic glomerulonephritis NOS,SNOMED,SM,FALSE
+3543617,758311000000106,Thin basement membrane disease,SNOMED,SM,FALSE
+3545760,855071000000106,Crescentic glomerulonephritis,SNOMED,SM,FALSE
+3545766,855131000000108,Benign familial haematuria,SNOMED,SM,FALSE
+3545782,855301000000100,Goodpasture's disease,SNOMED,SM,FALSE
+3545904,857251000000104,Cytomegalovirus-induced glomerulonephritis,SNOMED,SM,FALSE
+3547124,938311000000101,Cryoglobulinaemic glomerulonephritis,SNOMED,SM,FALSE
+3547125,938321000000107,Diffuse mesangial sclerosis with ocular abnormalities,SNOMED,SM,FALSE
+3547135,938441000000106,De novo glomerulonephritis,SNOMED,SM,FALSE
+3550979,78431000000106,Diabetes mellitus with persistent proteinuria,SNOMED,SM,FALSE
+3551089,83021000000103,Type 1 diabetes mellitus with persistent microalbuminuria,SNOMED,SM,FALSE
+3551092,83231000000105,Type 2 diabetes mellitus with persistent proteinuria,SNOMED,SM,FALSE
+3551093,83241000000101,Type 2 diabetes mellitus with persistent microalbuminuria,SNOMED,SM,FALSE
+3557984,661911000000102,Congenital nephrotic syndrome NOS,SNOMED,SM,FALSE
+3558958,800991000000107,Steroid resistant nephrotic syndrome of childhood,SNOMED,SM,FALSE
+3559597,855051000000102,Proteinuric diabetic nephropathy,SNOMED,SM,FALSE
+3559644,856911000000106,Drash syndrome,SNOMED,SM,FALSE
+3561043,938301000000103,Congenital nephrotic syndrome with focal glomerulosclerosis,SNOMED,SM,FALSE
+3572848,467871000000107,"[X]Unspecified nephritic syndrome, dense deposit disease",SNOMED,SM,FALSE
+3573472,660031000000104,Other acute glomerulonephritis NOS,SNOMED,SM,FALSE
+3573912,857141000000107,Shunt nephritis,SNOMED,SM,FALSE
+3655349,860892003,Glomerular disease due to infectious disease,SNOMED,SM,FALSE
+3655350,860893008,Glomerular disease due to parasitic disease,SNOMED,SM,FALSE
+3661411,829971006,Non-amyloid monoclonal immunoglobulin deposition disease,SNOMED,SM,FALSE
+4002526,11013005,"SLE glomerulonephritis syndrome, WHO class VI",SNOMED,SM,FALSE
+4008560,111406002,Diffuse mesangial sclerosis,SNOMED,SM,FALSE
+4027119,197597003,"Nephrotic syndrome, diffuse endocapillary proliferative glomerulonephritis",SNOMED,SM,FALSE
+4027120,197598008,"Nephrotic syndrome, diffuse mesangiocapillary glomerulonephritis",SNOMED,SM,FALSE
+4027121,197605007,Nephrotic syndrome due to diabetes mellitus,SNOMED,SM,FALSE
+4027122,197606008,Nephrotic syndrome in malaria,SNOMED,SM,FALSE
+4027123,197609001,Nephrotic syndrome in diseases EC NOS,SNOMED,SM,FALSE
+4027124,197618004,Chronic focal glomerulonephritis,SNOMED,SM,FALSE
+4027125,197619007,Chronic diffuse glomerulonephritis,SNOMED,SM,FALSE
+4027127,197628008,Focal glomerulonephritis with focal recurrent macroscopic glomerulonephritis,SNOMED,SM,FALSE
+4028050,13335004,Sclerosing glomerulonephritis,SNOMED,SM,FALSE
+4030509,236380004,Steroid-sensitive nephrotic syndrome,SNOMED,SM,FALSE
+4030510,236384008,Congenital nephrotic syndrome with focal glomerulosclerosis,SNOMED,SM,FALSE
+4030513,236403004,Focal segmental glomerulosclerosis,SNOMED,SM,FALSE
+4030514,236412002,C1q nephropathy,SNOMED,SM,FALSE
+4030515,236416004,Membranous glomerulonephritis - stage IV,SNOMED,SM,FALSE
+4030516,236417008,Membranous glomerulonephritis stage V,SNOMED,SM,FALSE
+4030517,236422008,Fechtner syndrome,SNOMED,SM,FALSE
+4030664,236500003,Proteinuric nephropathy due to diabetes mellitus,SNOMED,SM,FALSE
+4030665,236505008,Cryoglobulinemic glomerulonephritis,SNOMED,SM,FALSE
+4030675,236528009,Diffuse mesangial sclerosis with ocular abnormalities,SNOMED,SM,FALSE
+4031981,1426004,Necrotizing glomerulonephritis,SNOMED,SM,FALSE
+4032422,236586006,De novo glomerulonephritis,SNOMED,SM,FALSE
+4048675,123752003,Immune-complex glomerulonephritis,SNOMED,SM,FALSE
+4049283,123609007,Subacute glomerulonephritis,SNOMED,SM,FALSE
+4054915,197688006,"Acute nephritic syndrome, diffuse crescentic glomerulonephritis",SNOMED,SM,FALSE
+4054993,197708002,"Chronic nephritic syndrome, minor glomerular abnormality",SNOMED,SM,FALSE
+4055899,197714009,"Chronic nephritic syndrome, dense deposit disease",SNOMED,SM,FALSE
+4056017,197739000,Glomerular disorders in blood diseases and disorders involving the immune mechanism,SNOMED,SM,FALSE
+4056345,197588002,Acute glomerulonephritis NOS,SNOMED,SM,FALSE
+4056346,197593004,"Nephrotic syndrome, minor glomerular abnormality",SNOMED,SM,FALSE
+4056347,197599000,"Nephrotic syndrome, dense deposit disease",SNOMED,SM,FALSE
+4056348,197607004,Nephrotic syndrome in polyarteritis nodosa,SNOMED,SM,FALSE
+4056461,197610006,Nephrotic syndrome with other pathological kidney lesions,SNOMED,SM,FALSE
+4056462,197613008,Chronic mesangial proliferative glomerulonephritis,SNOMED,SM,FALSE
+4056463,197617009,Chronic exudative glomerulonephritis,SNOMED,SM,FALSE
+4056467,197631009,Other familial glomerulonephritis,SNOMED,SM,FALSE
+4056468,197632002,Berger's IgA or IgG nephropathy,SNOMED,SM,FALSE
+4056478,197707007,Chronic nephritic syndrome,SNOMED,SM,FALSE
+4056479,197709005,"Chronic nephritic syndrome, focal and segmental glomerular lesions",SNOMED,SM,FALSE
+4056480,197715005,"Chronic nephritic syndrome, diffuse crescentic glomerulonephritis",SNOMED,SM,FALSE
+4058279,16147005,Arteriolar nephritis,SNOMED,SM,FALSE
+4058838,197586003,Other acute glomerulonephritis NOS,SNOMED,SM,FALSE
+4058840,197594005,"Nephrotic syndrome, focal and segmental glomerular lesions",SNOMED,SM,FALSE
+4058841,197595006,"Nephrotic syndrome, diffuse membranous glomerulonephritis",SNOMED,SM,FALSE
+4058842,197596007,"Nephrotic syndrome, diffuse mesangial proliferative glomerulonephritis",SNOMED,SM,FALSE
+4058843,197600002,"Nephrotic syndrome, diffuse crescentic glomerulonephritis",SNOMED,SM,FALSE
+4058844,197601003,Finnish congenital nephrotic syndrome,SNOMED,SM,FALSE
+4058845,197602005,Congenital nephrotic syndrome NOS,SNOMED,SM,FALSE
+4058967,197604006,Nephrotic syndrome in amyloidosis,SNOMED,SM,FALSE
+4058968,197611005,Nephrotic syndrome NOS,SNOMED,SM,FALSE
+4058969,197615001,Other chronic glomerulonephritis,SNOMED,SM,FALSE
+4058970,197620001,Other chronic glomerulonephritis NOS,SNOMED,SM,FALSE
+4058976,197658002,Renal sclerosis unspecified,SNOMED,SM,FALSE
+4058979,197662008,Renal sclerosis NOS,SNOMED,SM,FALSE
+4058995,197703006,"Recurrent or persistent hematuria, diffuse endocapillary proliferative glomerulonephritis",SNOMED,SM,FALSE
+4058996,197706003,"Recurrent or persistent hematuria, diffuse crescentic glomerulonephritis",SNOMED,SM,FALSE
+4059443,197581008,Other acute glomerulonephritis,SNOMED,SM,FALSE
+4059445,197621002,Chronic glomerulonephritis NOS,SNOMED,SM,FALSE
+4059447,197629000,Anaphylactoid glomerulonephritis,SNOMED,SM,FALSE
+4059449,197648001,Unspecified glomerulonephritis NOS,SNOMED,SM,FALSE
+4059452,197679002,Glomerular disease,SNOMED,SM,FALSE
+4059463,197712008,"Chronic nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",SNOMED,SM,FALSE
+4059584,197713003,"Chronic nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",SNOMED,SM,FALSE
+4059590,197738008,Glomerular disorders in neoplastic diseases,SNOMED,SM,FALSE
+4093431,25821008,Focal glomerular sclerosis,SNOMED,SM,FALSE
+4104770,282364005,IgA nephropathy associated with liver disease,SNOMED,SM,FALSE
+4121264,234485006,Epstein syndrome,SNOMED,SM,FALSE
+4125954,236382007,Steroid-dependent nephrotic syndrome,SNOMED,SM,FALSE
+4125955,236385009,Drash syndrome,SNOMED,SM,FALSE
+4125956,236390007,Hypocomplementemic persistent glomerulonephritis NEC,SNOMED,SM,FALSE
+4125957,236394003,Idiopathic endocapillary glomerulonephritis,SNOMED,SM,FALSE
+4125958,236395002,Post-infectious glomerulonephritis,SNOMED,SM,FALSE
+4125960,236399008,Steroid-sensitive minimal change glomerulonephritis,SNOMED,SM,FALSE
+4125961,236400001,Steroid-resistant minimal change glomerulonephritis,SNOMED,SM,FALSE
+4125962,236401002,Steroid-dependent minimal change glomerulonephritis,SNOMED,SM,FALSE
+4125963,236408008,Mesangiocapillary glomerulonephritis NEC,SNOMED,SM,FALSE
+4125964,236410005,Mesangiocapillary glomerulonephritis type IV,SNOMED,SM,FALSE
+4125966,236413007,Membranous glomerulonephritis - stage I,SNOMED,SM,FALSE
+4125967,236419006,Progressive hereditary glomerulonephritis without deafness,SNOMED,SM,FALSE
+4126115,236506009,Goodpasture's disease,SNOMED,SM,FALSE
+4126116,236508005,Malignancy-associated glomerulonephritis,SNOMED,SM,FALSE
+4126122,236530006,Pulmonic stenosis and congenital nephrosis,SNOMED,SM,FALSE
+4126299,236388006,Mesangioproliferative glomerulonephritis NEC,SNOMED,SM,FALSE
+4126300,236393009,Endocapillary glomerulonephritis,SNOMED,SM,FALSE
+4126301,236398000,Idiopathic crescentic glomerulonephritis,SNOMED,SM,FALSE
+4126302,236405006,Hyperfiltration focal segmental glomerulosclerosis,SNOMED,SM,FALSE
+4126303,236414001,Membranous glomerulonephritis - stage II,SNOMED,SM,FALSE
+4126304,236415000,Membranous glomerulonephritis - stage III,SNOMED,SM,FALSE
+4128055,236381000,Steroid-resistant nephrotic syndrome,SNOMED,SM,FALSE
+4128056,236383002,Familial mesangial sclerosis,SNOMED,SM,FALSE
+4128057,236397005,Post-infectious glomerulonephritis - Garland variety,SNOMED,SM,FALSE
+4128058,236402009,Ischemic glomerulopathy,SNOMED,SM,FALSE
+4128059,236404005,Classical focal segmental glomerulosclerosis,SNOMED,SM,FALSE
+4128061,236407003,IgA nephropathy,SNOMED,SM,FALSE
+4128062,236409000,Mesangiocapillary glomerulonephritis type III,SNOMED,SM,FALSE
+4128063,236411009,IgM nephropathy,SNOMED,SM,FALSE
+4128064,236418003,Thin basement membrane disease,SNOMED,SM,FALSE
+4128065,236420000,Alport syndrome-like hereditary nephritis,SNOMED,SM,FALSE
+4128221,236499007,Microalbuminuric diabetic nephropathy,SNOMED,SM,FALSE
+4128230,236534002,Familial lobular glomerulopathy,SNOMED,SM,FALSE
+4128231,236535001,Glomerulopathy with fibronectin deposits 1,SNOMED,SM,FALSE
+4128374,236590008,Cytomegalovirus-induced glomerulonephritis,SNOMED,SM,FALSE
+4137220,425455002,Diabetic glomerulonephritis,SNOMED,SM,FALSE
+4143003,427555000,Glomerulonephritis due to granulomatosis with polyangiitis,SNOMED,SM,FALSE
+4146996,35546006,Mesangial proliferative glomerulonephritis,SNOMED,SM,FALSE
+4147577,310387003,Intracapillary glomerulosclerosis of kidney due to diabetes mellitus,SNOMED,SM,FALSE
+4151946,311366001,Kimmelstiel-Wilson syndrome,SNOMED,SM,FALSE
+4161286,399094007,Familial hematuria,SNOMED,SM,FALSE
+4161421,399340005,Hereditary nephritis,SNOMED,SM,FALSE
+4163736,399190000,Non-progressive hereditary glomerulonephritis,SNOMED,SM,FALSE
+4172011,48796009,Congenital nephrotic syndrome,SNOMED,SM,FALSE
+4176957,363233007,Nephrotic syndrome secondary to glomerulonephritis,SNOMED,SM,FALSE
+4178133,52042003,"SLE glomerulonephritis syndrome, WHO class V",SNOMED,SM,FALSE
+4181202,363234001,Nephrotic syndrome secondary to systemic disease,SNOMED,SM,FALSE
+4181588,54181000,Diabetes-nephrosis syndrome,SNOMED,SM,FALSE
+4186940,4676006,"SLE glomerulonephritis syndrome, WHO class II",SNOMED,SM,FALSE
+4206115,309426007,Glomerulopathy due to diabetes mellitus,SNOMED,SM,FALSE
+4210158,55652009,"Idiopathic crescentic glomerulonephritis, type III",SNOMED,SM,FALSE
+4220051,8199003,Focal embolic nephritis syndrome,SNOMED,SM,FALSE
+4221487,420715001,Persistent microalbuminuria due to type 2 diabetes mellitus,SNOMED,SM,FALSE
+4221663,40233000,Nephrotic-nephritic syndrome,SNOMED,SM,FALSE
+4222306,83923004,Familial interstitial nephritis,SNOMED,SM,FALSE
+4222553,420514000,Persistent proteinuria due to type 1 diabetes mellitus,SNOMED,SM,FALSE
+4222610,83866005,Focal AND segmental proliferative glomerulonephritis,SNOMED,SM,FALSE
+4222687,421305000,Persistent microalbuminuria due to type 1 diabetes mellitus,SNOMED,SM,FALSE
+4223739,421986006,Persistent proteinuria due to type 2 diabetes mellitus,SNOMED,SM,FALSE
+4234761,359694003,"Idiopathic crescentic glomerulonephritis, type II",SNOMED,SM,FALSE
+4236844,57965003,Acute benign hemorrhagic glomerulonephritic syndrome,SNOMED,SM,FALSE
+4241966,59479006,"Mesangiocapillary glomerulonephritis, type II",SNOMED,SM,FALSE
+4243625,38046004,Diffuse glomerulosclerosis of kidney due to diabetes mellitus,SNOMED,SM,FALSE
+4249737,73305009,Fibrillary glomerulonephritis,SNOMED,SM,FALSE
+4250483,73286009,"SLE glomerulonephritis syndrome, WHO class I",SNOMED,SM,FALSE
+4260398,44785005,Minimal change disease,SNOMED,SM,FALSE
+4263367,36171008,Glomerulonephritis,SNOMED,SM,FALSE
+4267717,62853008,Anti-glomerular basement membrane tubulointerstitial nephritis,SNOMED,SM,FALSE
+4267801,36402006,"SLE glomerulonephritis syndrome, WHO class IV",SNOMED,SM,FALSE
+4270049,63510008,Nodular type diabetic glomerulosclerosis,SNOMED,SM,FALSE
+4272255,367540006,Proteinuria syndrome,SNOMED,SM,FALSE
+4272470,64168005,"Idiopathic crescentic glomerulonephritis, type I",SNOMED,SM,FALSE
+4272486,64212008,Diffuse crescentic glomerulonephritis,SNOMED,SM,FALSE
+4284491,3704008,Diffuse endocapillary proliferative glomerulonephritis,SNOMED,SM,FALSE
+4285717,68815009,SLE glomerulonephritis syndrome,SNOMED,SM,FALSE
+4286024,68544003,Acute post-streptococcal glomerulonephritis,SNOMED,SM,FALSE
+4287695,68779003,Primary IgA nephropathy,SNOMED,SM,FALSE
+4290345,37085009,Shunt nephritis,SNOMED,SM,FALSE
+4294813,75888001,"Mesangiocapillary glomerulonephritis, type I",SNOMED,SM,FALSE
+4295011,401110002,Type 1 diabetes mellitus with persistent microalbuminuria,SNOMED,SM,FALSE
+4297164,76521009,"SLE glomerulonephritis syndrome, WHO class III",SNOMED,SM,FALSE
+4298568,76910007,Renal glomerular disease,SNOMED,SM,FALSE
+4298809,7724006,Nephritic syndrome,SNOMED,SM,FALSE
+4312366,425384007,Sarcoidosis with glomerulonephritis,SNOMED,SM,FALSE
+4320652,69982006,Malarial nephrosis,SNOMED,SM,FALSE
+4331449,22702000,Glomerulitis,SNOMED,SM,FALSE
+4342511,236421001,Benign familial hematuria,SNOMED,SM,FALSE
+4343933,239932005,Primary pauci-immune necrotizing and crescentic glomerulonephritis,SNOMED,SM,FALSE
+35209165,N00.0,Acute nephritic syndrome with minor glomerular abnormality,ICD10CM,10,FALSE
+35209165,N000,Acute nephritic syndrome with minor glomerular abnormality,ICD10CM,10,TRUE
+35209166,N00.1,Acute nephritic syndrome with focal and segmental glomerular lesions,ICD10CM,10,FALSE
+35209166,N001,Acute nephritic syndrome with focal and segmental glomerular lesions,ICD10CM,10,TRUE
+35209167,N00.2,Acute nephritic syndrome with diffuse membranous glomerulonephritis,ICD10CM,10,FALSE
+35209167,N002,Acute nephritic syndrome with diffuse membranous glomerulonephritis,ICD10CM,10,TRUE
+35209168,N00.3,Acute nephritic syndrome with diffuse mesangial proliferative glomerulonephritis,ICD10CM,10,FALSE
+35209168,N003,Acute nephritic syndrome with diffuse mesangial proliferative glomerulonephritis,ICD10CM,10,TRUE
+35209169,N00.4,Acute nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis,ICD10CM,10,FALSE
+35209169,N004,Acute nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis,ICD10CM,10,TRUE
+35209170,N00.5,Acute nephritic syndrome with diffuse mesangiocapillary glomerulonephritis,ICD10CM,10,FALSE
+35209170,N005,Acute nephritic syndrome with diffuse mesangiocapillary glomerulonephritis,ICD10CM,10,TRUE
+35209171,N00.6,Acute nephritic syndrome with dense deposit disease,ICD10CM,10,FALSE
+35209171,N006,Acute nephritic syndrome with dense deposit disease,ICD10CM,10,TRUE
+35209172,N00.7,Acute nephritic syndrome with diffuse crescentic glomerulonephritis,ICD10CM,10,FALSE
+35209172,N007,Acute nephritic syndrome with diffuse crescentic glomerulonephritis,ICD10CM,10,TRUE
+35209173,N00.8,Acute nephritic syndrome with other morphologic changes,ICD10CM,10,FALSE
+35209173,N008,Acute nephritic syndrome with other morphologic changes,ICD10CM,10,TRUE
+35209174,N00.9,Acute nephritic syndrome with unspecified morphologic changes,ICD10CM,10,FALSE
+35209174,N009,Acute nephritic syndrome with unspecified morphologic changes,ICD10CM,10,TRUE
+35209175,N01.0,Rapidly progressive nephritic syndrome with minor glomerular abnormality,ICD10CM,10,FALSE
+35209175,N010,Rapidly progressive nephritic syndrome with minor glomerular abnormality,ICD10CM,10,TRUE
+35209176,N01.1,Rapidly progressive nephritic syndrome with focal and segmental glomerular lesions,ICD10CM,10,FALSE
+35209176,N011,Rapidly progressive nephritic syndrome with focal and segmental glomerular lesions,ICD10CM,10,TRUE
+35209177,N01.2,Rapidly progressive nephritic syndrome with diffuse membranous glomerulonephritis,ICD10CM,10,FALSE
+35209177,N012,Rapidly progressive nephritic syndrome with diffuse membranous glomerulonephritis,ICD10CM,10,TRUE
+35209178,N01.3,Rapidly progressive nephritic syndrome with diffuse mesangial proliferative glomerulonephritis,ICD10CM,10,FALSE
+35209178,N013,Rapidly progressive nephritic syndrome with diffuse mesangial proliferative glomerulonephritis,ICD10CM,10,TRUE
+35209179,N01.4,Rapidly progressive nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis,ICD10CM,10,FALSE
+35209179,N014,Rapidly progressive nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis,ICD10CM,10,TRUE
+35209180,N01.5,Rapidly progressive nephritic syndrome with diffuse mesangiocapillary glomerulonephritis,ICD10CM,10,FALSE
+35209180,N015,Rapidly progressive nephritic syndrome with diffuse mesangiocapillary glomerulonephritis,ICD10CM,10,TRUE
+35209181,N01.6,Rapidly progressive nephritic syndrome with dense deposit disease,ICD10CM,10,FALSE
+35209181,N016,Rapidly progressive nephritic syndrome with dense deposit disease,ICD10CM,10,TRUE
+35209182,N01.7,Rapidly progressive nephritic syndrome with diffuse crescentic glomerulonephritis,ICD10CM,10,FALSE
+35209182,N017,Rapidly progressive nephritic syndrome with diffuse crescentic glomerulonephritis,ICD10CM,10,TRUE
+35209183,N01.8,Rapidly progressive nephritic syndrome with other morphologic changes,ICD10CM,10,FALSE
+35209183,N018,Rapidly progressive nephritic syndrome with other morphologic changes,ICD10CM,10,TRUE
+35209184,N01.9,Rapidly progressive nephritic syndrome with unspecified morphologic changes,ICD10CM,10,FALSE
+35209184,N019,Rapidly progressive nephritic syndrome with unspecified morphologic changes,ICD10CM,10,TRUE
+35209185,N02.0,Recurrent and persistent hematuria with minor glomerular abnormality,ICD10CM,10,FALSE
+35209185,N020,Recurrent and persistent hematuria with minor glomerular abnormality,ICD10CM,10,TRUE
+35209186,N02.1,Recurrent and persistent hematuria with focal and segmental glomerular lesions,ICD10CM,10,FALSE
+35209186,N021,Recurrent and persistent hematuria with focal and segmental glomerular lesions,ICD10CM,10,TRUE
+35209187,N02.2,Recurrent and persistent hematuria with diffuse membranous glomerulonephritis,ICD10CM,10,FALSE
+35209187,N022,Recurrent and persistent hematuria with diffuse membranous glomerulonephritis,ICD10CM,10,TRUE
+35209188,N02.3,Recurrent and persistent hematuria with diffuse mesangial proliferative glomerulonephritis,ICD10CM,10,FALSE
+35209188,N023,Recurrent and persistent hematuria with diffuse mesangial proliferative glomerulonephritis,ICD10CM,10,TRUE
+35209189,N02.4,Recurrent and persistent hematuria with diffuse endocapillary proliferative glomerulonephritis,ICD10CM,10,FALSE
+35209189,N024,Recurrent and persistent hematuria with diffuse endocapillary proliferative glomerulonephritis,ICD10CM,10,TRUE
+35209190,N02.5,Recurrent and persistent hematuria with diffuse mesangiocapillary glomerulonephritis,ICD10CM,10,FALSE
+35209190,N025,Recurrent and persistent hematuria with diffuse mesangiocapillary glomerulonephritis,ICD10CM,10,TRUE
+35209191,N02.6,Recurrent and persistent hematuria with dense deposit disease,ICD10CM,10,FALSE
+35209191,N026,Recurrent and persistent hematuria with dense deposit disease,ICD10CM,10,TRUE
+35209192,N02.7,Recurrent and persistent hematuria with diffuse crescentic glomerulonephritis,ICD10CM,10,FALSE
+35209192,N027,Recurrent and persistent hematuria with diffuse crescentic glomerulonephritis,ICD10CM,10,TRUE
+35209193,N02.8,Recurrent and persistent hematuria with other morphologic changes,ICD10CM,10,FALSE
+35209193,N028,Recurrent and persistent hematuria with other morphologic changes,ICD10CM,10,TRUE
+35209194,N02.9,Recurrent and persistent hematuria with unspecified morphologic changes,ICD10CM,10,FALSE
+35209194,N029,Recurrent and persistent hematuria with unspecified morphologic changes,ICD10CM,10,TRUE
+35209195,N03.0,Chronic nephritic syndrome with minor glomerular abnormality,ICD10CM,10,FALSE
+35209195,N030,Chronic nephritic syndrome with minor glomerular abnormality,ICD10CM,10,TRUE
+35209196,N03.1,Chronic nephritic syndrome with focal and segmental glomerular lesions,ICD10CM,10,FALSE
+35209196,N031,Chronic nephritic syndrome with focal and segmental glomerular lesions,ICD10CM,10,TRUE
+35209197,N03.2,Chronic nephritic syndrome with diffuse membranous glomerulonephritis,ICD10CM,10,FALSE
+35209197,N032,Chronic nephritic syndrome with diffuse membranous glomerulonephritis,ICD10CM,10,TRUE
+35209198,N03.3,Chronic nephritic syndrome with diffuse mesangial proliferative glomerulonephritis,ICD10CM,10,FALSE
+35209198,N033,Chronic nephritic syndrome with diffuse mesangial proliferative glomerulonephritis,ICD10CM,10,TRUE
+35209199,N03.4,Chronic nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis,ICD10CM,10,FALSE
+35209199,N034,Chronic nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis,ICD10CM,10,TRUE
+35209200,N03.5,Chronic nephritic syndrome with diffuse mesangiocapillary glomerulonephritis,ICD10CM,10,FALSE
+35209200,N035,Chronic nephritic syndrome with diffuse mesangiocapillary glomerulonephritis,ICD10CM,10,TRUE
+35209201,N03.6,Chronic nephritic syndrome with dense deposit disease,ICD10CM,10,FALSE
+35209201,N036,Chronic nephritic syndrome with dense deposit disease,ICD10CM,10,TRUE
+35209202,N03.7,Chronic nephritic syndrome with diffuse crescentic glomerulonephritis,ICD10CM,10,FALSE
+35209202,N037,Chronic nephritic syndrome with diffuse crescentic glomerulonephritis,ICD10CM,10,TRUE
+35209203,N03.8,Chronic nephritic syndrome with other morphologic changes,ICD10CM,10,FALSE
+35209203,N038,Chronic nephritic syndrome with other morphologic changes,ICD10CM,10,TRUE
+35209204,N03.9,Chronic nephritic syndrome with unspecified morphologic changes,ICD10CM,10,FALSE
+35209204,N039,Chronic nephritic syndrome with unspecified morphologic changes,ICD10CM,10,TRUE
+35209205,N04.0,Nephrotic syndrome with minor glomerular abnormality,ICD10CM,10,FALSE
+35209205,N040,Nephrotic syndrome with minor glomerular abnormality,ICD10CM,10,TRUE
+35209206,N04.1,Nephrotic syndrome with focal and segmental glomerular lesions,ICD10CM,10,FALSE
+35209206,N041,Nephrotic syndrome with focal and segmental glomerular lesions,ICD10CM,10,TRUE
+35209207,N04.2,Nephrotic syndrome with diffuse membranous glomerulonephritis,ICD10CM,10,FALSE
+35209207,N042,Nephrotic syndrome with diffuse membranous glomerulonephritis,ICD10CM,10,TRUE
+35209208,N04.3,Nephrotic syndrome with diffuse mesangial proliferative glomerulonephritis,ICD10CM,10,FALSE
+35209208,N043,Nephrotic syndrome with diffuse mesangial proliferative glomerulonephritis,ICD10CM,10,TRUE
+35209209,N04.4,Nephrotic syndrome with diffuse endocapillary proliferative glomerulonephritis,ICD10CM,10,FALSE
+35209209,N044,Nephrotic syndrome with diffuse endocapillary proliferative glomerulonephritis,ICD10CM,10,TRUE
+35209210,N04.5,Nephrotic syndrome with diffuse mesangiocapillary glomerulonephritis,ICD10CM,10,FALSE
+35209210,N045,Nephrotic syndrome with diffuse mesangiocapillary glomerulonephritis,ICD10CM,10,TRUE
+35209211,N04.6,Nephrotic syndrome with dense deposit disease,ICD10CM,10,FALSE
+35209211,N046,Nephrotic syndrome with dense deposit disease,ICD10CM,10,TRUE
+35209212,N04.7,Nephrotic syndrome with diffuse crescentic glomerulonephritis,ICD10CM,10,FALSE
+35209212,N047,Nephrotic syndrome with diffuse crescentic glomerulonephritis,ICD10CM,10,TRUE
+35209213,N04.8,Nephrotic syndrome with other morphologic changes,ICD10CM,10,FALSE
+35209213,N048,Nephrotic syndrome with other morphologic changes,ICD10CM,10,TRUE
+35209214,N04.9,Nephrotic syndrome with unspecified morphologic changes,ICD10CM,10,FALSE
+35209214,N049,Nephrotic syndrome with unspecified morphologic changes,ICD10CM,10,TRUE
+35209215,N05.0,Unspecified nephritic syndrome with minor glomerular abnormality,ICD10CM,10,FALSE
+35209215,N050,Unspecified nephritic syndrome with minor glomerular abnormality,ICD10CM,10,TRUE
+35209216,N05.1,Unspecified nephritic syndrome with focal and segmental glomerular lesions,ICD10CM,10,FALSE
+35209216,N051,Unspecified nephritic syndrome with focal and segmental glomerular lesions,ICD10CM,10,TRUE
+35209217,N05.2,Unspecified nephritic syndrome with diffuse membranous glomerulonephritis,ICD10CM,10,FALSE
+35209217,N052,Unspecified nephritic syndrome with diffuse membranous glomerulonephritis,ICD10CM,10,TRUE
+35209218,N05.3,Unspecified nephritic syndrome with diffuse mesangial proliferative glomerulonephritis,ICD10CM,10,FALSE
+35209218,N053,Unspecified nephritic syndrome with diffuse mesangial proliferative glomerulonephritis,ICD10CM,10,TRUE
+35209219,N05.4,Unspecified nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis,ICD10CM,10,FALSE
+35209219,N054,Unspecified nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis,ICD10CM,10,TRUE
+35209220,N05.5,Unspecified nephritic syndrome with diffuse mesangiocapillary glomerulonephritis,ICD10CM,10,FALSE
+35209220,N055,Unspecified nephritic syndrome with diffuse mesangiocapillary glomerulonephritis,ICD10CM,10,TRUE
+35209221,N05.6,Unspecified nephritic syndrome with dense deposit disease,ICD10CM,10,FALSE
+35209221,N056,Unspecified nephritic syndrome with dense deposit disease,ICD10CM,10,TRUE
+35209222,N05.7,Unspecified nephritic syndrome with diffuse crescentic glomerulonephritis,ICD10CM,10,FALSE
+35209222,N057,Unspecified nephritic syndrome with diffuse crescentic glomerulonephritis,ICD10CM,10,TRUE
+35209223,N05.8,Unspecified nephritic syndrome with other morphologic changes,ICD10CM,10,FALSE
+35209223,N058,Unspecified nephritic syndrome with other morphologic changes,ICD10CM,10,TRUE
+35209224,N05.9,Unspecified nephritic syndrome with unspecified morphologic changes,ICD10CM,10,FALSE
+35209224,N059,Unspecified nephritic syndrome with unspecified morphologic changes,ICD10CM,10,TRUE
+35209225,N06.0,Isolated proteinuria with minor glomerular abnormality,ICD10CM,10,FALSE
+35209225,N060,Isolated proteinuria with minor glomerular abnormality,ICD10CM,10,TRUE
+35209226,N06.1,Isolated proteinuria with focal and segmental glomerular lesions,ICD10CM,10,FALSE
+35209226,N061,Isolated proteinuria with focal and segmental glomerular lesions,ICD10CM,10,TRUE
+35209227,N06.2,Isolated proteinuria with diffuse membranous glomerulonephritis,ICD10CM,10,FALSE
+35209227,N062,Isolated proteinuria with diffuse membranous glomerulonephritis,ICD10CM,10,TRUE
+35209228,N06.3,Isolated proteinuria with diffuse mesangial proliferative glomerulonephritis,ICD10CM,10,FALSE
+35209228,N063,Isolated proteinuria with diffuse mesangial proliferative glomerulonephritis,ICD10CM,10,TRUE
+35209229,N06.4,Isolated proteinuria with diffuse endocapillary proliferative glomerulonephritis,ICD10CM,10,FALSE
+35209229,N064,Isolated proteinuria with diffuse endocapillary proliferative glomerulonephritis,ICD10CM,10,TRUE
+35209230,N06.5,Isolated proteinuria with diffuse mesangiocapillary glomerulonephritis,ICD10CM,10,FALSE
+35209230,N065,Isolated proteinuria with diffuse mesangiocapillary glomerulonephritis,ICD10CM,10,TRUE
+35209231,N06.6,Isolated proteinuria with dense deposit disease,ICD10CM,10,FALSE
+35209231,N066,Isolated proteinuria with dense deposit disease,ICD10CM,10,TRUE
+35209232,N06.7,Isolated proteinuria with diffuse crescentic glomerulonephritis,ICD10CM,10,FALSE
+35209232,N067,Isolated proteinuria with diffuse crescentic glomerulonephritis,ICD10CM,10,TRUE
+35209233,N06.8,Isolated proteinuria with other morphologic lesion,ICD10CM,10,FALSE
+35209233,N068,Isolated proteinuria with other morphologic lesion,ICD10CM,10,TRUE
+35209234,N06.9,Isolated proteinuria with unspecified morphologic lesion,ICD10CM,10,FALSE
+35209234,N069,Isolated proteinuria with unspecified morphologic lesion,ICD10CM,10,TRUE
+35209235,N07.0,"Hereditary nephropathy, not elsewhere classified with minor glomerular abnormality",ICD10CM,10,FALSE
+35209235,N070,"Hereditary nephropathy, not elsewhere classified with minor glomerular abnormality",ICD10CM,10,TRUE
+35209236,N07.1,"Hereditary nephropathy, not elsewhere classified with focal and segmental glomerular lesions",ICD10CM,10,FALSE
+35209236,N071,"Hereditary nephropathy, not elsewhere classified with focal and segmental glomerular lesions",ICD10CM,10,TRUE
+35209237,N07.2,"Hereditary nephropathy, not elsewhere classified with diffuse membranous glomerulonephritis",ICD10CM,10,FALSE
+35209237,N072,"Hereditary nephropathy, not elsewhere classified with diffuse membranous glomerulonephritis",ICD10CM,10,TRUE
+35209238,N07.3,"Hereditary nephropathy, not elsewhere classified with diffuse mesangial proliferative glomerulonephritis",ICD10CM,10,FALSE
+35209238,N073,"Hereditary nephropathy, not elsewhere classified with diffuse mesangial proliferative glomerulonephritis",ICD10CM,10,TRUE
+35209239,N07.4,"Hereditary nephropathy, not elsewhere classified with diffuse endocapillary proliferative glomerulonephritis",ICD10CM,10,FALSE
+35209239,N074,"Hereditary nephropathy, not elsewhere classified with diffuse endocapillary proliferative glomerulonephritis",ICD10CM,10,TRUE
+35209240,N07.5,"Hereditary nephropathy, not elsewhere classified with diffuse mesangiocapillary glomerulonephritis",ICD10CM,10,FALSE
+35209240,N075,"Hereditary nephropathy, not elsewhere classified with diffuse mesangiocapillary glomerulonephritis",ICD10CM,10,TRUE
+35209241,N07.6,"Hereditary nephropathy, not elsewhere classified with dense deposit disease",ICD10CM,10,FALSE
+35209241,N076,"Hereditary nephropathy, not elsewhere classified with dense deposit disease",ICD10CM,10,TRUE
+35209242,N07.7,"Hereditary nephropathy, not elsewhere classified with diffuse crescentic glomerulonephritis",ICD10CM,10,FALSE
+35209242,N077,"Hereditary nephropathy, not elsewhere classified with diffuse crescentic glomerulonephritis",ICD10CM,10,TRUE
+35209243,N07.8,"Hereditary nephropathy, not elsewhere classified with other morphologic lesions",ICD10CM,10,FALSE
+35209243,N078,"Hereditary nephropathy, not elsewhere classified with other morphologic lesions",ICD10CM,10,TRUE
+35209244,N07.9,"Hereditary nephropathy, not elsewhere classified with unspecified morphologic lesions",ICD10CM,10,FALSE
+35209244,N079,"Hereditary nephropathy, not elsewhere classified with unspecified morphologic lesions",ICD10CM,10,TRUE
+35209245,N08,Glomerular disorders in diseases classified elsewhere,ICD10CM,10,FALSE
+35627150,90971000119103,Vasculitis with glomerulonephritis,SNOMED,SM,FALSE
+36674698,770414008,Alport syndrome,SNOMED,SM,FALSE
+36675121,771447009,LAMB2-related infantile-onset nephrotic syndrome,SNOMED,SM,FALSE
+36676681,773647007,"Nephrotic syndrome, deafness, pretibial epidermolysis bullosa syndrome",SNOMED,SM,FALSE
+36713436,717760006,Multi-drug resistant nephrotic syndrome,SNOMED,SM,FALSE
+36713440,717766000,Alport syndrome autosomal dominant,SNOMED,SM,FALSE
+36713441,717767009,Alport syndrome autosomal recessive,SNOMED,SM,FALSE
+36713442,717768004,Alport syndrome X-linked,SNOMED,SM,FALSE
+36715304,720854004,Cerebroretinal vasculopathy,SNOMED,SM,FALSE
+36715351,720982007,"Alport syndrome, intellectual disability, midface hypoplasia, elliptocytosis syndrome",SNOMED,SM,FALSE
+36715457,721141004,Hereditary vascular retinopathy,SNOMED,SM,FALSE
+36715483,721175003,Idiopathic glomerular disease,SNOMED,SM,FALSE
+36715581,721297008,Galloway Mowat syndrome,SNOMED,SM,FALSE
+36716176,722086002,Malignancy-associated membranous nephropathy,SNOMED,SM,FALSE
+36716199,722119002,Idiopathic membranous glomerulonephritis,SNOMED,SM,FALSE
+36716200,722120008,Drug-induced membranous nephropathy,SNOMED,SM,FALSE
+36716214,722139003,Focal segmental glomerulosclerosis caused by lithium,SNOMED,SM,FALSE
+36716221,722147003,Focal segmental glomerulosclerosis due to sickle cell disease,SNOMED,SM,FALSE
+36716231,722168002,Infection-associated membranous nephropathy,SNOMED,SM,FALSE
+36716430,722433005,Dyschondrosteosis and nephritis syndrome,SNOMED,SM,FALSE
+36716649,722758004,Complement component 3 glomerulopathy,SNOMED,SM,FALSE
+36716650,722759007,Glomerulopathy with fibronectin deposits 2,SNOMED,SM,FALSE
+36716651,722761003,Complement component 3 glomerulonephritis,SNOMED,SM,FALSE
+36717147,721142006,"Hereditary endotheliopathy, retinopathy, nephropathy, stroke syndrome",SNOMED,SM,FALSE
+36717210,722294004,Autosomal dominant intermediate Charcot-Marie-Tooth disease type E,SNOMED,SM,FALSE
+36717238,722948009,Glomerular disorder due to non-neuropathic heredofamilial amyloidosis,SNOMED,SM,FALSE
+36717532,722118005,Congenital nephrotic syndrome due to congenital infection,SNOMED,SM,FALSE
+36717553,722369003,Congenital nephrotic syndrome due to diffuse mesangial sclerosis,SNOMED,SM,FALSE
+36717583,722760002,Dense deposit disease,SNOMED,SM,FALSE
+37016279,308751000119106,Glomerular disease due to systemic lupus erythematosus,SNOMED,SM,FALSE
+37016359,368871000119106,Acute nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,SNOMED,SM,FALSE
+37016360,368881000119109,Rapidly progressive nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,SNOMED,SM,FALSE
+37016361,368901000119106,Chronic nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,SNOMED,SM,FALSE
+37016362,368911000119109,Nephrotic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,SNOMED,SM,FALSE
+37016363,368921000119102,Nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,SNOMED,SM,FALSE
+37016364,368931000119104,Isolated proteinuria co-occurrent and due to membranoproliferative glomerulonephritis type III,SNOMED,SM,FALSE
+37016365,368941000119108,Hereditary nephropathy co-occurrent with membranoproliferative glomerulonephritis type III,SNOMED,SM,FALSE
+37017424,713695001,Nephrotic syndrome co-occurrent with human immunodeficiency virus infection,SNOMED,SM,FALSE
+37017586,713887002,Focal segmental glomerulosclerosis co-occurrent with human immunodeficiency virus infection,SNOMED,SM,FALSE
+37018341,714813000,Recurrent hematuria co-occurrent and due to dense deposit disease,SNOMED,SM,FALSE
+37018342,714814006,Persistent hematuria co-occurrent and due to dense deposit disease,SNOMED,SM,FALSE
+37018343,714815007,Recurrent hematuria co-occurrent and due to diffuse crescentic glomerulonephritis,SNOMED,SM,FALSE
+37018344,714816008,Persistent hematuria co-occurrent and due to diffuse crescentic glomerulonephritis,SNOMED,SM,FALSE
+37018345,714817004,Recurrent hematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis,SNOMED,SM,FALSE
+37018634,85381000119105,Glomerulonephritis due to Henoch-Schönlein purpura,SNOMED,SM,FALSE
+37019162,714818009,Persistent hematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis,SNOMED,SM,FALSE
+37109615,723363009,"Hypotrichosis, lymphedema, telangiectasia, renal defect syndrome",SNOMED,SM,FALSE
+37109670,723449004,Pierson syndrome,SNOMED,SM,FALSE
+37109992,723995003,Schimke immuno-osseous dysplasia,SNOMED,SM,FALSE
+37111021,725592009,Congenital membranous nephropathy due to maternal anti-neutral endopeptidase alloimmunization,SNOMED,SM,FALSE
+37111358,726082003,Immunotactoid glomerulonephritis,SNOMED,SM,FALSE
+37111374,726106004,X-linked diffuse leiomyomatosis with Alport syndrome,SNOMED,SM,FALSE
+37116655,733453005,"Congenital nephrotic syndrome, interstitial lung disease, epidermolysis bullosa syndrome",SNOMED,SM,FALSE
+37118677,733472005,"Microcephalus, glomerulonephritis, marfanoid habitus syndrome",SNOMED,SM,FALSE
+37204491,783157004,Leigh syndrome with nephrotic syndrome,SNOMED,SM,FALSE
+37204730,783614008,Familial steroid-resistant nephrotic syndrome with sensorineural deafness,SNOMED,SM,FALSE
+37204863,783787000,Retinal vasculopathy with cerebral leukoencephalopathy and systemic manifestations,SNOMED,SM,FALSE
+37208344,1081801000112104,Acute nephrotic syndrome,SNOMED,SM,FALSE
+37311327,816069008,Glomerular fibrosis,SNOMED,SM,FALSE
+37311772,818952002,Fibronectin glomerulopathy,SNOMED,SM,FALSE
+37312293,788613004,Anti-glomerular basement membrane disease,SNOMED,SM,FALSE
+37395432,1047001000000105,C3 (complement component 3) glomerulonephritis,SNOMED,SM,FALSE
+37395433,1047011000000107,Dense deposit disease,SNOMED,SM,FALSE
+37395434,1047031000000104,Glomerulopathy with fibronectin deposits 2,SNOMED,SM,FALSE
+37395585,295111000119108,Nephrotic syndrome co-occurrent and due to systemic lupus erythematosus,SNOMED,SM,FALSE
+37397147,717191005,Sporadic idiopathic steroid-resistant nephrotic syndrome,SNOMED,SM,FALSE
+37397492,718141008,Familial idiopathic steroid-resistant nephrotic syndrome,SNOMED,SM,FALSE
+37397533,718192000,Non-amyloid fibrillary glomerulonephritis,SNOMED,SM,FALSE
+37397763,89681000119101,Glomerulonephritis co-occurrent and due to scleroderma,SNOMED,SM,FALSE
+37398898,1046991000000104,C3 (complement component 3) glomerulopathy,SNOMED,SM,FALSE
+40317614,155850003,(Acute glomerulonephritis) or (acute nephritis),SNOMED,SM,FALSE
+40317616,155851004,Nephrotic syndrome,SNOMED,SM,FALSE
+40317617,155852006,(Chronic glomerulonephritis) or (nephritis - chronic),SNOMED,SM,FALSE
+40322426,156978006,Alport's syndrome,SNOMED,SM,FALSE
+40346986,266614002,(Chronic glomerulonephritis) or (nephritis - chronic),SNOMED,SM,FALSE
+40393241,195351002,Goodpasture's syndrome,SNOMED,SM,FALSE
+40394719,197592009,Nephrotic syndrome (& [minimal change glomerulonephritis] or [steroid sensitive]),SNOMED,SM,FALSE
+40395089,197608009,(Nephrotic syndrome in systemic lupus erythematosus) or (lupus nephritis),SNOMED,SM,FALSE
+40395094,197612003,Chronic nephropathy (& [glomerulonephritis] or [nephritis]),SNOMED,SM,FALSE
+40395113,197630005,Alport's syndrome,SNOMED,SM,FALSE
+40395557,197710000,Membranous glomerulonephritis,SNOMED,SM,FALSE
+40395559,197711001,Chronic mesangial proliferative glomerulonephritis,SNOMED,SM,FALSE
+40398673,198489009,Glomerular disease,SNOMED,SM,FALSE
+40402857,205827004,Alport's syndrome,SNOMED,SM,FALSE
+40431329,232691000,Proteinuria syndrome,SNOMED,SM,FALSE
+40480859,441815006,Proliferative glomerulonephritis,SNOMED,SM,FALSE
+40481596,444977005,Autosomal dominant focal segmental glomerulosclerosis,SNOMED,SM,FALSE
+40482087,445119005,Steroid sensitive nephrotic syndrome of childhood,SNOMED,SM,FALSE
+40482458,445170001,Macroalbuminuric nephropathy due to diabetes mellitus,SNOMED,SM,FALSE
+40483353,445388002,Autosomal recessive focal segmental glomerulosclerosis,SNOMED,SM,FALSE
+40483372,445404003,Familial immunoglobulin A nephropathy,SNOMED,SM,FALSE
+40490326,446923008,Lipoprotein glomerulopathy,SNOMED,SM,FALSE
+40575584,401087005,Diabetes mellitus with persistent microalbuminuria,SNOMED,SM,FALSE
+40575585,401088000,Diabetes mellitus with persistent proteinuria,SNOMED,SM,FALSE
+40575609,401109007,Type 1 diabetes mellitus with persistent proteinuria,SNOMED,SM,FALSE
+40575612,401111003,Type 2 diabetes mellitus with persistent proteinuria,SNOMED,SM,FALSE
+40575613,401112005,Type 2 diabetes mellitus with persistent microalbuminuria,SNOMED,SM,FALSE
+40609709,57333009,Hereditary nephritis,SNOMED,SM,FALSE
+40612660,60009009,Diabetic intracapillary glomerulosclerosis,SNOMED,SM,FALSE
+40640572,8756002,"Idiopathic crescentic glomerulonephritis, type II",SNOMED,SM,FALSE
+42539197,101711000119105,Glomerulonephritis co-occurrent and due to antineutrophil cytoplasmic antibody positive vasculitis,SNOMED,SM,FALSE
+42709948,449820008,Steroid resistant nephrotic syndrome of childhood,SNOMED,SM,FALSE
+44793957,390061000000101,[X]Glomerular disorders in other diseases classified elsewhere,SNOMED,SM,FALSE
+44793980,390341000000104,"[X]Unspecified nephritic syndrome, minor glomerular abnormality",SNOMED,SM,FALSE
+44794644,397381000000106,[X]Glomerular disorders in blood diseases and disorders involving the immune mechanism classified elsewhere,SNOMED,SM,FALSE
+44794720,396541000000106,"[X]Unspecified nephritic syndrome, diffuse concentric glomerulonephritis",SNOMED,SM,FALSE
+44797001,425621000000107,"[X]Hereditary nephropathy, unspecified morphological changes",SNOMED,SM,FALSE
+44797717,438031000000105,"[X]Unspecified nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",SNOMED,SM,FALSE
+44797996,438531000000104,"[X]Glomerular disorders in other endocrine, nutritional and metabolic diseases classified elsewhere",SNOMED,SM,FALSE
+44799971,450561000000105,"[X]Unspecified nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",SNOMED,SM,FALSE
+44800557,478341000000100,[X]Glomerular disorders in systemic disorders of connective tissue classified elsewhere,SNOMED,SM,FALSE
+44800659,478571000000104,"[X]Rapidly progressive nephritic syndrome, other",SNOMED,SM,FALSE
+44801353,462181000000102,"[X]Unspecified nephritic syndrome, dense deposit disease",SNOMED,SM,FALSE
+44801473,462741000000106,[X]Glomerular disorders in infectious and parasitic diseases classified elsewhere,SNOMED,SM,FALSE
+44801581,463051000000103,[X]Glomerular disorders in neoplastic diseases classified elsewhere,SNOMED,SM,FALSE
+44803617,729911000000103,Childhood nephrotic syndrome,SNOMED,SM,FALSE
+44812687,425611000000101,"[X]Isolated proteinuria, with other specified morphological changes",SNOMED,SM,FALSE
+44812736,425911000000109,[X]Glomerular disorders in diabetes mellitus,SNOMED,SM,FALSE
+44819813,581.2,Nephrotic syndrome with lesion of membranoproliferative glomerulonephritis,ICD9CM,09,FALSE
+44819813,5812,Nephrotic syndrome with lesion of membranoproliferative glomerulonephritis,ICD9CM,09,TRUE
+44819814,583.6,"Nephritis and nephropathy, not specified as acute or chronic, with lesion of renal cortical necrosis",ICD9CM,09,FALSE
+44819814,5836,"Nephritis and nephropathy, not specified as acute or chronic, with lesion of renal cortical necrosis",ICD9CM,09,TRUE
+44820965,580.9,Acute glomerulonephritis with unspecified pathological lesion in kidney,ICD9CM,09,FALSE
+44820965,5809,Acute glomerulonephritis with unspecified pathological lesion in kidney,ICD9CM,09,TRUE
+44820966,581,Nephrotic syndrome,ICD9CM,09,FALSE
+44820967,581.8,Nephrotic syndrome with other specified pathological lesion in kidney,ICD9CM,09,FALSE
+44820967,5818,Nephrotic syndrome with other specified pathological lesion in kidney,ICD9CM,09,TRUE
+44820968,581.89,Nephrotic syndrome with other specified pathological lesion in kidney,ICD9CM,09,FALSE
+44820968,58189,Nephrotic syndrome with other specified pathological lesion in kidney,ICD9CM,09,TRUE
+44823191,583,"Nephritis and nephropathy, not specified as acute or chronic",ICD9CM,09,FALSE
+44824339,580.89,Acute glomerulonephritis with other specified pathological lesion in kidney,ICD9CM,09,FALSE
+44824339,58089,Acute glomerulonephritis with other specified pathological lesion in kidney,ICD9CM,09,TRUE
+44824340,582.8,Chronic glomerulonephritis with other specified pathological lesion in kidney,ICD9CM,09,FALSE
+44824340,5828,Chronic glomerulonephritis with other specified pathological lesion in kidney,ICD9CM,09,TRUE
+44824341,583.1,"Nephritis and nephropathy, not specified as acute or chronic, with lesion of membranous glomerulonephritis",ICD9CM,09,FALSE
+44824341,5831,"Nephritis and nephropathy, not specified as acute or chronic, with lesion of membranous glomerulonephritis",ICD9CM,09,TRUE
+44825537,580.8,Acute glomerulonephritis with other specified pathological lesion in kidney,ICD9CM,09,FALSE
+44825537,5808,Acute glomerulonephritis with other specified pathological lesion in kidney,ICD9CM,09,TRUE
+44825538,582,Chronic glomerulonephritis,ICD9CM,09,FALSE
+44825539,582.1,Chronic glomerulonephritis with lesion of membranous glomerulonephritis,ICD9CM,09,FALSE
+44825539,5821,Chronic glomerulonephritis with lesion of membranous glomerulonephritis,ICD9CM,09,TRUE
+44825540,583.9,"Nephritis and nephropathy, not specified as acute or chronic, with unspecified pathological lesion in kidney",ICD9CM,09,FALSE
+44825540,5839,"Nephritis and nephropathy, not specified as acute or chronic, with unspecified pathological lesion in kidney",ICD9CM,09,TRUE
+44826730,583.81,"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere",ICD9CM,09,FALSE
+44826730,58381,"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere",ICD9CM,09,TRUE
+44827887,583.0,"Nephritis and nephropathy, not specified as acute or chronic, with lesion of proliferative glomerulonephritis",ICD9CM,09,FALSE
+44827887,5830,"Nephritis and nephropathy, not specified as acute or chronic, with lesion of proliferative glomerulonephritis",ICD9CM,09,TRUE
+44829058,580.0,Acute glomerulonephritis with lesion of proliferative glomerulonephritis,ICD9CM,09,FALSE
+44829058,5800,Acute glomerulonephritis with lesion of proliferative glomerulonephritis,ICD9CM,09,TRUE
+44829059,581.81,Nephrotic syndrome in diseases classified elsewhere,ICD9CM,09,FALSE
+44829059,58181,Nephrotic syndrome in diseases classified elsewhere,ICD9CM,09,TRUE
+44829060,581.9,Nephrotic syndrome with unspecified pathological lesion in kidney,ICD9CM,09,FALSE
+44829060,5819,Nephrotic syndrome with unspecified pathological lesion in kidney,ICD9CM,09,TRUE
+44829061,583.8,"Nephritis and nephropathy, not specified as acute or chronic, with other specified pathological lesion in kidney",ICD9CM,09,FALSE
+44829061,5838,"Nephritis and nephropathy, not specified as acute or chronic, with other specified pathological lesion in kidney",ICD9CM,09,TRUE
+44830097,446.21,Goodpasture's syndrome,ICD9CM,09,FALSE
+44830097,44621,Goodpasture's syndrome,ICD9CM,09,TRUE
+44830171,580.81,Acute glomerulonephritis in diseases classified elsewhere,ICD9CM,09,FALSE
+44830171,58081,Acute glomerulonephritis in diseases classified elsewhere,ICD9CM,09,TRUE
+44831323,580.4,Acute glomerulonephritis with lesion of rapidly progressive glomerulonephritis,ICD9CM,09,FALSE
+44831323,5804,Acute glomerulonephritis with lesion of rapidly progressive glomerulonephritis,ICD9CM,09,TRUE
+44831324,581.1,Nephrotic syndrome with lesion of membranous glomerulonephritis,ICD9CM,09,FALSE
+44831324,5811,Nephrotic syndrome with lesion of membranous glomerulonephritis,ICD9CM,09,TRUE
+44831325,582.0,Chronic glomerulonephritis with lesion of proliferative glomerulonephritis,ICD9CM,09,FALSE
+44831325,5820,Chronic glomerulonephritis with lesion of proliferative glomerulonephritis,ICD9CM,09,TRUE
+44831326,582.4,Chronic glomerulonephritis with lesion of rapidly progressive glomerulonephritis,ICD9CM,09,FALSE
+44831326,5824,Chronic glomerulonephritis with lesion of rapidly progressive glomerulonephritis,ICD9CM,09,TRUE
+44831327,582.89,Chronic glomerulonephritis with other specified pathological lesion in kidney,ICD9CM,09,FALSE
+44831327,58289,Chronic glomerulonephritis with other specified pathological lesion in kidney,ICD9CM,09,TRUE
+44831328,583.7,"Nephritis and nephropathy, not specified as acute or chronic, with lesion of renal medullary necrosis",ICD9CM,09,FALSE
+44831328,5837,"Nephritis and nephropathy, not specified as acute or chronic, with lesion of renal medullary necrosis",ICD9CM,09,TRUE
+44833656,581.3,Nephrotic syndrome with lesion of minimal change glomerulonephritis,ICD9CM,09,FALSE
+44833656,5813,Nephrotic syndrome with lesion of minimal change glomerulonephritis,ICD9CM,09,TRUE
+44833657,583.89,"Nephritis and nephropathy, not specified as acute or chronic, with other specified pathological lesion in kidney",ICD9CM,09,FALSE
+44833657,58389,"Nephritis and nephropathy, not specified as acute or chronic, with other specified pathological lesion in kidney",ICD9CM,09,TRUE
+44834829,580,Acute glomerulonephritis,ICD9CM,09,FALSE
+44834830,583.2,"Nephritis and nephropathy, not specified as acute or chronic, with lesion of membranoproliferative glomerulonephritis",ICD9CM,09,FALSE
+44834830,5832,"Nephritis and nephropathy, not specified as acute or chronic, with lesion of membranoproliferative glomerulonephritis",ICD9CM,09,TRUE
+44836033,581.0,Nephrotic syndrome with lesion of proliferative glomerulonephritis,ICD9CM,09,FALSE
+44836033,5810,Nephrotic syndrome with lesion of proliferative glomerulonephritis,ICD9CM,09,TRUE
+44836034,583.4,"Nephritis and nephropathy, not specified as acute or chronic, with lesion of rapidly progressive glomerulonephritis",ICD9CM,09,FALSE
+44836034,5834,"Nephritis and nephropathy, not specified as acute or chronic, with lesion of rapidly progressive glomerulonephritis",ICD9CM,09,TRUE
+44837186,582.2,Chronic glomerulonephritis with lesion of membranoproliferative glomerulonephritis,ICD9CM,09,FALSE
+44837186,5822,Chronic glomerulonephritis with lesion of membranoproliferative glomerulonephritis,ICD9CM,09,TRUE
+44837187,582.81,Chronic glomerulonephritis in diseases classified elsewhere,ICD9CM,09,FALSE
+44837187,58281,Chronic glomerulonephritis in diseases classified elsewhere,ICD9CM,09,TRUE
+44837188,582.9,Chronic glomerulonephritis with unspecified pathological lesion in kidney,ICD9CM,09,FALSE
+44837188,5829,Chronic glomerulonephritis with unspecified pathological lesion in kidney,ICD9CM,09,TRUE
+45534114,N00.0,"Acute nephritic syndrome, Minor glomerular abnormality",ICD10,10,FALSE
+45534114,N000,"Acute nephritic syndrome, Minor glomerular abnormality",ICD10,10,TRUE
+45534115,N02.0,"Recurrent and persistent haematuria, minor glomerular abnormality",ICD10,10,FALSE
+45534115,N020,"Recurrent and persistent haematuria, minor glomerular abnormality",ICD10,10,TRUE
+45534116,N02.2,"Recurrent and persistent haematuria, diffuse membranous glomerulonephritis",ICD10,10,FALSE
+45534116,N022,"Recurrent and persistent haematuria, diffuse membranous glomerulonephritis",ICD10,10,TRUE
+45534117,N02.6,"Recurrent and persistent haematuria, dense deposit disease",ICD10,10,FALSE
+45534117,N026,"Recurrent and persistent haematuria, dense deposit disease",ICD10,10,TRUE
+45534118,N03.3,"Chronic nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",ICD10,10,FALSE
+45534118,N033,"Chronic nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",ICD10,10,TRUE
+45534119,N03.7,"Chronic nephritic syndrome, diffuse crescentic glomerulonephritis",ICD10,10,FALSE
+45534119,N037,"Chronic nephritic syndrome, diffuse crescentic glomerulonephritis",ICD10,10,TRUE
+45534120,N04.8,"Nephrotic syndrome, other",ICD10,10,FALSE
+45534120,N048,"Nephrotic syndrome, other",ICD10,10,TRUE
+45539024,N01.6,"Rapidly progressive nephritic syndrome, dense deposit disease",ICD10,10,FALSE
+45539024,N016,"Rapidly progressive nephritic syndrome, dense deposit disease",ICD10,10,TRUE
+45539025,N03.0,"Chronic nephritic syndrome, minor glomerular abnormality",ICD10,10,FALSE
+45539025,N030,"Chronic nephritic syndrome, minor glomerular abnormality",ICD10,10,TRUE
+45539026,N05.5,"Unspecified nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",ICD10,10,FALSE
+45539026,N055,"Unspecified nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",ICD10,10,TRUE
+45539027,N06.1,"Isolated proteinuria with specified morphological lesion, focal and segmental glomerular lesions",ICD10,10,FALSE
+45539027,N061,"Isolated proteinuria with specified morphological lesion, focal and segmental glomerular lesions",ICD10,10,TRUE
+45539028,N08.0,Glomerular disorders in infectious and parasitic diseases classified elsewhere,ICD10,10,FALSE
+45539028,N080,Glomerular disorders in infectious and parasitic diseases classified elsewhere,ICD10,10,TRUE
+45539029,N08.2,Glomerular disorders in blood diseases and disorders involving the immune mechanism,ICD10,10,FALSE
+45539029,N082,Glomerular disorders in blood diseases and disorders involving the immune mechanism,ICD10,10,TRUE
+45543847,N00,Acute nephritic syndrome,ICD10,10,FALSE
+45543848,N00.3,"Acute nephritic syndrome, Diffuse mesangial proliferative glomerulonephritis",ICD10,10,FALSE
+45543848,N003,"Acute nephritic syndrome, Diffuse mesangial proliferative glomerulonephritis",ICD10,10,TRUE
+45543849,N01.7,"Rapidly progressive nephritic syndrome, diffuse crescentic glomerulonephritis",ICD10,10,FALSE
+45543849,N017,"Rapidly progressive nephritic syndrome, diffuse crescentic glomerulonephritis",ICD10,10,TRUE
+45543850,N03.1,"Chronic nephritic syndrome, focal and segmental glomerular lesions",ICD10,10,FALSE
+45543850,N031,"Chronic nephritic syndrome, focal and segmental glomerular lesions",ICD10,10,TRUE
+45543851,N04,Nephrotic syndrome,ICD10,10,FALSE
+45543852,N04.2,"Nephrotic syndrome, diffuse membranous glomerulonephritis",ICD10,10,FALSE
+45543852,N042,"Nephrotic syndrome, diffuse membranous glomerulonephritis",ICD10,10,TRUE
+45543853,N05.8,"Unspecified nephritic syndrome, other",ICD10,10,FALSE
+45543853,N058,"Unspecified nephritic syndrome, other",ICD10,10,TRUE
+45543854,N06.5,"Isolated proteinuria with specified morphological lesion, diffuse mesangiocapillary glomerulonephritis",ICD10,10,FALSE
+45543854,N065,"Isolated proteinuria with specified morphological lesion, diffuse mesangiocapillary glomerulonephritis",ICD10,10,TRUE
+45543855,N07.2,"Hereditary nephropathy, not elsewhere classified, diffuse membranous glomerulonephritis",ICD10,10,FALSE
+45543855,N072,"Hereditary nephropathy, not elsewhere classified, diffuse membranous glomerulonephritis",ICD10,10,TRUE
+45548641,N00.4,"Acute nephritic syndrome, Diffuse endocapillary proliferative glomerulonephritis",ICD10,10,FALSE
+45548641,N004,"Acute nephritic syndrome, Diffuse endocapillary proliferative glomerulonephritis",ICD10,10,TRUE
+45548642,N03.2,"Chronic nephritic syndrome, diffuse membranous glomerulonephritis",ICD10,10,FALSE
+45548642,N032,"Chronic nephritic syndrome, diffuse membranous glomerulonephritis",ICD10,10,TRUE
+45548643,N06.2,"Isolated proteinuria with specified morphological lesion, diffuse membranous glomerulonephritis",ICD10,10,FALSE
+45548643,N062,"Isolated proteinuria with specified morphological lesion, diffuse membranous glomerulonephritis",ICD10,10,TRUE
+45548644,N07.6,"Hereditary nephropathy, not elsewhere classified, dense deposit disease",ICD10,10,FALSE
+45548644,N076,"Hereditary nephropathy, not elsewhere classified, dense deposit disease",ICD10,10,TRUE
+45548645,N07.7,"Hereditary nephropathy, not elsewhere classified, diffuse crescentic glomerulonephritis",ICD10,10,FALSE
+45548645,N077,"Hereditary nephropathy, not elsewhere classified, diffuse crescentic glomerulonephritis",ICD10,10,TRUE
+45548646,N07.9,"Hereditary nephropathy, not elsewhere classified, unspecified",ICD10,10,FALSE
+45548646,N079,"Hereditary nephropathy, not elsewhere classified, unspecified",ICD10,10,TRUE
+45548936,Q87.81,Alport syndrome,ICD10CM,10,FALSE
+45548936,Q8781,Alport syndrome,ICD10CM,10,TRUE
+45553428,N01.1,"Rapidly progressive nephritic syndrome, focal and segmental glomerular lesions",ICD10,10,FALSE
+45553428,N011,"Rapidly progressive nephritic syndrome, focal and segmental glomerular lesions",ICD10,10,TRUE
+45553429,N04.7,"Nephrotic syndrome, diffuse crescentic glomerulonephritis",ICD10,10,FALSE
+45553429,N047,"Nephrotic syndrome, diffuse crescentic glomerulonephritis",ICD10,10,TRUE
+45553430,N06.8,"Isolated proteinuria with specified morphological lesion, other",ICD10,10,FALSE
+45553430,N068,"Isolated proteinuria with specified morphological lesion, other",ICD10,10,TRUE
+45553431,N07,"Hereditary nephropathy, not elsewhere classified",ICD10,10,FALSE
+45558132,N00.9,"Acute nephritic syndrome, Unspecified",ICD10,10,FALSE
+45558132,N009,"Acute nephritic syndrome, Unspecified",ICD10,10,TRUE
+45558133,N04.3,"Nephrotic syndrome, diffuse mesangial proliferative glomerulonephritis",ICD10,10,FALSE
+45558133,N043,"Nephrotic syndrome, diffuse mesangial proliferative glomerulonephritis",ICD10,10,TRUE
+45558134,N04.5,"Nephrotic syndrome, diffuse mesangiocapillary glomerulonephritis",ICD10,10,FALSE
+45558134,N045,"Nephrotic syndrome, diffuse mesangiocapillary glomerulonephritis",ICD10,10,TRUE
+45558135,N08.4,"Glomerular disorders in other endocrine, nutritional and metabolic diseases",ICD10,10,FALSE
+45558135,N084,"Glomerular disorders in other endocrine, nutritional and metabolic diseases",ICD10,10,TRUE
+45562709,M32.14,Glomerular disease in systemic lupus erythematosus,ICD10CM,10,FALSE
+45562709,M3214,Glomerular disease in systemic lupus erythematosus,ICD10CM,10,TRUE
+45562998,N01.0,"Rapidly progressive nephritic syndrome, minor glomerular abnormality",ICD10,10,FALSE
+45562998,N010,"Rapidly progressive nephritic syndrome, minor glomerular abnormality",ICD10,10,TRUE
+45562999,N04.9,"Nephrotic syndrome, unspecified",ICD10,10,FALSE
+45562999,N049,"Nephrotic syndrome, unspecified",ICD10,10,TRUE
+45563000,N05.4,"Unspecified nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",ICD10,10,FALSE
+45563000,N054,"Unspecified nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",ICD10,10,TRUE
+45563001,N05.6,"Unspecified nephritic syndrome, dense deposit disease",ICD10,10,FALSE
+45563001,N056,"Unspecified nephritic syndrome, dense deposit disease",ICD10,10,TRUE
+45563002,N07.4,"Hereditary nephropathy, not elsewhere classified, diffuse endocapillary proliferative glomerulonephritis",ICD10,10,FALSE
+45563002,N074,"Hereditary nephropathy, not elsewhere classified, diffuse endocapillary proliferative glomerulonephritis",ICD10,10,TRUE
+45563003,N07.5,"Hereditary nephropathy, not elsewhere classified, diffuse mesangiocapillary glomerulonephritis",ICD10,10,FALSE
+45563003,N075,"Hereditary nephropathy, not elsewhere classified, diffuse mesangiocapillary glomerulonephritis",ICD10,10,TRUE
+45567819,N03.8,"Chronic nephritic syndrome, other",ICD10,10,FALSE
+45567819,N038,"Chronic nephritic syndrome, other",ICD10,10,TRUE
+45567820,N05,Unspecified nephritic syndrome,ICD10,10,FALSE
+45567821,N06,Isolated proteinuria with specified morphological lesion,ICD10,10,FALSE
+45567822,N08.5,Glomerular disorders in systemic connective tissue disorders,ICD10,10,FALSE
+45567822,N085,Glomerular disorders in systemic connective tissue disorders,ICD10,10,TRUE
+45567823,N08.8,Glomerular disorders in other diseases classified elsewhere,ICD10,10,FALSE
+45567823,N088,Glomerular disorders in other diseases classified elsewhere,ICD10,10,TRUE
+45572690,N00.5,"Acute nephritic syndrome, Diffuse mesangiocapillary glomerulonephritis",ICD10,10,FALSE
+45572690,N005,"Acute nephritic syndrome, Diffuse mesangiocapillary glomerulonephritis",ICD10,10,TRUE
+45572691,N00.8,"Acute nephritic syndrome, Other",ICD10,10,FALSE
+45572691,N008,"Acute nephritic syndrome, Other",ICD10,10,TRUE
+45572692,N01.9,"Rapidly progressive nephritic syndrome, unspecified",ICD10,10,FALSE
+45572692,N019,"Rapidly progressive nephritic syndrome, unspecified",ICD10,10,TRUE
+45572693,N02.8,"Recurrent and persistent haematuria, other",ICD10,10,FALSE
+45572693,N028,"Recurrent and persistent haematuria, other",ICD10,10,TRUE
+45572694,N05.3,"Unspecified nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",ICD10,10,FALSE
+45572694,N053,"Unspecified nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",ICD10,10,TRUE
+45572695,N06.9,"Isolated proteinuria with specified morphological lesion, unspecified",ICD10,10,FALSE
+45572695,N069,"Isolated proteinuria with specified morphological lesion, unspecified",ICD10,10,TRUE
+45572696,N07.3,"Hereditary nephropathy, not elsewhere classified, diffuse mesangial proliferative glomerulonephritis",ICD10,10,FALSE
+45572696,N073,"Hereditary nephropathy, not elsewhere classified, diffuse mesangial proliferative glomerulonephritis",ICD10,10,TRUE
+45572697,N07.8,"Hereditary nephropathy, not elsewhere classified, other",ICD10,10,FALSE
+45572697,N078,"Hereditary nephropathy, not elsewhere classified, other",ICD10,10,TRUE
+45572698,N08.1,Glomerular disorders in neoplastic diseases,ICD10,10,FALSE
+45572698,N081,Glomerular disorders in neoplastic diseases,ICD10,10,TRUE
+45577507,N00.7,"Acute nephritic syndrome, Diffuse crescentic glomerulonephritis",ICD10,10,FALSE
+45577507,N007,"Acute nephritic syndrome, Diffuse crescentic glomerulonephritis",ICD10,10,TRUE
+45577508,N01.5,"Rapidly progressive nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",ICD10,10,FALSE
+45577508,N015,"Rapidly progressive nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",ICD10,10,TRUE
+45577509,N03,Chronic nephritic syndrome,ICD10,10,FALSE
+45577510,N04.0,"Nephrotic syndrome, minor glomerular abnormality",ICD10,10,FALSE
+45577510,N040,"Nephrotic syndrome, minor glomerular abnormality",ICD10,10,TRUE
+45577511,N04.6,"Nephrotic syndrome, dense deposit disease",ICD10,10,FALSE
+45577511,N046,"Nephrotic syndrome, dense deposit disease",ICD10,10,TRUE
+45577512,N06.4,"Isolated proteinuria with specified morphological lesion, diffuse endocapillary proliferative glomerulonephritis",ICD10,10,FALSE
+45577512,N064,"Isolated proteinuria with specified morphological lesion, diffuse endocapillary proliferative glomerulonephritis",ICD10,10,TRUE
+45577513,N07.0,"Hereditary nephropathy, not elsewhere classified, minor glomerular abnormality",ICD10,10,FALSE
+45577513,N070,"Hereditary nephropathy, not elsewhere classified, minor glomerular abnormality",ICD10,10,TRUE
+45577514,N07.1,"Hereditary nephropathy, not elsewhere classified, focal and segmental glomerular lesions",ICD10,10,FALSE
+45577514,N071,"Hereditary nephropathy, not elsewhere classified, focal and segmental glomerular lesions",ICD10,10,TRUE
+45582386,N00.6,"Acute nephritic syndrome, Dense deposit disease",ICD10,10,FALSE
+45582386,N006,"Acute nephritic syndrome, Dense deposit disease",ICD10,10,TRUE
+45582387,N01.4,"Rapidly progressive nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",ICD10,10,FALSE
+45582387,N014,"Rapidly progressive nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",ICD10,10,TRUE
+45582388,N03.4,"Chronic nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",ICD10,10,FALSE
+45582388,N034,"Chronic nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",ICD10,10,TRUE
+45582389,N03.5,"Chronic nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",ICD10,10,FALSE
+45582389,N035,"Chronic nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",ICD10,10,TRUE
+45587233,N01.8,"Rapidly progressive nephritic syndrome, other",ICD10,10,FALSE
+45587233,N018,"Rapidly progressive nephritic syndrome, other",ICD10,10,TRUE
+45587234,N03.6,"Chronic nephritic syndrome, dense deposit disease",ICD10,10,FALSE
+45587234,N036,"Chronic nephritic syndrome, dense deposit disease",ICD10,10,TRUE
+45587235,N05.1,"Unspecified nephritic syndrome, focal and segmental glomerular lesions",ICD10,10,FALSE
+45587235,N051,"Unspecified nephritic syndrome, focal and segmental glomerular lesions",ICD10,10,TRUE
+45592119,N01,Rapidly progressive nephritic syndrome,ICD10,10,FALSE
+45592120,N04.1,"Nephrotic syndrome, focal and segmental glomerular lesions",ICD10,10,FALSE
+45592120,N041,"Nephrotic syndrome, focal and segmental glomerular lesions",ICD10,10,TRUE
+45592121,N05.0,"Unspecified nephritic syndrome, minor glomerular abnormality",ICD10,10,FALSE
+45592121,N050,"Unspecified nephritic syndrome, minor glomerular abnormality",ICD10,10,TRUE
+45592122,N05.2,"Unspecified nephritic syndrome, diffuse membranous glomerulonephritis",ICD10,10,FALSE
+45592122,N052,"Unspecified nephritic syndrome, diffuse membranous glomerulonephritis",ICD10,10,TRUE
+45592123,N08,Glomerular disorders in diseases classified elsewhere,ICD10,10,FALSE
+45592124,N08.3,Glomerular disorders in diabetes mellitus,ICD10,10,FALSE
+45592124,N083,Glomerular disorders in diabetes mellitus,ICD10,10,TRUE
+45596846,N01.3,"Rapidly progressive nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",ICD10,10,FALSE
+45596846,N013,"Rapidly progressive nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",ICD10,10,TRUE
+45596847,N02,Recurrent and persistent haematuria,ICD10,10,FALSE
+45596848,N02.4,"Recurrent and persistent haematuria, diffuse endocapillary proliferative glomerulonephritis",ICD10,10,FALSE
+45596848,N024,"Recurrent and persistent haematuria, diffuse endocapillary proliferative glomerulonephritis",ICD10,10,TRUE
+45596849,N02.5,"Recurrent and persistent haematuria, diffuse mesangiocapillary glomerulonephritis",ICD10,10,FALSE
+45596849,N025,"Recurrent and persistent haematuria, diffuse mesangiocapillary glomerulonephritis",ICD10,10,TRUE
+45596850,N03.9,"Chronic nephritic syndrome, unspecified",ICD10,10,FALSE
+45596850,N039,"Chronic nephritic syndrome, unspecified",ICD10,10,TRUE
+45596851,N04.4,"Nephrotic syndrome, diffuse endocapillary proliferative glomerulonephritis",ICD10,10,FALSE
+45596851,N044,"Nephrotic syndrome, diffuse endocapillary proliferative glomerulonephritis",ICD10,10,TRUE
+45596852,N05.7,"Unspecified nephritic syndrome, diffuse crescentic glomerulonephritis",ICD10,10,FALSE
+45596852,N057,"Unspecified nephritic syndrome, diffuse crescentic glomerulonephritis",ICD10,10,TRUE
+45596853,N05.9,"Unspecified nephritic syndrome, unspecified",ICD10,10,FALSE
+45596853,N059,"Unspecified nephritic syndrome, unspecified",ICD10,10,TRUE
+45596854,N06.6,"Isolated proteinuria with specified morphological lesion, dense deposit disease",ICD10,10,FALSE
+45596854,N066,"Isolated proteinuria with specified morphological lesion, dense deposit disease",ICD10,10,TRUE
+45601712,N00.2,"Acute nephritic syndrome, Diffuse membranous glomerulonephritis",ICD10,10,FALSE
+45601712,N002,"Acute nephritic syndrome, Diffuse membranous glomerulonephritis",ICD10,10,TRUE
+45601713,N02.1,"Recurrent and persistent haematuria, focal and segmental glomerular lesions",ICD10,10,FALSE
+45601713,N021,"Recurrent and persistent haematuria, focal and segmental glomerular lesions",ICD10,10,TRUE
+45601714,N02.9,"Recurrent and persistent haematuria, unspecified",ICD10,10,FALSE
+45601714,N029,"Recurrent and persistent haematuria, unspecified",ICD10,10,TRUE
+45601715,N06.3,"Isolated proteinuria with specified morphological lesion, diffuse mesangial proliferative glomerulonephritis",ICD10,10,FALSE
+45601715,N063,"Isolated proteinuria with specified morphological lesion, diffuse mesangial proliferative glomerulonephritis",ICD10,10,TRUE
+45601716,N06.7,"Isolated proteinuria with specified morphological lesion, diffuse crescentic glomerulonephritis",ICD10,10,FALSE
+45601716,N067,"Isolated proteinuria with specified morphological lesion, diffuse crescentic glomerulonephritis",ICD10,10,TRUE
+45606476,N00.1,"Acute nephritic syndrome, Focal and segmental glomerular lesions",ICD10,10,FALSE
+45606476,N001,"Acute nephritic syndrome, Focal and segmental glomerular lesions",ICD10,10,TRUE
+45606477,N01.2,"Rapidly progressive nephritic syndrome, diffuse membranous glomerulonephritis",ICD10,10,FALSE
+45606477,N012,"Rapidly progressive nephritic syndrome, diffuse membranous glomerulonephritis",ICD10,10,TRUE
+45606478,N02.3,"Recurrent and persistent haematuria, diffuse mesangial proliferative glomerulonephritis",ICD10,10,FALSE
+45606478,N023,"Recurrent and persistent haematuria, diffuse mesangial proliferative glomerulonephritis",ICD10,10,TRUE
+45606479,N02.7,"Recurrent and persistent haematuria, diffuse crescentic glomerulonephritis",ICD10,10,FALSE
+45606479,N027,"Recurrent and persistent haematuria, diffuse crescentic glomerulonephritis",ICD10,10,TRUE
+45606480,N06.0,"Isolated proteinuria with specified morphological lesion, minor glomerular abnormality",ICD10,10,FALSE
+45606480,N060,"Isolated proteinuria with specified morphological lesion, minor glomerular abnormality",ICD10,10,TRUE
+45757360,120241000119100,Glomerulonephritis due to hepatitis C,SNOMED,SM,FALSE
+45757499,157141000119108,Proteinuria due to type 2 diabetes mellitus,SNOMED,SM,FALSE
+45757535,18521000119106,Microalbuminuria due to type 1 diabetes mellitus,SNOMED,SM,FALSE
+45757604,243421000119104,Proteinuria due to type 1 diabetes mellitus,SNOMED,SM,FALSE
+45757745,367511000119101,"Hereditary mesangiocapillary glomerulonephritis, type 2",SNOMED,SM,FALSE
+45757746,367521000119108,Hereditary diffuse crescentic glomerulonephritis,SNOMED,SM,FALSE
+45757747,367541000119102,Hereditary diffuse membranous glomerulonephritis,SNOMED,SM,FALSE
+45757748,367551000119100,Hereditary diffuse mesangial proliferative glomerulonephritis,SNOMED,SM,FALSE
+45757749,367561000119103,Hereditary diffuse mesangiocapillary glomerulonephritis,SNOMED,SM,FALSE
+45757750,367571000119109,Hereditary focal and segmental glomerular lesions,SNOMED,SM,FALSE
+45757751,367581000119107,Hereditary minor glomerular abnormality,SNOMED,SM,FALSE
+45768820,707332000,Recurrent proliferative glomerulonephritis,SNOMED,SM,FALSE
+45769160,707751009,Juxtaglomerular hyperplasia co-occurrent with secondary hyperaldosteronism,SNOMED,SM,FALSE
+45769466,708127008,Collagenofibrotic glomerulopathy,SNOMED,SM,FALSE
+45769828,71441000119104,Nephrotic syndrome due to type 2 diabetes mellitus,SNOMED,SM,FALSE
+45769829,71721000119101,Nephrotic syndrome due to type 1 diabetes mellitus,SNOMED,SM,FALSE
+45769905,90781000119102,Microalbuminuria due to type 2 diabetes mellitus,SNOMED,SM,FALSE
+45770906,195791000119101,Chronic proliferative glomerulonephritis,SNOMED,SM,FALSE
+45771482,705065000,Childhood nephrotic syndrome,SNOMED,SM,FALSE
+45772072,106911000119102,Idiopathic glomerulonephritis,SNOMED,SM,FALSE
+45772126,367531000119106,Hereditary diffuse endocapillary proliferative glomerulonephritis,SNOMED,SM,FALSE
+45772914,707221002,Glomerulosclerosis of kidney due to diabetes mellitus,SNOMED,SM,FALSE
+46270347,28191000119109,Chronic nephritic syndrome with membranous glomerulonephritis,SNOMED,SM,FALSE
+46273053,711531007,Focal mesangial proliferative glomerulonephritis,SNOMED,SM,FALSE

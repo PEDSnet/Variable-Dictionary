@@ -1,0 +1,85 @@
+concept_id,concept_name,vocabulary_id,concept_code
+1419646,Other instability of joint,ICD10CN,M25.3
+1419843,Hypermobility syndrome,ICD10CN,M35.7
+1426874,Ehlers-Danlos syndrome,ICD10CN,Q79.6
+1427048,Marfan syndrome,ICD10CN,Q87.4
+1570549,Other instability of joint,ICD10CM,M25.3
+1572170,Marfan's syndrome,ICD10CM,Q87.4
+35208838,Hypermobility syndrome,ICD10CM,M35.7
+35211142,Ehlers-Danlos syndromes,ICD10CM,Q79.6
+37088065,Other instability of joint,ICD10GM,M25.3
+37088182,Hypermobility syndrome,ICD10GM,M35.7
+37093538,Ehlers-Danlos syndrome,ICD10GM,Q79.6
+37093636,Marfan syndrome,ICD10GM,Q87.4
+45539310,Marfan syndrome,ICD10,Q87.4
+45548391,Other instability of joint,ICD10,M25.3
+45587483,Ehlers-Danlos syndrome,ICD10,Q79.6
+45601437,Hypermobility syndrome,ICD10,M35.7
+4182014,Ankle joint hypermobility,SNOMED,298198000
+36714021,Brittle cornea syndrome,SNOMED,719096006
+4185037,Cervical spine hypermobility,SNOMED,298186005
+4136979,"Corneal fragility keratoglobus, blue sclerae AND joint hypermobility",SNOMED,31798004
+42535092,Dilatation of aortic root co-occurrent and due to Marfan syndrome,SNOMED,1.596E+16
+42535191,Disorder of cardiovascular system co-occurrent and due to Marfan syndrome,SNOMED,1.60556E+16
+42535108,Disorder of eye co-occurrent and due to Marfan syndrome,SNOMED,1.59936E+16
+765021,Disorder of skeletal system co-occurrent and due to Marfan syndrome,SNOMED,1.60528E+16
+37116658,Ehlers-Danlos and osteogenesis imperfecta syndrome,SNOMED,733457006
+79145,Ehlers-Danlos syndrome,SNOMED,398114001
+36715308,Ehlers-Danlos syndrome cardiac valvular type,SNOMED,720858001
+37395762,Ehlers-Danlos syndrome classic type,SNOMED,715318006
+4315048,"Ehlers-Danlos syndrome, dominant type 4",SNOMED,86667008
+36674514,Ehlers-Danlos syndrome due to tenascin-X deficiency,SNOMED,778022009
+4307651,"Ehlers-Danlos syndrome, dysfibronectinemic",SNOMED,83586000
+4324953,"Ehlers-Danlos syndrome, familial joint laxity type",SNOMED,71322004
+4106173,"Ehlers-Danlos syndrome, hydroxylysine-deficient",SNOMED,25606004
+36717138,Ehlers-Danlos syndrome kyphoscoliotic and deafness type,SNOMED,720859009
+37397547,Ehlers-Danlos syndrome kyphoscoliotic type,SNOMED,718211004
+36715309,Ehlers-Danlos syndrome musculocontractural type,SNOMED,720860004
+4002589,"Ehlers-Danlos syndrome, non hydroxylysine deficient ocular type",SNOMED,10033001
+4205583,"Ehlers-Danlos syndrome, procollagen proteinase deficient",SNOMED,55711009
+4213256,"Ehlers-Danlos syndrome, procollagen proteinase resistant",SNOMED,4170004
+36715310,Ehlers-Danlos syndrome progeroid type,SNOMED,720861000
+4320939,"Ehlers-Danlos syndrome, recessive type 4",SNOMED,70610001
+36676402,Ehlers-Danlos syndrome spondylocheirodysplastic type,SNOMED,773276004
+4307510,"Ehlers-Danlos syndrome, type 1",SNOMED,83470009
+4049487,"Ehlers-Danlos syndrome, type 2",SNOMED,20766005
+4148925,"Ehlers-Danlos syndrome, type 3",SNOMED,30652003
+4062070,"Ehlers-Danlos syndrome, type 4",SNOMED,17025000
+4284819,"Ehlers-Danlos syndrome, type 5",SNOMED,67202007
+4176273,"Ehlers-Danlos syndrome, type 8",SNOMED,50869007
+4185038,Elbow joint hypermobility,SNOMED,298189003
+4095193,Excessive mobility of patella,SNOMED,250110001
+4185041,Finger joint hypermobility,SNOMED,298193009
+4185169,Foot joint hypermobility,SNOMED,298199008
+4347405,Generalized benign joint hypermobility,SNOMED,240261009
+4184095,Hand joint hypermobility,SNOMED,298191006
+4182013,Hip joint hypermobility,SNOMED,298196001
+77364,Hypermobility of coccyx,SNOMED,202809009
+37312369,Hypermobility of joint,SNOMED,788453008
+4179150,Hypermobility of spine,SNOMED,298185009
+4185170,Hypermobility of subtalar joint,SNOMED,298200006
+76790,Hypermobility syndrome,SNOMED,85551004
+4182015,Interphalangeal joint of toe hypermobility,SNOMED,298202003
+4179152,Knee joint hypermobility,SNOMED,298197005
+4345678,Localized benign joint hypermobility,SNOMED,240262002
+4182012,Lumbar spine hypermobility,SNOMED,298187001
+37204240,"Marfanoid habitus, inguinal hernia, advanced bone age syndrome",SNOMED,782780007
+37116372,Marfanoid habitus with autosomal recessive intellectual disability syndrome,SNOMED,733062000
+4211698,Marfanoid joint hypermobility syndrome,SNOMED,57201002
+4086980,Marfanoid physique,SNOMED,248298009
+37115770,Marfanoid syndrome De Silva type,SNOMED,732262003
+258540,Marfan's syndrome,SNOMED,19346006
+4124854,Marfan's syndrome affecting skin,SNOMED,234035006
+4185040,Metacarpophalangeal joint hypermobility,SNOMED,298192004
+4184097,Metatarsophalangeal joint hypermobility,SNOMED,298201005
+37118677,"Microcephalus, glomerulonephritis, marfanoid habitus syndrome",SNOMED,733472005
+35622379,Neonatal Marfan syndrome,SNOMED,763839005
+36674382,"Painful orbital and systemic neurofibroma, marfanoid habitus syndrome",SNOMED,773642001
+46271476,Periodontitis co-occurrent with Ehlers-Danlos syndrome type 4,SNOMED,709604005
+36674384,"Progeroid and marfanoid aspect, lipodystrophy syndrome",SNOMED,773644000
+4179151,Shoulder joint hypermobility,SNOMED,298188006
+36717691,Shprintzen Goldberg craniosynostosis syndrome,SNOMED,719069008
+4184094,Temporomandibular joint hypermobility,SNOMED,298184008
+36674365,Thoracic spine hypermobility,SNOMED,773211003
+4185168,Thumb joint hypermobility,SNOMED,298194003
+4185039,Wrist joint hypermobility,SNOMED,298190007

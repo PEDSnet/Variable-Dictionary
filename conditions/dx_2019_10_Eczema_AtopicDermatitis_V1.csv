@@ -1,0 +1,189 @@
+concept_id,concept_name,concept_code
+133551,Vesicular eczema of hands and/or feet,402567004
+133834,Atopic dermatitis,24079001
+133835,Eczema,43116000
+136495,Lichenification and lichen simplex chronicus,201020007
+137792,Eczema herpeticum,186535001
+140172,Erythematosquamous dermatosis,54792008
+437557,Eczematous dermatitis of eyelid,36259009
+4002519,Acute infantile eczema,11011007
+4009501,Psoriasiform napkin eruption,111188005
+4030844,Eczema vaccinatum,238368001
+4030993,Friction palmar eczema,238473008
+4031010,Hand eczema,238539001
+4031012,Atopic dermatitis of hands,238541000
+4031013,Photoaggravated atopic dermatitis,238548006
+4031014,Hyperkeratotic eczema of hands and feet,238551004
+4031015,Discoid eczema of hands and feet,238552006
+4031016,Constitutional eczema of hands,238553001
+4031017,Chronic podopompholyx,238561006
+4031135,Brocq's neurodermatitis,238585003
+4031137,Disseminated secondary eczema,238591001
+4031138,Desiccation eczema,238594009
+4031630,Inverse pattern atopic dermatitis,238542007
+4031631,Discoid atopic dermatitis,238543002
+4031633,Hyperkeratotic eczema of palms,238556009
+4031634,Constitutional eczema of feet,238559002
+4031635,Hyperkeratotic eczema of soles,238562004
+4031640,Occupational allergic contact dermatitis,238578002
+4031643,Juvenile plantar dermatosis,238590000
+4031644,Chronic superficial scaly dermatitis,238592008
+4031647,Psoriasis-eczema overlap condition,238602009
+4031648,Eczematized psoriasis,238603004
+4032285,Friction eczema,238472003
+4033052,Eczematous drug eruption,238990009
+4033671,Photosensitive atopic dermatitis,238547001
+4033672,Constitutional eczema of hands and feet,238549003
+4033673,Acute cheiropodopompholyx,238550003
+4033769,Apron pattern of vesicular eczema of hands,238554007
+4033770,Constitutional fingertip eczema,238558005
+4033779,Papular eczema with elimination of papillary edema,238593003
+4033780,Senile xeroderma,238597002
+4033781,Site-specific eczema,238598007
+4033945,Seborrheic eczema-like eruption,238991008
+4046989,Dry eczema,135841008
+4047214,Exacerbation of eczema,135843006
+4047503,Crusted eczema,123701000
+4047504,Excoriated eczema,123703002
+4048079,Pustular eczema,123700004
+4048659,Exudative eczema,123699000
+4048660,Lichenified eczema,123704008
+4049417,Vesicular eczema,123698008
+4063930,Parakeratosis,200766001
+4066382,Atopic neurodermatitis,200775004
+4066727,Besnier's prurigo,200773006
+4067178,Podopompholyx,201201000
+4075236,Occupational eczema,225055005
+4077063,O/E - pompholyx,275889007
+4077371,Varicose veins of the leg with eczema,275700003
+4080926,Constitutional eczema,238540004
+4080927,Erythrodermic atopic dermatitis,238544008
+4080928,Follicular atopic dermatitis,238545009
+4080929,Pruriginous atopic dermatitis,238546005
+4080930,Hyperkeratotic fissured hand eczema,238555008
+4080931,Constitutional discoid hand eczema,238557000
+4080932,Acute podopompholyx,238560007
+4080933,Psoriasiform eczema,238564003
+4080935,Seborrhoeide,238567005
+4094171,Unclassifiable eczema,281104002
+4096019,Kaposi's varicelliform eruption due to vaccinia virus,262781009
+4110346,Varicose veins of the leg with ulcer and eczema,195447000
+4114012,Eczema of face,300924008
+4114013,Eczema of wrist,300926005
+4129214,Eczema of nipple,237463009
+4144755,Chronic eczema of external auditory canal,427348001
+4148920,Neurodermatitis,267854005
+4179769,Diffuse neurodermatitis of Brocq,50650004
+4182370,Acute eczematoid otitis externa,54272002
+4182772,Varicose eczema,366362000
+4184325,Facial eczema,43523005
+4189651,Eczematid-like purpura of Doucas and Kapetanakis,41486008
+4195007,Chronic eczema,44256003
+4196721,Varicose veins of leg in short saphenous vein distribution with eczema,313347007
+4204348,Eczema of leg,309258000
+4204991,Lichen simplex chronicus,53891004
+4206125,Chronic lichenified atopic dermatitis,309461001
+4209109,Varicose veins of leg in long saphenous vein distribution with eczema,313346003
+4210912,Flexural eczema,57092006
+4214438,Infective eczematoid dermatitis,414492009
+4215231,Distinctive exudative discoid AND lichenoid chronic dermatosis of Sulzberger and Garbe,41580004
+4216188,Nummular eczema,81418003
+4221654,Vulval eczema,402236002
+4221657,Cumulative irritant contact dermatitis of hands due to wet work,402263001
+4221658,Contact with irritant as co-factor in eczema,402287004
+4221659,Genitocrural intertrigo,402293007
+4221660,Post-traumatic eczema,402295000
+4221829,Acute vesicular eczema of hand,402216003
+4221830,Acute-on-chronic vesicular eczema of feet,402219005
+4221831,Acute-on-chronic vesicular eczema of hands and feet,402220004
+4221832,Acute-on-chronic vesicular eczema of hands,402221000
+4221833,Exogenous foot eczema,402228006
+4222141,Cumulative irritant contact dermatitis of hands,402273004
+4223476,Chronic vesicular eczema of hands and/or feet,402217007
+4223477,Vesicular hand eczema,402222007
+4223478,Chronic constitutional hand eczema,402230008
+4223479,Foot eczema,402234004
+4223480,Lichen nuchae,402242003
+4223484,Contact with irritant as co-factor in hand eczema,402286008
+4223498,Chronic vesicular eczema of hands and feet,402569001
+4223639,Chronic vesicular eczema of hands,402218002
+4223641,Acute constitutional hand eczema,402229003
+4223992,"Polymorphous light eruption, eczematous type",84036008
+4224478,Acantholytic vesicular dermatitis,84855007
+4236759,Infantile eczema,90823000
+4245843,Acute eczema,396348002
+4253215,Acute vesicular dermatitis,74207008
+4261355,Ballooning vesicular dermatitis,35493001
+4266652,Erythrodermic eczema,400005007
+4266791,Infected eczema,400079002
+4270726,Fingertip eczema,402224008
+4270727,Vesiculosquamous hand eczema,402225009
+4270728,Exogenous hand eczema,402227001
+4270739,Irritant contact hand eczema,402290005
+4270740,Frictional lichenoid eruption,402292002
+4271002,Senile asteatotic eczema,400051008
+4280729,Infectious eczematoid dermatitis,367522007
+4290731,Brachioradial pruritus,402178001
+4290734,Flexural atopic dermatitis,402183009
+4290735,Discoid pattern atopic hand dermatitis,402185002
+4290736,Prurigo pattern atopic dermatitis,402187005
+4290737,Atopic dermatitis aggravated by type 1 immune reaction,402188000
+4290739,Atopy as co-factor in hand eczema,402190004
+4290740,Atopic dermatitis of eyelid,402193002
+4290743,Annular seborrheide,402211008
+4290744,Pityriasiform seborrheide,402212001
+4290745,Chronic relapsing vesiculosquamous hand eczema,402226005
+4290817,Constitutional factors as co-factor in hand eczema,402231007
+4291274,Exogenous eczema of hands and/or feet,402573003
+4291278,Exposure to skin irritant as co-factor in eczema,402583004
+4291279,Constitutional predisposition as co-factor in eczema,402588008
+4292210,Chronic hand eczema,402233005
+4292212,Lichen simplex of scrotum,402240006
+4292213,Lichen simplex of vulva,402243008
+4292219,Generalized eczema,402303001
+4292391,Hand and/or foot eczema,402566008
+4292517,Acute-on-chronic vesicular eczema of hands and/or feet,402570000
+4295333,Localized eczema due to systemically administered drug,403613008
+4296190,Atopic dermatitis of scalp,402191000
+4296192,Childhood atopic dermatitis,402196005
+4296193,Adult atopic dermatitis,402197001
+4296202,Eczema craquele due to acute edema,403178009
+4297362,Adult atopic dermatitis persistent from childhood,402198006
+4297478,Impetiginized atopic dermatitis,402201001
+4297482,Dry discoid eczema,402213006
+4297483,Eczema of finger,402223002
+4297490,Contact hand eczema,402291009
+4297493,Papuloerythroderma of Ofuji,402299006
+4297494,Acute constitutional eczema,402301004
+4297495,Chronic constitutional eczema,402302006
+4297803,Hyperkeratotic eczema of hands and/or feet,402571001
+4297805,Dermatitis due to sweating and friction,402585006
+4297806,Secondary eczematous condition,402586007
+4297899,Generalized eczema due to systemically administered drug,403612003
+4298597,Generalized atopic dermatitis,402186001
+4298598,Atopic dermatitis of face,402192007
+4298599,Infantile atopic dermatitis,402195009
+4298600,Adult atopic dermatitis recurrent in adult life,402199003
+4298601,Adult atopic dermatitis commencing in adult life,402200000
+4298603,Exudative discoid eczema,402214000
+4298604,Infected discoid eczema,402215004
+4298605,Acute hand eczema,402232000
+4298606,Eczematous cheilitis,402235003
+4298609,Lichen simplex of perianal skin,402241005
+4299276,Lip-licking eczema,402285007
+4299431,Acute vesicular eczema of hands and/or feet,402568009
+4299432,Discoid eczema of hand,402572008
+4299433,Constitutional/endogenous eczema of hands and/or feet,402574009
+4305557,Scaling eczema,419735006
+4308085,Asteatotic eczema,201077008
+4309200,Allergic inhalant dermatitis,84479000
+4320808,Eczema of ear lobe,95809000
+4320811,Eczema of external auditory canal,95812002
+4321570,Chronic infantile eczema,978003
+4339475,Neurodermatitis of external ear,232242004
+37396839,Infective dermatitis co-occurrent and due to human T-cell lymphotropic virus 1 infection,716790008
+40482226,Atopic dermatitis due to animal dander,442145005
+44800807,[X]Dermatitis and eczema,479281000000106
+45763760,Eczematous dermatitis of lower eyelid,700261003
+45763826,Eczematous dermatitis of upper eyelid,700343005
+46270549,Nonallergic eczema,5391000119108

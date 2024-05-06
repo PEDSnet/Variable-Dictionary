@@ -1,0 +1,66 @@
+concept_id,concept_code,concept_name,codeset
+4023572,116289008,Abdominal bloating,abdominal_pain
+4322528,9991008,Abdominal colic,abdominal_pain
+45757430,137891000000000,Abdominal colic in adult or child greater than 12 months,abdominal_pain
+45757422,136051000000000,Abdominal colic in child less than or equal to 12 months,abdominal_pain
+200219,21522001,Abdominal pain,abdominal_pain
+4200114,314212008,Abdominal pain - cause unknown,abdominal_pain
+4254250,74704000,Abdominal pain through to back,abdominal_pain
+4217345,71850005,Abdominal pain worse on motion,abdominal_pain
+197981,43478001,Abdominal tenderness,abdominal_pain
+4023573,116290004,Acute abdominal pain,abdominal_pain
+4094008,248490000,Bloating symptom,abdominal_pain
+4049803,21005005,Burning epigastric pain,abdominal_pain
+4012222,162046002,Central abdominal pain,abdominal_pain
+4159745,371094000,Colicky hypogastric pain,abdominal_pain
+45769036,707597009,Continuous abdominal pain of left lower quadrant,abdominal_pain
+197381,79922009,Epigastric pain,abdominal_pain
+4090550,247361008,Evening colic,abdominal_pain
+201418,271832001,"Flatulence, eructation and gas pain",abdominal_pain
+197988,102614006,Generalized abdominal pain,abdominal_pain
+443629,440220007,Generalized abdominal tenderness,abdominal_pain
+4153363,371102005,Generalized colicky abdominal pain,abdominal_pain
+761102,147e14,Intractable abdominal pain,abdominal_pain
+195083,301716002,Left lower quadrant pain,abdominal_pain
+4109084,285387005,Left sided abdominal pain,abdominal_pain
+4012496,162047006,Left subcostal pain,abdominal_pain
+194175,301715003,Left upper quadrant pain,abdominal_pain
+4010024,102613000,Localized abdominal pain,abdominal_pain
+4182562,54586004,Lower abdominal pain,abdominal_pain
+4012494,162038003,Non-colicky abdominal pain,abdominal_pain
+4128083,304542004,Nonspecific abdominal pain,abdominal_pain
+4166915,274287009,O/E - abdominal pain,abdominal_pain
+4164373,274288004,O/E - epigastric pain,abdominal_pain
+4061492,163239008,O/E - rebound - epigastrium,abdominal_pain
+4061755,163245000,O/E - rebound - hypogastrium,abdominal_pain
+4061251,163236001,O/E - rebound tenderness,abdominal_pain
+4061246,163215003,On examination - abdominal pain - epigastrium,abdominal_pain
+4061247,163221004,On examination - abdominal pain - hypogastrium,abdominal_pain
+4153588,268941000,On examination - abdominal pain on palpation,abdominal_pain
+4204818,308903002,On examination - epigastric pain on palpation,abdominal_pain
+3654704,838411007,Pain in abdominal region on palpation,abdominal_pain
+3654703,838410008,Pain in epigastric region on palpation,abdominal_pain
+44791723,296871000000000,Percussion tenderness of abdomen,abdominal_pain
+40481920,443503005,Periumbilical pain,abdominal_pain
+4149024,35611005,Rebound tenderness,abdominal_pain
+4115548,301415004,Rebound tenderness of central region,abdominal_pain
+4115546,301412001,Rebound tenderness of epigastrium,abdominal_pain
+4118279,301418002,Rebound tenderness of hypogastrium,abdominal_pain
+4115547,301414000,Rebound tenderness of left hypochondrium,abdominal_pain
+4118277,301413006,Rebound tenderness of right hypochondrium,abdominal_pain
+193322,301754002,Right lower quadrant pain,abdominal_pain
+4109085,285388000,Right sided abdominal pain,abdominal_pain
+4012497,162048001,Right subcostal pain,abdominal_pain
+198263,301717006,Right upper quadrant pain,abdominal_pain
+4152197,271681002,Stomach ache,abdominal_pain
+194491,301403003,Tenderness of epigastrium,abdominal_pain
+4115420,301409004,Tenderness of hypogastrium,abdominal_pain
+4103489,301405005,Tenderness of left hypochondrium,abdominal_pain
+194755,439774009,Tenderness of left lower quadrant of abdomen,abdominal_pain
+40490984,448660000,Tenderness of left upper quadrant of abdomen,abdominal_pain
+40483351,445386003,Tenderness of periumbilical region,abdominal_pain
+4118276,301404009,Tenderness of right hypochondrium,abdominal_pain
+40490986,448661001,Tenderness of right lower quadrant of abdomen,abdominal_pain
+40488954,448265002,Tenderness of right upper quadrant of abdomen,abdominal_pain
+433879,88522004,Umbilical pain,abdominal_pain
+4306292,83132003,Upper abdominal pain,abdominal_pain

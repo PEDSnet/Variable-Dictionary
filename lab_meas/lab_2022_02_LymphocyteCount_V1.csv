@@ -1,0 +1,6 @@
+concept_id,concept_name,concept_code,vocabulary_id
+3019198,Lymphocytes [#/volume] in Blood,26474-7,LOINC
+3004327,Lymphocytes [#/volume] in Blood by Automated count,731-0,LOINC
+3003215,Lymphocytes [#/volume] in Blood by Manual count,732-8,LOINC
+3003467,Lymphocytes [#/volume] in Body fluid,26476-2,LOINC
+4254663,Lymphocyte count,74765001,SNOMED

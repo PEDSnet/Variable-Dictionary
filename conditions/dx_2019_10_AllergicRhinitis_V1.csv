@@ -1,0 +1,35 @@
+concept_id,concept_name,concept_code
+252936,Allergic rhinitis due to animals,91925003
+256439,Allergic rhinitis due to pollen,21719001
+257007,Allergic rhinitis,61582004
+443558,Allergic rhinitis due to animal dander,429195002
+4048171,Perennial allergic rhinitis with seasonal variation,232353008
+4123253,Hay fever with asthma,233683003
+4240899,Allergic rhinitis due to weed pollen,91928001
+4241525,Allergic rhinitis due to grass pollen,91926002
+4241526,Allergic rhinitis due to tree pollen,91927006
+4280726,Seasonal allergic rhinitis,367498001
+40481374,Allergic rhinitis due to food,441978001
+40486433,Perennial allergic rhinitis,446096008
+42709857,Allergic rhinitis due to house dust mite,449729000
+45757081,Allergic rhinitis caused by feathers,10629391000119103
+45757082,Allergic rhinitis caused by mold,10629471000119106
+45766684,Allergic rhinitis due to Dermatophagoides farinae,703903005
+45766713,Allergic rhinitis due to Dermatophagoides pteronyssinus,703937002
+46269743,Allergic rhinitis caused by insects,10629431000119108
+46269767,Acute severe exacerbation of asthma co-occurrent with allergic rhinitis,10674711000119105
+46269771,Acute severe exacerbation of severe persistent asthma co-occurrent with allergic rhinitis,10675551000119104
+46269773,Severe persistent asthma controlled co-occurrent with allergic rhinitis,10675631000119109
+46269775,Severe persistent asthma uncontrolled co-occurrent with allergic rhinitis,10675711000119106
+46269777,Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis,10675991000119100
+46269779,Mild persistent asthma controlled co-occurrent with allergic rhinitis,10676111000119102
+46269782,Mild persistent asthma uncontrolled co-occurrent with allergic rhinitis,10676231000119102
+46269785,Acute severe exacerbation of moderate persistent asthma co-occurrent with allergic rhinitis,10676511000119109
+46269787,Moderate persistent controlled asthma co-occurrent with allergic rhinitis,10676591000119100
+46269789,Moderate persistent asthma uncontrolled co-occurrent with allergic rhinitis,10676671000119102
+46270028,Severe persistent asthma co-occurrent with allergic rhinitis,124991000119109
+46270029,Mild persistent asthma co-occurrent with allergic rhinitis,125011000119100
+46270030,Intermittent asthma co-occurrent with allergic rhinitis,125021000119107
+46270156,Allergic rhinitis due to animal hair and dander,156051000119109
+46273452,Acute exacerbation of asthma co-occurrent with allergic rhinitis,99031000119107
+46273454,Moderate persistent asthma co-occurrent with allergic rhinitis,125001000119103

@@ -1,0 +1,696 @@
+concept_id,concept_code,concept_name,vocabulary_id,pcornet_vocabulary_id,cc_decimal_removal
+318736,37796009,Migraine,SNOMED,SM,FALSE
+372313,103011009,Benign exertional headache,SNOMED,SM,FALSE
+372886,423683008,Refractory migraine with aura,SNOMED,SM,FALSE
+373463,95658004,Cough headache syndrome,SNOMED,SM,FALSE
+373755,95660002,Thunderclap headache,SNOMED,SM,FALSE
+374342,103010005,Headache associated with sexual activity,SNOMED,SM,FALSE
+374639,431237007,Chronic headache disorder,SNOMED,SM,FALSE
+374922,230481005,Idiopathic stabbing headache,SNOMED,SM,FALSE
+375527,230461009,Headache disorder,SNOMED,SM,FALSE
+375530,230463007,Migraine with prolonged aura,SNOMED,SM,FALSE
+376104,54012000,Posttraumatic headache,SNOMED,SM,FALSE
+376382,398057008,Tension-type headache,SNOMED,SM,FALSE
+376394,23186000,Menstrual migraine,SNOMED,SM,FALSE
+377545,230470007,Episodic tension-type headache,SNOMED,SM,FALSE
+377546,230477005,Chronic post-traumatic headache,SNOMED,SM,FALSE
+377853,230471006,Chronic tension-type headache,SNOMED,SM,FALSE
+378145,230473009,Chronic cluster headache,SNOMED,SM,FALSE
+378253,25064002,Headache,SNOMED,SM,FALSE
+378735,56097005,Migraine without aura,SNOMED,SM,FALSE
+379806,193030005,Migraine variants,SNOMED,SM,FALSE
+380093,230472004,Episodic cluster headache,SNOMED,SM,FALSE
+381278,193031009,Cluster headache,SNOMED,SM,FALSE
+381549,4473006,Migraine with aura,SNOMED,SM,FALSE
+433763,59292006,Hemiplegic migraine,SNOMED,SM,FALSE
+443615,423894005,Refractory migraine,SNOMED,SM,FALSE
+443616,423279000,Refractory migraine without aura,SNOMED,SM,FALSE
+443619,425365009,Refractory migraine variants,SNOMED,SM,FALSE
+601499,466841000124105,Headache after cough,SNOMED,SM,FALSE
+601848,471651000124106,Episodic migraine,SNOMED,SM,FALSE
+601849,471661000124108,Acute migraine,SNOMED,SM,FALSE
+605546,1119294003,Unilateral left sided headache,SNOMED,SM,FALSE
+605547,1119295002,Unilateral right sided headache,SNOMED,SM,FALSE
+608736,145621000146106,Headache due to exertion,SNOMED,SM,FALSE
+725458,R51.0,"Headache with orthostatic component, not elsewhere classified",ICD10CM,10,FALSE
+725458,R510,"Headache with orthostatic component, not elsewhere classified",ICD10CM,10,TRUE
+725459,R51.9,"Headache, unspecified",ICD10CM,10,FALSE
+725459,R519,"Headache, unspecified",ICD10CM,10,TRUE
+760856,121881000119102,Intractable allergic migraine,SNOMED,SM,FALSE
+760964,124041000119102,Intractable hemiplegic migraine,SNOMED,SM,FALSE
+760967,124071000119109,Intractable menstrual migraine,SNOMED,SM,FALSE
+760968,124161000119104,Chronic migraine without aura with status migrainosus,SNOMED,SM,FALSE
+762083,290441000119105,Intractable chronic headache following trauma,SNOMED,SM,FALSE
+762084,290541000119106,Intractable episodic tension-type headache,SNOMED,SM,FALSE
+762152,293901000119108,Intractable episodic cluster headache,SNOMED,SM,FALSE
+762580,429181000124108,Refractory acute confusional migraine,SNOMED,SM,FALSE
+762725,431061000124100,"Ophthalmoplegic migraine, refractory",SNOMED,SM,FALSE
+762769,431601000124105,Chronic migraine without aura,SNOMED,SM,FALSE
+763167,436771000124102,"Basilar artery migraine, refractory",SNOMED,SM,FALSE
+763746,445491000124104,Postural headache,SNOMED,SM,FALSE
+765261,122061000119109,Intractable retinal migraine,SNOMED,SM,FALSE
+765701,437931000124100,"Chronic migraine without aura, non-refractory",SNOMED,SM,FALSE
+766354,G44.86,Cervicogenic headache,ICD10CM,10,FALSE
+766354,G4486,Cervicogenic headache,ICD10CM,10,TRUE
+1553844,R11.15,Cyclical vomiting syndrome unrelated to migraine,ICD10CM,10,FALSE
+1553844,R1115,Cyclical vomiting syndrome unrelated to migraine,ICD10CM,10,TRUE
+1568330,G43,Migraine,ICD10CM,10,FALSE
+1568331,G43.0,Migraine without aura,ICD10CM,10,FALSE
+1568331,G430,Migraine without aura,ICD10CM,10,TRUE
+1568332,G43.1,Migraine with aura,ICD10CM,10,FALSE
+1568332,G431,Migraine with aura,ICD10CM,10,TRUE
+1568333,G43.5,Persistent migraine aura without cerebral infarction,ICD10CM,10,FALSE
+1568333,G435,Persistent migraine aura without cerebral infarction,ICD10CM,10,TRUE
+1568334,G43.6,Persistent migraine aura with cerebral infarction,ICD10CM,10,FALSE
+1568334,G436,Persistent migraine aura with cerebral infarction,ICD10CM,10,TRUE
+1568335,G43.60,"Persistent migraine aura with cerebral infarction, not intractable",ICD10CM,10,FALSE
+1568335,G4360,"Persistent migraine aura with cerebral infarction, not intractable",ICD10CM,10,TRUE
+1568336,G43.61,"Persistent migraine aura with cerebral infarction, intractable",ICD10CM,10,FALSE
+1568336,G4361,"Persistent migraine aura with cerebral infarction, intractable",ICD10CM,10,TRUE
+1568337,G43.7,Chronic migraine without aura,ICD10CM,10,FALSE
+1568337,G437,Chronic migraine without aura,ICD10CM,10,TRUE
+1568338,G43.C,Periodic headache syndromes in child or adult,ICD10CM,10,FALSE
+1568338,G43C,Periodic headache syndromes in child or adult,ICD10CM,10,TRUE
+1568339,G43.8,Other migraine,ICD10CM,10,FALSE
+1568339,G438,Other migraine,ICD10CM,10,TRUE
+1568340,G43.80,"Other migraine, not intractable",ICD10CM,10,FALSE
+1568340,G4380,"Other migraine, not intractable",ICD10CM,10,TRUE
+1568341,G43.81,"Other migraine, intractable",ICD10CM,10,FALSE
+1568341,G4381,"Other migraine, intractable",ICD10CM,10,TRUE
+1568342,G43.82,"Menstrual migraine, not intractable",ICD10CM,10,FALSE
+1568342,G4382,"Menstrual migraine, not intractable",ICD10CM,10,TRUE
+1568343,G43.83,"Menstrual migraine, intractable",ICD10CM,10,FALSE
+1568343,G4383,"Menstrual migraine, intractable",ICD10CM,10,TRUE
+1568344,G43.9,"Migraine, unspecified",ICD10CM,10,FALSE
+1568344,G439,"Migraine, unspecified",ICD10CM,10,TRUE
+1568345,G44,Other headache syndromes,ICD10CM,10,FALSE
+1568346,G44.0,Cluster headaches and other trigeminal autonomic cephalgias (TAC),ICD10CM,10,FALSE
+1568346,G440,Cluster headaches and other trigeminal autonomic cephalgias (TAC),ICD10CM,10,TRUE
+1568347,G44.00,"Cluster headache syndrome, unspecified",ICD10CM,10,FALSE
+1568347,G4400,"Cluster headache syndrome, unspecified",ICD10CM,10,TRUE
+1568349,G44.05,Short lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT),ICD10CM,10,FALSE
+1568349,G4405,Short lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT),ICD10CM,10,TRUE
+1568351,G44.1,"Vascular headache, not elsewhere classified",ICD10CM,10,FALSE
+1568351,G441,"Vascular headache, not elsewhere classified",ICD10CM,10,TRUE
+1568352,G44.2,Tension-type headache,ICD10CM,10,FALSE
+1568352,G442,Tension-type headache,ICD10CM,10,TRUE
+1568353,G44.20,"Tension-type headache, unspecified",ICD10CM,10,FALSE
+1568353,G4420,"Tension-type headache, unspecified",ICD10CM,10,TRUE
+1568354,G44.3,Post-traumatic headache,ICD10CM,10,FALSE
+1568354,G443,Post-traumatic headache,ICD10CM,10,TRUE
+1568355,G44.30,"Post-traumatic headache, unspecified",ICD10CM,10,FALSE
+1568355,G4430,"Post-traumatic headache, unspecified",ICD10CM,10,TRUE
+1568356,G44.31,Acute post-traumatic headache,ICD10CM,10,FALSE
+1568356,G4431,Acute post-traumatic headache,ICD10CM,10,TRUE
+1568357,G44.4,"Drug-induced headache, not elsewhere classified",ICD10CM,10,FALSE
+1568357,G444,"Drug-induced headache, not elsewhere classified",ICD10CM,10,TRUE
+1568358,G44.5,Complicated headache syndromes,ICD10CM,10,FALSE
+1568358,G445,Complicated headache syndromes,ICD10CM,10,TRUE
+1568359,G44.8,Other specified headache syndromes,ICD10CM,10,FALSE
+1568359,G448,Other specified headache syndromes,ICD10CM,10,TRUE
+3519949,583641000000104,Other forms of migraine NOS,SNOMED,SM,FALSE
+3527726,338091000000104,Benign coital headache,SNOMED,SM,FALSE
+3528921,414001000000101,[X] Somatoform pain disorder (& [persistent] or [psychalgia] or [psychogenic backache] or [psychogenic headache]),SNOMED,SM,FALSE
+3528982,419971000000109,"[X]Drug-induced headache, not elsewhere classified",SNOMED,SM,FALSE
+3529249,467691000000105,"[X]Vascular headache, not elsewhere classified",SNOMED,SM,FALSE
+3529956,508421000000101,Chronic headache disorder,SNOMED,SM,FALSE
+3530003,509691000000108,Cervicogenic headache,SNOMED,SM,FALSE
+3531280,538741000000109,Headache character NOS,SNOMED,SM,FALSE
+3534078,583651000000101,Migraine NOS,SNOMED,SM,FALSE
+3535309,603711000000104,Common migraine NOS,SNOMED,SM,FALSE
+3538053,644011000000107,Other forms of migraine,SNOMED,SM,FALSE
+3544354,781421000000109,H/O migraine with aura,SNOMED,SM,FALSE
+3544355,781431000000106,H/O migraine with aura,SNOMED,SM,FALSE
+3545013,807761000000102,Migraine induced by oestrogen contraceptive,SNOMED,SM,FALSE
+3545053,808291000000103,Infrequent episodic tension-type headache,SNOMED,SM,FALSE
+3545055,808331000000105,Chronic tension-type headache,SNOMED,SM,FALSE
+3545057,808361000000100,Benign cough headache,SNOMED,SM,FALSE
+3545058,808371000000107,Benign exertion headache,SNOMED,SM,FALSE
+3545063,808511000000105,Headache associated with sexual activity,SNOMED,SM,FALSE
+3564090,585561000000103,Headache site NOS,SNOMED,SM,FALSE
+3566657,510201000000105,Chronic headache disorder,SNOMED,SM,FALSE
+3566693,603721000000105,Migraine variant NOS,SNOMED,SM,FALSE
+3571077,203861000000109,Medication overuse headache,SNOMED,SM,FALSE
+3572423,211591000000104,Medication overuse headache,SNOMED,SM,FALSE
+3585709,808321000000108,Frequent episodic tension-type headache,SNOMED,SM,FALSE
+4011530,112101004,Dental headache,SNOMED,SM,FALSE
+4011767,103006007,Unilateral headache,SNOMED,SM,FALSE
+4011768,103009000,Headache due to cold exposure,SNOMED,SM,FALSE
+4012239,103007003,Headache due to external compression of head,SNOMED,SM,FALSE
+4012240,103008008,Postpartum headache,SNOMED,SM,FALSE
+4012241,103012002,Analgesic overuse headache,SNOMED,SM,FALSE
+4012515,162211001,Viral headache,SNOMED,SM,FALSE
+4028205,13322008,Postseizure headache,SNOMED,SM,FALSE
+4030433,129610005,Headache due to intracranial disease,SNOMED,SM,FALSE
+4036622,162299003,Generalized headache,SNOMED,SM,FALSE
+4036623,162305001,Headache site NOS,SNOMED,SM,FALSE
+4036624,162308004,Throbbing headache,SNOMED,SM,FALSE
+4036953,162310002,Morning headache,SNOMED,SM,FALSE
+4037298,162297001,Headache site,SNOMED,SM,FALSE
+4037300,162304002,Parietal headache,SNOMED,SM,FALSE
+4037301,162312005,Headache character NOS,SNOMED,SM,FALSE
+4037891,162301005,Bilateral headache,SNOMED,SM,FALSE
+4038024,162306000,Headache character,SNOMED,SM,FALSE
+4038025,162307009,Aching headache,SNOMED,SM,FALSE
+4038026,162309007,Shooting headache,SNOMED,SM,FALSE
+4043560,230464001,Non-familial hemiplegic migraine,SNOMED,SM,FALSE
+4044232,230465000,Migraine aura without headache,SNOMED,SM,FALSE
+4044234,230468003,Migraine with ischemic complication,SNOMED,SM,FALSE
+4044235,230476001,Atypical cluster headache,SNOMED,SM,FALSE
+4044236,230478000,Low pressure headache,SNOMED,SM,FALSE
+4044237,230483008,Headache associated with substance abuse or withdrawal,SNOMED,SM,FALSE
+4046225,230462002,Migraine with typical aura,SNOMED,SM,FALSE
+4046226,230475002,Chronic cluster headache evolved from episodic cluster headache,SNOMED,SM,FALSE
+4046227,230480006,Headache following myelography,SNOMED,SM,FALSE
+4047908,230474003,Chronic cluster headache unremitting from onset,SNOMED,SM,FALSE
+4059193,161481007,H/O: migraine,SNOMED,SM,FALSE
+4061404,169464001,Headache caused by oral contraceptive pill,SNOMED,SM,FALSE
+4094387,26150009,Lower half migraine,SNOMED,SM,FALSE
+4101749,193036004,Migraine variant NOS,SNOMED,SM,FALSE
+4102348,193029000,Common migraine NOS,SNOMED,SM,FALSE
+4104862,193037008,Other forms of migraine,SNOMED,SM,FALSE
+4104863,193040008,Other forms of migraine NOS,SNOMED,SM,FALSE
+4104864,193041007,Migraine NOS,SNOMED,SM,FALSE
+4105365,193028008,Sick headache,SNOMED,SM,FALSE
+4105620,193039006,Complicated migraine,SNOMED,SM,FALSE
+4113841,198438009,Menopausal headache,SNOMED,SM,FALSE
+4118422,206946005,[D]Headache,SNOMED,SM,FALSE
+4134454,128187005,Vascular headache,SNOMED,SM,FALSE
+4138173,425936006,Intractable ophthalmic migraine,SNOMED,SM,FALSE
+4140381,330007,Occipital headache,SNOMED,SM,FALSE
+4141827,427419006,Transformed migraine,SNOMED,SM,FALSE
+4143009,425422007,Headache due to high altitude,SNOMED,SM,FALSE
+4147325,267096005,Frontal headache,SNOMED,SM,FALSE
+4149969,279016001,Cervicogenic headache,SNOMED,SM,FALSE
+4158490,272027003,C/O - a headache,SNOMED,SM,FALSE
+4160877,398884005,Postmyelography headache,SNOMED,SM,FALSE
+4162234,398126006,Muscular headache,SNOMED,SM,FALSE
+4172302,4969004,Sinus headache,SNOMED,SM,FALSE
+4175786,49605003,Ophthalmoplegic migraine,SNOMED,SM,FALSE
+4183441,43242008,Drug withdrawal headache,SNOMED,SM,FALSE
+4193495,79267007,Retinal migraine,SNOMED,SM,FALSE
+4193674,395688005,Benign coital headache,SNOMED,SM,FALSE
+4195951,44538002,Nasal headache,SNOMED,SM,FALSE
+4196384,4448006,Allergic headache,SNOMED,SM,FALSE
+4212985,41413006,Temporal headache,SNOMED,SM,FALSE
+4271776,364760007,Headache character - finding,SNOMED,SM,FALSE
+4283532,66551002,Psychogenic headache,SNOMED,SM,FALSE
+4307373,83351003,Basilar migraine,SNOMED,SM,FALSE
+4309592,38823002,Aural headache,SNOMED,SM,FALSE
+4313491,424699007,"Migraine variants, not intractable",SNOMED,SM,FALSE
+4314161,425007008,"Migraine without aura, not refractory",SNOMED,SM,FALSE
+4315023,86925001,Ocular headache,SNOMED,SM,FALSE
+4317966,95655001,Ophthalmic migraine,SNOMED,SM,FALSE
+4318560,95657009,Chronic mixed headache syndrome,SNOMED,SM,FALSE
+4318866,95653008,Acute confusional migraine,SNOMED,SM,FALSE
+4318867,95656000,Familial hemiplegic migraine,SNOMED,SM,FALSE
+4319470,95659007,Hindbrain hernia headache,SNOMED,SM,FALSE
+35207378,G43.00,"Migraine without aura, not intractable",ICD10CM,10,FALSE
+35207378,G4300,"Migraine without aura, not intractable",ICD10CM,10,TRUE
+35207379,G43.01,"Migraine without aura, intractable",ICD10CM,10,FALSE
+35207379,G4301,"Migraine without aura, intractable",ICD10CM,10,TRUE
+35207380,G43.10,"Migraine with aura, not intractable",ICD10CM,10,FALSE
+35207380,G4310,"Migraine with aura, not intractable",ICD10CM,10,TRUE
+35207381,G43.11,"Migraine with aura, intractable",ICD10CM,10,FALSE
+35207381,G4311,"Migraine with aura, intractable",ICD10CM,10,TRUE
+35207383,G43.40,"Hemiplegic migraine, not intractable",ICD10CM,10,FALSE
+35207383,G4340,"Hemiplegic migraine, not intractable",ICD10CM,10,TRUE
+35207384,G43.41,"Hemiplegic migraine, intractable",ICD10CM,10,FALSE
+35207384,G4341,"Hemiplegic migraine, intractable",ICD10CM,10,TRUE
+35207385,G43.50,"Persistent migraine aura without cerebral infarction, not intractable",ICD10CM,10,FALSE
+35207385,G4350,"Persistent migraine aura without cerebral infarction, not intractable",ICD10CM,10,TRUE
+35207386,G43.51,"Persistent migraine aura without cerebral infarction, intractable",ICD10CM,10,FALSE
+35207386,G4351,"Persistent migraine aura without cerebral infarction, intractable",ICD10CM,10,TRUE
+35207387,G43.70,"Chronic migraine without aura, not intractable",ICD10CM,10,FALSE
+35207387,G4370,"Chronic migraine without aura, not intractable",ICD10CM,10,TRUE
+35207388,G43.71,"Chronic migraine without aura, intractable",ICD10CM,10,FALSE
+35207388,G4371,"Chronic migraine without aura, intractable",ICD10CM,10,TRUE
+35207389,G43.891,"Other migraine, intractable",ICD10CM,10,FALSE
+35207389,G43891,"Other migraine, intractable",ICD10CM,10,TRUE
+35207390,G43.899,"Other migraine, not intractable",ICD10CM,10,FALSE
+35207390,G43899,"Other migraine, not intractable",ICD10CM,10,TRUE
+35207391,G43.90,"Migraine, unspecified, not intractable",ICD10CM,10,FALSE
+35207391,G4390,"Migraine, unspecified, not intractable",ICD10CM,10,TRUE
+35207392,G43.91,"Migraine, unspecified, intractable",ICD10CM,10,FALSE
+35207392,G4391,"Migraine, unspecified, intractable",ICD10CM,10,TRUE
+35211388,R51,Headache,ICD10CM,10,FALSE
+36684905,458241000124102,Chronic daily headache,SNOMED,SM,FALSE
+36716798,722981005,Infrequent episodic tension-type headache,SNOMED,SM,FALSE
+36716799,722982003,Frequent episodic tension-type headache,SNOMED,SM,FALSE
+36716800,722983008,Headache due to injury of head and neck,SNOMED,SM,FALSE
+37016721,712826000,Intermittent headache,SNOMED,SM,FALSE
+37016725,712831003,Frequent headache,SNOMED,SM,FALSE
+37110241,724429004,Stroke co-occurrent with migraine,SNOMED,SM,FALSE
+37110728,725058003,Short-lasting unilateral neuralgiform headache attacks with conjunctival injection and tearing syndrome,SNOMED,SM,FALSE
+37111634,726678001,Migraine-therapy caloric vestibular stimulation system,SNOMED,SM,FALSE
+40302064,138752005,H/O: migraine,SNOMED,SM,FALSE
+40305063,139490008,Headache,SNOMED,SM,FALSE
+40305600,139568005,Headache site,SNOMED,SM,FALSE
+40305602,139570001,Generalized headache,SNOMED,SM,FALSE
+40305604,139571002,Unilateral headache,SNOMED,SM,FALSE
+40305605,139572009,Bilateral headache,SNOMED,SM,FALSE
+40305606,139573004,Frontal headache,SNOMED,SM,FALSE
+40305607,139574005,Occipital headache,SNOMED,SM,FALSE
+40305608,139575006,Parietal headache,SNOMED,SM,FALSE
+40305609,139576007,Temporal headache,SNOMED,SM,FALSE
+40305610,139577003,Headache site NOS,SNOMED,SM,FALSE
+40305611,139578008,Headache character,SNOMED,SM,FALSE
+40305612,139579000,Aching headache,SNOMED,SM,FALSE
+40305613,139580002,Throbbing headache,SNOMED,SM,FALSE
+40305615,139581003,Shooting headache,SNOMED,SM,FALSE
+40305617,139583000,Headache character NOS,SNOMED,SM,FALSE
+40319349,158296002,[D]Headache,SNOMED,SM,FALSE
+40322240,154931007,Tension-type headache,SNOMED,SM,FALSE
+40322764,155046006,Migraine,SNOMED,SM,FALSE
+40322765,155047002,Migraine with aura,SNOMED,SM,FALSE
+40322766,155048007,(Cluster headaches) or (migrainous neuralgia) or (migraine NOS),SNOMED,SM,FALSE
+40326381,162209005,Headache (& [C/O]),SNOMED,SM,FALSE
+40326382,162210000,Sinus headache,SNOMED,SM,FALSE
+40326905,162300006,Unilateral headache,SNOMED,SM,FALSE
+40326908,162302003,(Frontal headache) or (pain in sinuses),SNOMED,SM,FALSE
+40351924,267699004,(Cluster headaches) or (migrainous neuralgia) or (migraine NOS),SNOMED,SM,FALSE
+40386406,192028000,Headache: [muscular] or [tension],SNOMED,SM,FALSE
+40388345,192435004,[X] Somatoform pain disorder (& [persistent] or [psychalgia] or [psychogenic backache] or [psychogenic headache]),SNOMED,SM,FALSE
+40389366,194493009,[X]Other migraine,SNOMED,SM,FALSE
+40389367,194494003,[X]Other specified headache syndromes,SNOMED,SM,FALSE
+40389374,194500004,"[X]Vascular headache, not elsewhere classified",SNOMED,SM,FALSE
+40389376,194501000,"[X]Drug-induced headache, not elsewhere classified",SNOMED,SM,FALSE
+40391069,193027003,Atypical migraine,SNOMED,SM,FALSE
+40391075,193032002,Cluster headache syndrome,SNOMED,SM,FALSE
+40391076,193033007,Ophthalmic migraine,SNOMED,SM,FALSE
+40391077,193034001,Cluster headache syndrome,SNOMED,SM,FALSE
+40391078,193035000,Tension-type headache,SNOMED,SM,FALSE
+40391499,193081000,Chronic post-traumatic headache,SNOMED,SM,FALSE
+40391502,193084008,"[X]Drug-induced headache, not elsewhere classified",SNOMED,SM,FALSE
+40391503,193085009,"[X]Vascular headache, not elsewhere classified",SNOMED,SM,FALSE
+40398583,198407008,(Premenstrual tension syndrome) or (migraine - menstrual),SNOMED,SM,FALSE
+40412828,210944005,(Traumatic brain damage) or (post traumatic headache) or (late effect of intracranial injury NOS),SNOMED,SM,FALSE
+40436719,230469006,Tension-type headache,SNOMED,SM,FALSE
+40482953,445322004,Migraine variant with headache,SNOMED,SM,FALSE
+40483832,445511002,Orthostatic headache,SNOMED,SM,FALSE
+40539358,363558001,Drug product - agent for migraine,SNOMED,SM,FALSE
+40545775,366967004,Sinus headache,SNOMED,SM,FALSE
+40546683,367191001,Sinus headache,SNOMED,SM,FALSE
+40572151,395602009,Headache disorder,SNOMED,SM,FALSE
+40572152,395603004,Benign coital headache,SNOMED,SM,FALSE
+40603212,55865003,Cluster headache,SNOMED,SM,FALSE
+42534990,124001000119104,Common migraine with status migrainosus,SNOMED,SM,FALSE
+42535403,290431000119101,Intractable headache following trauma,SNOMED,SM,FALSE
+42535410,290531000119102,Intractable chronic tension headache,SNOMED,SM,FALSE
+42538611,762353009,Acute headache due to traumatic injury of head,SNOMED,SM,FALSE
+42538612,762354003,Persistent headache due to and following injury of head,SNOMED,SM,FALSE
+42538788,762592003,Chronic primary headache,SNOMED,SM,FALSE
+42539583,735938006,Acute headache,SNOMED,SM,FALSE
+43530640,122711000119109,Hypnic headache,SNOMED,SM,FALSE
+43530641,122731000119104,Primary thunderclap headache,SNOMED,SM,FALSE
+43530648,121021000119105,New daily persistent headache,SNOMED,SM,FALSE
+43530652,124171000119105,Chronic intractable migraine without aura,SNOMED,SM,FALSE
+43530760,571000119103,Daily headache,SNOMED,SM,FALSE
+43531613,145611000119107,Allergic migraine,SNOMED,SM,FALSE
+44782470,699314009,Migraine with persistent visual aura,SNOMED,SM,FALSE
+44782681,122751000119105,Acute posttraumatic headache,SNOMED,SM,FALSE
+44782806,698803006,Medication overuse headache,SNOMED,SM,FALSE
+44783586,699694000,Chronic post-concussion headache,SNOMED,SM,FALSE
+44790934,248661000000105,Increased frequency of headaches,SNOMED,SM,FALSE
+44796213,418301000000106,"[X]Drug-induced headache, not elsewhere classified",SNOMED,SM,FALSE
+44798513,444251000000103,[X]Other migraine,SNOMED,SM,FALSE
+44799060,456201000000105,[X]Other specified headache syndromes,SNOMED,SM,FALSE
+44800941,466441000000100,"[X]Vascular headache, not elsewhere classified",SNOMED,SM,FALSE
+44804712,781381000000100,Migraine induced by oestrogen contraceptive,SNOMED,SM,FALSE
+44805223,784541000000101,Infrequent episodic tension-type headache,SNOMED,SM,FALSE
+44805338,785471000000105,Frequent episodic tension-type headache,SNOMED,SM,FALSE
+44813222,497101000000107,[D]Headache,SNOMED,SM,FALSE
+44819581,339.01,Episodic cluster headache,ICD9CM,09,FALSE
+44819581,33901,Episodic cluster headache,ICD9CM,09,TRUE
+44819582,339.42,New daily persistent headache,ICD9CM,09,FALSE
+44819582,33942,New daily persistent headache,ICD9CM,09,TRUE
+44819588,346.5,Persistent migraine aura without cerebral infarction,ICD9CM,09,FALSE
+44819588,3465,Persistent migraine aura without cerebral infarction,ICD9CM,09,TRUE
+44819589,346.52,"Persistent migraine aura without cerebral infarction, without mention of intractable migraine with status migrainosus",ICD9CM,09,FALSE
+44819589,34652,"Persistent migraine aura without cerebral infarction, without mention of intractable migraine with status migrainosus",ICD9CM,09,TRUE
+44819590,346.60,"Persistent migraine aura with cerebral infarction, without mention of intractable migraine without mention of status migrainosus",ICD9CM,09,FALSE
+44819590,34660,"Persistent migraine aura with cerebral infarction, without mention of intractable migraine without mention of status migrainosus",ICD9CM,09,TRUE
+44819591,346.83,"Other forms of migraine, with intractable migraine, so stated, with status migrainosus",ICD9CM,09,FALSE
+44819591,34683,"Other forms of migraine, with intractable migraine, so stated, with status migrainosus",ICD9CM,09,TRUE
+44819592,346.9,"Migraine, unspecified",ICD9CM,09,FALSE
+44819592,3469,"Migraine, unspecified",ICD9CM,09,TRUE
+44820760,339.3,"Drug induced headache, not elsewhere classified",ICD9CM,09,FALSE
+44820760,3393,"Drug induced headache, not elsewhere classified",ICD9CM,09,TRUE
+44821851,339.21,Acute post-traumatic headache,ICD9CM,09,FALSE
+44821851,33921,Acute post-traumatic headache,ICD9CM,09,TRUE
+44821854,346.23,"Variants of migraine, not elsewhere classified, with intractable migraine, so stated, with status migrainosus",ICD9CM,09,FALSE
+44821854,34623,"Variants of migraine, not elsewhere classified, with intractable migraine, so stated, with status migrainosus",ICD9CM,09,TRUE
+44821855,346.51,"Persistent migraine aura without cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus",ICD9CM,09,FALSE
+44821855,34651,"Persistent migraine aura without cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus",ICD9CM,09,TRUE
+44821856,346.53,"Persistent migraine aura without cerebral infarction, with intractable migraine, so stated, with status migrainosus",ICD9CM,09,FALSE
+44821856,34653,"Persistent migraine aura without cerebral infarction, with intractable migraine, so stated, with status migrainosus",ICD9CM,09,TRUE
+44823018,339.8,Other specified headache syndromes,ICD9CM,09,FALSE
+44823018,3398,Other specified headache syndromes,ICD9CM,09,TRUE
+44823027,346.6,Persistent migraine aura with cerebral infarction,ICD9CM,09,FALSE
+44823027,3466,Persistent migraine aura with cerebral infarction,ICD9CM,09,TRUE
+44823028,346.70,"Chronic migraine without aura, without mention of intractable migraine without mention of status migrainosus",ICD9CM,09,FALSE
+44823028,34670,"Chronic migraine without aura, without mention of intractable migraine without mention of status migrainosus",ICD9CM,09,TRUE
+44823029,346.82,"Other forms of migraine, without mention of intractable migraine with status migrainosus",ICD9CM,09,FALSE
+44823029,34682,"Other forms of migraine, without mention of intractable migraine with status migrainosus",ICD9CM,09,TRUE
+44824155,339.10,"Tension type headache, unspecified",ICD9CM,09,FALSE
+44824155,33910,"Tension type headache, unspecified",ICD9CM,09,TRUE
+44824156,339.2,Post-traumatic headache,ICD9CM,09,FALSE
+44824156,3392,Post-traumatic headache,ICD9CM,09,TRUE
+44824161,346.01,"Migraine with aura, with intractable migraine, so stated, without mention of status migrainosus",ICD9CM,09,FALSE
+44824161,34601,"Migraine with aura, with intractable migraine, so stated, without mention of status migrainosus",ICD9CM,09,TRUE
+44824162,346.50,"Persistent migraine aura without cerebral infarction, without mention of intractable migraine without mention of status migrainosus",ICD9CM,09,FALSE
+44824162,34650,"Persistent migraine aura without cerebral infarction, without mention of intractable migraine without mention of status migrainosus",ICD9CM,09,TRUE
+44824163,346.62,"Persistent migraine aura with cerebral infarction, without mention of intractable migraine with status migrainosus",ICD9CM,09,FALSE
+44824163,34662,"Persistent migraine aura with cerebral infarction, without mention of intractable migraine with status migrainosus",ICD9CM,09,TRUE
+44824164,346.7,Chronic migraine without aura,ICD9CM,09,FALSE
+44824164,3467,Chronic migraine without aura,ICD9CM,09,TRUE
+44824165,346.81,"Other forms of migraine, with intractable migraine, so stated, without mention of status migrainosus",ICD9CM,09,FALSE
+44824165,34681,"Other forms of migraine, with intractable migraine, so stated, without mention of status migrainosus",ICD9CM,09,TRUE
+44825333,339.82,Headache associated with sexual activity,ICD9CM,09,FALSE
+44825333,33982,Headache associated with sexual activity,ICD9CM,09,TRUE
+44825340,346.1,Migraine without aura,ICD9CM,09,FALSE
+44825340,3461,Migraine without aura,ICD9CM,09,TRUE
+44825341,346.43,"Menstrual migraine, with intractable migraine, so stated, with status migrainosus",ICD9CM,09,FALSE
+44825341,34643,"Menstrual migraine, with intractable migraine, so stated, with status migrainosus",ICD9CM,09,TRUE
+44825342,346.90,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus",ICD9CM,09,FALSE
+44825342,34690,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus",ICD9CM,09,TRUE
+44826548,339,Other headache syndromes,ICD9CM,09,FALSE
+44826549,339.0,Cluster headaches and other trigeminal autonomic cephalgias,ICD9CM,09,FALSE
+44826549,3390,Cluster headaches and other trigeminal autonomic cephalgias,ICD9CM,09,TRUE
+44826550,339.89,Other headache syndromes,ICD9CM,09,FALSE
+44826550,33989,Other headache syndromes,ICD9CM,09,TRUE
+44826557,346.02,"Migraine with aura, without mention of intractable migraine with status migrainosus",ICD9CM,09,FALSE
+44826557,34602,"Migraine with aura, without mention of intractable migraine with status migrainosus",ICD9CM,09,TRUE
+44827698,346.10,"Migraine without aura, without mention of intractable migraine without mention of status migrainosus",ICD9CM,09,FALSE
+44827698,34610,"Migraine without aura, without mention of intractable migraine without mention of status migrainosus",ICD9CM,09,TRUE
+44827699,346.11,"Migraine without aura, with intractable migraine, so stated, without mention of status migrainosus",ICD9CM,09,FALSE
+44827699,34611,"Migraine without aura, with intractable migraine, so stated, without mention of status migrainosus",ICD9CM,09,TRUE
+44827700,346.92,"Migraine, unspecified, without mention of intractable migraine with status migrainosus",ICD9CM,09,FALSE
+44827700,34692,"Migraine, unspecified, without mention of intractable migraine with status migrainosus",ICD9CM,09,TRUE
+44828866,339.1,Tension type headache,ICD9CM,09,FALSE
+44828866,3391,Tension type headache,ICD9CM,09,TRUE
+44828878,346.12,"Migraine without aura, without mention of intractable migraine with status migrainosus",ICD9CM,09,FALSE
+44828878,34612,"Migraine without aura, without mention of intractable migraine with status migrainosus",ICD9CM,09,TRUE
+44828879,346.3,Hemiplegic migraine,ICD9CM,09,FALSE
+44828879,3463,Hemiplegic migraine,ICD9CM,09,TRUE
+44828880,346.33,"Hemiplegic migraine, with intractable migraine, so stated, with status migrainosus",ICD9CM,09,FALSE
+44828880,34633,"Hemiplegic migraine, with intractable migraine, so stated, with status migrainosus",ICD9CM,09,TRUE
+44829961,339.20,"Post-traumatic headache, unspecified",ICD9CM,09,FALSE
+44829961,33920,"Post-traumatic headache, unspecified",ICD9CM,09,TRUE
+44829962,339.43,Primary thunderclap headache,ICD9CM,09,FALSE
+44829962,33943,Primary thunderclap headache,ICD9CM,09,TRUE
+44829963,339.83,Primary cough headache,ICD9CM,09,FALSE
+44829963,33983,Primary cough headache,ICD9CM,09,TRUE
+44829964,339.84,Primary exertional headache,ICD9CM,09,FALSE
+44829964,33984,Primary exertional headache,ICD9CM,09,TRUE
+44829973,346,Migraine,ICD9CM,09,FALSE
+44829974,346.03,"Migraine with aura, with intractable migraine, so stated, with status migrainosus",ICD9CM,09,FALSE
+44829974,34603,"Migraine with aura, with intractable migraine, so stated, with status migrainosus",ICD9CM,09,TRUE
+44829975,346.2,"Variants of migraine, not elsewhere classified",ICD9CM,09,FALSE
+44829975,3462,"Variants of migraine, not elsewhere classified",ICD9CM,09,TRUE
+44829976,346.20,"Variants of migraine, not elsewhere classified, without mention of intractable migraine without mention of status migrainosus",ICD9CM,09,FALSE
+44829976,34620,"Variants of migraine, not elsewhere classified, without mention of intractable migraine without mention of status migrainosus",ICD9CM,09,TRUE
+44829977,346.31,"Hemiplegic migraine, with intractable migraine, so stated, without mention of status migrainosus",ICD9CM,09,FALSE
+44829977,34631,"Hemiplegic migraine, with intractable migraine, so stated, without mention of status migrainosus",ICD9CM,09,TRUE
+44829978,346.32,"Hemiplegic migraine, without mention of intractable migraine with status migrainosus",ICD9CM,09,FALSE
+44829978,34632,"Hemiplegic migraine, without mention of intractable migraine with status migrainosus",ICD9CM,09,TRUE
+44829979,346.4,Menstrual migraine,ICD9CM,09,FALSE
+44829979,3464,Menstrual migraine,ICD9CM,09,TRUE
+44829980,346.41,"Menstrual migraine, with intractable migraine, so stated, without mention of status migrainosus",ICD9CM,09,FALSE
+44829980,34641,"Menstrual migraine, with intractable migraine, so stated, without mention of status migrainosus",ICD9CM,09,TRUE
+44829981,346.42,"Menstrual migraine, without mention of intractable migraine with status migrainosus",ICD9CM,09,FALSE
+44829981,34642,"Menstrual migraine, without mention of intractable migraine with status migrainosus",ICD9CM,09,TRUE
+44829982,346.71,"Chronic migraine without aura, with intractable migraine, so stated, without mention of status migrainosus",ICD9CM,09,FALSE
+44829982,34671,"Chronic migraine without aura, with intractable migraine, so stated, without mention of status migrainosus",ICD9CM,09,TRUE
+44829983,346.80,"Other forms of migraine, without mention of intractable migraine without mention of status migrainosus",ICD9CM,09,FALSE
+44829983,34680,"Other forms of migraine, without mention of intractable migraine without mention of status migrainosus",ICD9CM,09,TRUE
+44831128,339.02,Chronic cluster headache,ICD9CM,09,FALSE
+44831128,33902,Chronic cluster headache,ICD9CM,09,TRUE
+44831130,346.40,"Menstrual migraine, without mention of intractable migraine without mention of status migrainosus",ICD9CM,09,FALSE
+44831130,34640,"Menstrual migraine, without mention of intractable migraine without mention of status migrainosus",ICD9CM,09,TRUE
+44831131,346.8,Other forms of migraine,ICD9CM,09,FALSE
+44831131,3468,Other forms of migraine,ICD9CM,09,TRUE
+44831132,346.93,"Migraine, unspecified, with intractable migraine, so stated, with status migrainosus",ICD9CM,09,FALSE
+44831132,34693,"Migraine, unspecified, with intractable migraine, so stated, with status migrainosus",ICD9CM,09,TRUE
+44832271,339.05,Short lasting unilateral neuralgiform headache with conjunctival injection and tearing,ICD9CM,09,FALSE
+44832271,33905,Short lasting unilateral neuralgiform headache with conjunctival injection and tearing,ICD9CM,09,TRUE
+44832272,339.12,Chronic tension type headache,ICD9CM,09,FALSE
+44832272,33912,Chronic tension type headache,ICD9CM,09,TRUE
+44832273,339.22,Chronic post-traumatic headache,ICD9CM,09,FALSE
+44832273,33922,Chronic post-traumatic headache,ICD9CM,09,TRUE
+44832280,346.30,"Hemiplegic migraine, without mention of intractable migraine without mention of status migrainosus",ICD9CM,09,FALSE
+44832280,34630,"Hemiplegic migraine, without mention of intractable migraine without mention of status migrainosus",ICD9CM,09,TRUE
+44832281,346.73,"Chronic migraine without aura, with intractable migraine, so stated, with status migrainosus",ICD9CM,09,FALSE
+44832281,34673,"Chronic migraine without aura, with intractable migraine, so stated, with status migrainosus",ICD9CM,09,TRUE
+44833438,339.00,"Cluster headache syndrome, unspecified",ICD9CM,09,FALSE
+44833438,33900,"Cluster headache syndrome, unspecified",ICD9CM,09,TRUE
+44833440,339.81,Hypnic headache,ICD9CM,09,FALSE
+44833440,33981,Hypnic headache,ICD9CM,09,TRUE
+44833445,346.63,"Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, with status migrainosus",ICD9CM,09,FALSE
+44833445,34663,"Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, with status migrainosus",ICD9CM,09,TRUE
+44833446,346.91,"Migraine, unspecified, with intractable migraine, so stated, without mention of status migrainosus",ICD9CM,09,FALSE
+44833446,34691,"Migraine, unspecified, with intractable migraine, so stated, without mention of status migrainosus",ICD9CM,09,TRUE
+44834636,346.00,"Migraine with aura, without mention of intractable migraine without mention of status migrainosus",ICD9CM,09,FALSE
+44834636,34600,"Migraine with aura, without mention of intractable migraine without mention of status migrainosus",ICD9CM,09,TRUE
+44834637,346.22,"Variants of migraine, not elsewhere classified, without mention of intractable migraine with status migrainosus",ICD9CM,09,FALSE
+44834637,34622,"Variants of migraine, not elsewhere classified, without mention of intractable migraine with status migrainosus",ICD9CM,09,TRUE
+44835832,339.11,Episodic tension type headache,ICD9CM,09,FALSE
+44835832,33911,Episodic tension type headache,ICD9CM,09,TRUE
+44835833,339.44,Other complicated headache syndrome,ICD9CM,09,FALSE
+44835833,33944,Other complicated headache syndrome,ICD9CM,09,TRUE
+44835841,346.0,Migraine with aura,ICD9CM,09,FALSE
+44835841,3460,Migraine with aura,ICD9CM,09,TRUE
+44835842,346.13,"Migraine without aura, with intractable migraine, so stated, with status migrainosus",ICD9CM,09,FALSE
+44835842,34613,"Migraine without aura, with intractable migraine, so stated, with status migrainosus",ICD9CM,09,TRUE
+44835843,346.21,"Variants of migraine, not elsewhere classified, with intractable migraine, so stated, without mention of status migrainosus",ICD9CM,09,FALSE
+44835843,34621,"Variants of migraine, not elsewhere classified, with intractable migraine, so stated, without mention of status migrainosus",ICD9CM,09,TRUE
+44836293,784.0,Headache,ICD9CM,09,FALSE
+44836293,7840,Headache,ICD9CM,09,TRUE
+44836987,307.81,Tension headache,ICD9CM,09,FALSE
+44836987,30781,Tension headache,ICD9CM,09,TRUE
+44837007,339.4,Complicated headache syndromes,ICD9CM,09,FALSE
+44837007,3394,Complicated headache syndromes,ICD9CM,09,TRUE
+44837008,339.85,Primary stabbing headache,ICD9CM,09,FALSE
+44837008,33985,Primary stabbing headache,ICD9CM,09,TRUE
+44837013,346.61,"Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus",ICD9CM,09,FALSE
+44837013,34661,"Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus",ICD9CM,09,TRUE
+44837014,346.72,"Chronic migraine without aura, without mention of intractable migraine with status migrainosus",ICD9CM,09,FALSE
+44837014,34672,"Chronic migraine without aura, without mention of intractable migraine with status migrainosus",ICD9CM,09,TRUE
+45533136,G43.009,"Migraine without aura, not intractable, without status migrainosus",ICD10CM,10,FALSE
+45533136,G43009,"Migraine without aura, not intractable, without status migrainosus",ICD10CM,10,TRUE
+45533137,G43.509,"Persistent migraine aura without cerebral infarction, not intractable, without status migrainosus",ICD10CM,10,FALSE
+45533137,G43509,"Persistent migraine aura without cerebral infarction, not intractable, without status migrainosus",ICD10CM,10,TRUE
+45533138,G43.701,"Chronic migraine without aura, not intractable, with status migrainosus",ICD10CM,10,FALSE
+45533138,G43701,"Chronic migraine without aura, not intractable, with status migrainosus",ICD10CM,10,TRUE
+45533141,G44.0,Cluster headache syndrome,ICD10,10,FALSE
+45533141,G440,Cluster headache syndrome,ICD10,10,TRUE
+45533142,G44.019,"Episodic cluster headache, not intractable",ICD10CM,10,FALSE
+45533142,G44019,"Episodic cluster headache, not intractable",ICD10CM,10,TRUE
+45533144,G44.89,Other headache syndrome,ICD10CM,10,FALSE
+45533144,G4489,Other headache syndrome,ICD10CM,10,TRUE
+45538108,G43.011,"Migraine without aura, intractable, with status migrainosus",ICD10CM,10,FALSE
+45538108,G43011,"Migraine without aura, intractable, with status migrainosus",ICD10CM,10,TRUE
+45538109,G43.409,"Hemiplegic migraine, not intractable, without status migrainosus",ICD10CM,10,FALSE
+45538109,G43409,"Hemiplegic migraine, not intractable, without status migrainosus",ICD10CM,10,TRUE
+45538110,G43.419,"Hemiplegic migraine, intractable, without status migrainosus",ICD10CM,10,FALSE
+45538110,G43419,"Hemiplegic migraine, intractable, without status migrainosus",ICD10CM,10,TRUE
+45538111,G43.819,"Other migraine, intractable, without status migrainosus",ICD10CM,10,FALSE
+45538111,G43819,"Other migraine, intractable, without status migrainosus",ICD10CM,10,TRUE
+45538112,G43.A0,"Cyclical vomiting, in migraine, not intractable",ICD10CM,10,FALSE
+45538112,G43A0,"Cyclical vomiting, in migraine, not intractable",ICD10CM,10,TRUE
+45538113,G43.B09,"Ophthalmoplegic migraine, not intractable, without status migrainosus",ICD10CM,10,FALSE
+45538113,G43B09,"Ophthalmoplegic migraine, not intractable, without status migrainosus",ICD10CM,10,TRUE
+45538114,G43.B1,"Ophthalmoplegic migraine, intractable",ICD10CM,10,FALSE
+45538114,G43B1,"Ophthalmoplegic migraine, intractable",ICD10CM,10,TRUE
+45538115,G43.C1,"Periodic headache syndromes in child or adult, intractable",ICD10CM,10,FALSE
+45538115,G43C1,"Periodic headache syndromes in child or adult, intractable",ICD10CM,10,TRUE
+45538116,G43.D09,"Menstrual migraine, not intractable, without status migrainosus",ICD10CM,10,FALSE
+45538116,G43D09,"Menstrual migraine, not intractable, without status migrainosus",ICD10CM,10,TRUE
+45538117,G44.311,"Acute post-traumatic headache, intractable",ICD10CM,10,FALSE
+45538117,G44311,"Acute post-traumatic headache, intractable",ICD10CM,10,TRUE
+45538118,G44.329,"Chronic post-traumatic headache, not intractable",ICD10CM,10,FALSE
+45538118,G44329,"Chronic post-traumatic headache, not intractable",ICD10CM,10,TRUE
+45538119,G44.40,"Drug-induced headache, not elsewhere classified, not intractable",ICD10CM,10,FALSE
+45538119,G4440,"Drug-induced headache, not elsewhere classified, not intractable",ICD10CM,10,TRUE
+45542887,G43.901,"Migraine, unspecified, not intractable, with status migrainosus",ICD10CM,10,FALSE
+45542887,G43901,"Migraine, unspecified, not intractable, with status migrainosus",ICD10CM,10,TRUE
+45542888,G44.051,"Short lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT), intractable",ICD10CM,10,FALSE
+45542888,G44051,"Short lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT), intractable",ICD10CM,10,TRUE
+45542889,G44.201,"Tension-type headache, unspecified, intractable",ICD10CM,10,FALSE
+45542889,G44201,"Tension-type headache, unspecified, intractable",ICD10CM,10,TRUE
+45542890,G44.229,"Chronic tension-type headache, not intractable",ICD10CM,10,FALSE
+45542890,G44229,"Chronic tension-type headache, not intractable",ICD10CM,10,TRUE
+45542891,G44.321,"Chronic post-traumatic headache, intractable",ICD10CM,10,FALSE
+45542891,G44321,"Chronic post-traumatic headache, intractable",ICD10CM,10,TRUE
+45547732,G43.401,"Hemiplegic migraine, not intractable, with status migrainosus",ICD10CM,10,FALSE
+45547732,G43401,"Hemiplegic migraine, not intractable, with status migrainosus",ICD10CM,10,TRUE
+45547733,G43.601,"Persistent migraine aura with cerebral infarction, not intractable, with status migrainosus",ICD10CM,10,FALSE
+45547733,G43601,"Persistent migraine aura with cerebral infarction, not intractable, with status migrainosus",ICD10CM,10,TRUE
+45547734,G43.619,"Persistent migraine aura with cerebral infarction, intractable, without status migrainosus",ICD10CM,10,FALSE
+45547734,G43619,"Persistent migraine aura with cerebral infarction, intractable, without status migrainosus",ICD10CM,10,TRUE
+45547735,G43.B0,"Ophthalmoplegic migraine, not intractable",ICD10CM,10,FALSE
+45547735,G43B0,"Ophthalmoplegic migraine, not intractable",ICD10CM,10,TRUE
+45547738,G44.209,"Tension-type headache, unspecified, not intractable",ICD10CM,10,FALSE
+45547738,G44209,"Tension-type headache, unspecified, not intractable",ICD10CM,10,TRUE
+45547739,G44.21,Episodic tension-type headache,ICD10CM,10,FALSE
+45547739,G4421,Episodic tension-type headache,ICD10CM,10,TRUE
+45547740,G44.41,"Drug-induced headache, not elsewhere classified, intractable",ICD10CM,10,FALSE
+45547740,G4441,"Drug-induced headache, not elsewhere classified, intractable",ICD10CM,10,TRUE
+45547741,G44.8,Other specified headache syndromes,ICD10,10,FALSE
+45547741,G448,Other specified headache syndromes,ICD10,10,TRUE
+45552527,G43.119,"Migraine with aura, intractable, without status migrainosus",ICD10CM,10,FALSE
+45552527,G43119,"Migraine with aura, intractable, without status migrainosus",ICD10CM,10,TRUE
+45552528,G43.801,"Other migraine, not intractable, with status migrainosus",ICD10CM,10,FALSE
+45552528,G43801,"Other migraine, not intractable, with status migrainosus",ICD10CM,10,TRUE
+45552529,G43.B01,"Ophthalmoplegic migraine, not intractable, with status migrainosus",ICD10CM,10,FALSE
+45552529,G43B01,"Ophthalmoplegic migraine, not intractable, with status migrainosus",ICD10CM,10,TRUE
+45552531,G44.10,"Vascular headache, not elsewhere classified, not intractable",ICD10CM,10,FALSE
+45552531,G4410,"Vascular headache, not elsewhere classified, not intractable",ICD10CM,10,TRUE
+45552532,G44.32,Chronic post-traumatic headache,ICD10CM,10,FALSE
+45552532,G4432,Chronic post-traumatic headache,ICD10CM,10,TRUE
+45557236,G43.019,"Migraine without aura, intractable, without status migrainosus",ICD10CM,10,FALSE
+45557236,G43019,"Migraine without aura, intractable, without status migrainosus",ICD10CM,10,TRUE
+45557237,G43.811,"Other migraine, intractable, with status migrainosus",ICD10CM,10,FALSE
+45557237,G43811,"Other migraine, intractable, with status migrainosus",ICD10CM,10,TRUE
+45557238,G43.911,"Migraine, unspecified, intractable, with status migrainosus",ICD10CM,10,FALSE
+45557238,G43911,"Migraine, unspecified, intractable, with status migrainosus",ICD10CM,10,TRUE
+45558474,R51,Headache,ICD10,10,FALSE
+45562086,G43.1,Migraine with aura [classical migraine],ICD10,10,FALSE
+45562086,G431,Migraine with aura [classical migraine],ICD10,10,TRUE
+45562087,G43.109,"Migraine with aura, not intractable, without status migrainosus",ICD10CM,10,FALSE
+45562087,G43109,"Migraine with aura, not intractable, without status migrainosus",ICD10CM,10,TRUE
+45562088,G43.4,Hemiplegic migraine,ICD10CM,10,FALSE
+45562088,G434,Hemiplegic migraine,ICD10CM,10,TRUE
+45562090,G43.C11,"Periodic headache syndromes in child or adult, intractable, with status migrainosus",ICD10CM,10,FALSE
+45562090,G43C11,"Periodic headache syndromes in child or adult, intractable, with status migrainosus",ICD10CM,10,TRUE
+45562091,G44.22,Chronic tension-type headache,ICD10CM,10,FALSE
+45562091,G4422,Chronic tension-type headache,ICD10CM,10,TRUE
+45566873,G43,Migraine,ICD10,10,FALSE
+45566874,G43.001,"Migraine without aura, not intractable, with status migrainosus",ICD10CM,10,FALSE
+45566874,G43001,"Migraine without aura, not intractable, with status migrainosus",ICD10CM,10,TRUE
+45566875,G43.111,"Migraine with aura, intractable, with status migrainosus",ICD10CM,10,FALSE
+45566875,G43111,"Migraine with aura, intractable, with status migrainosus",ICD10CM,10,TRUE
+45566876,G43.B,Ophthalmoplegic migraine,ICD10CM,10,FALSE
+45566876,G43B,Ophthalmoplegic migraine,ICD10CM,10,TRUE
+45566877,G43.B11,"Ophthalmoplegic migraine, intractable, with status migrainosus",ICD10CM,10,FALSE
+45566877,G43B11,"Ophthalmoplegic migraine, intractable, with status migrainosus",ICD10CM,10,TRUE
+45566878,G44.001,"Cluster headache syndrome, unspecified, intractable",ICD10CM,10,FALSE
+45566878,G44001,"Cluster headache syndrome, unspecified, intractable",ICD10CM,10,TRUE
+45566879,G44.02,Chronic cluster headache,ICD10CM,10,FALSE
+45566879,G4402,Chronic cluster headache,ICD10CM,10,TRUE
+45566880,G44.211,"Episodic tension-type headache, intractable",ICD10CM,10,FALSE
+45566880,G44211,"Episodic tension-type headache, intractable",ICD10CM,10,TRUE
+45566881,G44.219,"Episodic tension-type headache, not intractable",ICD10CM,10,FALSE
+45566881,G44219,"Episodic tension-type headache, not intractable",ICD10CM,10,TRUE
+45566882,G44.309,"Post-traumatic headache, unspecified, not intractable",ICD10CM,10,FALSE
+45566882,G44309,"Post-traumatic headache, unspecified, not intractable",ICD10CM,10,TRUE
+45571802,G43.821,"Menstrual migraine, not intractable, with status migrainosus",ICD10CM,10,FALSE
+45571802,G43821,"Menstrual migraine, not intractable, with status migrainosus",ICD10CM,10,TRUE
+45571803,G43.829,"Menstrual migraine, not intractable, without status migrainosus",ICD10CM,10,FALSE
+45571803,G43829,"Menstrual migraine, not intractable, without status migrainosus",ICD10CM,10,TRUE
+45571804,G43.831,"Menstrual migraine, intractable, with status migrainosus",ICD10CM,10,FALSE
+45571804,G43831,"Menstrual migraine, intractable, with status migrainosus",ICD10CM,10,TRUE
+45571805,G43.919,"Migraine, unspecified, intractable, without status migrainosus",ICD10CM,10,FALSE
+45571805,G43919,"Migraine, unspecified, intractable, without status migrainosus",ICD10CM,10,TRUE
+45571806,G43.C09,"Periodic headache syndromes in child or adult, not intractable, without status migrainosus",ICD10CM,10,FALSE
+45571806,G43C09,"Periodic headache syndromes in child or adult, not intractable, without status migrainosus",ICD10CM,10,TRUE
+45571807,G44.029,"Chronic cluster headache, not intractable",ICD10CM,10,FALSE
+45571807,G44029,"Chronic cluster headache, not intractable",ICD10CM,10,TRUE
+45571808,G44.1,"Vascular headache, not elsewhere classified",ICD10,10,FALSE
+45571808,G441,"Vascular headache, not elsewhere classified",ICD10,10,TRUE
+45576576,G43.3,Complicated migraine,ICD10,10,FALSE
+45576576,G433,Complicated migraine,ICD10,10,TRUE
+45576577,G43.C19,"Periodic headache syndromes in child or adult, intractable, without status migrainosus",ICD10CM,10,FALSE
+45576577,G43C19,"Periodic headache syndromes in child or adult, intractable, without status migrainosus",ICD10CM,10,TRUE
+45576578,G43.D11,"Menstrual migraine, intractable, with status migrainosus",ICD10CM,10,FALSE
+45576578,G43D11,"Menstrual migraine, intractable, with status migrainosus",ICD10CM,10,TRUE
+45576582,G44.301,"Post-traumatic headache, unspecified, intractable",ICD10CM,10,FALSE
+45576582,G44301,"Post-traumatic headache, unspecified, intractable",ICD10CM,10,TRUE
+45576583,G44.52,New daily persistent headache (NDPH),ICD10CM,10,FALSE
+45576583,G4452,New daily persistent headache (NDPH),ICD10CM,10,TRUE
+45576584,G44.83,Primary cough headache,ICD10CM,10,FALSE
+45576584,G4483,Primary cough headache,ICD10CM,10,TRUE
+45576585,G44.85,Primary stabbing headache,ICD10CM,10,FALSE
+45576585,G4485,Primary stabbing headache,ICD10CM,10,TRUE
+45581491,G43.711,"Chronic migraine without aura, intractable, with status migrainosus",ICD10CM,10,FALSE
+45581491,G43711,"Chronic migraine without aura, intractable, with status migrainosus",ICD10CM,10,TRUE
+45581494,G43.C01,"Periodic headache syndromes in child or adult, not intractable, with status migrainosus",ICD10CM,10,FALSE
+45581494,G43C01,"Periodic headache syndromes in child or adult, not intractable, with status migrainosus",ICD10CM,10,TRUE
+45581495,G44.2,Tension-type headache,ICD10,10,FALSE
+45581495,G442,Tension-type headache,ICD10,10,TRUE
+45581496,G44.3,Chronic post-traumatic headache,ICD10,10,FALSE
+45581496,G443,Chronic post-traumatic headache,ICD10,10,TRUE
+45586289,G43.411,"Hemiplegic migraine, intractable, with status migrainosus",ICD10CM,10,FALSE
+45586289,G43411,"Hemiplegic migraine, intractable, with status migrainosus",ICD10CM,10,TRUE
+45586290,G43.501,"Persistent migraine aura without cerebral infarction, not intractable, with status migrainosus",ICD10CM,10,FALSE
+45586290,G43501,"Persistent migraine aura without cerebral infarction, not intractable, with status migrainosus",ICD10CM,10,TRUE
+45586291,G43.519,"Persistent migraine aura without cerebral infarction, intractable, without status migrainosus",ICD10CM,10,FALSE
+45586291,G43519,"Persistent migraine aura without cerebral infarction, intractable, without status migrainosus",ICD10CM,10,TRUE
+45586292,G43.809,"Other migraine, not intractable, without status migrainosus",ICD10CM,10,FALSE
+45586292,G43809,"Other migraine, not intractable, without status migrainosus",ICD10CM,10,TRUE
+45586293,G44.01,Episodic cluster headache,ICD10CM,10,FALSE
+45586293,G4401,Episodic cluster headache,ICD10CM,10,TRUE
+45586294,G44.53,Primary thunderclap headache,ICD10CM,10,FALSE
+45586294,G4453,Primary thunderclap headache,ICD10CM,10,TRUE
+45586295,G44.82,Headache associated with sexual activity,ICD10CM,10,FALSE
+45586295,G4482,Headache associated with sexual activity,ICD10CM,10,TRUE
+45591178,G43.709,"Chronic migraine without aura, not intractable, without status migrainosus",ICD10CM,10,FALSE
+45591178,G43709,"Chronic migraine without aura, not intractable, without status migrainosus",ICD10CM,10,TRUE
+45591180,G43.B19,"Ophthalmoplegic migraine, intractable, without status migrainosus",ICD10CM,10,FALSE
+45591180,G43B19,"Ophthalmoplegic migraine, intractable, without status migrainosus",ICD10CM,10,TRUE
+45591181,G43.C0,"Periodic headache syndromes in child or adult, not intractable",ICD10CM,10,FALSE
+45591181,G43C0,"Periodic headache syndromes in child or adult, not intractable",ICD10CM,10,TRUE
+45591182,G43.D19,"Menstrual migraine, intractable, without status migrainosus",ICD10CM,10,FALSE
+45591182,G43D19,"Menstrual migraine, intractable, without status migrainosus",ICD10CM,10,TRUE
+45591184,G44.81,Hypnic headache,ICD10CM,10,FALSE
+45591184,G4481,Hypnic headache,ICD10CM,10,TRUE
+45595940,G43.511,"Persistent migraine aura without cerebral infarction, intractable, with status migrainosus",ICD10CM,10,FALSE
+45595940,G43511,"Persistent migraine aura without cerebral infarction, intractable, with status migrainosus",ICD10CM,10,TRUE
+45595941,G43.8,Other migraine,ICD10,10,FALSE
+45595941,G438,Other migraine,ICD10,10,TRUE
+45595942,G43.839,"Menstrual migraine, intractable, without status migrainosus",ICD10CM,10,FALSE
+45595942,G43839,"Menstrual migraine, intractable, without status migrainosus",ICD10CM,10,TRUE
+45595943,G43.9,"Migraine, unspecified",ICD10,10,FALSE
+45595943,G439,"Migraine, unspecified",ICD10,10,TRUE
+45595944,G43.D01,"Menstrual migraine, not intractable, with status migrainosus",ICD10CM,10,FALSE
+45595944,G43D01,"Menstrual migraine, not intractable, with status migrainosus",ICD10CM,10,TRUE
+45595945,G44.11,"Vascular headache, not elsewhere classified, intractable",ICD10CM,10,FALSE
+45595945,G4411,"Vascular headache, not elsewhere classified, intractable",ICD10CM,10,TRUE
+45595946,G44.4,"Drug-induced headache, not elsewhere classified",ICD10,10,FALSE
+45595946,G444,"Drug-induced headache, not elsewhere classified",ICD10,10,TRUE
+45600784,G43.0,Migraine without aura [common migraine],ICD10,10,FALSE
+45600784,G430,Migraine without aura [common migraine],ICD10,10,TRUE
+45600785,G43.719,"Chronic migraine without aura, intractable, without status migrainosus",ICD10CM,10,FALSE
+45600785,G43719,"Chronic migraine without aura, intractable, without status migrainosus",ICD10CM,10,TRUE
+45600786,G43.909,"Migraine, unspecified, not intractable, without status migrainosus",ICD10CM,10,FALSE
+45600786,G43909,"Migraine, unspecified, not intractable, without status migrainosus",ICD10CM,10,TRUE
+45600789,G44.59,Other complicated headache syndrome,ICD10CM,10,FALSE
+45600789,G4459,Other complicated headache syndrome,ICD10CM,10,TRUE
+45600790,G44.84,Primary exertional headache,ICD10CM,10,FALSE
+45600790,G4484,Primary exertional headache,ICD10CM,10,TRUE
+45605543,G43.101,"Migraine with aura, not intractable, with status migrainosus",ICD10CM,10,FALSE
+45605543,G43101,"Migraine with aura, not intractable, with status migrainosus",ICD10CM,10,TRUE
+45605545,G43.609,"Persistent migraine aura with cerebral infarction, not intractable, without status migrainosus",ICD10CM,10,FALSE
+45605545,G43609,"Persistent migraine aura with cerebral infarction, not intractable, without status migrainosus",ICD10CM,10,TRUE
+45605546,G43.611,"Persistent migraine aura with cerebral infarction, intractable, with status migrainosus",ICD10CM,10,FALSE
+45605546,G43611,"Persistent migraine aura with cerebral infarction, intractable, with status migrainosus",ICD10CM,10,TRUE
+45605547,G43.A1,"Cyclical vomiting, in migraine, intractable",ICD10CM,10,FALSE
+45605547,G43A1,"Cyclical vomiting, in migraine, intractable",ICD10CM,10,TRUE
+45605548,G44.009,"Cluster headache syndrome, unspecified, not intractable",ICD10CM,10,FALSE
+45605548,G44009,"Cluster headache syndrome, unspecified, not intractable",ICD10CM,10,TRUE
+45605549,G44.011,"Episodic cluster headache, intractable",ICD10CM,10,FALSE
+45605549,G44011,"Episodic cluster headache, intractable",ICD10CM,10,TRUE
+45605550,G44.021,"Chronic cluster headache, intractable",ICD10CM,10,FALSE
+45605550,G44021,"Chronic cluster headache, intractable",ICD10CM,10,TRUE
+45605552,G44.059,"Short lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT), not intractable",ICD10CM,10,FALSE
+45605552,G44059,"Short lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT), not intractable",ICD10CM,10,TRUE
+45605553,G44.221,"Chronic tension-type headache, intractable",ICD10CM,10,FALSE
+45605553,G44221,"Chronic tension-type headache, intractable",ICD10CM,10,TRUE
+45605554,G44.319,"Acute post-traumatic headache, not intractable",ICD10CM,10,FALSE
+45605554,G44319,"Acute post-traumatic headache, not intractable",ICD10CM,10,TRUE
+45755406,G44,Other headache syndromes,ICD10,10,FALSE
+45766090,703182002,Headache due to reversible cerebral vasoconstriction syndrome,SNOMED,SM,FALSE
+45772157,462677001,Headache stick,SNOMED,SM,FALSE
+46270382,294081000119102,Intractable headache caused by drug,SNOMED,SM,FALSE
+46270383,294091000119104,Headache caused by drug,SNOMED,SM,FALSE
+46273066,711545001,Migraine due to estrogen contraceptive,SNOMED,SM,FALSE

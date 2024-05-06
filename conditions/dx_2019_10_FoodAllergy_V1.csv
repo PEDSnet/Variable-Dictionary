@@ -1,0 +1,70 @@
+concept_id,concept_name,concept_code
+433644,Shellfish allergy,300913006
+438614,Allergy to nut,91934008
+442115,Allergy to fruit,91932007
+442116,Allergy to eggs,91930004
+4020878,Egg protein allergy,213020009
+4049467,Cow's milk protein sensitivity,15911003
+4093602,Soy protein sensitivity,25868003
+4115227,Chocolate allergy,300912001
+4115228,Cheese allergy,300914000
+4139681,Allergy to dairy product,425525006
+4164713,Arachis oil allergy,294317009
+4165164,Guar gum allergy,294741005
+4166327,Salmon calcitonin allergy,294840004
+4166330,Gelatin allergy,294847001
+4166470,Omega 3-marine triglycerides allergy,294969007
+4166653,Tryptophan allergy,293842000
+4166895,Allergy to cherry,418051002
+4167118,Glycine allergy,294298002
+4167293,Olive oil allergy,294316000
+4168504,Allergy to pork,417918006
+4168655,Allergy to citrus fruit,418085001
+4168824,Allergy to seed,419101002
+4168958,Allergy to oyster,419967000
+4169137,Allergy to wheat,420174000
+4170754,Allergy to coconut oil,419814004
+4170922,Allergy to carrot,420080006
+4173371,Fish oils allergy,294968004
+4188027,Food allergy,414285001
+4202273,Pollen-food allergy,432807008
+4213120,Gastrointestinal food allergy,414314005
+4219399,Allergy to fish,417532002
+4219556,Gastrointestinal disorder due to food allergy,416389007
+4239721,Allergy to seafood,91937001
+4240647,Allergy to strawberries,91938006
+4240902,Allergy to peanuts,91935009
+4240904,Allergy to walnut,91940001
+4250749,Allergy to legumes,409136006
+4301927,Allergy to apple juice,418314004
+4302189,Allergy to almond oil,418606003
+4302227,Allergy to tomato,418779002
+4302339,Allergy to red meat,418815008
+4302489,Allergy to watermelon,419298007
+4303099,Allergy to potato,419619007
+4303541,Allergy to shrimp,419972009
+4303546,Allergy to rye,418184004
+4303683,Allergy to cinnamon,418397007
+4304872,Allergy to oats,419342009
+4305041,Allergy to corn,419573007
+4305694,Allergy to lobster,418626004
+37016732,Allergy to cashew nut,712838009
+37016733,Allergy to hazelnut,712840004
+37016734,Allergy to barley,712841000
+37016735,Allergy to mollusk,712842007
+37016736,Allergy to celery,712843002
+37016737,Allergy to macadamia nut,712844008
+37016738,Allergy to lupine,712845009
+37017711,Allergy to soya,714035009
+37017854,Allergy to marine crustacean,714205005
+37017954,Allergy to banana,714332003
+37018984,Allergy to almond,712839001
+37395571,Allergy to pineapple,13511000122108
+37395578,Allergy to dietary mustard,21191000122102
+37395627,Allergy to casein,5611000122107
+40487498,Allergy to dietary mushroom,447961002
+45766689,Allergy to clam,703911000
+45766703,Allergy to bean,703925004
+45766707,Allergy to beef,703930000
+45766708,Allergy to meat,703931001
+45766709,Allergy to chicken meat,703932008

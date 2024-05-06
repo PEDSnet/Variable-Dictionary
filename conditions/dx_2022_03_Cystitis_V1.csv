@@ -1,0 +1,72 @@
+concept_id,concept_name,concept_code,vocabulary_id
+75863,Chronic interstitial cystitis,197834003,SNOMED
+193140,Acute gonococcal cystitis,24868007,SNOMED
+194081,Acute cystitis,68226007,SNOMED
+195588,Cystitis,38822007,SNOMED
+195743,Diphtheritic cystitis,48278001,SNOMED
+196338,Chronic gonococcal cystitis,88813005,SNOMED
+198674,Tuberculosis of bladder,32268008,SNOMED
+198807,Prostatocystitis,67685000,SNOMED
+201353,Irradiation cystitis,11251000,SNOMED
+201621,Chronic cystitis,33655002,SNOMED
+201633,Cystitis cystica,13285005,SNOMED
+439349,Cystitis associated with another disorder,197845000,SNOMED
+441615,Trigonitis,74445007,SNOMED
+764098,Irradiation cystitis without hematuria,450761000124106,SNOMED
+4009638,Ulcerative cystitis,111409009,SNOMED
+4032434,Acute radiation cystitis,236628001,SNOMED
+4032449,Recurrent infective cystitis,236703003,SNOMED
+4047893,Panmural cystitis,230402000,SNOMED
+4056038,Submucous cystitis,197837005,SNOMED
+4056612,Recurrent cystitis,197853008,SNOMED
+4059142,Monilial cystitis,197849006,SNOMED
+4059608,Gonococcal cystitis,197848003,SNOMED
+4063038,Infections of bladder in pregnancy,199205008,SNOMED
+4126141,Chronic cystitis - culture negative,236626002,SNOMED
+4126267,Chronic radiation cystitis,236629009,SNOMED
+4126268,Chemical cystitis,236630004,SNOMED
+4127562,Infective cystitis,236620008,SNOMED
+4127563,Chronic infective cystitis,236622000,SNOMED
+4127564,Acute cystitis - culture-negative,236624004,SNOMED
+4127565,Recurrent cystitis - culture-negative,236625003,SNOMED
+4127566,Chronic nonspecific cystitis,236627006,SNOMED
+4128384,Non-infective cystitis,236623005,SNOMED
+4128401,Acute culture positive cystitis,236702008,SNOMED
+4137361,Recurrent bacterial cystitis,425562008,SNOMED
+4144035,Acute infective cystitis,307426000,SNOMED
+4158913,Acute recurrent cystitis,274109003,SNOMED
+4167926,Infected diverticulum of bladder,275410008,SNOMED
+4170118,Cystitis of pregnancy,275412000,SNOMED
+4175166,Bacterial cystitis,424551004,SNOMED
+4176285,Cystitis with actinomycosis,5093001,SNOMED
+4179205,Emphysematous cystitis,52123000,SNOMED
+4182274,Chronic trigonitis,43114002,SNOMED
+4183440,Subacute cystitis,4324001,SNOMED
+4190328,Pyocystis,373611003,SNOMED
+4203790,Cystitis with bilharziasis,53991003,SNOMED
+4207359,Cystitis with Echinococcus infestation,54026009,SNOMED
+4215879,Acute hemorrhagic cystitis,81125004,SNOMED
+4216858,Papillary cystitis,72222004,SNOMED
+4227291,Hemorrhagic cystitis,87696004,SNOMED
+4247613,Cystitis due to Pseudomonas,40635000,SNOMED
+4248714,Cystitis glandularis,72815004,SNOMED
+4263853,Klebsiella cystitis,60867007,SNOMED
+4263916,Chronic ulcerating interstitial cystitis,36139001,SNOMED
+4269514,Acute trigonitis,62199007,SNOMED
+4277092,Diverticulitis of bladder,65332001,SNOMED
+4277601,Follicular cystitis,64956000,SNOMED
+4284706,Urethrotrigonitis,67167008,SNOMED
+4327335,Malakoplakia of bladder,75073007,SNOMED
+4331584,Bullous cystitis,22557000,SNOMED
+4338362,Amebic cystitis,8776008,SNOMED
+37016338,Hematuria co-occurrent and due to cystitis,367171000119100,SNOMED
+37016343,Hematuria co-occurrent and due to irradiation cystitis,367671000119108,SNOMED
+37016352,Hematuria co-occurrent and due to trigonitis,368371000119102,SNOMED
+37016367,Hematuria co-occurrent and due to chronic cystitis,368971000119101,SNOMED
+37018854,Hematuria co-occurrent and due to acute cystitis,366941000119107,SNOMED
+37018952,Hematuria co-occurrent and due to chronic interstitial cystitis,367661000119102,SNOMED
+37204514,Encrusted cystitis,783184003,SNOMED
+40493232,Eosinophilic cystitis,445918001,SNOMED
+42873164,"Acute cystitis in pregnancy, antepartum",521000119104,SNOMED
+45769230,Acute on chronic cystitis,707834009,SNOMED
+45772089,Cystitis due to Chlamydia,1084821000119100,SNOMED

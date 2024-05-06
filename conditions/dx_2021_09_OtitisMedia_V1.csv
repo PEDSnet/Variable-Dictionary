@@ -1,0 +1,58 @@
+SNOMED_code,SNOMED_name,concept_id_SNOMED,concept_id,concept_code,concept_name,vocabulary_id
+14948001,Acute suppurative otitis media without spontaneous rupture of ear drum,375281,44837081,382.00,Acute suppurative otitis media without spontaneous rupture of eardrum,ICD9CM
+17866004,Acute allergic sanguinous otitis media,373501,44827767,381.06,Acute allergic sanguinous otitis media,ICD9CM
+194237006,Non-suppurative otitis media with eustachian tube disorders,4111114,44826623,381,Nonsuppurative otitis media and Eustachian tube disorders,ICD9CM
+194240006,Acute non-suppurative otitis media - serous,375827,44825414,381.01,Acute serous otitis media,ICD9CM
+194240006,Acute non-suppurative otitis media - serous,375827,45600988,H65.0,Acute serous otitis media,ICD10
+194281003,Acute suppurative otitis media,439264,44826625,382.0,Acute suppurative otitis media,ICD9CM
+194281003,Acute suppurative otitis media,439264,45572040,H66.0,Acute suppurative otitis media,ICD10
+194282005,Acute suppurative otitis media due to another disease,379028,44833538,382.02,Acute suppurative otitis media in diseases classified elsewhere,ICD9CM
+194311006,Acute myringitis without otitis media,379823,44831217,384.09,Other acute myringitis without mention of otitis media,ICD9CM
+194311006,Acute myringitis without otitis media,379823,44833540,384.0,Acute myringitis without mention of otitis media,ICD9CM
+232254004,Chronic non-suppurative otitis media,376425,44821933,381.3,Other and unspecified chronic nonsuppurative otitis media,ICD9CM
+232254004,Chronic non-suppurative otitis media,376425,45543116,H65.4,Other chronic nonsuppurative otitis media,ICD10
+275481002,Non-suppurative otitis media,4170137,44827768,381.4,"Nonsuppurative otitis media, not specified as acute or chronic",ICD9CM
+275481002,Non-suppurative otitis media,4170137,45547960,H65,Nonsuppurative otitis media,ICD10
+275481002,Non-suppurative otitis media,4170137,45605737,H65.9,"Nonsuppurative otitis media, unspecified",ICD10
+297009,Acute myringitis,381040,44837082,384.00,"Acute myringitis, unspecified",ICD9CM
+297009,Acute myringitis,381040,45533405,H73.0,Acute myringitis,ICD10
+33528003,Bullous myringitis,375291,44820840,384.01,Bullous myringitis,ICD9CM
+359609001,Acute secretory otitis media,374948,44819681,381.00,"Acute nonsuppurative otitis media, unspecified",ICD9CM
+359609001,Acute secretory otitis media,374948,44823087,381.0,Acute nonsuppurative otitis media,ICD9CM
+359609001,Acute secretory otitis media,374948,45543116,H65.4,Other chronic nonsuppurative otitis media,ICD10
+359609001,Acute secretory otitis media,374948,45557491,H65.1,Other acute nonsuppurative otitis media,ICD10
+38394007,Chronic purulent otitis media,377886,44833539,382.3,Unspecified chronic suppurative otitis media,ICD9CM
+38394007,Chronic purulent otitis media,377886,45567127,H66.3,Other chronic suppurative otitis media,ICD10
+39288006,Purulent otitis media,376712,44831214,382.4,Unspecified suppurative otitis media,ICD9CM
+39288006,Purulent otitis media,376712,45547964,H66.4,"Suppurative otitis media, unspecified",ICD10
+41954005,Chronic atticoantral suppurative otitis media,260730,44834706,382.2,Chronic atticoantral suppurative otitis media,ICD9CM
+41954005,Chronic atticoantral suppurative otitis media,260730,45567126,H66.2,Chronic atticoantral suppurative otitis media,ICD10
+52353000,Acute mucoid otitis media,374049,44823088,381.02,Acute mucoid otitis media,ICD9CM
+59275002,Acute allergic serous otitis media,373784,44833537,381.04,Acute allergic serous otitis media,ICD9CM
+65363002,Otitis media,372328,44824216,382,Suppurative and unspecified otitis media,ICD9CM
+65363002,Otitis media,372328,44831215,382.9,Unspecified otitis media,ICD9CM
+65363002,Otitis media,372328,45538332,H66,Suppurative and unspecified otitis media,ICD10
+65363002,Otitis media,372328,45547965,H66.9,"Otitis media, unspecified",ICD10
+65363002,Otitis media,372328,45567129,H67.8,Otitis media in other diseases classified elsewhere,ICD10
+65363002,Otitis media,372328,45605740,H67.1,Otitis media in viral diseases classified elsewhere,ICD10
+65363002,Otitis media,372328,45755420,H67,Otitis media in diseases classified elsewhere,ICD10
+703469002,Bacterial otitis media,45766332,45543120,H67.0,Otitis media in bacterial diseases classified elsewhere,ICD10
+7699004,Adhesive middle ear disease,375820,44819683,385.19,Other middle ear adhesions and combinations,ICD9CM
+7699004,Adhesive middle ear disease,375820,44830065,385.1,Adhesive middle ear disease,ICD9CM
+7699004,Adhesive middle ear disease,375820,44833543,385.10,"Adhesive middle ear disease, unspecified as to involvement",ICD9CM
+7699004,Adhesive middle ear disease,375820,45557516,H74.1,Adhesive middle ear disease,ICD10
+77478005,Acute sanguinous otitis media,378768,44827766,381.03,Acute sanguinous otitis media,ICD9CM
+78868004,Chronic mucoid otitis media,381592,44821932,381.20,"Chronic mucoid otitis media, simple or unspecified",ICD9CM
+78868004,Chronic mucoid otitis media,381592,44825415,381.2,Chronic mucoid otitis media,ICD9CM
+78868004,Chronic mucoid otitis media,381592,44834705,381.29,Other chronic mucoid otitis media,ICD9CM
+78868004,Chronic mucoid otitis media,381592,45567124,H65.3,Chronic mucoid otitis media,ICD10
+81564005,Chronic serous otitis media,381301,44821931,381.19,Other chronic serous otitis media,ICD9CM
+81564005,Chronic serous otitis media,381301,44831211,381.1,Chronic serous otitis media,ICD9CM
+81564005,Chronic serous otitis media,381301,44837080,381.10,"Chronic serous otitis media, simple or unspecified",ICD9CM
+81564005,Chronic serous otitis media,381301,45581726,H65.2,Chronic serous otitis media,ICD10
+8326008,Acute allergic mucoid otitis media,372330,44834704,381.05,Acute allergic mucoid otitis media,ICD9CM
+86279000,Acute suppurative otitis media with spontaneous rupture of ear drum,381028,44832355,382.01,Acute suppurative otitis media with spontaneous rupture of eardrum,ICD9CM
+87665008,Chronic tubotympanic suppurative otitis media,375290,44824217,382.1,Chronic tubotympanic suppurative otitis media,ICD9CM
+87665008,Chronic tubotympanic suppurative otitis media,375290,45586532,H66.1,Chronic tubotympanic suppurative otitis media,ICD10
+89723004,Chronic tympanitis,372652,44823091,384.1,Chronic myringitis without mention of otitis media,ICD9CM
+89723004,Chronic tympanitis,372652,45581741,H73.1,Chronic myringitis,ICD10

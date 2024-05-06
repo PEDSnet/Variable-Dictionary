@@ -1,48 +1,29 @@
-|Codesets                               |
-|:--------------------------------------|
-|[ALT (Alanine transaminase)](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_alanine_transaminase_md_page.html)|
-|[Blood pressure methods](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/bp_method.csv_md_page.html)|
-|[C-reactive protein](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/crp_labs_pedsnet_md_page.html)|
-|[Ferritin](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/ferritin_labs_pedsnet_md_page.html)|
-|[Hematuria](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/hematuria_md_page.html)|
-|[Hemoglobin A1C test (HbA1c)](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/hba1c_md_page.html)|
-|[Lymphocyte count](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/alc_labs_md_page.html)|
-|[Platelets](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_platelet_md_page.html)|
-|[Respiratory syncytial virus (RSV) Labs](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_rsv_md_page.html)|
-|[SARS-CoV-2 Serology tests](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_sarscov2_serology_md_page.html)|
-|[SARS-CoV-2 Test result codes](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_sarscov2_md_page.html)|
-|[Sedimentation Rate](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/esr_lab_md_page.html)|
-|[Serum albumin](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/serum_albumin_codeset_md_page.html)|
-|[Serum bicarbonate](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_serum_bicarbonate_md_page.html)|
-|[Serum creatinine](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/serum_creatinine_md_page.html)|
-|[Serum cystatin](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/serum_cystatin_md_page.html)|
-|[Serum cystatin](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/serum_cystatin_md_page.html)|
-|[Sodium](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/sodium_lab_md_page.html)|
-|[Sodium bicarbonate labs](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_bicarb_md_page.html)|
-|[Troponin](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/troponin_lab_md_page.html)|
-|[Urinalysis](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/urinalysis_md_page.html)|
-|[Urine blood](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/urine_blood_codeset_md_page.html)|
-|[Urine creatinine](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/urine_creatinine_md_page.html)|
-|[Urine creatinine](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/urine_creatinine_md_page.html)|
-|[Urine protein (qualitative)](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/urine_protein_qual_md_page.html)|
-|[Urine protein (qualitative)](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/urine_protein_qual_md_page.html)|
-|[Urine protein (quantitative)](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/urine_protein_quant_md_page.html)|
-|[Urine protein (quantitative)](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/urine_protein_quant_md_page.html)|
-|[Urine protein to creatinine ratio](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/upcr_md_page.html)|
-|[Urine protein to creatinine ratio](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/upcr_md_page.html)|
-|[Viral Testing done](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/viral_test_md_page.html)|
-|[NA](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/NA_md_page.html)|
-|[NA](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/NA_md_page.html)|
-|[NA](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/NA_md_page.html)|
-|[NA](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/NA_md_page.html)|
-|[NA](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/NA_md_page.html)|
-|[NA](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/NA_md_page.html)|
-|[NA](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/NA_md_page.html)|
-|[NA](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/NA_md_page.html)|
-|[NA](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/NA_md_page.html)|
-|[NA](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/NA_md_page.html)|
-|[NA](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/NA_md_page.html)|
-|[NA](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/NA_md_page.html)|
-|[NA](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/NA_md_page.html)|
-|[NA](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/NA_md_page.html)|
-|[NA](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/NA_md_page.html)|
+|Codesets                                      |
+|:---------------------------------------------|
+|[Alanine Transaminase Measurement](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2022_03_AlanineTransaminase_V1_md_page.html)|
+|[C-Reactive Protein Measurement](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2022_11_CReactiveProtein_pedsnet_V1_md_page.html)|
+|[Ferritin Measurement](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2022_11_FerritinTest_V1_md_page.html)|
+|[Hemoglobin A1C Measurement](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2022_04_HemoglobinA1CTest_V1_md_page.html)|
+|[Lymphocyte Count](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2022_02_LymphocyteCount_V1_md_page.html)|
+|[Methods for Taking Blood Pressure](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2023_01_BloodPressureMethods_V1_md_page.html)|
+|[Platelet Count](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2023_07_PlateletCount_V1_md_page.html)|
+|[Respiratory Syncytial Virus (RSV) Labs](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2021_11_RSV_V1_md_page.html)|
+|[SARS-CoV-2 Serology Test Results](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2021_11_SARSCoV2Serology_V1_md_page.html)|
+|[SARS-CoV-2 Test Results](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2021_11_SARSCoV2_V1_md_page.html)|
+|[Sedimentation Rate](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2022_02_SedimentationRate_V1_md_page.html)|
+|[Serum Albumin Measurement](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2022_08_SerumAlbumin_V1_md_page.html)|
+|[Serum Bicarbonate Measurement](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2022_04_SerumBicarbonate_V1_md_page.html)|
+|[Serum Creatinine Measurement](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2021_10_SerumCreatinine_V1_md_page.html)|
+|[Serum Cystatin Measurement](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2021_11_SerumCystatin_V1_md_page.html)|
+|[Serum Hemoglobin Measurement](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2022_03_SerumHemoglobin_V1_md_page.html)|
+|[Serum Potassium Measurement](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2022_03_SerumPotassium_V1_md_page.html)|
+|[Serum White Blood Cell Measurement](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2022_03_SerumWBC_V1_md_page.html)|
+|[Sodium Bicarbonate Measurement](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2022_02_SodiumBicarbonateLabs_V1_md_page.html)|
+|[Sodium Measurement](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2022_04_SodiumLabs_V1_md_page.html)|
+|[Troponin Measurement](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/px_2022_04_TroponinLabs_V1_md_page.html)|
+|[Urine Blood Measurement](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2021_01_UrineBlood_V1_md_page.html)|
+|[Urine Creatinine Measurement](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2021_11_UrineCreatinine_V1_md_page.html)|
+|[Urine Protein Qualitative Measurement](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2021_11_UrineProteinQualitative_V1_md_page.html)|
+|[Urine Protein to Creatinine Ratio Measurement](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2021_10_UrineProteintoCreatineRatio_V1_md_page.html)|
+|[Urine Protein, Quantitative Measurement](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2021_11_UrineProteinQuantitative_V1_md_page.html)|
+|[Viral Tests](https://pedsnet.github.io/Variable-Dictionary/pages/lab_meas/lab_2018_04_ViralTest_V1_md_page.html)|

@@ -1,0 +1,5 @@
+concept_id,concept_code,concept_name,codeset
+4091029,249468005,Anorexia symptom,anorexia_loss_appetite
+4275273,64379006,Decrease in appetite,anorexia_loss_appetite
+442165,79890006,Loss of appetite,anorexia_loss_appetite
+4091030,249469002,No interest in food,anorexia_loss_appetite

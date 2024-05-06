@@ -1,0 +1,506 @@
+concept_id,concept_name,concept_code,vocabulary_id
+319016,Retinal lattice degeneration,3577000,SNOMED
+372629,Nonexudative age-related macular degeneration,414875008,SNOMED
+372891,Microcystoid retinal degeneration,37075008,SNOMED
+372903,Retinal edema,6141006,SNOMED
+372914,Optic atrophy,76976005,SNOMED
+372915,Postinflammatory optic atrophy,24003004,SNOMED
+373193,Secondary pigmentary retinal degeneration,35545005,SNOMED
+373206,Hereditary optic atrophy,26360005,SNOMED
+373487,Ischemic optic neuropathy,14357004,SNOMED
+373497,Foster-Kennedy syndrome,87764000,SNOMED
+373772,Vitreoretinal dystrophy,79556007,SNOMED
+374028,Age related macular degeneration,267718000,SNOMED
+374338,Nondiabetic proliferative retinopathy,46674002,SNOMED
+374353,Congenital stationary night blindness,232061009,SNOMED
+374360,Disorder of optic nerve,77157004,SNOMED
+374936,Achromatopsia,56852002,SNOMED
+374954,Optic neuritis,66760008,SNOMED
+375428,Traumatic optic nerve injury,48233004,SNOMED
+375458,Meningococcal optic neuritis,73431005,SNOMED
+375538,"Degeneration of macula due to cyst, hole or pseudohole",267612009,SNOMED
+375823,Hypoplasia of the optic nerve,95499004,SNOMED
+376115,Cystoid macular retinal degeneration,14046000,SNOMED
+376966,Exudative age-related macular degeneration,414173003,SNOMED
+377270,Hereditary retinal dystrophy,41799005,SNOMED
+377272,Secondary vitreoretinal degeneration,60676002,SNOMED
+377565,Optic atrophy associated with retinal dystrophy,19448008,SNOMED
+377570,Toxic optic neuropathy,26125006,SNOMED
+377789,Syphilitic retrobulbar neuritis,36276008,SNOMED
+377848,Toxic maculopathy,44115007,SNOMED
+378142,Retinal ischemia,26468004,SNOMED
+378686,Syphilitic optic atrophy,22386003,SNOMED
+379010,Epiretinal membrane,367649002,SNOMED
+379818,Retrobulbar neuritis,230507009,SNOMED
+380096,Proliferative retinopathy due to diabetes mellitus,59276001,SNOMED
+380097,Macular edema due to diabetes mellitus,312912001,SNOMED
+380395,Retinal dystrophy,314407005,SNOMED
+380410,Nutritional optic neuropathy,82108004,SNOMED
+380711,Hyaline dystrophy of Bruch's membrane,36524008,SNOMED
+380729,Primary optic atrophy,21098003,SNOMED
+380995,Neuromyelitis optica,25044007,SNOMED
+381288,Bullous retinoschisis,65545003,SNOMED
+381861,Partial optic atrophy,111527005,SNOMED
+433480,Optic disc edema due to hypotony,424497004,SNOMED
+435269,Optic papillitis,73221001,SNOMED
+436702,Pseudopapilledema,57138009,SNOMED
+436806,Congenital anomaly of optic disc,60505005,SNOMED
+437267,Peripheral retinal degeneration,61536007,SNOMED
+437876,Papilledema - optic disc edema due to raised intracranial pressure,423488006,SNOMED
+438141,Senile reticular retinal degeneration,54184008,SNOMED
+438155,Glaucomatous atrophy of optic disc,1207009,SNOMED
+438748,Paving stone retinal degeneration,69134001,SNOMED
+439689,Retinal dystrophy in cerebroretinal lipidosis,192788009,SNOMED
+441564,Optic disc edema associated with retinal disorder,424669003,SNOMED
+443895,Retinal dystrophy in systemic lipidosis,15059000,SNOMED
+760883,Bilateral degeneration of macula,12239101000119100,SNOMED
+760884,Degenerative disorder of macula of left eye,12239141000119103,SNOMED
+760885,Degenerative disorder of macula of right eye,12239181000119108,SNOMED
+761121,Neuritis of right optic nerve,15631011000119102,SNOMED
+761122,Neuritis of left optic nerve,15631051000119101,SNOMED
+761140,Bilateral age-related nonexudative macular degeneration,15632931000119101,SNOMED
+761141,Age-related nonexudative macular degeneration of right eye,15633011000119103,SNOMED
+761142,Age-related exudative macular degeneration of right eye,15633051000119102,SNOMED
+761143,Age-related exudative macular degeneration of left eye,15633091000119107,SNOMED
+761144,Bilateral age-related exudative degeneration of macula,15633131000119109,SNOMED
+761217,Congenital bilateral optic nerve pits,15665521000119105,SNOMED
+761383,Retinitis pigmentosa of left eye,15699201000119104,SNOMED
+761384,Retinitis pigmentosa of bilateral eyes,15699281000119107,SNOMED
+761523,Papilledema of bilateral eyes due to raised intracranial pressure,15731281000119106,SNOMED
+761524,Papilledema of right eye,15731521000119105,SNOMED
+761525,Papilledema of left eye,15731561000119100,SNOMED
+761526,Anterior ischemic optic neuropathy of right eye,15731641000119103,SNOMED
+761527,Disorder of left optic nerve,15731801000119104,SNOMED
+761528,Disorder of right optic nerve,15731841000119102,SNOMED
+761529,Disorder of bilateral optic nerves,15731881000119107,SNOMED
+761538,Bilateral bullous retinoschisis,15733201000119102,SNOMED
+761539,Peripheral retinal degeneration of left eye,15733361000119105,SNOMED
+761540,Peripheral retinal degeneration of right eye,15733401000119101,SNOMED
+761541,Peripheral degeneration of retina of bilateral eyes,15733441000119104,SNOMED
+761987,Recurrent optic neuritis,2691000124105,SNOMED
+762831,Bilateral optic neuritis,432521000124106,SNOMED
+764917,Optic nerve and photoreceptor degeneration,83231000119101,SNOMED
+765078,Retinitis pigmentosa of right eye,15699241000119102,SNOMED
+765086,Anterior ischemic optic neuropathy of left eye,15731601000119100,SNOMED
+765202,Age-related nonexudative macular degeneration of left eye,15632971000119103,SNOMED
+3654615,Childhood-onset autosomal dominant optic atrophy,838307002,SNOMED
+3654632,Autoimmune optic neuropathy,838324008,SNOMED
+3654652,Autosomal recessive optic atrophy type 6,838345001,SNOMED
+3654670,Arteritic anterior ischemic optic neuropathy due to giant cell arteritis,838363001,SNOMED
+3655278,Idiopathic non-arteritic ischemic optic neuropathy,860808008,SNOMED
+3655341,Idiopathic non-arteritic posterior ischemic optic neuropathy,860884007,SNOMED
+3655630,Leber idiopathic stellate neuroretinitis,866099002,SNOMED
+3655660,Infectious neuroretinitis,866133000,SNOMED
+3655844,Optic atrophy due to late syphilis,870319003,SNOMED
+3655870,Retrobulbar neuritis due to late syphilis,870347004,SNOMED
+3655914,Cystoid macular edema due to diabetes mellitus,870421009,SNOMED
+3655948,Persistent macular edema due to diabetes mellitus,870529009,SNOMED
+3656194,Centrally involved macular edema due to diabetes mellitus,871778008,SNOMED
+3656195,Non centrally involved macular edema due to diabetes mellitus,871781003,SNOMED
+3656916,Cystoid macular degeneration of right retina,335531000119109,SNOMED
+3657003,Cystoid macular degeneration of left retina,341141000119106,SNOMED
+3657039,Bilateral microcystoid retinal degeneration of eyes,343841000119103,SNOMED
+3657065,Bilateral cystoid macular degeneration of retinas,346401000119108,SNOMED
+3657082,Bilateral senile reticular retinal degeneration of eyes,347251000119109,SNOMED
+3657084,Atrophy of right optic nerve following inflammation,348051000119102,SNOMED
+3657085,Atrophy of left optic nerve following inflammation,348501000119108,SNOMED
+3657135,Bilateral retrobulbar optic neuritis of eyes,679691000119100,SNOMED
+3657146,Bilateral atrophy of optic nerves following inflammation,680991000119108,SNOMED
+3657642,Commotio retinae of right retina,10942751000119100,SNOMED
+3657643,Commotio retinae of left retina,10942791000119105,SNOMED
+3657796,Neuroretinitis of right eye,15992631000119101,SNOMED
+3657808,Bilateral congenital coloboma of optic discs,15986111000119101,SNOMED
+3657809,Congenital coloboma of right optic disc,15986151000119100,SNOMED
+3657810,Congenital coloboma of left optic disc,15986191000119105,SNOMED
+3657841,Neuroretinitis of left eye,15992671000119103,SNOMED
+3657842,Bilateral neuroretinitis of eyes,15992711000119104,SNOMED
+3657878,Bilateral arteritic anterior ischemic optic neuropathy of eyes,16376191000119109,SNOMED
+3657879,Arteritic anterior ischemic optic neuropathy of left eye,16376241000119109,SNOMED
+3657880,Arteritic anterior ischemic optic neuropathy of right eye,16376391000119106,SNOMED
+3657881,Bilateral vitreoretinal tuft of eyes,16419701000119108,SNOMED
+3661903,Bilateral toxic maculopathy,343231000119106,SNOMED
+3662346,Bullous retinoschisis of right eye,15733121000119102,SNOMED
+3662347,Bullous retinoschisis of left eye,15733161000119107,SNOMED
+4027533,Hereditary motor and sensory neuropathy with optic atrophy,128203003,SNOMED
+4027732,Retrobulbar neuropathy,128485009,SNOMED
+4029822,Micropapilla,128533009,SNOMED
+4030035,Macular retinal cyst,1079004,SNOMED
+4043566,Avulsion of optic nerve,230513000,SNOMED
+4044244,Tilted optic disc,230504002,SNOMED
+4044245,Myelinated nerve fibers of optic disc,230506000,SNOMED
+4044247,Optic atrophy secondary to papilledema,230511003,SNOMED
+4044248,Radiation damage to optic nerve,230514006,SNOMED
+4044249,Traumatic optic neuropathy,230515007,SNOMED
+4047917,Arteritic ischemic optic neuropathy,230508004,SNOMED
+4047918,Non-arteritic ischemic optic neuropathy,230509007,SNOMED
+4048061,Secondary optic atrophy,123615007,SNOMED
+4048740,Dominant hereditary optic atrophy,2065009,SNOMED
+4055222,Incipient prechiasmal optic nerve compression syndrome,19735005,SNOMED
+4082271,Optic disc neovascularization,247099009,SNOMED
+4082286,Macular pigment deposit,247146001,SNOMED
+4082294,Peripheral retina - white without pressure,247186009,SNOMED
+4082299,Optic disc vascular anomaly,247209006,SNOMED
+4082302,Atrophy of sector of optic disc,247219000,SNOMED
+4082624,Macular vitelliform deposits,247155003,SNOMED
+4082762,"Peripheral retinoschisis, diffuse",247181004,SNOMED
+4082768,Morning glory disc,247204001,SNOMED
+4082774,Optic disc hemorrhage,247233000,SNOMED
+4083603,Vitreoretinal degeneration,247182006,SNOMED
+4083604,Peripheral snowflake retinal degeneration,247183001,SNOMED
+4083605,Peripheral cystic retinal tuft,247184007,SNOMED
+4083606,Peripheral retina - white with pressure,247187000,SNOMED
+4087153,Widespread retinal edema,248506002,SNOMED
+4090251,Macular diffuse atrophy,247147005,SNOMED
+4099985,Partial hypoplasia of optic disc,253238001,SNOMED
+4099986,Sectorial hypoplasia of optic disc,253239009,SNOMED
+4101333,HSMN IV,25362006,SNOMED
+4102654,Hereditary retinal dystrophies in lipidoses,193400007,SNOMED
+4102657,Hyaline retinal dystrophy,193409008,SNOMED
+4103381,Retinitis pigmentosa,28835009,SNOMED
+4105178,Cystoid macular edema,193387007,SNOMED
+4108956,Sorsby's fundus dystrophy,193410003,SNOMED
+4108957,Dominant drusen,193411004,SNOMED
+4108958,Leber's amaurosis,193413001,SNOMED
+4108959,Tapetoretinal dystrophy,193415008,SNOMED
+4109112,Oguchi's disease,193687000,SNOMED
+4109393,Optic atrophy secondary to retinal disease,194043004,SNOMED
+4109401,Proliferative retinopathy due to sickle cell disease,193370005,SNOMED
+4111320,Saldino-Mainzer dysplasia,254092004,SNOMED
+4112968,Malignant astrocytoma of optic nerve,254973003,SNOMED
+4112970,Optic nerve glioma,254976006,SNOMED
+4112971,Melanocytoma of optic nerve head,254979004,SNOMED
+4116215,Malignant tumor of optic nerve and sheath,254972008,SNOMED
+4116216,Benign neoplasm of optic nerve and nerve sheath,254977002,SNOMED
+4128229,Renal dysplasia and retinal aplasia,236531005,SNOMED
+4131025,Optic nerve infarction,26520008,SNOMED
+4131963,Drusen stage macular degeneration,264633009,SNOMED
+4134605,Optic disc disorder,128331005,SNOMED
+4143364,Progressive cone dystrophy (without rod involvement),267613004,SNOMED
+4146103,Degeneration of macula and posterior pole,267611002,SNOMED
+4150993,Tobacco related optic neuropathy,314538009,SNOMED
+4151453,Diabetic optic papillopathy,314537004,SNOMED
+4152403,Alcohol related optic neuropathy,314539001,SNOMED
+4152405,Drug induced optic neuropathy,314540004,SNOMED
+4152559,Optic neuroretinitis,314787009,SNOMED
+4154456,Localized retinal edema,28391008,SNOMED
+4160056,Hypoplasia of optic disc,373650004,SNOMED
+4161671,Non-high-risk proliferative retinopathy with no macular edema due to diabetes mellitus,399870006,SNOMED
+4162095,Macular edema not clinically significant due to diabetes mellitus,399864000,SNOMED
+4164174,High risk proliferative retinopathy without macular edema due to diabetes mellitus,399862001,SNOMED
+4164176,High risk proliferative retinopathy not amenable to photocoagulation due to diabetes mellitus,399869005,SNOMED
+4164632,Very severe proliferative retinopathy due to diabetes mellitus,399865004,SNOMED
+4171180,Fundus flavimaculatus,47673003,SNOMED
+4173026,Hereditary macular dystrophy,276436007,SNOMED
+4180912,Malignant tumor of optic nerve,363498002,SNOMED
+4182393,Peripheral retinal edema,54388004,SNOMED
+4187326,Posterior ischemic optic neuropathy,415147002,SNOMED
+4190334,Optic disc structural anomaly,373661007,SNOMED
+4190744,Primary congenital glaucoma,415176004,SNOMED
+4194827,Neoplasm of optic nerve and sheath,395502002,SNOMED
+4195041,Fibrovascular macular scar,312899005,SNOMED
+4195043,High risk proliferative retinopathy due to diabetes mellitus,312907002,SNOMED
+4195044,Proliferative retinopathy with iris neovascularization due to diabetes mellitus,312909004,SNOMED
+4195046,Clinically significant macular edema,312911008,SNOMED
+4195048,Cone dystrophy,312917007,SNOMED
+4195049,Autosomal dominant cystoid macular edema,312921000,SNOMED
+4195050,Uveitis related cystoid macular edema,312922007,SNOMED
+4195055,Compressive optic atrophy,312944002,SNOMED
+4195498,Mixed maculopathy due to diabetes mellitus,314015001,SNOMED
+4195988,Myopic macular degeneration,312898002,SNOMED
+4196109,Inherited optic neuropathy,312942003,SNOMED
+4196128,Rod dystrophy,313003009,SNOMED
+4196227,Congenital coloboma of optic disc,44295002,SNOMED
+4197570,Acute retrobulbar neuritis,51604006,SNOMED
+4198347,Progressive cone-rod dystrophy,80328002,SNOMED
+4199039,Diffuse exudative maculopathy due to diabetes mellitus,314010006,SNOMED
+4199646,Drusen plus pigment change stage macular degeneration,314427006,SNOMED
+4208200,Postoperative cystoid macular edema,312920004,SNOMED
+4208202,North Carolina macular dystrophy,312925009,SNOMED
+4208203,Bietti's crystalline retinopathy,312927001,SNOMED
+4208207,Idiopathic optic disc swelling,312943008,SNOMED
+4208208,Infiltrative optic neuropathy,312945001,SNOMED
+4209975,Impending macular hole,312701008,SNOMED
+4210128,Non-high-risk proliferative retinopathy due to diabetes mellitus,312906006,SNOMED
+4210129,Quiescent proliferative retinopathy due to diabetes mellitus,312908007,SNOMED
+4210872,Focal exudative maculopathy due to diabetes mellitus,314011005,SNOMED
+4212083,Toxoplasma neuroretinitis,416913007,SNOMED
+4212441,O/E - right eye stable treated proliferative diabetic retinopathy,414910007,SNOMED
+4212449,Optic nerve glioma of orbit,414950005,SNOMED
+4214756,Commotio retinae,80744008,SNOMED
+4215961,O/E - left eye stable treated proliferative diabetic retinopathy,414894003,SNOMED
+4216000,Neoplasm of optic nerve,395505000,SNOMED
+4218925,Retinitis pigmentosa-deafness-ataxia syndrome,73119000,SNOMED
+4219543,Intraocular optic nerve glioma,416351002,SNOMED
+4220165,Compressive optic neuropathy due to thyroid eye disease,416813006,SNOMED
+4221344,Exudative maculopathy due to type 1 diabetes mellitus,420486006,SNOMED
+4221637,Intracranial optic nerve glioma,417619001,SNOMED
+4221916,Vitamin B12 deficiency optic neuropathy,420920007,SNOMED
+4223463,Exudative maculopathy due to type 2 diabetes mellitus,421779007,SNOMED
+4223942,Anterior ischemic optic neuropathy,404659001,SNOMED
+4224741,Degenerative disorder of macula,422338006,SNOMED
+4225528,Papillophlebitis,404658009,SNOMED
+4228419,Hypertensive optic neuropathy,421731000,SNOMED
+4229396,Acute compressive optic neuropathy,404660006,SNOMED
+4230363,Complete optic atrophy,359683002,SNOMED
+4231849,Vitelliform dystrophy,90036004,SNOMED
+4240232,Leber's optic atrophy,58610003,SNOMED
+4240613,Retinitis pigmentosa-deafness syndrome,57838006,SNOMED
+4242813,Benign neoplasm of optic nerve,92257005,SNOMED
+4246137,Primary malignant neoplasm of optic nerve,93931007,SNOMED
+4248190,Secondary malignant neoplasm of optic nerve,94452002,SNOMED
+4249573,Compression of optic nerve,72983001,SNOMED
+4252356,O/E - left eye proliferative diabetic retinopathy,408414006,SNOMED
+4255401,O/E - right eye proliferative diabetic retinopathy,408413000,SNOMED
+4259501,Neuroretinitis,410471004,SNOMED
+4259502,Bartonella henselae neuroretinitis,410472006,SNOMED
+4263252,Peripheral retinoschisis,361130009,SNOMED
+4266042,High risk proliferative retinopathy with clinically significant macula edema due to diabetes mellitus,399874002,SNOMED
+4269870,Non-high-risk proliferative retinopathy with clinically significant macular edema due to diabetes mellitus,399875001,SNOMED
+4270189,Alstrom syndrome,63702009,SNOMED
+4289290,Stargardt's disease,70099003,SNOMED
+4290333,Macular retinal edema,37231002,SNOMED
+4290822,Severe nonproliferative retinopathy with clinically significant macular edema due to diabetes mellitus,399872003,SNOMED
+4290823,Very severe nonproliferative retinopathy with clinically significant macular edema due to diabetes mellitus,399877009,SNOMED
+4295421,Strachan's syndrome,75834006,SNOMED
+4303516,Paraneoplastic optic neuropathy,418856006,SNOMED
+4308632,Optic disc edema,423341008,SNOMED
+4310439,Zonular traction peripheral retinal tuft,423248004,SNOMED
+4310849,Vitreoretinal tuft,424358006,SNOMED
+4311706,Prepapillary vascular loop,424728002,SNOMED
+4313034,Macular exudate,423084001,SNOMED
+4313156,Juvenile retinoschisis,86923008,SNOMED
+4313653,Neoplasm of uncertain behavior of optic nerve,94971009,SNOMED
+4314825,Noncystic peripheral retinal tuft,424578002,SNOMED
+4318525,Congenital anomaly of optic nerve,95502000,SNOMED
+4318703,Retrobulbar optic nerve atrophy,95775000,SNOMED
+4319437,Congenital myelin deficiency of the optic disc,95498007,SNOMED
+4319608,Atrophy of optic disc,95774001,SNOMED
+4322033,Toxic amblyopia,965003,SNOMED
+4322150,Familial pseudoinflammatory macular degeneration,71047006,SNOMED
+4322638,Diabetes mellitus AND insipidus with optic atrophy AND deafness,70694009,SNOMED
+4328365,Septo-optic dysplasia sequence,7611002,SNOMED
+4334176,Noncystoid edema of macula of retina,432789001,SNOMED
+4334242,Macular and peripheral retinoschisis,232014008,SNOMED
+4334249,Bull's eye macular dystrophy,232050001,SNOMED
+4334250,Autosomal dominant retinitis pigmentosa,232052009,SNOMED
+4334251,Usher syndrome type 2,232058008,SNOMED
+4335593,Pattern dystrophy of macula,232051002,SNOMED
+4335994,Snail-track retinal degeneration,232001007,SNOMED
+4335995,Snowflake retinal degeneration,232002000,SNOMED
+4336000,Proliferative retinopathy with neovascularization elsewhere than the optic disc due to diabetes mellitus,232022001,SNOMED
+4336006,Progressive rod dystrophy,232056007,SNOMED
+4336010,Forster-Fuchs' spot,232072004,SNOMED
+4338898,Macular retinoschisis,232013002,SNOMED
+4338900,Proliferative retinopathy with optic disc neovascularization due to diabetes mellitus,232021008,SNOMED
+4338904,Central serous retinopathy with pit of optic disc,232034009,SNOMED
+4339014,Adult vitelliform macular dystrophy,232049001,SNOMED
+4339015,Autosomal recessive retinitis pigmentosa,232053004,SNOMED
+4339016,X-linked retinitis pigmentosa,232054005,SNOMED
+4339017,X-linked retinitis pigmentosa heterozygote,232055006,SNOMED
+4339018,Usher syndrome type 1,232057003,SNOMED
+4339021,Occult neovascularization of macula,232071006,SNOMED
+35622071,Best vitelliform macular dystrophy,763387005,SNOMED
+35622759,Fundus albipunctatus,764939004,SNOMED
+35622786,Biallelic RPE65 mutation associated retinal dystrophy,764969006,SNOMED
+35622946,Kandori fleck retina syndrome,765191009,SNOMED
+35626067,Macular edema of right eye due to diabetes mellitus,769217008,SNOMED
+35626068,Macular edema of left eye due to diabetes mellitus,769218003,SNOMED
+35626069,Macular edema due to type 1 diabetes mellitus,769219006,SNOMED
+35626070,Macular edema due to type 2 diabetes mellitus,769220000,SNOMED
+35626071,Clinically significant macular edema of right eye due to diabetes mellitus,769221001,SNOMED
+35626072,Clinically significant macular edema of left eye due to diabetes mellitus,769222008,SNOMED
+35626764,Clinically significant macular edema due to diabetes mellitus,770097006,SNOMED
+35626904,Retinal edema due to diabetes mellitus,770323005,SNOMED
+35626905,Ischemia of retina due to diabetes mellitus,770324004,SNOMED
+36674199,Proliferative retinopathy of right eye with diabetes mellitus,770765001,SNOMED
+36674200,Proliferative retinopathy of left eye due to diabetes mellitus,770766000,SNOMED
+36674513,"Microphthalmia, retinitis pigmentosa, foveoschisis, optic disc drusen syndrome",778021002,SNOMED
+36674715,Familial benign flecked retina,770434009,SNOMED
+36674718,Fundus pulverulentus,770437002,SNOMED
+36674762,Retinal macular dystrophy type 2,770594005,SNOMED
+36674787,Combined immunodeficiency with faciooculoskeletal anomalies syndrome,770625006,SNOMED
+36674817,Occult macular dystrophy,770667002,SNOMED
+36674867,"Optic atrophy, intellectual disability syndrome",770723007,SNOMED
+36674904,Autosomal dominant neovascular inflammatory vitreoretinopathy,770791000,SNOMED
+36675060,Polymicrogyria with optic nerve hypoplasia,771336003,SNOMED
+36675066,"Microcornea, rod-cone dystrophy, cataract, posterior staphyloma syndrome",771342004,SNOMED
+36675143,"Optic nerve edema, splenomegaly syndrome",771471002,SNOMED
+36675148,"Autosomal recessive leukoencephalopathy, ischemic stroke, retinitis pigmentosa syndrome",771476007,SNOMED
+36675179,"Early-onset progressive neurodegeneration, blindness, ataxia, spasticity syndrome",771514002,SNOMED
+36676632,Progressive retinal dystrophy due to retinol transport defect,773576000,SNOMED
+36676639,"Aphonia, deafness, retinal dystrophy, bifid halluces, intellectual disability syndrome",773583007,SNOMED
+36676857,Retinal dystrophy with inner retinal dysfunction and ganglion cell anomalies,774152007,SNOMED
+36684626,Lattice degeneration of right retina,332481000119102,SNOMED
+36684641,Epiretinal membrane of right eye,333971000119101,SNOMED
+36684651,Ischemic optic neuropathy of right eye,334651000119101,SNOMED
+36684660,Cystoid macular edema of right retina,335551000119103,SNOMED
+36684689,Lattice degeneration of left retina,338091000119108,SNOMED
+36684705,Epiretinal membrane of left eye,339571000119105,SNOMED
+36684716,Ischemic optic neuropathy of left eye,340251000119108,SNOMED
+36684726,Cystoid macular edema of left retina,341161000119105,SNOMED
+36684756,Bilateral lattice degeneration of retinas,343861000119104,SNOMED
+36684772,Bilateral epiretinal membrane of eyes,345211000119100,SNOMED
+36684778,Bilateral ischemic optic neuropathy of eyes,345611000119102,SNOMED
+36684786,Bilateral cystoid macular edema of retinas,346421000119104,SNOMED
+36686936,Optic atrophy of right eye,15632811000119100,SNOMED
+36686937,Optic atrophy of left eye,15632851000119104,SNOMED
+36686938,Bilateral optic atrophy of eyes,15632891000119109,SNOMED
+36687212,Myopic macular degeneration of right eye,16320831000119100,SNOMED
+36687213,Myopic macular degeneration of left eye,16320871000119102,SNOMED
+36712941,Macular edema of retina of bilateral eyes,15639231000119102,SNOMED
+36713031,Myopic macular degeneration of bilateral eyes,16320791000119106,SNOMED
+36713328,Non-diabetic proliferative retinopathy of bilateral eyes,677741000119109,SNOMED
+36713333,Macular cyst of left eye,677891000119106,SNOMED
+36713563,Optic neuropathy due to folate deficiency,717938001,SNOMED
+36714106,Spondylometaphyseal dysplasia with cone-rod dystrophy syndrome,719205008,SNOMED
+36714153,Progressive bifocal chorioretinal atrophy,719266007,SNOMED
+36714163,Primary ciliary dyskinesia and retinitis pigmentosa syndrome,719282008,SNOMED
+36714176,Persistent placoid maculopathy,719297006,SNOMED
+36714278,Autosomal dominant late-onset retinal degeneration,719431007,SNOMED
+36714290,Cone dystrophy with supernormal rod response,719455002,SNOMED
+36714335,Autosomal dominant optic atrophy and cataract,719517009,SNOMED
+36714337,Benign concentric annular macular dystrophy,719520001,SNOMED
+36714971,Acro-oto-ocular syndrome,720410001,SNOMED
+36715138,"Cerebellar ataxia, areflexia, pes cavus, optic atrophy, sensorineural hearing loss syndrome",720634003,SNOMED
+36715306,Ectodermal dysplasia with ectrodactyly and macular dystrophy syndrome,720856002,SNOMED
+36715352,Amaurosis hypertrichosis syndrome,720983002,SNOMED
+36715503,Early-onset X-linked optic atrophy,721200000,SNOMED
+36716032,GAPO syndrome,721843003,SNOMED
+36716158,Oculotrichodysplasia,722062004,SNOMED
+36716161,Oligocone trichromacy,722066001,SNOMED
+36716264,Severe X-linked intellectual disability Gustavson type,722213009,SNOMED
+36716560,Optic disc dysplasia,722604002,SNOMED
+36716561,Optic neuropathy caused by ionizing radiation following radiotherapy procedure,722606000,SNOMED
+36716805,Aplasia of optic nerve,722989007,SNOMED
+36716806,Congenital atrophy of optic nerve,722990003,SNOMED
+36716901,Perioperative secondary non-arteritic ischemic optic neuropathy,723132004,SNOMED
+36717015,Edema of optic disc of bilateral eyes,15930381000119104,SNOMED
+36717085,Leber plus disease,719430008,SNOMED
+36717250,Megalopapilla,723131006,SNOMED
+36717457,Infection causing inflammation of optic nerve,721261004,SNOMED
+36717531,"Osteochondrodysplatic nanism, deafness, retinitis pigmentosa syndrome",722108000,SNOMED
+36717573,Optic disc swelling co-occurrent with uveitis,722607009,SNOMED
+37016648,Traumatic injury of optic disk,712733005,SNOMED
+37108888,Macular edema of retina of right eye,15639131000119107,SNOMED
+37108889,Macular edema of retina of left eye,15639181000119108,SNOMED
+37108904,Hereditary bilateral optic atrophy,15699081000119101,SNOMED
+37108905,Hereditary right optic atrophy,15699121000119104,SNOMED
+37108906,Hereditary left optic atrophy,15699161000119109,SNOMED
+37108959,Edema of optic disc of right eye,15930301000119107,SNOMED
+37109616,Hypotrichosis with juvenile macular degeneration syndrome,723364003,SNOMED
+37109645,Multifocal pattern dystrophy of retinal pigment epithelium simulating fundus flavimaculatus,723408004,SNOMED
+37109673,"Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, cataract syndrome",723452007,SNOMED
+37109698,Reticular dystrophy of retinal pigment epithelium,723502001,SNOMED
+37109775,"Spastic tetraplegia, retinitis pigmentosa, intellectual disability syndrome",723621000,SNOMED
+37109776,X-linked spastic paraplegia type 2,723622007,SNOMED
+37109886,Autosomal recessive spastic paraplegia type 55,723825006,SNOMED
+37109887,Autosomal recessive spastic paraplegia type 57,723826007,SNOMED
+37109994,RHYNS syndrome,723999009,SNOMED
+37109995,Retinohepatoendocrinologic syndrome,724000006,SNOMED
+37109996,"Retinitis pigmentosa, intellectual disability, deafness, hypogenitalism syndrome",724001005,SNOMED
+37109997,Rambaud Gallian syndrome,724002003,SNOMED
+37110039,Autosomal recessive posterior column ataxia and retinitis pigmentosa,724065003,SNOMED
+37110506,Ataxia co-occurrent and due to phytanic acid storage disease,724769002,SNOMED
+37110683,Isolated optic nerve hypoplasia,724999003,SNOMED
+37110771,"Spastic paraplegia, optic atrophy, neuropathy syndrome",725139005,SNOMED
+37110788,Aland Islands eye disease,725168006,SNOMED
+37110832,5-amino-4-imidazole carboxamide ribosiduria,725289009,SNOMED
+37111019,Butterfly-shaped pigmentary macular dystrophy,725590001,SNOMED
+37111328,CAMOS syndrome,726031001,SNOMED
+37115758,"X-linked intellectual disability, limb spasticity, retinal dystrophy, diabetes insipidus syndrome",732246009,SNOMED
+37115759,Cleft lip retinopathy syndrome,732247000,SNOMED
+37116696,Arteritic anterior ischemic optic neuropathy,733506009,SNOMED
+37116960,Wolfram-like syndrome,734022008,SNOMED
+37117079,Edema of optic disc of left eye,15930341000119109,SNOMED
+37117174,Autosomal recessive bestrophinopathy,723828008,SNOMED
+37117479,Macular cyst of right eye,677941000119107,SNOMED
+37118649,Hypogonadotropic hypogonadism retinitis pigmentosa syndrome,733113002,SNOMED
+37203958,Congenital pit of optic disc,786076007,SNOMED
+37203960,Acquired pit of optic disc,786078008,SNOMED
+37204274,Infantile cerebellar and retinal degeneration,782822006,SNOMED
+37204325,"Facial dysmorphism, anorexia, cachexia, eye and skin anomalies syndrome",782949007,SNOMED
+37204410,Autosomal recessive optic atrophy type 7,783065004,SNOMED
+37204431,IRVAN syndrome,783090002,SNOMED
+37204526,Ataxia with tapetoretinal degeneration syndrome,783203003,SNOMED
+37205069,"Autosomal recessive spastic ataxia, optic atrophy, dysarthria syndrome",784347002,SNOMED
+37207848,Paving stone retinal degeneration of right eye,332441000119107,SNOMED
+37207850,Pseudopapilledema of right eye,332851000119107,SNOMED
+37207860,Optic papillitis of right eye,333531000119105,SNOMED
+37207882,Cystoid macular edema of right eye due to and following cataract surgery,335541000119100,SNOMED
+37207908,Paving stone retinal degeneration of left eye,338051000119103,SNOMED
+37207910,Pseudopapilledema of left eye,338461000119109,SNOMED
+37207920,Optic papillitis of left eye,339141000119108,SNOMED
+37207942,Cystoid macular edema of left eye due to and following cataract surgery,341151000119108,SNOMED
+37207970,Bilateral paving stone retinal degeneration,343821000119109,SNOMED
+37207971,Bilateral pseudopapilledema of eyes,344231000119109,SNOMED
+37207978,Bilateral optic papillitis,344891000119109,SNOMED
+37207989,Bilateral cystoid macular edema of eyes due to and following cataract surgery,346411000119106,SNOMED
+37208011,Partial optic atrophy of right eye,348131000119109,SNOMED
+37208012,Congenital pit of optic disc of right eye,348151000119103,SNOMED
+37208016,Partial optic atrophy of left eye,348581000119100,SNOMED
+37208017,Congenital pit of optic disc of left eye,348601000119109,SNOMED
+37208021,Bilateral partial optic atrophy,349161000119106,SNOMED
+37209361,Cupping of left optic disc due to open-angle glaucoma of left eye,15739801000119100,SNOMED
+37209362,Cupping of right optic disc due to open-angle glaucoma of right eye,15739881000119108,SNOMED
+37209437,Congenital anomaly of right optic disc,15986231000119101,SNOMED
+37209438,Bilateral congenital anomaly of optic disc,15986271000119103,SNOMED
+37209439,Congenital anomaly of left optic disc,15986311000119103,SNOMED
+37209450,Ischemia of retina of left eye,15997471000119103,SNOMED
+37209451,Bilateral ischemia of retina of eyes,15997511000119107,SNOMED
+37209452,Ischemia of retina of right eye,15997551000119108,SNOMED
+37209523,Vitreoretinal tuft of right eye,16419741000119105,SNOMED
+37209524,Vitreoretinal tuft of left eye,16419781000119100,SNOMED
+37209622,Bilateral macular retinal edema due to occlusion of central retinal veins,16711191000119109,SNOMED
+37209623,Macular retinal edema due to occlusion of right central retinal vein,16711231000119100,SNOMED
+37209624,Macular retinal edema due to occlusion of left central retinal vein,16711271000119102,SNOMED
+37209625,Macular retinal edema due to occlusion of branch of left retinal vein,16711351000119101,SNOMED
+37209626,Bilateral macular retinal edema due to occlusion of branch of retinal veins,16711391000119106,SNOMED
+37209627,Macular retinal edema due to occlusion of branch of right retinal vein,16711431000119101,SNOMED
+37310572,Retrobulbar optic neuritis of right eye,679711000119102,SNOMED
+37310573,Retrobulbar optic neuritis of left eye,679701000119100,SNOMED
+37311468,Retinal angiomatous proliferation,792908009,SNOMED
+37311638,Atrophy of macula lutea,789220007,SNOMED
+37311832,Stable treated proliferative retinopathy of left eye due to diabetes mellitus,816962002,SNOMED
+37311833,Stable treated proliferative retinopathy of right eye due to diabetes mellitus,816961009,SNOMED
+37311931,Intermediate age related macular degeneration,788967007,SNOMED
+37311985,Early age related macular degeneration,788913001,SNOMED
+37312154,Blue cone monochromatism,789676005,SNOMED
+37312155,Complete achromatopsia,789675009,SNOMED
+37312156,SPOAN and SPOAN-related disorder,789674008,SNOMED
+37395938,Retinitis punctata albescens,715562001,SNOMED
+37395980,MORM syndrome,715628009,SNOMED
+37395995,Bothnia retinal dystrophy,715647007,SNOMED
+37396748,Severe early childhood onset retinal dystrophy,716663009,SNOMED
+37397260,Autosomal dominant optic atrophy classic form,717336005,SNOMED
+37397359,Autosomal dominant optic atrophy and peripheral neuropathy syndrome,717975006,SNOMED
+37399444,Autosomal dominant optic atrophy plus syndrome,715374003,SNOMED
+40483619,"Progressive encephalopathy with edema, hypsarrhythmia and optic atrophy syndrome",442511009,SNOMED
+42535188,Congenital hypoplasia of right optic nerve,16054391000119102,SNOMED
+42535189,Congenital hypoplasia of left optic nerve,16054431000119107,SNOMED
+42535190,Bilateral congenital hypoplasia of optic nerves,16054471000119105,SNOMED
+42536697,Bilateral injury of optic nerve,735646005,SNOMED
+42537442,Cupping of optic disc co-occurrent and due to open angle glaucoma,736838001,SNOMED
+42537550,Cupping of optic discs of bilateral eyes co-occurrent and due to open-angle glaucoma,737006004,SNOMED
+42538615,Traumatic injury of left optic nerve,762357005,SNOMED
+42538616,Traumatic injury of right optic nerve,762358000,SNOMED
+43530685,Proliferative retinopathy due to type 2 diabetes mellitus,1501000119109,SNOMED
+43530743,Degeneration of macula due to cyst or hole,391000119105,SNOMED
+44782850,Hereditary retinal dystrophy primarily involving retinal pigment epithelium,698847000,SNOMED
+44782851,Hereditary retinal dystrophy primarily involving sensory retina,698848005,SNOMED
+45757065,Proliferative retinopathy following surgery due to diabetes mellitus,103981000119101,SNOMED
+45757073,Ischemia of retina due to type 1 diabetes mellitus,104941000119109,SNOMED
+45757075,Ischemia of retina due to type 2 diabetes mellitus,104961000119108,SNOMED
+45757257,Meningococcal retrobulbar neuritis,1089801000119108,SNOMED
+45757266,Retinal edema due to type 1 diabetes mellitus,109171000119104,SNOMED
+45757713,Retinal pigment epithelial dystrophy,342581000119102,SNOMED
+45757731,Sensory retinal dystrophy,35531000119107,SNOMED
+45757798,Proliferative retinopathy,430801000124103,SNOMED
+45763584,Proliferative retinopathy due to type 1 diabetes mellitus,60971000119101,SNOMED
+45765490,Arts syndrome,702441001,SNOMED
+45766394,Retinal detachment and occipital encephalocele,703542000,SNOMED
+45770830,Macular edema and retinopathy due to type 2 diabetes mellitus,97331000119101,SNOMED
+45770831,Proliferative retinopathy with retinal edema due to type 2 diabetes mellitus,97341000119105,SNOMED
+45770928,Retinal edema due to type 2 diabetes mellitus,28331000119107,SNOMED
+45771029,Amelogenesis imperfecta co-occurrent with cone rod dystrophy,707608003,SNOMED
+46272745,Autosomal dominant vitreoretinochoroidopathy,711162004,SNOMED
+46274005,Retinal dystrophy due to systemic disorder,40121000119107,SNOMED

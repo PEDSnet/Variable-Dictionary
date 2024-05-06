@@ -1,0 +1,816 @@
+﻿concept_id,concept_name,concept_code,vocabulary_id
+45772089,Cystitis due to Chlamydia,1.08482E+15,SNOMED
+45769230,Acute on chronic cystitis,707834009,SNOMED
+42873164,"Acute cystitis in pregnancy, antepartum",5.21E+11,SNOMED
+40493232,Eosinophilic cystitis,445918001,SNOMED
+37204514,Encrusted cystitis,783184003,SNOMED
+37018952,Hematuria co-occurrent and due to chronic interstitial cystitis,3.67661E+14,SNOMED
+37018854,Hematuria co-occurrent and due to acute cystitis,3.66941E+14,SNOMED
+37016367,Hematuria co-occurrent and due to chronic cystitis,3.68971E+14,SNOMED
+37016352,Hematuria co-occurrent and due to trigonitis,3.68371E+14,SNOMED
+37016343,Hematuria co-occurrent and due to irradiation cystitis,3.67671E+14,SNOMED
+37016338,Hematuria co-occurrent and due to cystitis,3.67171E+14,SNOMED
+4338362,Amebic cystitis,8776008,SNOMED
+4331584,Bullous cystitis,22557000,SNOMED
+4327335,Malakoplakia of bladder,75073007,SNOMED
+4284706,Urethrotrigonitis,67167008,SNOMED
+4277601,Follicular cystitis,64956000,SNOMED
+4277092,Diverticulitis of bladder,65332001,SNOMED
+4269514,Acute trigonitis,62199007,SNOMED
+4263916,Chronic ulcerating interstitial cystitis,36139001,SNOMED
+4263853,Klebsiella cystitis,60867007,SNOMED
+4248714,Cystitis glandularis,72815004,SNOMED
+4247613,Cystitis due to Pseudomonas,40635000,SNOMED
+4227291,Hemorrhagic cystitis,87696004,SNOMED
+4216858,Papillary cystitis,72222004,SNOMED
+4215879,Acute hemorrhagic cystitis,81125004,SNOMED
+4207359,Cystitis with Echinococcus infestation,54026009,SNOMED
+4203790,Cystitis with bilharziasis,53991003,SNOMED
+4190328,Pyocystis,373611003,SNOMED
+4183440,Subacute cystitis,4324001,SNOMED
+4182274,Chronic trigonitis,43114002,SNOMED
+4179205,Emphysematous cystitis,52123000,SNOMED
+4176285,Cystitis with actinomycosis,5093001,SNOMED
+4175166,Bacterial cystitis,424551004,SNOMED
+4170118,Cystitis of pregnancy,275412000,SNOMED
+4167926,Infected diverticulum of bladder,275410008,SNOMED
+4158913,Acute recurrent cystitis,274109003,SNOMED
+4144035,Acute infective cystitis,307426000,SNOMED
+4137361,Recurrent bacterial cystitis,425562008,SNOMED
+4128401,Acute culture positive cystitis,236702008,SNOMED
+4128384,Non-infective cystitis,236623005,SNOMED
+4127566,Chronic nonspecific cystitis,236627006,SNOMED
+4127565,Recurrent cystitis - culture-negative,236625003,SNOMED
+4127564,Acute cystitis - culture-negative,236624004,SNOMED
+4127563,Chronic infective cystitis,236622000,SNOMED
+4127562,Infective cystitis,236620008,SNOMED
+4126268,Chemical cystitis,236630004,SNOMED
+4126267,Chronic radiation cystitis,236629009,SNOMED
+4126141,Chronic cystitis - culture negative,236626002,SNOMED
+4063038,Infections of bladder in pregnancy,199205008,SNOMED
+4059608,Gonococcal cystitis,197848003,SNOMED
+4059142,Monilial cystitis,197849006,SNOMED
+4056612,Recurrent cystitis,197853008,SNOMED
+4056038,Submucous cystitis,197837005,SNOMED
+4047893,Panmural cystitis,230402000,SNOMED
+4032449,Recurrent infective cystitis,236703003,SNOMED
+4032434,Acute radiation cystitis,236628001,SNOMED
+4009638,Ulcerative cystitis,111409009,SNOMED
+764098,Irradiation cystitis without hematuria,4.50761E+14,SNOMED
+441615,Trigonitis,74445007,SNOMED
+439349,Cystitis associated with another disorder,197845000,SNOMED
+201633,Cystitis cystica,13285005,SNOMED
+201621,Chronic cystitis,33655002,SNOMED
+201353,Irradiation cystitis,11251000,SNOMED
+198807,Prostatocystitis,67685000,SNOMED
+198674,Tuberculosis of bladder,32268008,SNOMED
+196338,Chronic gonococcal cystitis,88813005,SNOMED
+195743,Diphtheritic cystitis,48278001,SNOMED
+195588,Cystitis,38822007,SNOMED
+194081,Acute cystitis,68226007,SNOMED
+193140,Acute gonococcal cystitis,24868007,SNOMED
+75863,Chronic interstitial cystitis,197834003,SNOMED
+45757273,Toxoplasma tubulointerstitial nephropathy,1.09283E+15,SNOMED
+45757268,Salmonella pyelonephritis,1.09237E+15,SNOMED
+45757237,Diphtheria tubulointerstitial nephropathy,1.08607E+15,SNOMED
+43530945,Induced termination of pregnancy complicated by urinary tract infection,609491002,SNOMED
+42535233,Pyelonephritis in pregnancy,1.6271E+13,SNOMED
+40481109,Abscess of urethral gland due to Neisseria gonorrhoeae,444834005,SNOMED
+37395567,Reactive arthritis co-occurrent and due to nonspecific urethritis,1.10041E+14,SNOMED
+37311937,Gonorrhea of penis,788961008,SNOMED
+37311936,Infection of urinary tract caused by Herpes simplex,788962001,SNOMED
+37017585,BK virus nephropathy,713886006,SNOMED
+37017217,Renal impairment caused by Polyomavirus,713453003,SNOMED
+37016370,Urinary tract infection caused by Pseudomonas,3.69011E+14,SNOMED
+37016369,Urinary tract infection caused by Klebsiella,3.69001E+14,SNOMED
+37016368,Urinary tract infection caused by Enterococcus,3.68991E+14,SNOMED
+36716009,Disorder of kidney and/or ureter caused by Schistosoma haematobium,721817004,SNOMED
+36713241,Bacterial nephritis,4.2231E+13,SNOMED
+35610224,Uncomplicated urinary tract infection,1.09071E+15,SNOMED
+4331815,Acute urinary tract infection,431309003,SNOMED
+4330644,Acute lower urinary tract infection,431737008,SNOMED
+4329572,Acute bacterial tubulointerstitial nephritis,22352007,SNOMED
+4329106,Acute upper urinary tract infection,431308006,SNOMED
+4324904,Bacterial urethritis,429728004,SNOMED
+4318119,Mycoplasmal pyelonephritis,95889002,SNOMED
+4312595,Pyoureter,85884009,SNOMED
+4311853,Upper urinary tract infection,422747000,SNOMED
+4310661,Acute pyonephrosis without renal medullary necrosis,85495007,SNOMED
+4307400,Recurrent obstructive pyelonephritis,423322005,SNOMED
+4290623,Tuberculous pyelitis,37133005,SNOMED
+4284564,Acute infectious tubulointerstitial nephritis,66993009,SNOMED
+4281684,Failed attempted termination of pregnancy with urinary tract infection,66892003,SNOMED
+4280571,Acute pyelonephritis,36689008,SNOMED
+4269363,Chronic pyelonephritis,63302006,SNOMED
+4251796,Acute pyonephrosis with renal medullary necrosis,7448003,SNOMED
+4245041,Legal termination of pregnancy with urinary tract infection,5945005,SNOMED
+4242401,Urinary tract infection following molar AND/OR ectopic pregnancy,38176009,SNOMED
+4239213,Acute fungal tubulointerstitial nephritis,91195006,SNOMED
+4220328,Lower urinary tract infectious disease,4009004,SNOMED
+4216859,Urethral stricture due to gonococcal infection,72225002,SNOMED
+4208664,Bacterial urinary infection,312124009,SNOMED
+4207309,Infective ureteritis,312221005,SNOMED
+4196799,Nongonococcal urethritis due to Ureaplasma urealyticum,51105006,SNOMED
+4192381,Renal coccidiosis,75712001,SNOMED
+4186202,Chronic gonococcal urethritis,44412000,SNOMED
+4177850,Chronic lower urinary tract infection,428091000,SNOMED
+4174994,Pyonephrosis,48631008,SNOMED
+4159655,Infection of bladder catheter,371061003,SNOMED
+4157002,Renal candidiasis,370368007,SNOMED
+4146482,Urinary tract infection in pregnancy,307534009,SNOMED
+4145196,Urethral wart,426479005,SNOMED
+4140509,Illegal termination of pregnancy with urinary tract infection,33046001,SNOMED
+4128400,Urethritis due to reactive arthritis triad,236690002,SNOMED
+4128399,Gonococcal urethral abscess,236687008,SNOMED
+4128398,Schistosomiasis of the urethra,236685000,SNOMED
+4128397,Gonococcal urethritis,236682002,SNOMED
+4128374,Cytomegalovirus-induced glomerulonephritis,236590008,SNOMED
+4128060,Acquired immune deficiency syndrome-related nephropathy,236406007,SNOMED
+4127709,Schistosomal urethral fistula,236686004,SNOMED
+4127558,Tuberculous stricture of ureter,236602004,SNOMED
+4126297,Chronic obstructive pyelonephritis,236379002,SNOMED
+4126296,Infected renal cyst,236376009,SNOMED
+4126283,Tuberculous urethritis,236684001,SNOMED
+4126282,Chlamydial urethritis,236683007,SNOMED
+4125953,Emphysematous pyelitis,236375008,SNOMED
+4125952,Chronic infective interstitial nephritis,236374007,SNOMED
+4125951,Emphysematous pyelonephritis,236373001,SNOMED
+4116491,Escherichia coli urinary tract infection,301011002,SNOMED
+4116490,Coliform urinary tract infection,301010001,SNOMED
+4114033,Proteus urinary tract infection,301012009,SNOMED
+4107240,Acute gonococcal urethritis,29864006,SNOMED
+4105744,Urethral stricture due to syphilis,29500006,SNOMED
+4100954,Acute viral tubulointerstitial nephritis,27810000,SNOMED
+4089973,Plasmodium malariae malaria with nephropathy,186796004,SNOMED
+4089498,Hydatid cyst of kidney,187144000,SNOMED
+4080779,Gonococcal Littr√© gland abscess,240578001,SNOMED
+4080597,Gonococcal paraurethral gland abscess,240579009,SNOMED
+4080596,Gonococcal Littritis,240577006,SNOMED
+4080595,Gonococcal Skenitis,240574004,SNOMED
+4080456,Renal tract candidiasis,240721007,SNOMED
+4080340,Gonococcal Cowperitis,240576002,SNOMED
+4066017,Urethral stricture due to schistosomiasis,1723008,SNOMED
+4062569,Urinary tract infection following delivery,199111004,SNOMED
+4062493,Mumps nephritis,17121006,SNOMED
+4060312,Infections of urethra in pregnancy,199206009,SNOMED
+4060295,Infections of kidney in pregnancy,199110003,SNOMED
+4059737,Postoperative urinary tract infection,197926005,SNOMED
+4059733,Candidal urethritis,197903003,SNOMED
+4059131,Late syphilis of kidney,197757004,SNOMED
+4056622,Chronic urinary tract infection,197928006,SNOMED
+4056621,Recurrent urinary tract infection,197927001,SNOMED
+4056610,Trichomonal cystitis,197850006,SNOMED
+4056597,Chronic pyonephrosis,197763008,SNOMED
+4056026,Pyelonephritis associated with another disorder,197782004,SNOMED
+4056023,Acute pyonephrosis,197770008,SNOMED
+4049424,Diffuse pyelonephritis,123755001,SNOMED
+4048676,Focal pyelonephritis,123754002,SNOMED
+4048058,Subacute pyelonephritis,123611003,SNOMED
+4047937,Neonatal urinary tract infection,12301009,SNOMED
+4042397,Acute tubulointerstitial nephritis associated with systemic infection,16751003,SNOMED
+4034818,Calculous pyelonephritis,23754003,SNOMED
+4033096,Miscarriage with urinary tract infection,1469007,SNOMED
+4032454,Candiduria,236721000,SNOMED
+4032450,Urinary schistosomiasis,236706006,SNOMED
+4032445,Infective urethritis,236681009,SNOMED
+4032428,Candida ureteritis,236600007,SNOMED
+4032427,Schistosomiasis of ureter,236599009,SNOMED
+4030508,Candida pyelonephritis,236378005,SNOMED
+4030507,Fungal infection of kidney,236377000,SNOMED
+4027122,Nephrotic syndrome in malaria,197606008,SNOMED
+3654660,Acute pyelonephritis caused by bacterium,838353009,SNOMED
+3654611,Bladder disorder caused by Schistosoma japonicum,838302008,SNOMED
+3654610,Bladder disorder caused by Schistosoma,838301001,SNOMED
+764968,Urinary tract infection following procedure,9.6171E+13,SNOMED
+760135,Gonorrhea of kidney and ureter,1.08704E+15,SNOMED
+442345,Syphilis of kidney,59530001,SNOMED
+439686,Urethritis due to Chlamydia trachomatis,179101003,SNOMED
+201908,Chronic pyelonephritis with medullary necrosis,197761005,SNOMED
+201792,Nongonococcal urethritis,84619001,SNOMED
+200657,Trichomonal urethritis,30116001,SNOMED
+199872,Chronic pyelonephritis without medullary necrosis,197760006,SNOMED
+198957,Tuberculosis of ureter,81359005,SNOMED
+198199,Pyelonephritis,45816000,SNOMED
+197919,Urethral stricture due to infection,80375002,SNOMED
+197035,Acute pyelonephritis with medullary necrosis,197769007,SNOMED
+196735,Acute pyelonephritis without medullary necrosis,197768004,SNOMED
+194685,Non-obstructive reflux-associated chronic pyelonephritis,197764002,SNOMED
+193955,Tuberculosis of kidney,44323002,SNOMED
+192964,Infectious disorder of kidney,129128006,SNOMED
+81902,Urinary tract infectious disease,68566005,SNOMED
+72817,Tuberculosis of urinary organs,111830007,SNOMED
+46269813,Urinary tract infection due to incomplete miscarriage,1.0812E+16,SNOMED
+46269809,Urinary tract infection due to ectopic pregnancy,1.07514E+16,SNOMED
+45770841,Febrile urinary tract infection,9.9631E+13,SNOMED
+45768718,Familial non-obstructive reflux-associated chronic pyelonephritis,707208009,SNOMED
+45763849,Catheter-associated urinary tract infection,700372006,SNOMED
+45757792,Obstructive pyelonephritis,4.181E+12,SNOMED
+198192,Renal and perinephric abscess,197772000,SNOMED
+78193,Orchitis and epididymitis,197983000,SNOMED
+77029,Epididymo-orchitis without abscess,57731009,SNOMED
+76629,Chronic gonococcal epididymo-orchitis,35526001,SNOMED
+75456,Tuberculosis of epididymis,83652003,SNOMED
+75310,Epididymo-orchitis associated with another disorder,198002008,SNOMED
+73686,Tuberculosis of genitourinary system,4445009,SNOMED
+4059744,Syphilitic prostatitis,197966009,SNOMED
+4059593,Renal tubulo-interstitial disorders in metabolic diseases,197744007,SNOMED
+4059584,"Chronic nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",197713003,SNOMED
+4059463,"Chronic nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",197712008,SNOMED
+4059458,"Rapidly progressive nephritic syndrome, diffuse crescentic glomerulonephritis",197697005,SNOMED
+4059457,"Rapidly progressive nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",197693009,SNOMED
+4059456,"Acute nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",197686005,SNOMED
+4059455,"Acute nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",197684008,SNOMED
+4059454,"Acute nephritic syndrome, minor glomerular abnormality",197681000,SNOMED
+4059447,Anaphylactoid glomerulonephritis,197629000,SNOMED
+4059129,Renal tubulo-interstitial disorders in transplant rejection,197747000,SNOMED
+4059128,Renal tubulo-interstitial disorders in neoplastic diseases,197742006,SNOMED
+4058991,"Rapidly progressive nephritic syndrome, dense deposit disease",197696001,SNOMED
+4058990,"Rapidly progressive nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",197694003,SNOMED
+4058989,"Rapidly progressive nephritic syndrome, diffuse membranous glomerulonephritis",197692004,SNOMED
+4058988,"Rapidly progressive nephritic syndrome, focal and segmental glomerular lesions",197691006,SNOMED
+4058986,"Acute nephritic syndrome, dense deposit disease",197687001,SNOMED
+4058985,"Acute nephritic syndrome, focal and segmental glomerular lesions",197682007,SNOMED
+4058837,Acute focal nephritis,197584000,SNOMED
+4056904,Vulvovaginitis associated with another disorder,198218005,SNOMED
+4056903,Vaginitis associated with another disorder,198216009,SNOMED
+4056781,Chronic pyometra,198189004,SNOMED
+4056780,Acute uterine inflammatory disease,198180000,SNOMED
+4056592,Renal tubulo-interstitial disorders in blood diseases and disorders involving the immune mechanism,197743001,SNOMED
+4056480,"Chronic nephritic syndrome, diffuse crescentic glomerulonephritis",197715005,SNOMED
+4056479,"Chronic nephritic syndrome, focal and segmental glomerular lesions",197709005,SNOMED
+4056478,Chronic nephritic syndrome,197707007,SNOMED
+4056475,"Rapidly progressive nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",197695002,SNOMED
+4056474,"Rapidly progressive nephritic syndrome, minor glomerular abnormality",197690007,SNOMED
+4056473,"Acute nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",197685009,SNOMED
+4056472,"Acute nephritic syndrome, diffuse membranous glomerulonephritis",197683002,SNOMED
+4056463,Chronic exudative glomerulonephritis,197617009,SNOMED
+4056462,Chronic mesangial proliferative glomerulonephritis,197613008,SNOMED
+4056330,Furuncle of vulva,198227006,SNOMED
+4056324,Female syphilitic pelvic inflammatory disease,198175009,SNOMED
+4056319,Chronic female pelvic cellulitis,198160001,SNOMED
+4056182,Epididymitis associated with another disorder,197994001,SNOMED
+4056174,Gonococcal prostatitis,197967000,SNOMED
+4056173,Blastomycotic prostatitis,197965008,SNOMED
+4056172,Actinomycotic prostatitis,197964007,SNOMED
+4056021,Chronic pyelitis,197762003,SNOMED
+4056018,Renal tubulo-interstitial disorders in systemic connective tissue disorders,197745008,SNOMED
+4055899,"Chronic nephritic syndrome, dense deposit disease",197714009,SNOMED
+4054993,"Chronic nephritic syndrome, minor glomerular abnormality",197708002,SNOMED
+4054992,Rapidly progressive nephritic syndrome,197689003,SNOMED
+4054915,"Acute nephritic syndrome, diffuse crescentic glomerulonephritis",197688006,SNOMED
+4050255,Puerperal salpingitis,20932005,SNOMED
+4049453,Legal termination of pregnancy with parametritis,15511008,SNOMED
+4049283,Subacute glomerulonephritis,123609007,SNOMED
+4048675,Immune-complex glomerulonephritis,123752003,SNOMED
+4048525,Chronic hypertrophic vulvitis,123613000,SNOMED
+4048200,Nephrotoxic serum nephritis,123753008,SNOMED
+4048087,Chronic gonococcal bartholinitis,12373006,SNOMED
+4047238,Chronic myometritis,13125003,SNOMED
+4045254,Tuberculosis of seminal vesicle,12985005,SNOMED
+4042511,Chronic gonococcal vulvovaginitis,11906007,SNOMED
+4040830,Acute oophoritis,16486000,SNOMED
+4035429,Juvenile reactive arthritis triad,239808004,SNOMED
+4034708,Cellulitis of vas deferens,15110001,SNOMED
+4034010,Gonococcal vulvovaginitis,237095000,SNOMED
+4034008,Actinomycotic cervicitis,237085007,SNOMED
+4034007,Gonococcal cervicitis,237083000,SNOMED
+4034003,Chronic parametritis,237045001,SNOMED
+4033947,Acute gonococcal vulvovaginitis,2390000,SNOMED
+4033493,Plasma cell vulvitis,238921004,SNOMED
+4032594,Inflammation of scrotum,236781003,SNOMED
+4032591,Chlamydial epididymo-orchitis,236773004,SNOMED
+4032590,Gonococcal epididymo-orchitis,236772009,SNOMED
+4032589,Gonococcal epididymitis,236766009,SNOMED
+4032460,Mycoplasma balanitis,236748004,SNOMED
+4032459,Balanitis circumscripta plasmacellularis,236743008,SNOMED
+4032422,De novo glomerulonephritis,236586006,SNOMED
+4032338,Cellulitis of penis,14812002,SNOMED
+4031999,Acute pyelitis with renal medullary necrosis,14343001,SNOMED
+4031981,Necrotizing glomerulonephritis,1426004,SNOMED
+4031856,Chronic vaginitis,14248008,SNOMED
+4031820,Acute endomyometritis,14053009,SNOMED
+4030854,Postirradiation vaginitis,14488001,SNOMED
+4030750,Herpetic cervicitis,129670002,SNOMED
+4030672,Chronic radiation nephritis,236525007,SNOMED
+4030671,Acute radiation nephritis,236524006,SNOMED
+4030665,Cryoglobulinemic glomerulonephritis,236505008,SNOMED
+4030523,Chronic cadmium nephropathy,236456002,SNOMED
+4030517,Fechtner syndrome,236422008,SNOMED
+4030516,Membranous glomerulonephritis stage V,236417008,SNOMED
+4030515,Membranous glomerulonephritis - stage IV,236416004,SNOMED
+4030514,C1q nephropathy,236412002,SNOMED
+4029504,Boil of scrotum,12864009,SNOMED
+4028050,Sclerosing glomerulonephritis,13335004,SNOMED
+4027125,Chronic diffuse glomerulonephritis,197619007,SNOMED
+4027124,Chronic focal glomerulonephritis,197618004,SNOMED
+4027117,Acute diffuse nephritis,197585004,SNOMED
+4027116,Acute exudative nephritis,197583006,SNOMED
+4024972,Puerperal pelvic cellulitis,12062007,SNOMED
+4023781,Illegal termination of pregnancy with endometritis,195005,SNOMED
+4018127,Idiopathic granulomatous interstitial nephropathy,11480007,SNOMED
+4016956,Ureteritis glandularis,1046004,SNOMED
+4009176,Cellulitis of corpus cavernosum,111416005,SNOMED
+4009173,Ureteritis,111405003,SNOMED
+4008982,Chronic orchitis,10194007,SNOMED
+4008562,Chronic endocervicitis with erosion,111418006,SNOMED
+4008561,Urethral granuloma,111412007,SNOMED
+4006320,Cellulitis of seminal vesicle,111414008,SNOMED
+4003679,Follicular cervicitis,109867008,SNOMED
+4003020,Cellulitis of spermatic cord,10982004,SNOMED
+4002526,"SLE glomerulonephritis syndrome, WHO class VI",11013005,SNOMED
+4001175,Proliferative vasitis nodosa,109860005,SNOMED
+762464,Acute nephritis due to another disorder,4.0371E+13,SNOMED
+444260,Tuberculous oophoritis,84194006,SNOMED
+444106,Candidiasis of vulva,1085006,SNOMED
+444078,Inflammation of cervix,37610005,SNOMED
+443911,Acute gonococcal epididymo-orchitis,30168008,SNOMED
+443879,Epididymo-orchitis with abscess,27141002,SNOMED
+443781,Chronic gonococcal seminal vesiculitis,23975003,SNOMED
+443578,Ulcerative mucositis of cervix,428193004,SNOMED
+443555,Ulcerative mucositis of vagina,427786008,SNOMED
+442075,Chronic glomerulonephritis associated with another disorder,197616000,SNOMED
+442074,Focal membranoproliferative glomerulonephritis,197626007,SNOMED
+436466,Balanoposthitis,46090001,SNOMED
+435320,Acute glomerulonephritis associated with another disorder,197582001,SNOMED
+435308,Acute glomerulonephritis,19351000,SNOMED
+435011,Vulvar vestibulitis,30833006,SNOMED
+435003,Acute nephritis with lesions of necrotizing glomerulitis,197580009,SNOMED
+433689,Mumps orchitis,78580004,SNOMED
+433257,Mesangiocapillary glomerulonephritis,80321008,SNOMED
+312358,Chronic glomerulonephritis,20917003,SNOMED
+259070,Acute proliferative glomerulonephritis,197579006,SNOMED
+252365,Membranous glomerulonephritis,77182004,SNOMED
+201798,Trichomonal prostatitis,71590000,SNOMED
+201624,Pyelitis associated with another disorder,197783009,SNOMED
+201503,Chronic gonococcal prostatitis,60893000,SNOMED
+201211,Herpetic vulvovaginitis,27420004,SNOMED
+201078,Atrophic vaginitis,52441000,SNOMED
+200446,Prostatitis associated with another disorder,197963001,SNOMED
+200445,Chronic prostatitis,19905009,SNOMED
+200334,Acute gonococcal salpingitis,45377007,SNOMED
+200148,Seminal vesiculitis,27001009,SNOMED
+200040,Acute gonococcal endometritis,65295003,SNOMED
+199869,Pyeloureteritis cystica,37779008,SNOMED
+199067,Female pelvic inflammatory disease,198130006,SNOMED
+198972,Acute gonococcal seminal vesiculitis,65049003,SNOMED
+198363,Candidiasis of vagina,72934000,SNOMED
+198336,Tuberculous salpingitis,49558004,SNOMED
+198201,Chronic salpingo-oophoritis,198142001,SNOMED
+197605,Inflammatory disorder of male genital organ,128478005,SNOMED
+197602,Tubo-ovarian inflammatory disease,46536000,SNOMED
+197204,Tuberculosis of female genital organs,74181004,SNOMED
+196468,Acute salpingo-oophoritis,266581008,SNOMED
+196464,Rapidly progressive glomerulonephritis,236392004,SNOMED
+196163,Cervicitis and endocervicitis,198199009,SNOMED
+196162,Inflammatory disease of the uterus,28783002,SNOMED
+195862,Urethritis,31822004,SNOMED
+195598,Chronic uterine inflammatory disease,198188007,SNOMED
+195289,Goodpasture's syndrome,50581000,SNOMED
+194997,Prostatitis,9713002,SNOMED
+194871,Trichomonal vulvovaginitis,81598001,SNOMED
+194863,Chronic gonococcal cervicitis,76802005,SNOMED
+194687,Uterine inflammatory diseases excluding the cervix,198179003,SNOMED
+194571,Acute gonococcal prostatitis,111806005,SNOMED
+193814,Chronic parametritis and pelvic cellulitis,198159006,SNOMED
+193700,Chronic gonococcal salpingitis,53529004,SNOMED
+193699,Chronic gonococcal endometritis,31999004,SNOMED
+193522,Acute prostatitis,79411002,SNOMED
+193262,Inflammatory disorder of penis,371163003,SNOMED
+193253,Nephritis,52845002,SNOMED
+193136,Acute gonococcal cervicitis,20943002,SNOMED
+192818,Tuberculosis of male genital organs,240379005,SNOMED
+141917,Balanitis xerotica obliterans,198033005,SNOMED
+79742,Primary genital syphilis,186847001,SNOMED
+78357,Reactive arthritis triad,67224007,SNOMED
+4216974,Failed attempted termination of pregnancy with salpingitis,81521003,SNOMED
+4214324,Penile sclerosing lipogranuloma due to injected substance,416637009,SNOMED
+4213204,Acute gonococcal bartholinitis,80604007,SNOMED
+4210158,"Idiopathic crescentic glomerulonephritis, type III",55652009,SNOMED
+4209732,Chronic cervicitis,56728002,SNOMED
+4208918,Drug-induced tubulointerstitial nephritis,439990003,SNOMED
+4208785,Infective orchitis,312223008,SNOMED
+4208673,Carbuncle of vas deferens,56269007,SNOMED
+4207310,Infective epididymitis,312224002,SNOMED
+4207308,Infective epididymo-orchitis,312220006,SNOMED
+4206527,Heavy-metal-induced tubulointerstitial nephritis,440018001,SNOMED
+4206338,Chronic salpingitis,55551005,SNOMED
+4205855,Cis-platinum nephropathy,53556002,SNOMED
+4204528,Boil of vas deferens,55028001,SNOMED
+4204372,Hypokalemic nephropathy,54879000,SNOMED
+4204206,Legal termination of pregnancy with salpingitis,53098006,SNOMED
+4204188,Infective balanitis,309091003,SNOMED
+4201692,Gonococcal seminal vesiculitis,301990003,SNOMED
+4199600,Candidal balanitis,52643007,SNOMED
+4197681,Legal termination of pregnancy with salpingo-oophoritis,51707007,SNOMED
+4195406,Miscarriage with salpingitis,7910003,SNOMED
+4195139,Posthitis,44318002,SNOMED
+4194612,Acute endometritis,67667007,SNOMED
+4189531,Acute nephritis,61503006,SNOMED
+4189350,Miscarriage with salpingo-oophoritis,61568004,SNOMED
+4189197,Granulomatous prostatitis,61500009,SNOMED
+4188998,Carbuncle of corpus cavernosum,41394002,SNOMED
+4188623,Idiopathic acute tubulointerstitial nephritis,47330001,SNOMED
+4187653,Immunologic mediated TIN (tubulointerstitial nephritis),45927004,SNOMED
+4186940,"SLE glomerulonephritis syndrome, WHO class II",4676006,SNOMED
+4186603,Carbuncle of scrotum,46355004,SNOMED
+4185364,Cavernitis of penis,54770009,SNOMED
+4184319,Acute epididymitis,43491000,SNOMED
+4183161,Myometritis,4316006,SNOMED
+4180978,Vulvovaginitis,53277000,SNOMED
+4179055,Non-specific granulomatous orchitis,50390006,SNOMED
+4178133,"SLE glomerulonephritis syndrome, WHO class V",52042003,SNOMED
+4177206,Tubulointerstitial nephritis,428255004,SNOMED
+4174255,Malakoplakia of urethra,423352002,SNOMED
+4173717,Amebic balanitis,50227004,SNOMED
+4173450,Chronic vulvitis,4232007,SNOMED
+4173195,Congenital nephritis,276585000,SNOMED
+4173115,Acute perimetritis,48153009,SNOMED
+4173086,Boil of tunica vaginalis,48012003,SNOMED
+4171915,Orchitis,274718005,SNOMED
+4171192,Chronic endocervicitis,49258000,SNOMED
+4171188,Acute endocervicitis,49249007,SNOMED
+4167836,Fibromatous periorchitis,48151006,SNOMED
+4163736,Non-progressive hereditary glomerulonephritis,399190000,SNOMED
+4161421,Hereditary nephritis,399340005,SNOMED
+4159963,Inflammatory disorder of genitourinary system,373406006,SNOMED
+4159585,Sclerosing lymphangitis of penis,361279005,SNOMED
+4158798,Mondor's phlebitis of the penis,361278002,SNOMED
+4155530,Pelvic inflammatory disease due to Mycoplasma hominis,270550006,SNOMED
+4151600,Endocervicitis,31354001,SNOMED
+4150781,Mycoplasmal pelvic inflammatory disease,271488001,SNOMED
+4150064,Boil of penis,310008,SNOMED
+4150043,Epididymitis,31070006,SNOMED
+4149423,Miscarriage with endometritis,30806007,SNOMED
+4149084,Vaginitis,30800001,SNOMED
+4147453,Cellulitis of scrotum,34830002,SNOMED
+4146996,Mesangial proliferative glomerulonephritis,35546006,SNOMED
+4146046,Chronic cervicitis with erosion,34543006,SNOMED
+4145588,Carbuncle of spermatic cord,34684001,SNOMED
+4145240,Renal tubulo-interstitial disorder in systemic lupus erythematosus,307755009,SNOMED
+4143003,Glomerulonephritis due to granulomatosis with polyangiitis,427555000,SNOMED
+4142912,Hypercalcemic nephropathy,33763006,SNOMED
+4140828,Acute vulvitis,33028007,SNOMED
+4140759,Nongonococcal cervicitis,427307004,SNOMED
+4139915,Acute pyelitis,32801008,SNOMED
+4139445,Chronic oophoritis,32582007,SNOMED
+4138333,Chronic prostatitis - chronic pelvic pain syndrome,426135001,SNOMED
+4138090,Verumontanitis,3263004,SNOMED
+4137752,Acute drug-induced tubulointerstitial nephritis,32093003,SNOMED
+4137220,Diabetic glomerulonephritis,425455002,SNOMED
+4132149,Carbuncle of vulva,26535009,SNOMED
+4130345,Chlamydial bartholinitis,237106009,SNOMED
+4130344,Trichomonal vulvitis,237104007,SNOMED
+4130343,Streptococcal vulvovaginitis,237094001,SNOMED
+4130332,Chlamydial salpingitis,237039009,SNOMED
+4130331,Acute pelvic inflammatory disease,237037006,SNOMED
+4129544,Hematopyometra,237124006,SNOMED
+4128542,Sperm granuloma of epididymis,236769002,SNOMED
+4128394,Chlamydial prostatitis,236672003,SNOMED
+4128223,Henoch-Sch√∂nlein nephritis,236504007,SNOMED
+4128209,Malakoplakia of kidney,236459009,SNOMED
+4128208,Chronic mercury nephropathy,236457006,SNOMED
+4128207,Chronic tubulointerstitial nephritis caused by heavy metal,236453005,SNOMED
+4128206,Chronic drug-induced tubulointerstitial nephritis,236452000,SNOMED
+4128063,IgM nephropathy,236411009,SNOMED
+4128062,Mesangiocapillary glomerulonephritis type III,236409000,SNOMED
+4128061,IgA nephropathy,236407003,SNOMED
+4128057,Post-infectious glomerulonephritis - Garland variety,236397005,SNOMED
+4128056,Familial mesangial sclerosis,236383002,SNOMED
+4128053,Neonatal gonococcal vulvovaginitis,237096004,SNOMED
+4128047,Gonococcal endometritis,237069002,SNOMED
+4127733,Mumps epididymo-orchitis,236771002,SNOMED
+4127732,Tuberculous epididymo-orchitis,236770001,SNOMED
+4127731,Chlamydial epididymitis,236767000,SNOMED
+4127725,Chlamydial balanitis,236749007,SNOMED
+4127724,Bacterial balanitis,236745001,SNOMED
+4127706,Non-bacterial prostatitis,236673008,SNOMED
+4127408,Chlamydial vulvovaginitis,237097008,SNOMED
+4127407,Prepubertal vaginitis,237093007,SNOMED
+4127406,Infective vaginitis,237091009,SNOMED
+4127403,Chlamydial cervicitis,237084006,SNOMED
+4127398,Uterine candidiasis,237070001,SNOMED
+4127391,Chronic pelvic inflammatory disease,237044002,SNOMED
+4127390,Gonococcal salpingitis,237038001,SNOMED
+4126947,Chronic epididymitis,236768005,SNOMED
+4126945,Anaerobic balanitis,236746000,SNOMED
+4126944,Circinate balanitis co-occurrent with reactive arthritis triad,236744002,SNOMED
+4126442,Chronic toxic interstitial nephritis,236523000,SNOMED
+4126431,Chronic lead nephropathy,236454004,SNOMED
+4126304,Membranous glomerulonephritis - stage III,236415000,SNOMED
+4126303,Membranous glomerulonephritis - stage II,236414001,SNOMED
+4126301,Idiopathic crescentic glomerulonephritis,236398000,SNOMED
+4126300,Endocapillary glomerulonephritis,236393009,SNOMED
+4126116,Malignancy-associated glomerulonephritis,236508005,SNOMED
+4126105,Congenital Fanconi syndrome,236466005,SNOMED
+4125973,Granulomatous tubulointerstitial nephritis,236458001,SNOMED
+4125972,Saturnine nephropathy,236455003,SNOMED
+4125971,Renal ocular syndrome,236451007,SNOMED
+4125967,Progressive hereditary glomerulonephritis without deafness,236419006,SNOMED
+4125966,Membranous glomerulonephritis - stage I,236413007,SNOMED
+4125964,Mesangiocapillary glomerulonephritis type IV,236410005,SNOMED
+4125962,Steroid-dependent minimal change glomerulonephritis,236401002,SNOMED
+4125961,Steroid-resistant minimal change glomerulonephritis,236400001,SNOMED
+4125960,Steroid-sensitive minimal change glomerulonephritis,236399008,SNOMED
+4125958,Post-infectious glomerulonephritis,236395002,SNOMED
+4125957,Idiopathic endocapillary glomerulonephritis,236394003,SNOMED
+4124334,Inflammation of clitoris,289510007,SNOMED
+4122761,Oral lesion co-occurrent with reactive arthritis triad,235066005,SNOMED
+4122172,"Endometritis, excluding cervix",286985001,SNOMED
+4121264,Epstein syndrome,234485006,SNOMED
+4116849,Erosive balanitis,255483000,SNOMED
+4113995,Salpingo-oophoritis following abortive pregnancy,198824009,SNOMED
+4111937,Ulcerative balanoposthitis,254740002,SNOMED
+4109623,Congenital hydrosalpinx,253825002,SNOMED
+4105875,Genital tuberculosis,281623008,SNOMED
+4104770,IgA nephropathy associated with liver disease,282364005,SNOMED
+4102631,Acute tubulointerstitial nephritis,28637003,SNOMED
+4101401,Carbuncle of tunica vaginalis,28004004,SNOMED
+4099757,Pyocolpos,27438001,SNOMED
+4099596,Carbuncle of penis,27351007,SNOMED
+4098854,Pyelitis,27174002,SNOMED
+4096951,Chlamydial pelvic inflammatory disease,188463006,SNOMED
+4096690,Trichomonal balanoposthitis,249414000,SNOMED
+4095279,Balkan nephropathy,26121002,SNOMED
+4090458,Female pelvic cellulitis,280486004,SNOMED
+4088625,Parametritis,280483007,SNOMED
+4088316,Infective vulvitis,279499002,SNOMED
+4087164,Trichomonal balanitis,248534009,SNOMED
+4082614,Epididymitis without abscess,24712006,SNOMED
+4081648,Acute vaginitis,24520005,SNOMED
+4081056,Trichomonal vaginitis,276877003,SNOMED
+4080778,Gonococcal Tysonitis,240575003,SNOMED
+4080310,Gonococcal lymphangitis of penis,238419002,SNOMED
+4080189,Necrotizing fasciitis of scrotum and perineum,238399000,SNOMED
+4078704,Acute cervicitis,19272000,SNOMED
+4074179,Trichomonal cervicitis,21955004,SNOMED
+4069961,Chronic endomyometritis,17716001,SNOMED
+4068849,Tuberculosis of prostate,20372007,SNOMED
+4067971,Hydrosalpinx,21711003,SNOMED
+4066014,Endometritis following molar AND/OR ectopic pregnancy,172001,SNOMED
+4065749,Puerperal endometritis - delivered with postnatal complication,200181000,SNOMED
+4062257,Puerperal salpingitis with postnatal complication,200187001,SNOMED
+4061465,Puerperal salpingitis - delivered with postnatal complication,200185009,SNOMED
+4061463,Puerperal endometritis with postnatal complication,200182007,SNOMED
+4061217,Female gonococcal pelvic inflammatory disease,198242009,SNOMED
+4061215,Carbuncle of labium,198236005,SNOMED
+4061210,Vulvitis associated with another disorder,198217000,SNOMED
+4061209,Cervicitis with Nabothian cyst,198203009,SNOMED
+4061205,Subacute myometritis,198184009,SNOMED
+4061204,Subacute endomyometritis,198183003,SNOMED
+4061203,Subacute endometritis,198182008,SNOMED
+4061052,Carbuncle of vagina,198235009,SNOMED
+4061050,Subacute and chronic vaginitis,198219002,SNOMED
+4061049,Endocervicitis with Nabothian cyst,198206001,SNOMED
+4060954,Subacute pyometra,198186006,SNOMED
+4060953,Subacute perimetritis,198185005,SNOMED
+4060950,Acute parametritis,198156004,SNOMED
+4060948,Subacute salpingo-oophoritis,198137009,SNOMED
+4060927,Orchitis associated with another disorder,197988009,SNOMED
+4060924,Monilial prostatitis,197968005,SNOMED
+40490881,Foreign body granuloma of penis,447066005,SNOMED
+40483613,Inflammatory disease of female genital structure,442506007,SNOMED
+40483372,Familial immunoglobulin A nephropathy,445404003,SNOMED
+40482881,Idiopathic rapidly progressive glomerulonephritis,445258009,SNOMED
+40480859,Proliferative glomerulonephritis,441815006,SNOMED
+37397763,Glomerulonephritis co-occurrent and due to scleroderma,8.9681E+13,SNOMED
+37397533,Non-amyloid fibrillary glomerulonephritis,718192000,SNOMED
+37395581,Bacterial prostatitis,2.81801E+14,SNOMED
+37312293,Anti-glomerular basement membrane disease,788613004,SNOMED
+37204218,Karyomegalic interstitial nephritis,782738008,SNOMED
+37118677,"Microcephalus, glomerulonephritis, marfanoid habitus syndrome",733472005,SNOMED
+37111374,X-linked diffuse leiomyomatosis with Alport syndrome,726106004,SNOMED
+37111358,Immunotactoid glomerulonephritis,726082003,SNOMED
+37110268,Lichen simplex of male genitalia,724465009,SNOMED
+37109992,Schimke immuno-osseous dysplasia,723995003,SNOMED
+37109852,Xanthogranulomatous salpingitis,723736005,SNOMED
+37019162,Persistent hematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis,714818009,SNOMED
+37018634,Glomerulonephritis due to Henoch-Sch√∂nlein purpura,8.5381E+13,SNOMED
+37018345,Recurrent hematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis,714817004,SNOMED
+37018344,Persistent hematuria co-occurrent and due to diffuse crescentic glomerulonephritis,714816008,SNOMED
+37018343,Recurrent hematuria co-occurrent and due to diffuse crescentic glomerulonephritis,714815007,SNOMED
+37018342,Persistent hematuria co-occurrent and due to dense deposit disease,714814006,SNOMED
+37018341,Recurrent hematuria co-occurrent and due to dense deposit disease,714813000,SNOMED
+37017218,Atrophic endometritis,713454009,SNOMED
+37016365,Hereditary nephropathy co-occurrent with membranoproliferative glomerulonephritis type III,3.68941E+14,SNOMED
+37016364,Isolated proteinuria co-occurrent and due to membranoproliferative glomerulonephritis type III,3.68931E+14,SNOMED
+37016363,Nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,3.68921E+14,SNOMED
+37016362,Nephrotic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,3.68911E+14,SNOMED
+37016361,Chronic nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,3.68901E+14,SNOMED
+37016360,Rapidly progressive nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,3.68881E+14,SNOMED
+37016359,Acute nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,3.68871E+14,SNOMED
+36717583,Dense deposit disease,722760002,SNOMED
+36717567,Female pelvic inflammatory disease caused by Mycoplasma genitalium,722522009,SNOMED
+36716680,Acute female pelvic inflammatory disease following procedure,722830001,SNOMED
+36716651,Complement component 3 glomerulonephritis,722761003,SNOMED
+36716649,Complement component 3 glomerulopathy,722758004,SNOMED
+36716430,Dyschondrosteosis and nephritis syndrome,722433005,SNOMED
+36716231,Infection-associated membranous nephropathy,722168002,SNOMED
+36716200,Drug-induced membranous nephropathy,722120008,SNOMED
+36716199,Idiopathic membranous glomerulonephritis,722119002,SNOMED
+36716176,Malignancy-associated membranous nephropathy,722086002,SNOMED
+36715824,Vulvitis caused by chemical,721592001,SNOMED
+36715351,"Alport syndrome, intellectual disability, midface hypoplasia, elliptocytosis syndrome",720982007,SNOMED
+36713442,Alport syndrome X-linked,717768004,SNOMED
+36713441,Alport syndrome autosomal recessive,717767009,SNOMED
+36713440,Alport syndrome autosomal dominant,717766000,SNOMED
+36685422,Cytolytic vaginosis,1.09757E+15,SNOMED
+36685194,Recurrent inflammation of vulva caused by human herpes simplex virus,1.09044E+15,SNOMED
+36676681,"Nephrotic syndrome, deafness, pretibial epidermolysis bullosa syndrome",773647007,SNOMED
+36674698,Alport syndrome,770414008,SNOMED
+35627150,Vasculitis with glomerulonephritis,9.0971E+13,SNOMED
+35623820,Lowe Kohn Cohen syndrome,766249007,SNOMED
+4343933,Primary pauci-immune necrotizing and crescentic glomerulonephritis,239932005,SNOMED
+4339120,Endomyometritis,88027004,SNOMED
+4338958,Salpingitis,88157006,SNOMED
+4332168,Allergic vulvitis,22775002,SNOMED
+4331449,Glomerulitis,22702000,SNOMED
+4328870,Puerperal endometritis,22399000,SNOMED
+4328350,Oophoritis,76047005,SNOMED
+4327947,Mumps oophoritis,75548002,SNOMED
+4327175,Decidual endometritis,75585005,SNOMED
+4327065,Streptococcal cervicitis,75530006,SNOMED
+4326497,Vaginitis in pregnancy,428252001,SNOMED
+4323204,Trichomonal vaginitis in pregnancy,428230005,SNOMED
+4323072,Sperm granuloma,428775009,SNOMED
+4321565,Subacute salpingitis,70120007,SNOMED
+4320787,Orchitis without abscess,70053000,SNOMED
+4318662,Illegal termination of pregnancy with salpingitis,22046002,SNOMED
+4316051,Salpingitis following molar AND/OR ectopic pregnancy,9516007,SNOMED
+4313588,Emphysematous vaginitis,8628002,SNOMED
+4313005,Illegal termination of pregnancy with salpingo-oophoritis,8670007,SNOMED
+4312366,Sarcoidosis with glomerulonephritis,425384007,SNOMED
+4312329,Perimetritis,86070006,SNOMED
+4310713,Idiopathic interstitial tubulonephritis,424188009,SNOMED
+4310182,Failed attempted termination of pregnancy with salpingo-oophoritis,39120007,SNOMED
+4308278,Cervicitis with erosion,83774001,SNOMED
+4306541,Xanthogranulomatous pyelonephritis,38898003,SNOMED
+4305348,Illegal termination of pregnancy with parametritis,82204006,SNOMED
+4305341,Cellulitis of tunica vaginalis,81823008,SNOMED
+4303512,Tubulointerstitial nephritis with uveitis syndrome,418839003,SNOMED
+4303258,Bacterial vaginosis,419760006,SNOMED
+4302958,Gardnerella vaginitis,419468003,SNOMED
+4302765,Endometritis,78623009,SNOMED
+4302592,Hereditary tubulointerstitial disorder,78815005,SNOMED
+4301050,Seminal vulvitis,403477005,SNOMED
+4301049,Penile sclerosing lipogranuloma,403473009,SNOMED
+4301046,Acute infective balanitis,403464001,SNOMED
+4300385,Vulval cellulitis,387682007,SNOMED
+4300384,Erosive vulvitis,387681000,SNOMED
+4300123,Vulval hidradenitis suppurativa,402828000,SNOMED
+4299818,Salivary vulvitis,403478000,SNOMED
+4299498,Radiation nephritis,7725007,SNOMED
+4299294,Crohn's disease of penis,402376005,SNOMED
+4298861,Syphilitic balanitis,402943002,SNOMED
+4298860,Syphilitic chancre of vulva,402941000,SNOMED
+4298852,Recurrent herpetic vulvovaginitis,402896007,SNOMED
+4298809,Nephritic syndrome,7724006,SNOMED
+4298719,Inflammatory dermatosis of female genitalia,402707003,SNOMED
+4297643,Crohn's disease of vulva,402375009,SNOMED
+4297466,Granular vaginitis,77106003,SNOMED
+4297164,"SLE glomerulonephritis syndrome, WHO class III",76521009,SNOMED
+4296497,Chronic infective balanitis,403465000,SNOMED
+4295369,Chronic perimetritis,37830006,SNOMED
+4295315,"Vulval lichen sclerosus, childhood form",403565003,SNOMED
+4295173,Micaceous and keratotic balanitis,403466004,SNOMED
+4295172,Irritant balanitis,403463007,SNOMED
+4294829,Legal termination of pregnancy with endometritis,75947000,SNOMED
+4294813,"Mesangiocapillary glomerulonephritis, type I",75888001,SNOMED
+4294511,Acute myometritis,76151005,SNOMED
+4294448,Syphilitic chancre of penis,402940004,SNOMED
+4294445,Acute pyococcal bartholinitis,402935007,SNOMED
+4294438,Primary herpetic vulvovaginitis,402890001,SNOMED
+4294276,Atrophic vulvovaginitis,75993002,SNOMED
+4293715,Traumatic balanitis,403462002,SNOMED
+4292361,Crohn's disease of scrotum,402377001,SNOMED
+4292215,Allergic contact dermatitis of male genitalia,402256001,SNOMED
+4292213,Lichen simplex of vulva,402243008,SNOMED
+4291613,Gonococcal bartholinitis,402957000,SNOMED
+4291434,Lichen sclerosus of female genitalia,402715000,SNOMED
+4290345,Shunt nephritis,37085009,SNOMED
+4290339,Granulomatous sarcoid nephropathy,37061001,SNOMED
+4287695,Primary IgA nephropathy,68779003,SNOMED
+4286661,Chronic vulvovaginitis,6887003,SNOMED
+4286510,Mucopurulent vaginitis,68389001,SNOMED
+4286024,Acute post-streptococcal glomerulonephritis,68544003,SNOMED
+4285717,SLE glomerulonephritis syndrome,68815009,SNOMED
+4284491,Diffuse endocapillary proliferative glomerulonephritis,3704008,SNOMED
+4282000,Salpingitis follicularis,65984002,SNOMED
+4279547,PID (Pelvic inflammatory disease) with female sterility due to Chlamydia trachomatis,367504009,SNOMED
+4273757,Salpingitis isthmica nodosa,36742000,SNOMED
+4273703,Chronic endometritis,63922003,SNOMED
+4272486,Diffuse crescentic glomerulonephritis,64212008,SNOMED
+4272470,"Idiopathic crescentic glomerulonephritis, type I",64168005,SNOMED
+4272466,Endocervicitis with erosion,64150007,SNOMED
+4270152,Non-venereal sclerosing lymphangitis of penis,36431005,SNOMED
+4269221,Vulvitis,63144007,SNOMED
+4268774,Infantile nephropathic cystinosis,62332007,SNOMED
+4267801,"SLE glomerulonephritis syndrome, WHO class IV",36402006,SNOMED
+4267717,Anti-glomerular basement membrane tubulointerstitial nephritis,62853008,SNOMED
+4266861,Tuberculous cervicitis,62819009,SNOMED
+4266028,Pyosalpinx,397810006,SNOMED
+4264718,Chronic tubulointerstitial nephritis,60926001,SNOMED
+4264352,Cowperitis,44741008,SNOMED
+4263987,Allergic vaginitis,60967006,SNOMED
+4263367,Glomerulonephritis,36171008,SNOMED
+4262326,Gangrenous balanitis,397889003,SNOMED
+4261372,Tuberculous endometritis,35585004,SNOMED
+4260847,Acute orchitis,45082006,SNOMED
+4260520,Balanitis,44882003,SNOMED
+4260398,Minimal change disease,44785005,SNOMED
+4255393,Perimenopausal atrophic vaginitis,408386002,SNOMED
+4250483,"SLE glomerulonephritis syndrome, WHO class I",73286009,SNOMED
+4249737,Fibrillary glomerulonephritis,73305009,SNOMED
+4249442,Subacute oophoritis,73806001,SNOMED
+4244418,Analgesic nephropathy,59400006,SNOMED
+4242369,Failed attempted termination of pregnancy with endometritis,38099005,SNOMED
+4241966,"Mesangiocapillary glomerulonephritis, type II",59479006,SNOMED
+4240578,Skene's gland adenitis,59020000,SNOMED
+4239009,Salpingo-oophoritis following molar AND/OR ectopic pregnancy,57468008,SNOMED
+4238695,Bartholinitis,6815003,SNOMED
+4234761,"Idiopathic crescentic glomerulonephritis, type II",359694003,SNOMED
+4234233,Acute vulvovaginitis,90206003,SNOMED
+4233236,Follicular urethritis,89891003,SNOMED
+4232765,Urethral meatitis,89656008,SNOMED
+4232758,Pyelitis glandularis,89637003,SNOMED
+4231181,Candidal balano-posthitis,360380003,SNOMED
+4230796,Pyometra,88981003,SNOMED
+4230473,Acute salpingitis,8912009,SNOMED
+4227746,Cyclic vulvovaginitis,87728001,SNOMED
+4224748,Tuberculosis of testis,40258005,SNOMED
+4223486,Nail dystrophy co-occurrent with reactive arthritis triad,402339007,SNOMED
+4223485,Psoriasis of vulva,402314003,SNOMED
+4223475,Vulvitis circumscripta plasmacellularis,4022007,SNOMED
+4222905,Vulval intraepithelial neoplasia with lichen sclerosus,403475002,SNOMED
+4222610,Focal AND segmental proliferative glomerulonephritis,83866005,SNOMED
+4222306,Familial interstitial nephritis,83923004,SNOMED
+4221853,Miscarriage with parametritis,83922009,SNOMED
+4221664,Circinate vulvovaginitis co-occurrent with reactive arthritis triad,402338004,SNOMED
+4221663,Nephrotic-nephritic syndrome,40233000,SNOMED
+4221656,Allergic contact dermatitis of female genitalia,402257005,SNOMED
+4221654,Vulval eczema,402236002,SNOMED
+4220051,Focal embolic nephritis syndrome,8199003,SNOMED
+4219863,Acute pyelitis without renal medullary necrosis,3999002,SNOMED
+4219458,Idiopathic chronic tubulointerstitial nephritis,82112005,SNOMED
+4217669,Candidal vulvovaginitis,72605008,SNOMED
+4217187,Epididymitis with abscess,72550000,SNOMED
+46273053,Focal mesangial proliferative glomerulonephritis,711531007,SNOMED
+46270481,Tubulointerstitial nephropathy due to Sjogren syndrome,3.20681E+14,SNOMED
+46270347,Chronic nephritic syndrome with membranous glomerulonephritis,2.8191E+13,SNOMED
+46269806,Salpingitis due to ectopic pregnancy,1.07513E+16,SNOMED
+45773214,Secondary tubulointerstitial nephritis,5.0411E+13,SNOMED
+45772126,Hereditary diffuse endocapillary proliferative glomerulonephritis,3.67531E+14,SNOMED
+45772072,Idiopathic glomerulonephritis,1.06911E+14,SNOMED
+45771034,Familial hypokalemic and hypomagnesemic tubulopathy,707755000,SNOMED
+45770906,Chronic proliferative glomerulonephritis,1.95791E+14,SNOMED
+45770839,Ulcerative mucositis of vulva,9.9511E+13,SNOMED
+45769465,Recurrent candidiasis of vagina,708126004,SNOMED
+45769163,Gitelman syndrome,707756004,SNOMED
+45768820,Recurrent proliferative glomerulonephritis,707332000,SNOMED
+45768657,Polypoid urethritis,707131004,SNOMED
+45765710,Acute on chronic tubulointerstitial nephritis,702718005,SNOMED
+45765709,Acute on chronic cervicitis,702717000,SNOMED
+45765708,Acute on chronic endometritis,702716009,SNOMED
+45765707,Acute on chronic prostatitis,702715008,SNOMED
+45764421,Exudative nephritis,7.011E+12,SNOMED
+45757784,Secondary chronic nephritis,4.0391E+13,SNOMED
+45757749,Hereditary diffuse mesangiocapillary glomerulonephritis,3.67561E+14,SNOMED
+45757748,Hereditary diffuse mesangial proliferative glomerulonephritis,3.67551E+14,SNOMED
+45757747,Hereditary diffuse membranous glomerulonephritis,3.67541E+14,SNOMED
+45757746,Hereditary diffuse crescentic glomerulonephritis,3.67521E+14,SNOMED
+45757745,"Hereditary mesangiocapillary glomerulonephritis, type 2",3.67511E+14,SNOMED
+45757595,Urethral cellulitis,2.37121E+14,SNOMED
+45757502,Primary tubulointerstitial nephritis,1.5911E+13,SNOMED
+45757360,Glomerulonephritis due to hepatitis C,1.20241E+14,SNOMED
+45757276,Bacterial vaginosis in pregnancy,1.10081E+14,SNOMED
+45757217,Desquamative inflammatory vaginitis,1.08371E+14,SNOMED
+45757144,Salpingo-oophoritis in pregnancy,1.07592E+16,SNOMED
+45757097,Inflammation of cervix in pregnancy,1.07437E+16,SNOMED
+45757088,Subacute vaginitis,1.07364E+16,SNOMED
+44784476,Postabortal pelvic inflammatory disease,698628000,SNOMED
+44783894,Acute female pelvic cellulitis,699887000,SNOMED
+43530937,Induced termination of pregnancy complicated by salpingo-oophoritis,609484000,SNOMED
+43530936,Induced termination of pregnancy complicated by salpingitis,609483006,SNOMED
+43530929,Induced termination of pregnancy complicated by parametritis,609473007,SNOMED
+43530921,Induced termination of pregnancy complicated by endometritis,609464004,SNOMED
+43021989,Infection and inflammation associated with retained intrauterine contraceptive device,473082004,SNOMED
+43021281,Inflammation associated with retained intrauterine contraceptive device,473079009,SNOMED
+43020935,Eosinophilic ureteritis,472816004,SNOMED
+42539686,Eczema of male genitalia,737172003,SNOMED
+42539540,Pelvic infection due to and following molar pregnancy,735491008,SNOMED
+42539197,Glomerulonephritis co-occurrent and due to antineutrophil cytoplasmic antibody positive vasculitis,1.01711E+14,SNOMED
+42539088,Inflammation of vas deferens,737175001,SNOMED
+42538534,Recurrent vulvitis,762259005,SNOMED
+42537652,Inflammation of tunica vaginalis,737174002,SNOMED
+42537651,Inflammation of spermatic cord,737173008,SNOMED
+42537650,Dermatitis of male genitalia,737171005,SNOMED
+42537648,Ulcerative inflammation of vulva and vagina,737167007,SNOMED
+42537268,Subacute vulvitis,736524004,SNOMED
+42536673,Pyometra co-occurrent and due to chronic inflammatory disease of uterus,735620006,SNOMED
+42536672,Pyometra co-occurrent and due to acute inflammatory disease of uterus,735619000,SNOMED
+42536585,Infection of genitourinary system caused by Neisseria gonorrhoeae,735516004,SNOMED
+42536562,Genital tract infection due to and following molar pregnancy,735490009,SNOMED
+42536561,Genital tract infection due to and following ectopic pregnancy,735489000,SNOMED
+42536560,Pelvic infection due to and following ectopic pregnancy,735488008,SNOMED
+42536559,Pelvic infection due to and following pregnancy with abortive outcome,735487003,SNOMED
+42536558,Genital tract infection due to and following pregnancy with abortive outcome,735486007,SNOMED
+42534937,Candidiasis of vagina in pregnancy,1.10091E+14,SNOMED

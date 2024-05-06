@@ -1,0 +1,137 @@
+concept_id,pft_string_search,fvc_fev_code,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason
+1198589,1,0,FEV1/FVC ratio abnormal,Measurement,MedDRA,PT,C,10081436,2018-09-01,2099-12-31,NA
+1200473,1,0,FEV1/FVC ratio decreased,Measurement,MedDRA,PT,C,10081435,2018-09-01,2099-12-31,NA
+3001668,0,1,Forced vital capacity [Volume] Respiratory system --post bronchodilation,Measurement,LOINC,Clinical Observation,S,19875-4,1999-01-25,2099-12-31,NA
+3004424,1,0,FVC post bronchodilation measured/predicted,Measurement,LOINC,Clinical Observation,S,19873-9,1970-01-01,2099-12-31,NA
+3005025,1,1,FEV1 --pre bronchodilation,Measurement,LOINC,Clinical Observation,S,20157-4,1970-01-01,2099-12-31,NA
+3005600,1,0,FVC measured/predicted,Measurement,LOINC,Clinical Observation,S,19872-1,1999-01-25,2099-12-31,NA
+3010855,1,0,Deprecated FEV1/Predicted by Calculation,Measurement,LOINC,Clinical Observation,NA,20151-7,2012-10-09,2012-10-10,U
+3011505,1,0,FEV1/FVC,Measurement,LOINC,Clinical Observation,S,19926-5,1970-01-01,2099-12-31,NA
+3011708,1,0,FEV1 measured/predicted,Measurement,LOINC,Clinical Observation,S,20152-5,1970-01-01,2099-12-31,NA
+3013720,1,0,FEV1/FEV total,Measurement,LOINC,Clinical Observation,S,20153-3,1970-01-01,2099-12-31,NA
+3019480,1,0,FEV1 Predicted --pre bronchodilation,Measurement,LOINC,Clinical Observation,S,20156-6,1970-01-01,2099-12-31,NA
+3020076,1,0,FVC pre bronchodilation measured/predicted,Measurement,LOINC,Clinical Observation,S,19871-3,1970-01-01,2099-12-31,NA
+3020158,0,1,Forced vital capacity [Volume] Respiratory system,Measurement,LOINC,Clinical Observation,S,19870-5,1999-01-25,2099-12-31,NA
+3022830,1,0,FEV1 Predicted --post bronchodilation,Measurement,LOINC,Clinical Observation,S,20154-1,1970-01-01,2099-12-31,NA
+3022891,1,0,FEV1 Predicted,Measurement,LOINC,Clinical Observation,S,20149-1,1970-01-01,2099-12-31,NA
+3023550,1,1,FEV1 --post bronchodilation,Measurement,LOINC,Clinical Observation,S,20155-8,1970-01-01,2099-12-31,NA
+3024594,1,0,FEV1/FVC Predicted,Measurement,LOINC,Clinical Observation,S,19925-7,1970-01-01,2099-12-31,NA
+3024653,1,1,FEV1,Measurement,LOINC,Clinical Observation,S,20150-9,1970-01-01,2099-12-31,NA
+3037879,0,1,Forced vital capacity [Volume] Respiratory system --pre bronchodilation,Measurement,LOINC,Clinical Observation,S,19877-0,1999-01-25,2099-12-31,NA
+3043285,1,0,FEV1 --post 0.25 mg/mL methacholine,Measurement,LOINC,Clinical Observation,S,43259-1,1970-01-01,2099-12-31,NA
+3043291,1,0,FEV1 --post 10 mg/mL methacholine,Measurement,LOINC,Clinical Observation,S,43258-3,1970-01-01,2099-12-31,NA
+3043478,1,0,FEV1 --pre dose methacholine,Measurement,LOINC,Clinical Observation,S,43253-4,1970-01-01,2099-12-31,NA
+3043574,1,0,FEV1 --Pre excercise,Measurement,LOINC,Clinical Observation,S,43254-2,1970-01-01,2099-12-31,NA
+3044378,1,0,FEV1 --10 minutes post exercise,Measurement,LOINC,Clinical Observation,S,43263-3,1970-01-01,2099-12-31,NA
+3045045,1,0,FEV1 --post dose methacholine,Measurement,LOINC,Clinical Observation,S,43255-9,1970-01-01,2099-12-31,NA
+3046362,1,0,FEV1 --15 minutes post exercise,Measurement,LOINC,Clinical Observation,S,43262-5,1970-01-01,2099-12-31,NA
+3046522,1,0,FEV1 --post 25 mg/mL methacholine,Measurement,LOINC,Clinical Observation,S,43256-7,1970-01-01,2099-12-31,NA
+3046526,1,0,FEV1 --5 minutes post exercise,Measurement,LOINC,Clinical Observation,S,43261-7,1970-01-01,2099-12-31,NA
+3046754,1,0,FEV1 --post 2.5 mg/mL methacholine,Measurement,LOINC,Clinical Observation,S,43257-5,1970-01-01,2099-12-31,NA
+3046800,1,0,FEV1 --post 0.025 mg/mL methacholine,Measurement,LOINC,Clinical Observation,S,43260-9,1970-01-01,2099-12-31,NA
+3445986,1,0,FEV1:PEFR ratio,Measurement,Nebraska Lexicon,Observable Entity,NA,251945004,2002-01-31,2099-12-31,NA
+3572439,1,0,FVC after bronchodilation,Measurement,SNOMED,Observable Entity,NA,100731000000103,1970-01-01,2004-01-31,U
+3572491,1,0,FVC/Expected FVC percent,Measurement,SNOMED,Observable Entity,NA,100741000000107,1970-01-01,2004-01-31,U
+3572517,1,0,FEV1/FVC ratio pre steroids,Measurement,SNOMED,Observable Entity,NA,100751000000105,1970-01-01,2004-01-31,U
+3572523,1,0,FEV1/FVC ratio post steroids,Measurement,SNOMED,Observable Entity,NA,100761000000108,1970-01-01,2004-01-31,U
+3574645,1,0,FEV1 after bronchodilation,Measurement,SNOMED,Observable Entity,NA,46811000000103,1970-01-01,2004-01-31,U
+3574646,1,0,FEV1 pre steroids,Measurement,SNOMED,Observable Entity,NA,48021000000104,1970-01-01,2004-01-31,U
+3574647,1,0,FEV1 post steroids,Measurement,SNOMED,Observable Entity,NA,48031000000102,1970-01-01,2004-01-31,U
+3574649,1,0,FEV1 before bronchodilation,Measurement,SNOMED,Observable Entity,NA,75251000000105,1970-01-01,2004-01-31,U
+3574652,1,0,FEV1 pre steroids,Measurement,SNOMED,Observable Entity,NA,75281000000104,1970-01-01,2004-01-31,U
+3574653,1,0,FEV1 post steroids,Measurement,SNOMED,Observable Entity,NA,75291000000102,1970-01-01,2004-01-31,U
+3574655,1,0,FEV1 before bronchodilation,Measurement,SNOMED,Observable Entity,NA,79521000000101,1970-01-01,2004-01-31,U
+3574656,1,0,FEV1 after bronchodilation,Measurement,SNOMED,Observable Entity,NA,79531000000104,1970-01-01,2004-01-31,U
+3574660,1,0,FVC/Expected FVC percent,Measurement,SNOMED,Observable Entity,NA,85691000000105,1970-01-01,2004-01-31,U
+3574662,1,0,FVC after bronchodilation,Measurement,SNOMED,Observable Entity,NA,95861000000104,1970-01-01,2004-01-31,U
+3574663,1,0,FEV1/FVC ratio pre steroids,Measurement,SNOMED,Observable Entity,NA,95871000000106,1970-01-01,2004-01-31,U
+3574664,1,0,FEV1/FVC ratio post steroids,Measurement,SNOMED,Observable Entity,NA,95881000000108,1970-01-01,2004-01-31,U
+3574665,1,0,FEV1/FVC ratio before bronchodilator,Measurement,SNOMED,Observable Entity,NA,95891000000105,1970-01-01,2004-01-31,U
+3574666,1,0,FEV1/FVC ratio after bronchodilator,Measurement,SNOMED,Observable Entity,NA,95901000000106,1970-01-01,2004-01-31,U
+3574667,1,0,FEV1/FVC ratio before bronchodilator,Measurement,SNOMED,Observable Entity,NA,100771000000101,1970-01-01,2004-01-31,U
+3574668,1,0,FEV1/FVC ratio after bronchodilator,Measurement,SNOMED,Observable Entity,NA,100781000000104,1970-01-01,2004-01-31,U
+3574744,1,0,FEV1 after change of bronchodilator,Measurement,SNOMED,Observable Entity,NA,862941000000104,1970-01-01,2013-04-01,U
+3574746,1,0,FVC (forced vital capacity) post bronchodilator percentage change,Measurement,SNOMED,Observable Entity,NA,875361000000103,1970-01-01,2013-04-01,U
+3574747,1,0,FVC (forced vital capacity) after change of bronchodilator,Measurement,SNOMED,Observable Entity,NA,875371000000105,1970-01-01,2013-04-01,U
+4150245,1,0,Expected FEV1/FVC ratio,Measurement,SNOMED,Observable Entity,S,310360002,2002-01-31,2099-12-31,NA
+4196583,1,0,FEV1/FVC percent,Measurement,SNOMED,Observable Entity,S,313222007,2002-01-31,2099-12-31,NA
+4208972,1,0,Percent predicted FEV1,Measurement,SNOMED,Observable Entity,S,313223002,2002-01-31,2099-12-31,NA
+4233038,1,0,FEV1/FVC ratio before bronchodilator,Measurement,SNOMED,Observable Entity,S,407602006,2004-01-31,2099-12-31,NA
+4248526,1,0,Forced vital capacity (FVC) after bronchodilation,Measurement,SNOMED,Observable Entity,S,407561008,2004-01-31,2099-12-31,NA
+4250005,1,0,Forced expiratory volume 1 (FEV1)/ forced vital capacity (FVC) ratio after bronchodilator,Measurement,SNOMED,Observable Entity,S,407603001,2004-01-31,2099-12-31,NA
+4253179,1,0,Forced vital capacity (FVC)/expected Forced vital capacity (FVC) percent,Measurement,SNOMED,Observable Entity,S,407576000,2004-01-31,2099-12-31,NA
+4269010,1,0,FEV1 before bronchodilation,Measurement,SNOMED,Observable Entity,S,401012008,2003-07-31,2099-12-31,NA
+4292196,1,0,FEV1 post steroids,Measurement,SNOMED,Observable Entity,S,401016006,2003-07-31,2099-12-31,NA
+4294874,1,0,FEV1 after bronchodilation,Measurement,SNOMED,Observable Entity,S,401013003,2003-07-31,2099-12-31,NA
+4295013,1,0,FEV1 pre steroids,Measurement,SNOMED,Observable Entity,S,401115007,2003-07-31,2099-12-31,NA
+35810340,1,0,Forced vital capacity (FVC),Measurement,UK Biobank,Variable,NA,3062,2012-01-05,2099-12-31,NA
+35810341,1,0,Forced expiratory volume in 1-second (FEV1),Measurement,UK Biobank,Variable,NA,3063,2012-01-05,2099-12-31,NA
+35810843,1,0,Forced vital capacity (FVC) (pilot),Measurement,UK Biobank,Variable,NA,10694,2012-01-05,2099-12-31,NA
+35810844,1,0,Forced expiratory volume in 1-second (FEV1) (pilot),Measurement,UK Biobank,Variable,NA,10695,2012-01-05,2099-12-31,NA
+35811040,1,0,"Forced expiratory volume in 1-second (FEV1), Best measure",Measurement,UK Biobank,Variable,NA,20150,2015-03-30,2099-12-31,NA
+35811041,1,0,"Forced vital capacity (FVC), Best measure",Measurement,UK Biobank,Variable,NA,20151,2015-03-30,2099-12-31,NA
+35811043,1,0,"Forced expiratory volume in 1-second (FEV1), predicted",Measurement,UK Biobank,Variable,NA,20153,2015-03-30,2099-12-31,NA
+35811044,1,0,"Forced expiratory volume in 1-second (FEV1), predicted percentage",Measurement,UK Biobank,Variable,NA,20154,2015-03-30,2099-12-31,NA
+35811084,1,0,Forced expiratory volume in 1-second (FEV1) Z-score,Measurement,UK Biobank,Variable,NA,20256,2018-04-27,2099-12-31,NA
+35811085,1,0,Forced vital capacity (FVC) Z-score,Measurement,UK Biobank,Variable,NA,20257,2018-04-27,2099-12-31,NA
+35811086,1,0,FEV1/ FVC ratio Z-score,Measurement,UK Biobank,Variable,NA,20258,2018-04-27,2099-12-31,NA
+37024761,1,0,FEV1 | Respiratory system | Respiratory measures and Ventilator management,Measurement,LOINC,LOINC Hierarchy,C,LP404751-2,1970-01-01,2099-12-31,NA
+37048840,1,0,FVC percent change | Respiratory system | Respiratory measures and Ventilator management,Measurement,LOINC,LOINC Hierarchy,C,LP408946-4,1970-01-01,2099-12-31,NA
+37056848,1,0,FEV1 percent change | Respiratory system | Respiratory measures and Ventilator management,Measurement,LOINC,LOINC Hierarchy,C,LP404753-8,1970-01-01,2099-12-31,NA
+40298400,1,0,Expected FEV1/FVC ratio,Measurement,SNOMED,Observable Entity,NA,142231007,1970-01-01,2002-01-31,U
+40298827,1,0,Expected FEV1,Measurement,SNOMED,Observable Entity,NA,142233005,1970-01-01,2002-01-31,U
+40298828,1,0,Expected FVC,Measurement,SNOMED,Observable Entity,NA,142234004,1970-01-01,2002-01-31,U
+40298829,1,0,FEV1/FVC percent,Measurement,SNOMED,Observable Entity,NA,142235003,1970-01-01,2002-01-31,U
+40298830,1,0,Percent predicted FEV1,Measurement,SNOMED,Observable Entity,NA,142236002,1970-01-01,2002-01-31,U
+40330590,1,0,Expected FEV1/FVC ratio,Measurement,SNOMED,Clinical Finding,NA,165058009,1970-01-01,2002-01-31,U
+40330593,1,0,Expected FEV1,Measurement,SNOMED,Clinical Finding,NA,165060006,1970-01-01,2002-01-31,U
+40330594,1,0,Expected FVC,Measurement,SNOMED,Clinical Finding,NA,165061005,1970-01-01,2002-01-31,U
+40330595,1,0,FEV1/FVC percent,Measurement,SNOMED,Clinical Finding,NA,165062003,1970-01-01,2002-01-31,U
+40330596,1,0,Percent predicted FEV1,Measurement,SNOMED,Clinical Finding,NA,165063008,1970-01-01,2002-01-31,U
+40767299,1,0,FVC quality attribute Respiratory system [PhenX],Measurement,LOINC,Clinical Observation,S,64592-9,2011-04-20,2099-12-31,NA
+40767300,1,0,FEV1 quality attribute Respiratory system [PhenX],Measurement,LOINC,Clinical Observation,S,64593-7,2011-04-20,2099-12-31,NA
+40768348,1,0,Deprecated FEV1/predicted,Measurement,LOINC,Clinical Observation,NA,65657-9,2012-04-16,2012-04-17,U
+40768349,1,0,FEV1/FEV6 Predicted,Measurement,LOINC,Clinical Observation,S,65658-7,1970-01-01,2099-12-31,NA
+42868459,1,0,FEV1/FVC --post bronchodilation,Measurement,LOINC,Clinical Observation,S,69970-2,2012-01-11,2099-12-31,NA
+42868471,1,0,FVC percent change Respiratory system,Measurement,LOINC,Clinical Observation,S,69982-7,2012-01-17,2099-12-31,NA
+42868472,1,0,FEV1 percent change,Measurement,LOINC,Clinical Observation,S,69983-5,2012-01-17,2099-12-31,NA
+42868473,1,0,FEV1/FVC percent change,Measurement,LOINC,Clinical Observation,S,69984-3,2012-01-17,2099-12-31,NA
+44791345,1,0,FEV1 (forced expiratory volume in one second)/VC (vital capacity) percent,Measurement,SNOMED,Observable Entity,NA,276941000000104,2007-04-02,2014-10-01,U
+44810338,1,0,FEV1 (forced expiratory volume in 1 second)/FEV6 (forced expiratory volume in 6 seconds) ratio,Measurement,SNOMED,Observable Entity,NA,887391000000106,2013-10-01,2015-10-01,U
+44811086,1,0,FVC (forced vital capacity) after change of bronchodilator,Measurement,SNOMED,Observable Entity,S,862831000000104,2013-04-01,2099-12-31,NA
+44811087,1,0,FVC (forced vital capacity) post bronchodilator percentage change,Measurement,SNOMED,Observable Entity,S,862851000000106,2013-04-01,2099-12-31,NA
+44811092,1,0,FEV1 (forced expiratory volume in 1 second) after change of bronchodilator,Measurement,SNOMED,Observable Entity,S,862931000000108,2013-04-01,2099-12-31,NA
+45421971,1,0,Forced vital capacity - FVC,Measurement,Read,Read,NA,3396.00,1970-01-01,2099-12-31,NA
+45421972,1,0,FEV1 before bronchodilation,Measurement,Read,Read,NA,339a.00,1970-01-01,2099-12-31,NA
+45421975,1,0,FEV1/VC percent,Measurement,Read,Read,NA,339r.00,1970-01-01,2099-12-31,NA
+45425196,1,0,FEV1/FVC ratio,Measurement,Read,Read,NA,339M.00,1970-01-01,2099-12-31,NA
+45425198,1,0,FEV1 pre steroids,Measurement,Read,Read,NA,339e.00,1970-01-01,2099-12-31,NA
+45428530,1,0,FVC/Expected FVC percent,Measurement,Read,Read,NA,339i.00,1970-01-01,2099-12-31,NA
+45458408,1,0,FEV1/FVC ratio pre steroids,Measurement,Read,Read,NA,339j.00,1970-01-01,2099-12-31,NA
+45465229,1,0,FVC after bronchodilation,Measurement,Read,Read,NA,339h.00,1970-01-01,2099-12-31,NA
+45468679,1,0,FEV1/FVC ratio after bronchodilator,Measurement,Read,Read,NA,339m.00,1970-01-01,2099-12-31,NA
+45471953,1,0,Expected FVC,Measurement,Read,Read,NA,339Q.00,1970-01-01,2099-12-31,NA
+45471956,1,0,FVC post bronchodilator percentage change,Measurement,Read,Read,NA,339h000,2014-04-01,2099-12-31,NA
+45478647,1,0,Percent predicted FEV1,Measurement,Read,Read,NA,339S.00,1970-01-01,2099-12-31,NA
+45481961,1,0,FEV1 after change of bronchodilator,Measurement,Read,Read,NA,3397200,2014-04-01,2099-12-31,NA
+45485275,1,0,FEV1/FVC ratio before bronchodilator,Measurement,Read,Read,NA,339l.00,1970-01-01,2099-12-31,NA
+45488631,1,0,FEV1/FVC percent,Measurement,Read,Read,NA,339R.00,1970-01-01,2099-12-31,NA
+45498481,1,0,Expected FEV1,Measurement,Read,Read,NA,339P.00,1970-01-01,2099-12-31,NA
+45501816,1,0,FVC after change of bronchodilator,Measurement,Read,Read,NA,3396300,2014-04-01,2099-12-31,NA
+45505095,1,0,FEV1 post steroids,Measurement,Read,Read,NA,339f.00,1970-01-01,2099-12-31,NA
+45508418,1,0,FEV1 after bronchodilation,Measurement,Read,Read,NA,339b.00,1970-01-01,2099-12-31,NA
+45511790,1,0,Expected FEV1/FVC ratio,Measurement,Read,Read,NA,339N.00,1970-01-01,2099-12-31,NA
+45515178,1,0,FEV1/FVC ratio post steroids,Measurement,Read,Read,NA,339k.00,1970-01-01,2099-12-31,NA
+45876583,1,0,Pre FEV1 1st,Meas Value,LOINC,Answer,S,LA16192-9,1970-01-01,2099-12-31,NA
+45876584,1,0,Pre FVC 3rd,Meas Value,LOINC,Answer,S,LA16197-8,1970-01-01,2099-12-31,NA
+45876927,1,0,Pre FVC 1st,Meas Value,LOINC,Answer,S,LA16195-2,1970-01-01,2099-12-31,NA
+45876928,1,0,Post FEV1 1st,Meas Value,LOINC,Answer,S,LA16198-6,1970-01-01,2099-12-31,NA
+45876929,1,0,Post FEV1 2nd,Meas Value,LOINC,Answer,S,LA16199-4,1970-01-01,2099-12-31,NA
+45876930,1,0,Post FEV1 3rd,Meas Value,LOINC,Answer,S,LA16200-0,1970-01-01,2099-12-31,NA
+45879131,1,0,Post FVC 1st,Meas Value,LOINC,Answer,S,LA16201-8,1970-01-01,2099-12-31,NA
+45879132,1,0,Post FVC 2nd,Meas Value,LOINC,Answer,S,LA16202-6,1970-01-01,2099-12-31,NA
+45879133,1,0,Post FVC 3rd,Meas Value,LOINC,Answer,S,LA16203-4,1970-01-01,2099-12-31,NA
+45880706,1,0,Pre FEV1 3rd,Meas Value,LOINC,Answer,S,LA16194-5,1970-01-01,2099-12-31,NA
+45881989,1,0,Pre FEV1 2nd,Meas Value,LOINC,Answer,S,LA16193-7,1970-01-01,2099-12-31,NA
+45881990,1,0,Pre FVC 2nd,Meas Value,LOINC,Answer,S,LA16196-0,1970-01-01,2099-12-31,NA
+45886369,1,0,FEV1/FVC ratio,Measurement,MedDRA,PT,C,10074315,2015-03-01,2099-12-31,NA

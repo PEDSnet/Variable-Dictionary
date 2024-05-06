@@ -1,0 +1,168 @@
+concept_id,concept_name,concept_code,vocabulary_id
+46274079,Polyneuropathy due to infectious mononucleosis,1.09023E+15,SNOMED
+46270482,Polyneuropathy due to systemic sclerosis,3.22461E+14,SNOMED
+46269858,Polyneuropathy due to cytomegaloviral mononucleosis,1.08537E+15,SNOMED
+42539208,Radiation polyneuropathy,1.6054E+16,SNOMED
+42538791,Chronic painful polyneuropathy following chemotherapy,762595001,SNOMED
+37399460,CANOMAD syndrome,715624006,SNOMED
+37396786,Acute inflammatory demyelinating polyradiculoneuropathy,716723000,SNOMED
+37396785,Acute motor sensory axonal neuropathy,716722005,SNOMED
+37396086,Acute motor axonal neuropathy,715770009,SNOMED
+37312198,Sensory polyneuropathy due to diabetes mellitus,789585000,SNOMED
+37204541,Acute pure sensory neuropathy,783244002,SNOMED
+37204432,"46,XY gonadal dysgenesis, motor and sensory neuropathy syndrome",783091003,SNOMED
+37204369,Pharyngeal-cervical-brachial variant of Guillain-Barré syndrome,783010003,SNOMED
+37110682,Polyneuropathy co-occurrent and due to systemic connective tissue disorder,724998006,SNOMED
+37109673,"Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, cataract syndrome",723452007,SNOMED
+37018721,Polyneuropathy co-occurrent with human immunodeficiency virus infection,713489006,SNOMED
+37017432,Polyneuropathy due to type 2 diabetes mellitus,713706002,SNOMED
+37017431,Polyneuropathy due to type 1 diabetes mellitus,713705003,SNOMED
+36715501,Polyneuropathy due to classical cystic fibrosis,721197001,SNOMED
+36675041,Progressive polyneuropathy with bilateral striatal necrosis,771305006,SNOMED
+36675024,Digital extensor muscle aplasia with polyneuropathy,771261002,SNOMED
+36674826,"Polyneuropathy, intellectual disability, acromicria, premature menopause syndrome",770679002,SNOMED
+35624152,Neurolymphomatosis,766752000,SNOMED
+35624130,Paraparetic variant of Guillain-Barré syndrome,766722008,SNOMED
+35623634,Acute sensory ataxic neuropathy,766049000,SNOMED
+4327957,Polyradiculopathy,75572007,SNOMED
+4311539,Motor polyneuropathy,85423005,SNOMED
+4296728,Polyneuritis,76886005,SNOMED
+4292375,Familial amyloid polyneuropathy with cutaneous amyloidosis,402460000,SNOMED
+4283669,Acrodynia due to mercury,66695004,SNOMED
+4260823,"Familial amyloid polyneuropathy, type II",4463009,SNOMED
+4239243,"Familial amyloid polyneuropathy, Iowa type",9133005,SNOMED
+4226662,Polyneuropathy associated with AIDS,421597001,SNOMED
+4215344,"Familial amyloid polyneuropathy, Jewish type",41590007,SNOMED
+4209749,Polyneuritis cranialis,56795008,SNOMED
+4201143,"Familial amyloid polyneuropathy, type VI",5134006,SNOMED
+4190712,Mixed sensory-motor polyneuropathy,3900008,SNOMED
+4187806,Tropical ataxic neuropathy,46138007,SNOMED
+4174262,Polyneuropathy,42345000,SNOMED
+4173311,Familial amyloid polyneuropathy,42295001,SNOMED
+4164770,Guillain-Barré syndrome,40956001,SNOMED
+4161823,Amyloid polyneuropathy type I,398229007,SNOMED
+4134432,Polyradiculoneuropathy,128078004,SNOMED
+4129225,Motor polyneuropathy due to diabetes mellitus,126535008,SNOMED
+4119333,Polyneuropathy and mononeuropathy,302225005,SNOMED
+4105637,Polyneuropathy in disseminated lupus erythematosus,193178008,SNOMED
+4105014,Post-infectious polyneuritis,193174005,SNOMED
+4102494,Polyneuropathy due to amyloidosis,193187004,SNOMED
+4102493,Polyneuropathy in rheumatoid arthritis,193180002,SNOMED
+4101894,Polyneuropathy in herpes zoster,193190005,SNOMED
+4101893,Polyneuropathy due to vitamin B deficiency,193188009,SNOMED
+4101891,Polyneuropathy in polyarteritis nodosa,193179000,SNOMED
+4082017,Subacute inflammatory demyelinating polyradiculoneuropathy,277189006,SNOMED
+4080337,Syphilitic polyneuropathy,240569007,SNOMED
+4070552,Fisher's syndrome,1767005,SNOMED
+4054812,Mixed sensorimotor polyneuropathy due to diabetes mellitus,126534007,SNOMED
+4048037,Local toxic nerve damage,230612003,SNOMED
+4048036,Neuropathy caused by organic substance,230608009,SNOMED
+4048024,Chronic inflammatory demyelinating polyradiculoneuropathy with central nervous system demyelination,230564004,SNOMED
+4048022,Congenital polyneuropathy,230560008,SNOMED
+4046342,Neuropathy caused by chemical substance,230607004,SNOMED
+4046332,Diabetic acute painful polyneuropathy,230574001,SNOMED
+4046242,Late congenital syphilitic polyneuropathy,230563005,SNOMED
+4044401,Neuropathy due to bacterial toxin,230611005,SNOMED
+4044393,Asymmetric polyneuropathy due to diabetes mellitus,230576004,SNOMED
+4044392,Chronic painful polyneuropathy due to diabetes mellitus,230575000,SNOMED
+4031720,Porphyric polyneuropathy,129616004,SNOMED
+4029646,Sensory polyneuropathy,13694005,SNOMED
+4024519,Uremic neuropathy,11659006,SNOMED
+761859,Polyneuropathy caused by Borrelia species,1.60772E+16,SNOMED
+760979,Polyneuropathy due to secondary diabetes mellitus,1.26571E+14,SNOMED
+443450,Polyneuropathy in collagen malignant disease,408671002,SNOMED
+381551,Polyneuropathy due to drug,7339009,SNOMED
+381009,Chronic inflammatory demyelinating polyradiculoneuropathy,128209004,SNOMED
+380394,Idiopathic progressive polyneuropathy,33209009,SNOMED
+378421,Alcoholic polyneuropathy,7916009,SNOMED
+376686,Polyneuropathy associated with another disorder,193186008,SNOMED
+376112,Polyneuropathy due to diabetes mellitus,49455004,SNOMED
+375260,Polyneuropathy in collagen vascular disease,193177003,SNOMED
+374925,Acute infective polyneuritis,129131007,SNOMED
+373470,Toxic polyneuropathy,45600000,SNOMED
+46274079,Polyneuropathy due to infectious mononucleosis,1.09023E+15,SNOMED
+46270482,Polyneuropathy due to systemic sclerosis,3.22461E+14,SNOMED
+46269858,Polyneuropathy due to cytomegaloviral mononucleosis,1.08537E+15,SNOMED
+42598759,acute canine polyradiculoneuropathy,3.38661E+14,SNOMED Veterinary
+42539208,Radiation polyneuropathy,1.6054E+16,SNOMED
+42538791,Chronic painful polyneuropathy following chemotherapy,762595001,SNOMED
+37399460,CANOMAD syndrome,715624006,SNOMED
+37396786,Acute inflammatory demyelinating polyradiculoneuropathy,716723000,SNOMED
+37396785,Acute motor sensory axonal neuropathy,716722005,SNOMED
+37396086,Acute motor axonal neuropathy,715770009,SNOMED
+37312198,Sensory polyneuropathy due to diabetes mellitus,789585000,SNOMED
+37204541,Acute pure sensory neuropathy,783244002,SNOMED
+37204432,"46,XY gonadal dysgenesis, motor and sensory neuropathy syndrome",783091003,SNOMED
+37204369,Pharyngeal-cervical-brachial variant of Guillain-Barré syndrome,783010003,SNOMED
+37110682,Polyneuropathy co-occurrent and due to systemic connective tissue disorder,724998006,SNOMED
+37109673,"Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, cataract syndrome",723452007,SNOMED
+37018721,Polyneuropathy co-occurrent with human immunodeficiency virus infection,713489006,SNOMED
+37017432,Polyneuropathy due to type 2 diabetes mellitus,713706002,SNOMED
+37017431,Polyneuropathy due to type 1 diabetes mellitus,713705003,SNOMED
+36715501,Polyneuropathy due to classical cystic fibrosis,721197001,SNOMED
+36675041,Progressive polyneuropathy with bilateral striatal necrosis,771305006,SNOMED
+36675024,Digital extensor muscle aplasia with polyneuropathy,771261002,SNOMED
+36674826,"Polyneuropathy, intellectual disability, acromicria, premature menopause syndrome",770679002,SNOMED
+35624152,Neurolymphomatosis,766752000,SNOMED
+35624130,Paraparetic variant of Guillain-Barré syndrome,766722008,SNOMED
+35623634,Acute sensory ataxic neuropathy,766049000,SNOMED
+4327957,Polyradiculopathy,75572007,SNOMED
+4311539,Motor polyneuropathy,85423005,SNOMED
+4296728,Polyneuritis,76886005,SNOMED
+4292375,Familial amyloid polyneuropathy with cutaneous amyloidosis,402460000,SNOMED
+4283669,Acrodynia due to mercury,66695004,SNOMED
+4260823,"Familial amyloid polyneuropathy, type II",4463009,SNOMED
+4239243,"Familial amyloid polyneuropathy, Iowa type",9133005,SNOMED
+4226662,Polyneuropathy associated with AIDS,421597001,SNOMED
+4215344,"Familial amyloid polyneuropathy, Jewish type",41590007,SNOMED
+4209749,Polyneuritis cranialis,56795008,SNOMED
+4201143,"Familial amyloid polyneuropathy, type VI",5134006,SNOMED
+4190712,Mixed sensory-motor polyneuropathy,3900008,SNOMED
+4187806,Tropical ataxic neuropathy,46138007,SNOMED
+4174262,Polyneuropathy,42345000,SNOMED
+4173311,Familial amyloid polyneuropathy,42295001,SNOMED
+4164770,Guillain-Barré syndrome,40956001,SNOMED
+4161823,Amyloid polyneuropathy type I,398229007,SNOMED
+4134432,Polyradiculoneuropathy,128078004,SNOMED
+4129225,Motor polyneuropathy due to diabetes mellitus,126535008,SNOMED
+4119333,Polyneuropathy and mononeuropathy,302225005,SNOMED
+4105637,Polyneuropathy in disseminated lupus erythematosus,193178008,SNOMED
+4105014,Post-infectious polyneuritis,193174005,SNOMED
+4102494,Polyneuropathy due to amyloidosis,193187004,SNOMED
+4102493,Polyneuropathy in rheumatoid arthritis,193180002,SNOMED
+4101894,Polyneuropathy in herpes zoster,193190005,SNOMED
+4101893,Polyneuropathy due to vitamin B deficiency,193188009,SNOMED
+4101891,Polyneuropathy in polyarteritis nodosa,193179000,SNOMED
+4082017,Subacute inflammatory demyelinating polyradiculoneuropathy,277189006,SNOMED
+4080337,Syphilitic polyneuropathy,240569007,SNOMED
+4070552,Fisher's syndrome,1767005,SNOMED
+4054812,Mixed sensorimotor polyneuropathy due to diabetes mellitus,126534007,SNOMED
+4048037,Local toxic nerve damage,230612003,SNOMED
+4048036,Neuropathy caused by organic substance,230608009,SNOMED
+4048024,Chronic inflammatory demyelinating polyradiculoneuropathy with central nervous system demyelination,230564004,SNOMED
+4048022,Congenital polyneuropathy,230560008,SNOMED
+4046342,Neuropathy caused by chemical substance,230607004,SNOMED
+4046332,Diabetic acute painful polyneuropathy,230574001,SNOMED
+4046242,Late congenital syphilitic polyneuropathy,230563005,SNOMED
+4044401,Neuropathy due to bacterial toxin,230611005,SNOMED
+4044393,Asymmetric polyneuropathy due to diabetes mellitus,230576004,SNOMED
+4044392,Chronic painful polyneuropathy due to diabetes mellitus,230575000,SNOMED
+4031720,Porphyric polyneuropathy,129616004,SNOMED
+4029646,Sensory polyneuropathy,13694005,SNOMED
+4024519,Uremic neuropathy,11659006,SNOMED
+761859,Polyneuropathy caused by Borrelia species,1.60772E+16,SNOMED
+760979,Polyneuropathy due to secondary diabetes mellitus,1.26571E+14,SNOMED
+443450,Polyneuropathy in collagen malignant disease,408671002,SNOMED
+381551,Polyneuropathy due to drug,7339009,SNOMED
+381009,Chronic inflammatory demyelinating polyradiculoneuropathy,128209004,SNOMED
+380394,Idiopathic progressive polyneuropathy,33209009,SNOMED
+378421,Alcoholic polyneuropathy,7916009,SNOMED
+376686,Polyneuropathy associated with another disorder,193186008,SNOMED
+376112,Polyneuropathy due to diabetes mellitus,49455004,SNOMED
+375260,Polyneuropathy in collagen vascular disease,193177003,SNOMED
+374925,Acute infective polyneuritis,129131007,SNOMED
+373470,Toxic polyneuropathy,45600000,SNOMED
+4104844,Cervical sympathetic paralysis,192915005,SNOMED
+194913,Idiopathic peripheral autonomic neuropathy,86489003,SNOMED
+380394,Idiopathic progressive polyneuropathy,33209009,SNOMED
+380394,Idiopathic progressive polyneuropathy,33209009,SNOMED

@@ -1,0 +1,333 @@
+concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason,concept,gravity,crystal
+37023973,Calcium oxalate crystals | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402388-5,1/1/70,12/31/99,NA,calcium oxalate crystals | urine | urinalysis,FALSE,TRUE
+37062258,Calcium oxalate crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402389-3,1/1/70,12/31/99,NA,calcium oxalate crystals | urine sediment | urinalysis,FALSE,TRUE
+37052060,Calcium oxalate dihydrate crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402390-1,1/1/70,12/31/99,NA,calcium oxalate dihydrate crystals | urine sediment | urinalysis,FALSE,TRUE
+42364526,Routine Urinalysis,Measurement,EDI,Proc Hierarchy,NA,D2251,1/1/19,12/31/99,NA,routine urinalysis,FALSE,FALSE
+42344454,"Routine Urinalysis,Diagnostic and laboratory test qualitative addition(4%)",Measurement,EDI,Proc Hierarchy,NA,D2251001,1/1/19,12/31/99,NA,"routine urinalysis,diagnostic and laboratory test qualitative addition(4%)",FALSE,FALSE
+45947093,URINALYSIS ORDER,Measurement,CIEL,Test,NA,302,1/1/04,12/31/99,NA,urinalysis order,FALSE,FALSE
+42341528,"Routine Urinalysis,Diagnostic and laboratory test qualitative addition(3%)",Measurement,EDI,Proc Hierarchy,NA,D2251002,1/1/19,12/31/99,NA,"routine urinalysis,diagnostic and laboratory test qualitative addition(3%)",FALSE,FALSE
+42338189,"Routine Urinalysis,Diagnostic and laboratory test qualitative addition(2%)",Measurement,EDI,Proc Hierarchy,NA,D2251003,1/1/19,12/31/99,NA,"routine urinalysis,diagnostic and laboratory test qualitative addition(2%)",FALSE,FALSE
+42335193,"Routine Urinalysis,Diagnostic and laboratory test qualitative addition(1%)",Measurement,EDI,Proc Hierarchy,NA,D2251004,1/1/19,12/31/99,NA,"routine urinalysis,diagnostic and laboratory test qualitative addition(1%)",FALSE,FALSE
+42349505,"Routine Urinalysis,Nuclear medicine examination qualitative addition(4%)",Measurement,EDI,Proc Hierarchy,NA,D2251007,1/1/19,12/31/99,NA,"routine urinalysis,nuclear medicine examination qualitative addition(4%)",FALSE,FALSE
+42364532,Routine Urinalysis,Measurement,EDI,Proc Hierarchy,NA,D2252,1/1/19,12/31/99,NA,routine urinalysis,FALSE,FALSE
+42344853,"Routine Urinalysis,Diagnostic and laboratory test qualitative addition(4%)",Measurement,EDI,Proc Hierarchy,NA,D2252001,1/1/19,12/31/99,NA,"routine urinalysis,diagnostic and laboratory test qualitative addition(4%)",FALSE,FALSE
+42341694,"Routine Urinalysis,Diagnostic and laboratory test qualitative addition(3%)",Measurement,EDI,Proc Hierarchy,NA,D2252002,1/1/19,12/31/99,NA,"routine urinalysis,diagnostic and laboratory test qualitative addition(3%)",FALSE,FALSE
+42338512,"Routine Urinalysis,Diagnostic and laboratory test qualitative addition(2%)",Measurement,EDI,Proc Hierarchy,NA,D2252003,1/1/19,12/31/99,NA,"routine urinalysis,diagnostic and laboratory test qualitative addition(2%)",FALSE,FALSE
+42335031,"Routine Urinalysis,Diagnostic and laboratory test qualitative addition(1%)",Measurement,EDI,Proc Hierarchy,NA,D2252004,1/1/19,12/31/99,NA,"routine urinalysis,diagnostic and laboratory test qualitative addition(1%)",FALSE,FALSE
+42349260,"Routine Urinalysis,Nuclear medicine examination qualitative addition(4%)",Measurement,EDI,Proc Hierarchy,NA,D2252007,1/1/19,12/31/99,NA,"routine urinalysis,nuclear medicine examination qualitative addition(4%)",FALSE,FALSE
+42351605,Routine Urinalysis,Measurement,EDI,Proc Hierarchy,NA,D2253,1/1/19,12/31/99,NA,routine urinalysis,FALSE,FALSE
+42344575,"Routine Urinalysis,Diagnostic and laboratory test qualitative addition(4%)",Measurement,EDI,Proc Hierarchy,NA,D2253001,1/1/19,12/31/99,NA,"routine urinalysis,diagnostic and laboratory test qualitative addition(4%)",FALSE,FALSE
+42341615,"Routine Urinalysis,Diagnostic and laboratory test qualitative addition(3%)",Measurement,EDI,Proc Hierarchy,NA,D2253002,1/1/19,12/31/99,NA,"routine urinalysis,diagnostic and laboratory test qualitative addition(3%)",FALSE,FALSE
+42338980,"Routine Urinalysis,Diagnostic and laboratory test qualitative addition(2%)",Measurement,EDI,Proc Hierarchy,NA,D2253003,1/1/19,12/31/99,NA,"routine urinalysis,diagnostic and laboratory test qualitative addition(2%)",FALSE,FALSE
+42335739,"Routine Urinalysis,Diagnostic and laboratory test qualitative addition(1%)",Measurement,EDI,Proc Hierarchy,NA,D2253004,1/1/19,12/31/99,NA,"routine urinalysis,diagnostic and laboratory test qualitative addition(1%)",FALSE,FALSE
+42349999,"Routine Urinalysis,Nuclear medicine examination qualitative addition(4%)",Measurement,EDI,Proc Hierarchy,NA,D2253007,1/1/19,12/31/99,NA,"routine urinalysis,nuclear medicine examination qualitative addition(4%)",FALSE,FALSE
+45754767,Lab tests - urinalysis,Measurement,HCPCS,HCPCS Class,NA,T1C,1/1/70,11/11/14,D,lab tests - urinalysis,FALSE,FALSE
+3039350,Urinalysis other formed elements panel [#/volume] - Urine by Computer assisted method,Measurement,LOINC,Lab Test,S,53351-3,5/30/08,12/31/99,NA,urinalysis other formed elements panel [#/volume] - urine by computer assisted method,FALSE,FALSE
+3025954,Urinalysis specimen collection method,Measurement,LOINC,Lab Test,S,19159-3,1/1/70,12/31/99,NA,urinalysis specimen collection method,FALSE,FALSE
+3030688,Urinalysis panel - Urine by Auto,Measurement,LOINC,Lab Test,S,50564-4,10/4/07,12/31/99,NA,urinalysis panel - urine by auto,FALSE,FALSE
+3041995,Urinalysis yeast variants panel - Urine by Computer assisted method,Measurement,LOINC,Lab Test,S,53263-0,5/28/08,12/31/99,NA,urinalysis yeast variants panel - urine by computer assisted method,FALSE,FALSE
+3040781,Urinalysis yeast variants panel [#/volume] - Urine by Computer assisted method,Measurement,LOINC,Lab Test,S,53264-8,5/28/08,12/31/99,NA,urinalysis yeast variants panel [#/volume] - urine by computer assisted method,FALSE,FALSE
+3039349,Urinalysis yeast variants panel [#/area] - Urine by Computer assisted method,Measurement,LOINC,Lab Test,S,53267-1,5/28/08,12/31/99,NA,urinalysis yeast variants panel [#/area] - urine by computer assisted method,FALSE,FALSE
+3041418,Urinalysis type of non-squamous epithelial cells panel - Urine by Computer assisted method,Measurement,LOINC,Lab Test,S,53270-5,1/1/70,12/31/99,NA,urinalysis type of non-squamous epithelial cells panel - urine by computer assisted method,FALSE,FALSE
+3041673,Urinalysis type of non-squamous epithelial cells panel [#/volume] - Urine by Computer assisted method,Measurement,LOINC,Lab Test,S,53273-9,5/28/08,12/31/99,NA,urinalysis type of non-squamous epithelial cells panel [#/volume] - urine by computer assisted method,FALSE,FALSE
+3039871,Urinalysis type of non-squamous epithelial cells panel [#/area] - Urine by Computer assisted method,Measurement,LOINC,Lab Test,S,53276-2,5/28/08,12/31/99,NA,urinalysis type of non-squamous epithelial cells panel [#/area] - urine by computer assisted method,FALSE,FALSE
+3039643,Urinalysis type of cast panel - Urine by Computer assisted method,Measurement,LOINC,Lab Test,S,53277-0,1/1/70,12/31/99,NA,urinalysis type of cast panel - urine by computer assisted method,FALSE,FALSE
+3041980,Urinalysis type of cast panel [#/volume] - Urine by Computer assisted method,Measurement,LOINC,Lab Test,S,53281-2,5/28/08,12/31/99,NA,urinalysis type of cast panel [#/volume] - urine by computer assisted method,FALSE,FALSE
+3041668,Urinalysis microscopic panel [#/area] - Urine sediment by Automated count,Measurement,LOINC,Lab Test,S,53293-7,1/1/70,12/31/99,NA,urinalysis microscopic panel [#/area] - urine sediment by automated count,FALSE,FALSE
+3020930,Deprecated Urinalysis macroscopic panel in Urine,Measurement,LOINC,Lab Test,NA,24355-0,5/7/15,5/8/15,U,deprecated urinalysis macroscopic panel in urine,FALSE,FALSE
+3036941,Urinalysis complete panel - Urine,Measurement,LOINC,Lab Test,S,24356-8,1/1/70,12/31/99,NA,urinalysis complete panel - urine,FALSE,FALSE
+3037467,Urinalysis macro (dipstick) panel - Urine,Measurement,LOINC,Lab Test,S,24357-6,1/1/70,12/31/99,NA,urinalysis macro (dipstick) panel - urine,FALSE,FALSE
+3022113,Urinalysis microscopic panel - Urine sediment,Measurement,LOINC,Lab Test,S,24365-9,6/28/15,12/31/99,NA,urinalysis microscopic panel - urine sediment,FALSE,FALSE
+3029287,Urinalysis microscopic panel [#/volume] - Urine by Automated count,Measurement,LOINC,Lab Test,S,50554-5,1/1/70,12/31/99,NA,urinalysis microscopic panel [#/volume] - urine by automated count,FALSE,FALSE
+3029361,Urinalysis dipstick panel - Urine by Automated test strip,Measurement,LOINC,Lab Test,S,50556-0,1/1/70,12/31/99,NA,urinalysis dipstick panel - urine by automated test strip,FALSE,FALSE
+3039353,Urinalysis microscopic panel - Urine Qualitative by Automated,Measurement,LOINC,Lab Test,S,53315-8,1/1/70,12/31/99,NA,urinalysis microscopic panel - urine qualitative by automated,FALSE,FALSE
+3041943,Urinalysis type of cast panel [#/area] - Urine by Computer assisted method,Measurement,LOINC,Lab Test,S,53330-7,5/28/08,12/31/99,NA,urinalysis type of cast panel [#/area] - urine by computer assisted method,FALSE,FALSE
+3041369,Urinalysis other formed elements panel [#/area] - Urine by Computer assisted method,Measurement,LOINC,Lab Test,S,53353-9,5/30/08,12/31/99,NA,urinalysis other formed elements panel [#/area] - urine by computer assisted method,FALSE,FALSE
+3040541,Urinalysis other formed elements panel - Urine by Computer assisted method,Measurement,LOINC,Lab Test,S,53333-1,1/1/70,12/31/99,NA,urinalysis other formed elements panel - urine by computer assisted method,FALSE,FALSE
+40760138,Urinalysis dipstick W Reflex Culture panel - Urine,Measurement,LOINC,Lab Test,S,57019-2,8/25/09,12/31/99,NA,urinalysis dipstick w reflex culture panel - urine,FALSE,FALSE
+40760139,Urinalysis dipstick W Reflex Microscopic panel - Urine,Measurement,LOINC,Lab Test,S,57020-0,8/25/09,12/31/99,NA,urinalysis dipstick w reflex microscopic panel - urine,FALSE,FALSE
+40761178,Urinalysis complete W Reflex Culture panel - Urine,Measurement,LOINC,Lab Test,S,58077-9,1/1/70,12/31/99,NA,urinalysis complete w reflex culture panel - urine,FALSE,FALSE
+40771572,Urinalysis specialist review of results,Measurement,LOINC,Lab Test,S,69051-1,10/17/11,12/31/99,NA,urinalysis specialist review of results,FALSE,FALSE
+37049472,Erythrocytes | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402476-8,1/1/70,12/31/99,NA,erythrocytes | urine | urinalysis,FALSE,FALSE
+37042473,Blood | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402376-0,1/1/70,12/31/99,NA,blood | urine | urinalysis,FALSE,FALSE
+37073842,Brickdust deposit | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402377-8,1/1/70,12/31/99,NA,brickdust deposit | urine | urinalysis,FALSE,FALSE
+37062148,Glucose | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402526-0,1/1/70,12/31/99,NA,glucose | urine | urinalysis,FALSE,FALSE
+37043507,Casts | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402424-8,1/1/70,12/31/99,NA,casts | urine | urinalysis,FALSE,FALSE
+37040814,Casts | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402425-5,1/1/70,12/31/99,NA,casts | urine sediment | urinalysis,FALSE,FALSE
+37032609,Bacterial casts | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402426-3,1/1/70,12/31/99,NA,bacterial casts | urine sediment | urinalysis,FALSE,FALSE
+37036849,Bilirubin casts | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402427-1,1/1/70,12/31/99,NA,bilirubin casts | urine sediment | urinalysis,FALSE,FALSE
+37058599,Broad casts | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402428-9,1/1/70,12/31/99,NA,broad casts | urine | urinalysis,FALSE,FALSE
+37023553,Broad casts | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402429-7,1/1/70,12/31/99,NA,broad casts | urine sediment | urinalysis,FALSE,FALSE
+37073761,Casts type not specified | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402430-5,1/1/70,12/31/99,NA,casts type not specified | urine | urinalysis,FALSE,FALSE
+37035254,Epithelial casts | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402432-1,1/1/70,12/31/99,NA,epithelial casts | urine | urinalysis,FALSE,FALSE
+37027686,Epithelial casts | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402433-9,1/1/70,12/31/99,NA,epithelial casts | urine sediment | urinalysis,FALSE,FALSE
+37069323,Fatty casts | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402434-7,1/1/70,12/31/99,NA,fatty casts | urine | urinalysis,FALSE,FALSE
+37077796,Erythrocytes | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402477-6,1/1/70,12/31/99,NA,erythrocytes | urine sediment | urinalysis,FALSE,FALSE
+37059026,Fatty casts | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402435-4,1/1/70,12/31/99,NA,fatty casts | urine sediment | urinalysis,FALSE,FALSE
+37032608,Granular casts | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402436-2,1/1/70,12/31/99,NA,granular casts | urine | urinalysis,FALSE,FALSE
+37078148,Erythrocyte clumps | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402478-4,1/1/70,12/31/99,NA,erythrocyte clumps | urine | urinalysis,FALSE,FALSE
+37057937,Granular casts | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402437-0,1/1/70,12/31/99,NA,granular casts | urine sediment | urinalysis,FALSE,FALSE
+37074017,Erythrocyte clumps | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402479-2,1/1/70,12/31/99,NA,erythrocyte clumps | urine sediment | urinalysis,FALSE,FALSE
+37046687,Coarse Granular Casts | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402438-8,1/1/70,12/31/99,NA,coarse granular casts | urine sediment | urinalysis,FALSE,FALSE
+37027785,Fine Granular Casts | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402439-6,1/1/70,12/31/99,NA,fine granular casts | urine sediment | urinalysis,FALSE,FALSE
+37034041,Hemoglobin casts | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402440-4,1/1/70,12/31/99,NA,hemoglobin casts | urine sediment | urinalysis,FALSE,FALSE
+37071742,Hyaline casts | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402441-2,1/1/70,12/31/99,NA,hyaline casts | urine | urinalysis,FALSE,FALSE
+37049064,Hyaline casts | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402442-0,1/1/70,12/31/99,NA,hyaline casts | urine sediment | urinalysis,FALSE,FALSE
+37055263,Hyaline casts.broad | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402443-8,1/1/70,12/31/99,NA,hyaline casts.broad | urine sediment | urinalysis,FALSE,FALSE
+37027569,Erythrocyte morphology | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402480-0,1/1/70,12/31/99,NA,erythrocyte morphology | urine sediment | urinalysis,FALSE,FALSE
+37042359,Mixed cellular casts | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402444-6,1/1/70,12/31/99,NA,mixed cellular casts | urine | urinalysis,FALSE,FALSE
+37069539,Mixed cellular casts | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402445-3,1/1/70,12/31/99,NA,mixed cellular casts | urine sediment | urinalysis,FALSE,FALSE
+37056635,Erythrocytes.dysmorphic | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402481-8,1/1/70,12/31/99,NA,erythrocytes.dysmorphic | urine | urinalysis,FALSE,FALSE
+37025769,Myoglobin casts | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402446-1,1/1/70,12/31/99,NA,myoglobin casts | urine sediment | urinalysis,FALSE,FALSE
+37051477,Erythrocytes.dysmorphic | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402482-6,1/1/70,12/31/99,NA,erythrocytes.dysmorphic | urine sediment | urinalysis,FALSE,FALSE
+37048644,Pathologic casts | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402447-9,1/1/70,12/31/99,NA,pathologic casts | urine | urinalysis,FALSE,FALSE
+37034660,Pseudocasts | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402448-7,1/1/70,12/31/99,NA,pseudocasts | urine | urinalysis,FALSE,FALSE
+37050040,Erythrocytes.dysmorphic G1/100 erythrocytes | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402483-4,1/1/70,12/31/99,NA,erythrocytes.dysmorphic g1/100 erythrocytes | urine sediment | urinalysis,FALSE,FALSE
+37037854,Pseudocasts | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402449-5,1/1/70,12/31/99,NA,pseudocasts | urine sediment | urinalysis,FALSE,FALSE
+37057628,Erythrocytes.dysmorphic/100 erythrocytes | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402484-2,1/1/70,12/31/99,NA,erythrocytes.dysmorphic/100 erythrocytes | urine sediment | urinalysis,FALSE,FALSE
+37054611,RBC casts | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402450-3,1/1/70,12/31/99,NA,rbc casts | urine | urinalysis,FALSE,FALSE
+37024486,RBC casts | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402451-1,1/1/70,12/31/99,NA,rbc casts | urine sediment | urinalysis,FALSE,FALSE
+37031107,Renal tubular casts | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402452-9,1/1/70,12/31/99,NA,renal tubular casts | urine | urinalysis,FALSE,FALSE
+37058323,Erythrocytes.non-dysmorphic | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402485-9,1/1/70,12/31/99,NA,erythrocytes.non-dysmorphic | urine sediment | urinalysis,FALSE,FALSE
+37051798,Waxy casts | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402453-7,1/1/70,12/31/99,NA,waxy casts | urine | urinalysis,FALSE,FALSE
+37037756,Waxy casts | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402454-5,1/1/70,12/31/99,NA,waxy casts | urine sediment | urinalysis,FALSE,FALSE
+37053530,Fungi.filamentous | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402486-7,1/1/70,12/31/99,NA,fungi.filamentous | urine | urinalysis,FALSE,FALSE
+37060326,Waxy Casts Broad | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402455-2,1/1/70,12/31/99,NA,waxy casts broad | urine sediment | urinalysis,FALSE,FALSE
+37043742,WBC casts | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402456-0,1/1/70,12/31/99,NA,wbc casts | urine | urinalysis,FALSE,FALSE
+37046423,WBC casts | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402457-8,1/1/70,12/31/99,NA,wbc casts | urine sediment | urinalysis,FALSE,FALSE
+37045172,Fungi.filamentous | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402487-5,1/1/70,12/31/99,NA,fungi.filamentous | urine sediment | urinalysis,FALSE,FALSE
+37051431,Cells | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402458-6,1/1/70,12/31/99,NA,cells | urine sediment | urinalysis,FALSE,FALSE
+37075538,Fungi.yeastlike | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402488-3,1/1/70,12/31/99,NA,fungi.yeastlike | urine sediment | urinalysis,FALSE,FALSE
+37062124,Spermatozoa | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402459-4,1/1/70,12/31/99,NA,spermatozoa | urine | urinalysis,FALSE,FALSE
+37043404,Spermatozoa | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402460-2,1/1/70,12/31/99,NA,spermatozoa | urine sediment | urinalysis,FALSE,FALSE
+37030474,Yeast | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402489-1,1/1/70,12/31/99,NA,yeast | urine | urinalysis,FALSE,FALSE
+37077023,Bacteria | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402461-0,1/1/70,12/31/99,NA,bacteria | urine | urinalysis,FALSE,FALSE
+37053970,Yeast | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402490-9,1/1/70,12/31/99,NA,yeast | urine sediment | urinalysis,FALSE,FALSE
+37022240,Bacteria | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402462-8,1/1/70,12/31/99,NA,bacteria | urine sediment | urinalysis,FALSE,FALSE
+37056155,Hemoglobin | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402527-8,1/1/70,12/31/99,NA,hemoglobin | urine | urinalysis,FALSE,FALSE
+37022101,Epithelial cells | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402463-6,1/1/70,12/31/99,NA,epithelial cells | urine | urinalysis,FALSE,FALSE
+37077527,Yeast.budding | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402491-7,1/1/70,12/31/99,NA,yeast.budding | urine | urinalysis,FALSE,FALSE
+37071282,Epithelial cells | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402464-4,1/1/70,12/31/99,NA,epithelial cells | urine sediment | urinalysis,FALSE,FALSE
+37077567,Ketones | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402528-6,1/1/70,12/31/99,NA,ketones | urine | urinalysis,FALSE,FALSE
+37053127,Leukocyte esterase | Cerebral spinal fluid | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402529-4,1/1/70,12/31/99,NA,leukocyte esterase | cerebral spinal fluid | urinalysis,FALSE,FALSE
+37050811,Yeast.budding | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402492-5,1/1/70,12/31/99,NA,yeast.budding | urine sediment | urinalysis,FALSE,FALSE
+37029153,Leukocyte esterase | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402530-2,1/1/70,12/31/99,NA,leukocyte esterase | urine | urinalysis,FALSE,FALSE
+37071347,Bladder cells | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402465-1,1/1/70,12/31/99,NA,bladder cells | urine sediment | urinalysis,FALSE,FALSE
+37049525,Epithelial cells.extrarenal | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402466-9,1/1/70,12/31/99,NA,epithelial cells.extrarenal | urine sediment | urinalysis,FALSE,FALSE
+37064513,Leukocyte esterase+Nitrite | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402531-0,1/1/70,12/31/99,NA,leukocyte esterase+nitrite | urine | urinalysis,FALSE,FALSE
+37056369,Yeast.hyphae | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402493-3,1/1/70,12/31/99,NA,yeast.hyphae | urine | urinalysis,FALSE,FALSE
+37038535,Nitrite | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402532-8,1/1/70,12/31/99,NA,nitrite | urine | urinalysis,FALSE,FALSE
+37021727,Epithelial cells.non-squamous | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402467-7,1/1/70,12/31/99,NA,epithelial cells.non-squamous | urine | urinalysis,FALSE,FALSE
+37053294,Yeast.hyphae | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402494-1,1/1/70,12/31/99,NA,yeast.hyphae | urine sediment | urinalysis,FALSE,FALSE
+37027195,pH | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402533-6,1/1/70,12/31/99,NA,ph | urine | urinalysis,FALSE,FALSE
+37078867,Epithelial cells.non-squamous | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402468-5,1/1/70,12/31/99,NA,epithelial cells.non-squamous | urine sediment | urinalysis,FALSE,FALSE
+37062605,Protein | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402534-4,1/1/70,12/31/99,NA,protein | urine | urinalysis,FALSE,FALSE
+37052746,Yeast.pseudohyphae | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402495-8,1/1/70,12/31/99,NA,yeast.pseudohyphae | urine sediment | urinalysis,FALSE,FALSE
+37054642,Protein/Creatinine | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402535-1,1/1/70,12/31/99,NA,protein/creatinine | urine | urinalysis,FALSE,FALSE
+37034082,Epithelial cells.renal | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402469-3,1/1/70,12/31/99,NA,epithelial cells.renal | urine | urinalysis,FALSE,FALSE
+37069928,Histiocytes | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402496-6,1/1/70,12/31/99,NA,histiocytes | urine sediment | urinalysis,FALSE,FALSE
+37058842,Epithelial cells.renal | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402470-1,1/1/70,12/31/99,NA,epithelial cells.renal | urine sediment | urinalysis,FALSE,FALSE
+37029640,Epithelial cells.squamous | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402471-9,1/1/70,12/31/99,NA,epithelial cells.squamous | urine | urinalysis,FALSE,FALSE
+37024433,Epithelial cells.squamous | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402472-7,1/1/70,12/31/99,NA,epithelial cells.squamous | urine sediment | urinalysis,FALSE,FALSE
+37059383,Reducing substances | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402536-9,1/1/70,12/31/99,NA,reducing substances | urine | urinalysis,FALSE,FALSE
+37028134,Specific gravity | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402537-7,1/1/70,12/31/99,NA,specific gravity | urine | urinalysis,TRUE,FALSE
+37034848,Urobilinogen | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402538-5,1/1/70,12/31/99,NA,urobilinogen | urine | urinalysis,FALSE,FALSE
+37040721,Transitional cells | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402473-5,1/1/70,12/31/99,NA,transitional cells | urine | urinalysis,FALSE,FALSE
+37046287,Microscopic observation | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402539-3,1/1/70,12/31/99,NA,microscopic observation | urine | urinalysis,FALSE,FALSE
+37027923,Leukocytes | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402497-4,1/1/70,12/31/99,NA,leukocytes | urine | urinalysis,FALSE,FALSE
+37077758,Microscopic observation | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402540-1,1/1/70,12/31/99,NA,microscopic observation | urine sediment | urinalysis,FALSE,FALSE
+37034813,Transitional cells | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402474-3,1/1/70,12/31/99,NA,transitional cells | urine sediment | urinalysis,FALSE,FALSE
+37077552,Leukocytes | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402498-2,1/1/70,12/31/99,NA,leukocytes | urine sediment | urinalysis,FALSE,FALSE
+37022260,Tubular cells | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402475-0,1/1/70,12/31/99,NA,tubular cells | urine sediment | urinalysis,FALSE,FALSE
+37037654,Casts panel | Urine sediment | Urinalysis Panels,Measurement,LOINC,LOINC Hierarchy,C,LP402541-9,1/1/70,12/31/99,NA,casts panel | urine sediment | urinalysis panels,FALSE,FALSE
+37078715,Eosinophils | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402499-0,1/1/70,12/31/99,NA,eosinophils | urine sediment | urinalysis,FALSE,FALSE
+37058881,Cells panel | Urine sediment | Urinalysis Panels,Measurement,LOINC,LOINC Hierarchy,C,LP402542-7,1/1/70,12/31/99,NA,cells panel | urine sediment | urinalysis panels,FALSE,FALSE
+37060209,Eosinophils/100 leukocytes | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402500-5,1/1/70,12/31/99,NA,eosinophils/100 leukocytes | urine | urinalysis,FALSE,FALSE
+37064181,Microorganisms panel | Urine sediment | Urinalysis Panels,Measurement,LOINC,LOINC Hierarchy,C,LP402544-3,1/1/70,12/31/99,NA,microorganisms panel | urine sediment | urinalysis panels,FALSE,FALSE
+37077377,Eosinophils/100 leukocytes | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402501-3,1/1/70,12/31/99,NA,eosinophils/100 leukocytes | urine sediment | urinalysis,FALSE,FALSE
+37027498,Other elements | Urine sediment | Urinalysis Panels,Measurement,LOINC,LOINC Hierarchy,C,LP402545-0,1/1/70,12/31/99,NA,other elements | urine sediment | urinalysis panels,FALSE,FALSE
+37032325,Neutrophils | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402502-1,1/1/70,12/31/99,NA,neutrophils | urine | urinalysis,FALSE,FALSE
+37058592,Urinalysis complete panel | Urine | Urinalysis Panels,Measurement,LOINC,LOINC Hierarchy,C,LP402546-8,1/1/70,12/31/99,NA,urinalysis complete panel | urine | urinalysis panels,FALSE,FALSE
+37037199,Urinalysis complete W Reflex Culture panel | Urine | Urinalysis Panels,Measurement,LOINC,LOINC Hierarchy,C,LP402547-6,1/1/70,12/31/99,NA,urinalysis complete w reflex culture panel | urine | urinalysis panels,FALSE,FALSE
+37035626,Leukocyte clumps | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402503-9,1/1/70,12/31/99,NA,leukocyte clumps | urine | urinalysis,FALSE,FALSE
+37055348,Urinalysis dipstick panel | Urine | Urinalysis Panels,Measurement,LOINC,LOINC Hierarchy,C,LP402548-4,1/1/70,12/31/99,NA,urinalysis dipstick panel | urine | urinalysis panels,FALSE,FALSE
+37030336,Leukocyte clumps | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402504-7,1/1/70,12/31/99,NA,leukocyte clumps | urine sediment | urinalysis,FALSE,FALSE
+37061995,Urinalysis dipstick W Reflex Culture panel | Urine | Urinalysis Panels,Measurement,LOINC,LOINC Hierarchy,C,LP402549-2,1/1/70,12/31/99,NA,urinalysis dipstick w reflex culture panel | urine | urinalysis panels,FALSE,FALSE
+37038896,Urinalysis dipstick W Reflex Microscopic panel | Urine | Urinalysis Panels,Measurement,LOINC,LOINC Hierarchy,C,LP402550-0,1/1/70,12/31/99,NA,urinalysis dipstick w reflex microscopic panel | urine | urinalysis panels,FALSE,FALSE
+37055219,Microorganisms seen | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402505-4,1/1/70,12/31/99,NA,microorganisms seen | urine sediment | urinalysis,FALSE,FALSE
+37049951,Urinalysis macro (dipstick) panel | Urine | Urinalysis Panels,Measurement,LOINC,LOINC Hierarchy,C,LP402551-8,1/1/70,12/31/99,NA,urinalysis macro (dipstick) panel | urine | urinalysis panels,FALSE,FALSE
+37039993,Parasites | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402506-2,1/1/70,12/31/99,NA,parasites | urine sediment | urinalysis,FALSE,FALSE
+37025714,Urinalysis macroscopic panel | Urine | Urinalysis Panels,Measurement,LOINC,LOINC Hierarchy,C,LP402552-6,1/1/70,12/31/99,NA,urinalysis macroscopic panel | urine | urinalysis panels,FALSE,FALSE
+37030592,Urinalysis microscopic panel | Urine | Urinalysis Panels,Measurement,LOINC,LOINC Hierarchy,C,LP402553-4,1/1/70,12/31/99,NA,urinalysis microscopic panel | urine | urinalysis panels,FALSE,FALSE
+37077894,Trichomonas sp | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402507-0,1/1/70,12/31/99,NA,trichomonas sp | urine | urinalysis,FALSE,FALSE
+37030452,Urinalysis microscopic panel | Urine sediment | Urinalysis Panels,Measurement,LOINC,LOINC Hierarchy,C,LP402554-2,1/1/70,12/31/99,NA,urinalysis microscopic panel | urine sediment | urinalysis panels,FALSE,FALSE
+37064112,Trichomonas sp | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402508-8,1/1/70,12/31/99,NA,trichomonas sp | urine sediment | urinalysis,FALSE,FALSE
+37023721,Urinalysis other formed elements panel | Urine | Urinalysis Panels,Measurement,LOINC,LOINC Hierarchy,C,LP402555-9,1/1/70,12/31/99,NA,urinalysis other formed elements panel | urine | urinalysis panels,FALSE,FALSE
+37031451,Urinalysis panel | Urine | Urinalysis Panels,Measurement,LOINC,LOINC Hierarchy,C,LP402556-7,1/1/70,12/31/99,NA,urinalysis panel | urine | urinalysis panels,FALSE,FALSE
+37053301,Urinalysis type of cast panel | Urine | Urinalysis Panels,Measurement,LOINC,LOINC Hierarchy,C,LP402557-5,1/1/70,12/31/99,NA,urinalysis type of cast panel | urine | urinalysis panels,FALSE,FALSE
+37077654,Trichomonas vaginalis | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402509-6,1/1/70,12/31/99,NA,trichomonas vaginalis | urine | urinalysis,FALSE,FALSE
+37059599,Trichomonas vaginalis | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402510-4,1/1/70,12/31/99,NA,trichomonas vaginalis | urine sediment | urinalysis,FALSE,FALSE
+37057207,Urinalysis type of non-squamous epithelial cells panel | Urine | Urinalysis Panels,Measurement,LOINC,LOINC Hierarchy,C,LP402559-1,1/1/70,12/31/99,NA,urinalysis type of non-squamous epithelial cells panel | urine | urinalysis panels,FALSE,FALSE
+37031084,Artifact | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402511-2,1/1/70,12/31/99,NA,artifact | urine sediment | urinalysis,FALSE,FALSE
+37033065,Urinalysis yeast variants panel | Urine | Urinalysis Panels,Measurement,LOINC,LOINC Hierarchy,C,LP402560-9,1/1/70,12/31/99,NA,urinalysis yeast variants panel | urine | urinalysis panels,FALSE,FALSE
+37050027,Amorphous sediment | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402512-0,1/1/70,12/31/99,NA,amorphous sediment | urine sediment | urinalysis,FALSE,FALSE
+37058183,Charcoal | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402513-8,1/1/70,12/31/99,NA,charcoal | urine sediment | urinalysis,FALSE,FALSE
+37040919,Lipids | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402514-6,1/1/70,12/31/99,NA,lipids | urine sediment | urinalysis,FALSE,FALSE
+37034455,Oval fat bodies (globules) | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402515-3,1/1/70,12/31/99,NA,oval fat bodies (globules) | urine | urinalysis,FALSE,FALSE
+37052595,Oval fat bodies (globules) | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402516-1,1/1/70,12/31/99,NA,oval fat bodies (globules) | urine sediment | urinalysis,FALSE,FALSE
+37039085,Fat.neutral | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402517-9,1/1/70,12/31/99,NA,fat.neutral | urine | urinalysis,FALSE,FALSE
+37076273,Fat.microscopic observation | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402518-7,1/1/70,12/31/99,NA,fat.microscopic observation | urine sediment | urinalysis,FALSE,FALSE
+37076057,Mucus | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402519-5,1/1/70,12/31/99,NA,mucus | urine | urinalysis,FALSE,FALSE
+37029594,Mucus | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402520-3,1/1/70,12/31/99,NA,mucus | urine sediment | urinalysis,FALSE,FALSE
+37032654,Other elements | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402521-1,1/1/70,12/31/99,NA,other elements | urine sediment | urinalysis,FALSE,FALSE
+37069470,Starch granules | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402522-9,1/1/70,12/31/99,NA,starch granules | urine sediment | urinalysis,FALSE,FALSE
+37067995,Ascorbate | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402523-7,1/1/70,12/31/99,NA,ascorbate | urine | urinalysis,FALSE,FALSE
+37034025,Bilirubin | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402524-5,1/1/70,12/31/99,NA,bilirubin | urine | urinalysis,FALSE,FALSE
+37026629,Bilirubin+Urobilinogen | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402525-2,1/1/70,12/31/99,NA,bilirubin+urobilinogen | urine | urinalysis,FALSE,FALSE
+1617996,Zimnitsky urine concentration panel | Urine | Urinalysis Panels,Measurement,LOINC,LOINC Hierarchy,C,LP428714-2,8/23/21,12/31/99,NA,zimnitsky urine concentration panel | urine | urinalysis panels,FALSE,FALSE
+36661366,UrnS Cmnt | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP419109-6,6/17/20,12/31/99,NA,urns cmnt | urine sediment | urinalysis,FALSE,FALSE
+36661087,Urn Spec Collect Meth | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP419110-4,6/17/20,12/31/99,NA,urn spec collect meth | urine | urinalysis,FALSE,FALSE
+36033032,Artifact | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP421039-1,12/15/20,12/31/99,NA,artifact | urine | urinalysis,FALSE,FALSE
+37066779,Urinalysis Panels,Measurement,LOINC,LOINC Hierarchy,C,LP7838-8,1/1/70,12/31/99,NA,urinalysis panels,FALSE,FALSE
+37072338,Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP7851-1,1/1/70,12/31/99,NA,urinalysis,FALSE,FALSE
+45876051,Urinalysis order set,Measurement,LOINC,LOINC Class,C,PANEL.UA,1/1/70,12/31/99,NA,urinalysis order set,FALSE,FALSE
+45611012,Urinalysis,Measurement,MeSH,Main Heading,NA,D016482,1/1/70,12/31/99,NA,urinalysis,FALSE,FALSE
+45876059,Urinalysis,Measurement,LOINC,LOINC Class,C,UA,1/1/70,12/31/99,NA,urinalysis,FALSE,FALSE
+3463990,"Urinalysis, routine and microscopic",Measurement,Nebraska Lexicon,Procedure,NA,27260001,1/31/02,12/31/99,NA,"urinalysis, routine and microscopic",FALSE,FALSE
+3457354,"Urinalysis, sediment examination, centrifuged",Measurement,Nebraska Lexicon,Procedure,NA,13956007,1/31/02,12/31/99,NA,"urinalysis, sediment examination, centrifuged",FALSE,FALSE
+3458707,"Urinalysis, automated",Measurement,Nebraska Lexicon,Procedure,NA,2278000,1/31/02,12/31/99,NA,"urinalysis, automated",FALSE,FALSE
+3436909,Urinalysis procedure,Measurement,Nebraska Lexicon,Procedure,NA,27171005,7/31/04,12/31/99,NA,urinalysis procedure,FALSE,FALSE
+3450368,"Urinalysis, reagent strip with microscopy",Measurement,Nebraska Lexicon,Procedure,NA,105360009,1/31/02,12/31/99,NA,"urinalysis, reagent strip with microscopy",FALSE,FALSE
+3431793,"Urinalysis, automated, with microscopy",Measurement,Nebraska Lexicon,Procedure,NA,105361008,1/31/02,12/31/99,NA,"urinalysis, automated, with microscopy",FALSE,FALSE
+3462308,"Urinalysis, automated, without microscopy",Measurement,Nebraska Lexicon,Procedure,NA,105362001,1/31/02,12/31/99,NA,"urinalysis, automated, without microscopy",FALSE,FALSE
+3453095,"Urinalysis, pyuria screen",Measurement,Nebraska Lexicon,Procedure,NA,105366003,7/31/09,12/31/99,NA,"urinalysis, pyuria screen",FALSE,FALSE
+3471122,"Urinalysis, specific gravity measurement",Measurement,Nebraska Lexicon,Procedure,NA,20501000,1/31/02,12/31/99,NA,"urinalysis, specific gravity measurement",TRUE,FALSE
+3441350,Urinalysis with reflex to microscopy,Measurement,Nebraska Lexicon,Procedure,NA,442468009,7/31/09,12/31/99,NA,urinalysis with reflex to microscopy,FALSE,FALSE
+3468443,"Urinalysis, sediment examination, uncentrifuged",Measurement,Nebraska Lexicon,Procedure,NA,28533005,1/31/02,12/31/99,NA,"urinalysis, sediment examination, uncentrifuged",FALSE,FALSE
+3466329,Urinalysis with reflex to microscopy and culture,Measurement,Nebraska Lexicon,Procedure,NA,441550005,7/31/09,12/31/99,NA,urinalysis with reflex to microscopy and culture,FALSE,FALSE
+3456816,"Urinalysis, acetoacetic acid-diacetic acid measurement",Measurement,Nebraska Lexicon,Procedure,NA,50044008,1/31/02,12/31/99,NA,"urinalysis, acetoacetic acid-diacetic acid measurement",FALSE,FALSE
+3437761,"Urinalysis, acetone or ketone bodies measurement",Measurement,Nebraska Lexicon,Procedure,NA,47615003,1/31/02,12/31/99,NA,"urinalysis, acetone or ketone bodies measurement",FALSE,FALSE
+3434788,"Urinalysis, reagent strip without microscopy",Measurement,Nebraska Lexicon,Procedure,NA,53853004,1/31/02,12/31/99,NA,"urinalysis, reagent strip without microscopy",FALSE,FALSE
+45505984,Test strip urinalysis,Measurement,Read,Read,NA,7P14200,1/1/70,12/31/99,NA,test strip urinalysis,FALSE,FALSE
+3443126,"Urinalysis, glucose, qualitative",Measurement,Nebraska Lexicon,Procedure,NA,69376001,1/31/02,12/31/99,NA,"urinalysis, glucose, qualitative",FALSE,FALSE
+3441289,"Urinalysis, protein, qualitative",Measurement,Nebraska Lexicon,Procedure,NA,60218003,1/31/02,12/31/99,NA,"urinalysis, protein, qualitative",FALSE,FALSE
+3446307,"Urinalysis, sediment examination, centrifuged",Measurement,Nebraska Lexicon,Procedure,NA,63840000,1/31/02,12/31/99,NA,"urinalysis, sediment examination, centrifuged",FALSE,FALSE
+3459961,"Urinalysis, bacteriuria screen",Measurement,Nebraska Lexicon,Procedure,NA,73392001,1/31/02,12/31/99,NA,"urinalysis, bacteriuria screen",FALSE,FALSE
+44514148,Test strip urinalysis,Measurement,OPCS4,Procedure,NA,U26.3,1/1/70,12/31/99,NA,test strip urinalysis,FALSE,FALSE
+4133316,Microscopic urinalysis,Measurement,SNOMED,Procedure,S,127800008,1/31/02,12/31/99,NA,microscopic urinalysis,FALSE,FALSE
+4019819,"Urinalysis, reagent strip with microscopy",Measurement,SNOMED,Procedure,S,105360009,1/31/02,12/31/99,NA,"urinalysis, reagent strip with microscopy",FALSE,FALSE
+4021925,"Urinalysis, automated, with microscopy",Measurement,SNOMED,Procedure,S,105361008,1/31/02,12/31/99,NA,"urinalysis, automated, with microscopy",FALSE,FALSE
+4021926,"Urinalysis, automated, without microscopy",Measurement,SNOMED,Procedure,S,105362001,1/31/02,12/31/99,NA,"urinalysis, automated, without microscopy",FALSE,FALSE
+4021928,"Urinalysis, pyuria screen",Measurement,SNOMED,Procedure,S,105366003,1/31/02,12/31/99,NA,"urinalysis, pyuria screen",FALSE,FALSE
+4009330,"Urinalysis, blood, qualitative",Measurement,SNOMED,Procedure,S,11184008,1/31/02,12/31/99,NA,"urinalysis, blood, qualitative",FALSE,FALSE
+44790166,Test strip urinalysis,Measurement,SNOMED,Procedure,S,2.31121E+14,10/2/06,12/31/99,NA,test strip urinalysis,FALSE,FALSE
+4070948,"Urinalysis, specific gravity measurement",Measurement,SNOMED,Procedure,S,20501000,1/31/02,12/31/99,NA,"urinalysis, specific gravity measurement",TRUE,FALSE
+4331601,"Urinalysis, automated",Measurement,SNOMED,Procedure,S,2278000,1/31/02,12/31/99,NA,"urinalysis, automated",FALSE,FALSE
+4099611,"Urinalysis, routine and microscopic",Measurement,SNOMED,Procedure,S,27260001,1/31/02,12/31/99,NA,"urinalysis, routine and microscopic",FALSE,FALSE
+4099313,Urinalysis,Measurement,SNOMED,Procedure,S,27171005,1/31/02,12/31/99,NA,urinalysis,FALSE,FALSE
+3554611,Test strip urinalysis,Measurement,SNOMED,Procedure,NA,2.71941E+14,1/1/70,10/2/06,U,test strip urinalysis,FALSE,FALSE
+4102445,"Urinalysis, sediment examination, uncentrifuged",Measurement,SNOMED,Procedure,S,28533005,1/31/02,12/31/99,NA,"urinalysis, sediment examination, uncentrifuged",FALSE,FALSE
+4273680,"Urinalysis, sediment examination, centrifuged",Measurement,SNOMED,Procedure,S,63840000,1/31/02,12/31/99,NA,"urinalysis, sediment examination, centrifuged",FALSE,FALSE
+4176125,"Urinalysis, acetoacetic acid-diacetic acid measurement",Measurement,SNOMED,Procedure,S,50044008,1/31/02,12/31/99,NA,"urinalysis, acetoacetic acid-diacetic acid measurement",FALSE,FALSE
+40479598,Urinalysis with reflex to microscopy and culture,Measurement,SNOMED,Procedure,S,441550005,7/31/09,12/31/99,NA,urinalysis with reflex to microscopy and culture,FALSE,FALSE
+40483570,Urinalysis with reflex to microscopy,Measurement,SNOMED,Procedure,S,442468009,7/31/09,12/31/99,NA,urinalysis with reflex to microscopy,FALSE,FALSE
+4166208,"Urinalysis, acetone or ketone bodies measurement",Measurement,SNOMED,Procedure,S,47615003,1/31/02,12/31/99,NA,"urinalysis, acetone or ketone bodies measurement",FALSE,FALSE
+4201897,"Urinalysis, reagent strip without microscopy",Measurement,SNOMED,Procedure,S,53853004,1/31/02,12/31/99,NA,"urinalysis, reagent strip without microscopy",FALSE,FALSE
+4246512,"Urinalysis, protein, qualitative",Measurement,SNOMED,Procedure,S,60218003,1/31/02,12/31/99,NA,"urinalysis, protein, qualitative",FALSE,FALSE
+4289453,"Urinalysis, glucose, qualitative",Measurement,SNOMED,Procedure,S,69376001,1/31/02,12/31/99,NA,"urinalysis, glucose, qualitative",FALSE,FALSE
+4247903,"Urinalysis, bacteriuria screen",Measurement,SNOMED,Procedure,S,73392001,1/31/02,12/31/99,NA,"urinalysis, bacteriuria screen",FALSE,FALSE
+45889243,"Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents",Measurement,CPT4,CPT4 Hierarchy,C,1011224,10/10/14,12/31/99,NA,"urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, ph, protein, specific gravity, urobilinogen, any number of these constituents",TRUE,FALSE
+45888791,Urinalysis Procedures,Measurement,CPT4,CPT4 Hierarchy,C,1011223,10/10/14,12/31/99,NA,urinalysis procedures,FALSE,FALSE
+2212169,"Urinalysis; qualitative or semiquantitative, except immunoassays",Measurement,CPT4,CPT4,S,81005,1/1/70,12/31/99,NA,"urinalysis; qualitative or semiquantitative, except immunoassays",FALSE,FALSE
+2212172,Urinalysis; 2 or 3 glass test,Measurement,CPT4,CPT4,S,81020,1/1/70,12/31/99,NA,urinalysis; 2 or 3 glass test,FALSE,FALSE
+2212171,Urinalysis; microscopic only,Measurement,CPT4,CPT4,S,81015,1/1/70,12/31/99,NA,urinalysis; microscopic only,FALSE,FALSE
+2212170,"Urinalysis; bacteriuria screen, except by culture or dipstick",Measurement,CPT4,CPT4,S,81007,1/1/70,12/31/99,NA,"urinalysis; bacteriuria screen, except by culture or dipstick",FALSE,FALSE
+2212175,Unlisted urinalysis procedure,Measurement,CPT4,CPT4,S,81099,1/1/70,12/31/99,NA,unlisted urinalysis procedure,FALSE,FALSE
+2212168,"Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; automated, without microscopy",Measurement,CPT4,CPT4,S,81003,1/1/70,12/31/99,NA,"urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, ph, protein, specific gravity, urobilinogen, any number of these constituents; automated, without microscopy",TRUE,FALSE
+2212167,"Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; non-automated, without microscopy",Measurement,CPT4,CPT4,S,81002,1/1/70,12/31/99,NA,"urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, ph, protein, specific gravity, urobilinogen, any number of these constituents; non-automated, without microscopy",TRUE,FALSE
+2212166,"Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; automated, with microscopy",Measurement,CPT4,CPT4,S,81001,1/1/70,12/31/99,NA,"urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, ph, protein, specific gravity, urobilinogen, any number of these constituents; automated, with microscopy",TRUE,FALSE
+2212165,"Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; non-automated, with microscopy",Measurement,CPT4,CPT4,S,81000,1/1/70,12/31/99,NA,"urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, ph, protein, specific gravity, urobilinogen, any number of these constituents; non-automated, with microscopy",TRUE,FALSE
+36365722,Urinalysis,Measurement,MedDRA,LLT,C,10046509,1/1/70,12/31/99,NA,urinalysis,FALSE,FALSE
+36365736,Urinalysis - NAD (no abnormality detected),Measurement,MedDRA,LLT,C,10046510,1/1/70,12/31/99,NA,urinalysis - nad (no abnormality detected),FALSE,FALSE
+36365724,Urinalysis abnormal NOS,Measurement,MedDRA,LLT,C,10046511,1/1/70,12/31/99,NA,urinalysis abnormal nos,FALSE,FALSE
+36303187,Urinalysis NEC,Measurement,MedDRA,HLT,C,10046512,1/1/70,12/31/99,NA,urinalysis nec,FALSE,FALSE
+45889038,Urinalysis,Measurement,CPT4,CPT4 Hierarchy,C,1011229,10/10/14,12/31/99,NA,urinalysis,FALSE,FALSE
+3041953,Urinalysis type of crystal panel [#/volume] - Urine by Computer assisted method,Measurement,LOINC,Lab Test,S,53295-2,5/28/08,12/31/99,NA,urinalysis type of crystal panel [#/volume] - urine by computer assisted method,FALSE,TRUE
+3041947,Urinalysis type of crystal panel [#/area] - Urine by Computer assisted method,Measurement,LOINC,Lab Test,S,53305-9,5/28/08,12/31/99,NA,urinalysis type of crystal panel [#/area] - urine by computer assisted method,FALSE,TRUE
+3041983,Urinalysis type of crystal panel - Urine by Computer assisted method,Measurement,LOINC,Lab Test,S,53325-7,1/1/70,12/31/99,NA,urinalysis type of crystal panel - urine by computer assisted method,FALSE,TRUE
+37031150,Crystals | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402378-6,1/1/70,12/31/99,NA,crystals | urine | urinalysis,FALSE,TRUE
+37045581,Crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402379-4,1/1/70,12/31/99,NA,crystals | urine sediment | urinalysis,FALSE,TRUE
+37045794,Acetaminophen crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402380-2,1/1/70,12/31/99,NA,acetaminophen crystals | urine sediment | urinalysis,FALSE,TRUE
+37047692,Ammonium urate crystals | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402381-0,1/1/70,12/31/99,NA,ammonium urate crystals | urine | urinalysis,FALSE,TRUE
+37024487,Ammonium urate crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402382-8,1/1/70,12/31/99,NA,ammonium urate crystals | urine sediment | urinalysis,FALSE,TRUE
+37065931,Urate crystals amorphous | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402422-2,1/1/70,12/31/99,NA,urate crystals amorphous | urine sediment | urinalysis,FALSE,TRUE
+37031189,X ray dye crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402423-0,1/1/70,12/31/99,NA,x ray dye crystals | urine sediment | urinalysis,FALSE,TRUE
+37067821,Crystal casts | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402431-3,1/1/70,12/31/99,NA,crystal casts | urine sediment | urinalysis,FALSE,TRUE
+37022408,Bilirubin crystals | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402383-6,1/1/70,12/31/99,NA,bilirubin crystals | urine | urinalysis,FALSE,TRUE
+37078292,Bilirubin crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402384-4,1/1/70,12/31/99,NA,bilirubin crystals | urine sediment | urinalysis,FALSE,TRUE
+37057273,Calcium hydrogen phosphate dihydrate crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402385-1,1/1/70,12/31/99,NA,calcium hydrogen phosphate dihydrate crystals | urine sediment | urinalysis,FALSE,TRUE
+37076906,Calcium carbonate crystals | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402386-9,1/1/70,12/31/99,NA,calcium carbonate crystals | urine | urinalysis,FALSE,TRUE
+37059737,Calcium carbonate crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402387-7,1/1/70,12/31/99,NA,calcium carbonate crystals | urine sediment | urinalysis,FALSE,TRUE
+37055605,Calcium phosphate crystals | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402391-9,1/1/70,12/31/99,NA,calcium phosphate crystals | urine | urinalysis,FALSE,TRUE
+37039902,Calcium phosphate crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402392-7,1/1/70,12/31/99,NA,calcium phosphate crystals | urine sediment | urinalysis,FALSE,TRUE
+37031231,Calcium phosphate crystals | XXX | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402393-5,1/1/70,12/31/99,NA,calcium phosphate crystals | xxx | urinalysis,FALSE,TRUE
+37023903,Calcium sulfate crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402394-3,1/1/70,12/31/99,NA,calcium sulfate crystals | urine sediment | urinalysis,FALSE,TRUE
+37054962,Cholesterol crystals | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402395-0,1/1/70,12/31/99,NA,cholesterol crystals | urine | urinalysis,FALSE,TRUE
+37073852,Cholesterol crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402396-8,1/1/70,12/31/99,NA,cholesterol crystals | urine sediment | urinalysis,FALSE,TRUE
+37040725,Crystals.amorphous | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402397-6,1/1/70,12/31/99,NA,crystals.amorphous | urine | urinalysis,FALSE,TRUE
+37060846,Crystals.amorphous | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402398-4,1/1/70,12/31/99,NA,crystals.amorphous | urine sediment | urinalysis,FALSE,TRUE
+37040816,Crystals unspecified | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402399-2,1/1/70,12/31/99,NA,crystals unspecified | urine | urinalysis,FALSE,TRUE
+37026254,Cystine crystals | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402400-8,1/1/70,12/31/99,NA,cystine crystals | urine | urinalysis,FALSE,TRUE
+37026099,Cystine crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402401-6,1/1/70,12/31/99,NA,cystine crystals | urine sediment | urinalysis,FALSE,TRUE
+37039871,Dimagnesium phosphate crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402402-4,1/1/70,12/31/99,NA,dimagnesium phosphate crystals | urine sediment | urinalysis,FALSE,TRUE
+37023079,Drug crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402403-2,1/1/70,12/31/99,NA,drug crystals | urine sediment | urinalysis,FALSE,TRUE
+37068768,Hippurate crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402404-0,1/1/70,12/31/99,NA,hippurate crystals | urine sediment | urinalysis,FALSE,TRUE
+37077976,Leucine crystals | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402405-7,1/1/70,12/31/99,NA,leucine crystals | urine | urinalysis,FALSE,TRUE
+37046814,Leucine crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402406-5,1/1/70,12/31/99,NA,leucine crystals | urine sediment | urinalysis,FALSE,TRUE
+37056975,Phosphate crystals amorphous | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402407-3,1/1/70,12/31/99,NA,phosphate crystals amorphous | urine | urinalysis,FALSE,TRUE
+37042411,Phosphate crystals amorphous | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402408-1,1/1/70,12/31/99,NA,phosphate crystals amorphous | urine sediment | urinalysis,FALSE,TRUE
+37036402,Pyrophosphate crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402409-9,1/1/70,12/31/99,NA,pyrophosphate crystals | urine sediment | urinalysis,FALSE,TRUE
+37047568,Sodium urate crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402410-7,1/1/70,12/31/99,NA,sodium urate crystals | urine sediment | urinalysis,FALSE,TRUE
+37051191,Sodium urate crystals | XXX | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402411-5,1/1/70,12/31/99,NA,sodium urate crystals | xxx | urinalysis,FALSE,TRUE
+37023422,Sulfonamide crystals | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402412-3,1/1/70,12/31/99,NA,sulfonamide crystals | urine | urinalysis,FALSE,TRUE
+37048196,Sulfonamide crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402413-1,1/1/70,12/31/99,NA,sulfonamide crystals | urine sediment | urinalysis,FALSE,TRUE
+37037042,Triple phosphate crystals | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402414-9,1/1/70,12/31/99,NA,triple phosphate crystals | urine | urinalysis,FALSE,TRUE
+37024463,Triple phosphate crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402415-6,1/1/70,12/31/99,NA,triple phosphate crystals | urine sediment | urinalysis,FALSE,TRUE
+37067792,Tyrosine crystals | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402416-4,1/1/70,12/31/99,NA,tyrosine crystals | urine | urinalysis,FALSE,TRUE
+37038003,Tyrosine crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402417-2,1/1/70,12/31/99,NA,tyrosine crystals | urine sediment | urinalysis,FALSE,TRUE
+37026758,Unidentified crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402418-0,1/1/70,12/31/99,NA,unidentified crystals | urine sediment | urinalysis,FALSE,TRUE
+37022623,Urate crystals | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402419-8,1/1/70,12/31/99,NA,urate crystals | urine | urinalysis,FALSE,TRUE
+37062848,Urate crystals | Urine sediment | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402420-6,1/1/70,12/31/99,NA,urate crystals | urine sediment | urinalysis,FALSE,TRUE
+37062691,Urate crystals amorphous | Urine | Urinalysis,Measurement,LOINC,LOINC Hierarchy,C,LP402421-4,1/1/70,12/31/99,NA,urate crystals amorphous | urine | urinalysis,FALSE,TRUE
+37028106,Crystals panel | Urine sediment | Urinalysis Panels,Measurement,LOINC,LOINC Hierarchy,C,LP402543-5,1/1/70,12/31/99,NA,crystals panel | urine sediment | urinalysis panels,FALSE,TRUE
+37038418,Urinalysis type of crystal panel | Urine | Urinalysis Panels,Measurement,LOINC,LOINC Hierarchy,C,LP402558-3,1/1/70,12/31/99,NA,urinalysis type of crystal panel | urine | urinalysis panels,FALSE,TRUE
+3028020,Urinalysis studies (set),Observation,LOINC,Claims Attachment,S,18729-4,1/1/70,12/31/99,NA,urinalysis studies (set),FALSE,FALSE
+3040738,Urinalysis dipstick test status CPHS,Observation,LOINC,Claims Attachment,S,39264-7,1/1/70,12/31/99,NA,urinalysis dipstick test status cphs,FALSE,FALSE
+3038391,Urinalysis complete status CPHS,Observation,LOINC,Claims Attachment,S,39265-4,1/1/70,12/31/99,NA,urinalysis complete status cphs,FALSE,FALSE
+1014209,Urinalysis specimen collection method,Observation,LOINC,LOINC Component,NA,LP19422-2,1/1/70,12/31/99,NA,urinalysis specimen collection method,FALSE,FALSE
+1010054,Urinalysis specialist review,Observation,LOINC,LOINC Component,NA,LP135792-2,1/1/70,12/31/99,NA,urinalysis specialist review,FALSE,FALSE
+37073346,Urinalysis macroscopic panel,Observation,LOINC,LOINC Component,NA,LP14149-6,12/11/19,12/12/19,D,urinalysis macroscopic panel,FALSE,FALSE
+37074309,Urinalysis panel,Observation,LOINC,LOINC Component,NA,LP14150-4,1/1/70,12/31/99,NA,urinalysis panel,FALSE,FALSE
+37025543,Urinalysis macro (dipstick) panel,Observation,LOINC,LOINC Component,NA,LP14151-2,1/1/70,12/31/99,NA,urinalysis macro (dipstick) panel,FALSE,FALSE
+37062638,Urinalysis microscopic panel,Observation,LOINC,LOINC Component,NA,LP14159-5,1/1/70,12/31/99,NA,urinalysis microscopic panel,FALSE,FALSE
+40796128,Urinalysis,Observation,LOINC,LOINC Component,NA,LP32744-2,1/1/70,12/31/99,NA,urinalysis,FALSE,FALSE
+37072246,Urinalysis yeast variants panel,Observation,LOINC,LOINC Component,NA,LP70263-6,1/1/70,12/31/99,NA,urinalysis yeast variants panel,FALSE,FALSE
+37050111,Urinalysis type of non-squamous epithelial cells panel,Observation,LOINC,LOINC Component,NA,LP70264-4,1/1/70,12/31/99,NA,urinalysis type of non-squamous epithelial cells panel,FALSE,FALSE
+37050637,Urinalysis type of cast panel,Observation,LOINC,LOINC Component,NA,LP70265-1,1/1/70,12/31/99,NA,urinalysis type of cast panel,FALSE,FALSE
+37054043,Urinalysis other formed elements panel,Observation,LOINC,LOINC Component,NA,LP70269-3,1/1/70,12/31/99,NA,urinalysis other formed elements panel,FALSE,FALSE
+37056564,Urinalysis complete W Reflex Culture panel,Observation,LOINC,LOINC Component,NA,LP98136-2,1/1/70,12/31/99,NA,urinalysis complete w reflex culture panel,FALSE,FALSE
+1031848,Urinalysis complete status,Observation,LOINC,LOINC Component,NA,LP74374-7,1/1/70,12/31/99,NA,urinalysis complete status,FALSE,FALSE
+1031849,Urinalysis dipstick test status,Observation,LOINC,LOINC Component,NA,LP74375-4,1/1/70,12/31/99,NA,urinalysis dipstick test status,FALSE,FALSE
+1031850,Urinalysis studies,Observation,LOINC,LOINC Component,NA,LP74376-2,1/1/70,12/31/99,NA,urinalysis studies,FALSE,FALSE
+37061559,Urinalysis complete panel,Observation,LOINC,LOINC Component,NA,LP96795-7,1/1/70,12/31/99,NA,urinalysis complete panel,FALSE,FALSE
+37066161,Urinalysis dipstick W Reflex Culture panel,Observation,LOINC,LOINC Component,NA,LP96798-1,1/1/70,12/31/99,NA,urinalysis dipstick w reflex culture panel,FALSE,FALSE
+37064700,Urinalysis dipstick W Reflex Microscopic panel,Observation,LOINC,LOINC Component,NA,LP96799-9,1/1/70,12/31/99,NA,urinalysis dipstick w reflex microscopic panel,FALSE,FALSE
+37038307,Urinalysis dipstick panel,Observation,LOINC,LOINC Component,NA,LP99284-9,1/1/70,12/31/99,NA,urinalysis dipstick panel,FALSE,FALSE
+3096396,Urinalysis requested,Observation,Nebraska Lexicon,Context-dependent,NA,144457008,1/31/02,7/31/17,U,urinalysis requested,FALSE,FALSE
+3096397,Urinalysis = no abnormality,Observation,Nebraska Lexicon,Context-dependent,NA,144458003,1/31/02,7/31/17,U,urinalysis = no abnormality,FALSE,FALSE
+3096398,Urinalysis = abnormal,Observation,Nebraska Lexicon,Context-dependent,NA,144459006,1/31/02,7/31/17,U,urinalysis = abnormal,FALSE,FALSE
+3393666,Urinalysis requested,Observation,Nebraska Lexicon,Context-dependent,NA,167220002,7/31/05,12/31/99,NA,urinalysis requested,FALSE,FALSE
+45465368,Urinalysis requested,Observation,Read,Read,NA,4612,1/1/70,12/31/99,NA,urinalysis requested,FALSE,FALSE
+40308940,Urinalysis requested,Observation,SNOMED,Context-dependent,NA,144457008,1/1/70,1/31/02,U,urinalysis requested,FALSE,FALSE
+4055274,Urinalysis requested,Observation,SNOMED,Context-dependent,S,167220002,1/31/02,12/31/99,NA,urinalysis requested,FALSE,FALSE
+37041757,Urinalysis type of crystal panel,Observation,LOINC,LOINC Component,NA,LP70267-7,1/1/70,12/31/99,NA,urinalysis type of crystal panel,FALSE,TRUE

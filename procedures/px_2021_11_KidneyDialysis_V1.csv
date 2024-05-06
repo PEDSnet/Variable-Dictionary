@@ -1,0 +1,746 @@
+concept_id,concept_code,concept_name,vocabulary_id,pcornet_vocabulary_id,cc_decimal_removal
+313232,408667000,Hemodialysis-associated hypotension,SNOMED,OT,FALSE
+435649,85223007,Complication of hemodialysis,SNOMED,OT,FALSE
+438624,33603003,Complication of renal dialysis,SNOMED,OT,FALSE
+439631,216933008,Failure of sterile precautions during kidney dialysis,SNOMED,OT,FALSE
+439634,216904007,Foreign object left in body during kidney dialysis,SNOMED,OT,FALSE
+440302,431028002,Mechanical complication of peritoneal dialysis catheter,SNOMED,OT,FALSE
+442028,216878005,"Accidental cut, puncture, perforation or hemorrhage during kidney dialysis",SNOMED,OT,FALSE
+443212,236561002,Disorder of peritoneal dialysis catheter,SNOMED,OT,FALSE
+443273,269698004,Mechanical failure of instrument or apparatus during kidney dialysis,SNOMED,OT,FALSE
+444024,33461007,Complication of peritoneal dialysis,SNOMED,OT,FALSE
+709782,1035675,Duplex scan of arterial inflow and venous outflow for preoperative vessel assessment prior to creation of hemodialysis access,CPT4,CH,FALSE
+710017,93985,Duplex scan of arterial inflow and venous outflow for preoperative vessel assessment prior to creation of hemodialysis access; complete bilateral study,CPT4,CH,FALSE
+710018,93986,Duplex scan of arterial inflow and venous outflow for preoperative vessel assessment prior to creation of hemodialysis access; complete unilateral study,CPT4,CH,FALSE
+761971,251000124108,Dialysis care plan,SNOMED,OT,FALSE
+762179,301000124101,Hemodialysis care plan,SNOMED,OT,FALSE
+762479,418011000124103,Continuous ambulatory peritoneal dialysis education,SNOMED,OT,FALSE
+762481,419011000124105,Continuous cycling peritoneal dialysis education,SNOMED,OT,FALSE
+762485,421000124100,Hemodialysis session time,SNOMED,OT,FALSE
+762572,429091000124105,Palliative dialysis,SNOMED,OT,FALSE
+762711,430901000124109,Acute dialysis program,SNOMED,OT,FALSE
+762712,430911000124107,Navy dialysis program,SNOMED,OT,FALSE
+762713,430921000124104,Army dialysis program,SNOMED,OT,FALSE
+762714,430941000124106,Prison dialysis program,SNOMED,OT,FALSE
+762715,430951000124108,Veteran's administration dialysis program,SNOMED,OT,FALSE
+762723,431041000124104,Satellite dialysis facility,SNOMED,OT,FALSE
+762724,431051000124102,Dialysis service,SNOMED,OT,FALSE
+762836,432601000124100,Durable medical equipment supplier dialysis program,SNOMED,OT,FALSE
+762837,432611000124102,Centers for Medicare and Medicaid Services approved special purpose dialysis program,SNOMED,OT,FALSE
+762930,433861000124108,Peritoneal dialysis catheter tunnel,SNOMED,OT,FALSE
+762939,433991000124108,Peritoneal dialysis access failure,SNOMED,OT,FALSE
+762945,434061000124103,Hemodialysis access failure,SNOMED,OT,FALSE
+763089,435961000124101,Peritoneal dialysis catheter insertion site,SNOMED,OT,FALSE
+763090,435971000124108,Body fluid specimen from peritoneal dialysis insertion site,SNOMED,OT,FALSE
+763146,436551000124103,Dialysis program certification pending,SNOMED,OT,FALSE
+763147,436561000124101,Hospital-based dialysis facility,SNOMED,OT,FALSE
+763528,442181000124100,Fungal infection associated with peritoneal dialysis catheter,SNOMED,OT,FALSE
+764914,831000124100,Infection of hemodialysis tunneled catheter,SNOMED,OT,FALSE
+764921,841000124105,Infection of hemodialysis catheter,SNOMED,OT,FALSE
+764924,851000124107,Infection of hemodialysis temporary catheter,SNOMED,OT,FALSE
+765566,311000124103,Peritoneal dialysis care plan,SNOMED,OT,FALSE
+765776,430891000124105,Dialysis regime,SNOMED,OT,FALSE
+765777,430931000124101,Air force dialysis program,SNOMED,OT,FALSE
+765865,442171000124103,Bacterial infection associated with peritoneal dialysis catheter,SNOMED,OT,FALSE
+915649,G9523,Patient discontinued from hemodialysis or peritoneal dialysis,HCPCS,CH,FALSE
+937570,J0604,"Cinacalcet, oral, 1 mg, (for esrd on dialysis)",HCPCS,CH,FALSE
+953214,Q5105,"Injection, epoetin alfa-epbx, biosimilar, (retacrit) (for esrd on dialysis), 100 units",HCPCS,CH,FALSE
+953238,J3591,Unclassified drug or biological used for esrd on dialysis,HCPCS,CH,FALSE
+1314323,G0491,Dialysis procedure at a medicare certified esrd facility for acute kidney injury without esrd,HCPCS,CH,FALSE
+1314324,G0492,Dialysis procedure with single evaluation by a physician or other qualified health care professional for acute kidney injury without esrd,HCPCS,CH,FALSE
+1314420,G9747,Patient is undergoing palliative dialysis with a catheter,HCPCS,CH,FALSE
+1314422,G9749,Patient is undergoing palliative dialysis with a catheter,HCPCS,CH,FALSE
+1314537,J0884,"Injection, argatroban, 1 mg (for esrd on dialysis)",HCPCS,CH,FALSE
+2002176,38.95,Venous catheterization for renal dialysis,ICD9Proc,09,FALSE
+2002176,3895,Venous catheterization for renal dialysis,ICD9Proc,09,TRUE
+2002189,39.27,Arteriovenostomy for renal dialysis,ICD9Proc,09,FALSE
+2002189,3927,Arteriovenostomy for renal dialysis,ICD9Proc,09,TRUE
+2002208,39.42,Revision of arteriovenous shunt for renal dialysis,ICD9Proc,09,FALSE
+2002208,3942,Revision of arteriovenous shunt for renal dialysis,ICD9Proc,09,TRUE
+2002209,39.43,Removal of arteriovenous shunt for renal dialysis,ICD9Proc,09,FALSE
+2002209,3943,Removal of arteriovenous shunt for renal dialysis,ICD9Proc,09,TRUE
+2002282,39.95,Hemodialysis,ICD9Proc,09,FALSE
+2002282,3995,Hemodialysis,ICD9Proc,09,TRUE
+2003564,54.98,Peritoneal dialysis,ICD9Proc,09,FALSE
+2003564,5498,Peritoneal dialysis,ICD9Proc,09,TRUE
+2101833,0505F,"Hemodialysis plan of care documented (ESRD, P-ESRD)",CPT4,CH,FALSE
+2101834,0507F,Peritoneal dialysis plan of care documented (ESRD),CPT4,CH,FALSE
+2106278,3066F,"Documentation of treatment for nephropathy (eg, patient receiving dialysis, patient being treated for ESRD, CRF, ARF, or renal insufficiency, any visit to a nephrologist) (DM)",CPT4,CH,FALSE
+2107995,35686,Creation of distal arteriovenous fistula during lower extremity bypass surgery (non-hemodialysis) (List separately in addition to code for primary procedure),CPT4,CH,FALSE
+2108034,35875,Thrombectomy of arterial or venous graft (other than hemodialysis graft or fistula),CPT4,CH,FALSE
+2108035,35876,Thrombectomy of arterial or venous graft (other than hemodialysis graft or fistula); with revision of arterial or venous graft,CPT4,CH,FALSE
+2108276,36800,"Insertion of cannula for hemodialysis, other purpose (separate procedure); vein to vein",CPT4,CH,FALSE
+2108277,36810,"Insertion of cannula for hemodialysis, other purpose (separate procedure); arteriovenous, external (Scribner type)",CPT4,CH,FALSE
+2108278,36815,"Insertion of cannula for hemodialysis, other purpose (separate procedure); arteriovenous, external revision, or closure",CPT4,CH,FALSE
+2108297,36831,"Thrombectomy, open, arteriovenous fistula without revision, autogenous or nonautogenous dialysis graft (separate procedure)",CPT4,CH,FALSE
+2108298,36832,"Revision, open, arteriovenous fistula; without thrombectomy, autogenous or nonautogenous dialysis graft (separate procedure)",CPT4,CH,FALSE
+2108299,36833,"Revision, open, arteriovenous fistula; with thrombectomy, autogenous or nonautogenous dialysis graft (separate procedure)",CPT4,CH,FALSE
+2108302,36838,"Distal revascularization and interval ligation (DRIL), upper extremity hemodialysis access (steal syndrome)",CPT4,CH,FALSE
+2108564,4052F,Hemodialysis via functioning arteriovenous (AV) fistula (ESRD),CPT4,CH,FALSE
+2108566,4053F,Hemodialysis via functioning arteriovenous (AV) graft (ESRD),CPT4,CH,FALSE
+2108567,4054F,Hemodialysis via catheter (ESRD),CPT4,CH,FALSE
+2108568,4055F,Patient receiving peritoneal dialysis (ESRD),CPT4,CH,FALSE
+2109463,49421,"Insertion of tunneled intraperitoneal catheter for dialysis, open",CPT4,CH,FALSE
+2213489,90740,"Hepatitis B vaccine (HepB), dialysis or immunosuppressed patient dosage, 3 dose schedule, for intramuscular use",CPT4,CH,FALSE
+2213493,90747,"Hepatitis B vaccine (HepB), dialysis or immunosuppressed patient dosage, 4 dose schedule, for intramuscular use",CPT4,CH,FALSE
+2213572,90935,Hemodialysis procedure with single evaluation by a physician or other qualified health care professional,CPT4,CH,FALSE
+2213573,90937,Hemodialysis procedure requiring repeated evaluation(s) with or without substantial revision of dialysis prescription,CPT4,CH,FALSE
+2213575,90940,Hemodialysis access flow study to determine blood flow in grafts and arteriovenous fistulae by an indicator method,CPT4,CH,FALSE
+2213576,90945,"Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies), with single evaluation by a physician or other qualified health care professional",CPT4,CH,FALSE
+2213577,90947,"Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies) requiring repeated evaluations by a physician or other qualified health care professional, with or without substantial re",CPT4,CH,FALSE
+2213590,90963,"End-stage renal disease (ESRD) related services for home dialysis per full month, for patients younger than 2 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents",CPT4,CH,FALSE
+2213591,90964,"End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 2-11 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents",CPT4,CH,FALSE
+2213592,90965,"End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 12-19 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents",CPT4,CH,FALSE
+2213593,90966,"End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 20 years of age and older",CPT4,CH,FALSE
+2213594,90967,"End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients younger than 2 years of age",CPT4,CH,FALSE
+2213595,90968,"End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 2-11 years of age",CPT4,CH,FALSE
+2213596,90969,"End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 12-19 years of age",CPT4,CH,FALSE
+2213597,90970,"End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 20 years of age and older",CPT4,CH,FALSE
+2213598,90989,"Dialysis training, patient, including helper where applicable, any mode, completed course",CPT4,CH,FALSE
+2213599,90993,"Dialysis training, patient, including helper where applicable, any mode, course not completed, per training session",CPT4,CH,FALSE
+2213601,90999,"Unlisted dialysis procedure, inpatient or outpatient",CPT4,CH,FALSE
+2313999,93990,"Duplex scan of hemodialysis access (including arterial inflow, body of access and venous outflow)",CPT4,CH,FALSE
+2514586,99512,Home visit for hemodialysis,CPT4,CH,FALSE
+2614963,A4653,"Peritoneal dialysis catheter anchoring device, belt, each",HCPCS,CH,FALSE
+2614970,A4671,"Disposable cycler set used with cycler dialysis machine, each",HCPCS,CH,FALSE
+2614971,A4672,"Drainage extension line, sterile, for dialysis, each",HCPCS,CH,FALSE
+2614972,A4673,"Extension line with easy lock connectors, used with dialysis",HCPCS,CH,FALSE
+2614973,A4674,"Chemicals/antiseptics solution used to clean/sterilize dialysis equipment, per 8 oz",HCPCS,CH,FALSE
+2614974,A4680,"Activated carbon filter for hemodialysis, each",HCPCS,CH,FALSE
+2614975,A4690,"Dialyzer (artificial kidneys), all types, all sizes, for hemodialysis, each",HCPCS,CH,FALSE
+2614978,A4706,"Bicarbonate concentrate, solution, for hemodialysis, per gallon",HCPCS,CH,FALSE
+2614979,A4707,"Bicarbonate concentrate, powder, for hemodialysis, per packet",HCPCS,CH,FALSE
+2614980,A4708,"Acetate concentrate solution, for hemodialysis, per gallon",HCPCS,CH,FALSE
+2614981,A4709,"Acid concentrate, solution, for hemodialysis, per gallon",HCPCS,CH,FALSE
+2614983,A4714,"Treated water (deionized, distilled, or reverse osmosis) for peritoneal dialysis, per gallon",HCPCS,CH,FALSE
+2614984,A4719,"""y set"" tubing for peritoneal dialysis",HCPCS,CH,FALSE
+2614985,A4720,"Dialysate solution, any concentration of dextrose, fluid volume greater than 249 cc, but less than or equal to 999 cc, for peritoneal dialysis",HCPCS,CH,FALSE
+2614986,A4721,"Dialysate solution, any concentration of dextrose, fluid volume greater than 999 cc but less than or equal to 1999 cc, for peritoneal dialysis",HCPCS,CH,FALSE
+2614987,A4722,"Dialysate solution, any concentration of dextrose, fluid volume greater than 1999 cc but less than or equal to 2999 cc, for peritoneal dialysis",HCPCS,CH,FALSE
+2614988,A4723,"Dialysate solution, any concentration of dextrose, fluid volume greater than 2999 cc but less than or equal to 3999 cc, for peritoneal dialysis",HCPCS,CH,FALSE
+2614989,A4724,"Dialysate solution, any concentration of dextrose, fluid volume greater than 3999 cc but less than or equal to 4999 cc, for peritoneal dialysis",HCPCS,CH,FALSE
+2614990,A4725,"Dialysate solution, any concentration of dextrose, fluid volume greater than 4999 cc but less than or equal to 5999 cc, for peritoneal dialysis",HCPCS,CH,FALSE
+2614991,A4726,"Dialysate solution, any concentration of dextrose, fluid volume greater than 5999 cc, for peritoneal dialysis",HCPCS,CH,FALSE
+2614993,A4730,"Fistula cannulation set for hemodialysis, each",HCPCS,CH,FALSE
+2614995,A4736,"Topical anesthetic, for dialysis, per gram",HCPCS,CH,FALSE
+2614996,A4737,"Injectable anesthetic, for dialysis, per 10 ml",HCPCS,CH,FALSE
+2614997,A4740,"Shunt accessory, for hemodialysis, any type, each",HCPCS,CH,FALSE
+2614998,A4750,"Blood tubing, arterial or venous, for hemodialysis, each",HCPCS,CH,FALSE
+2614999,A4755,"Blood tubing, arterial and venous combined, for hemodialysis, each",HCPCS,CH,FALSE
+2615000,A4760,"Dialysate solution test kit, for peritoneal dialysis, any type, each",HCPCS,CH,FALSE
+2615001,A4765,"Dialysate concentrate, powder, additive for peritoneal dialysis, per packet",HCPCS,CH,FALSE
+2615002,A4766,"Dialysate concentrate, solution, additive for peritoneal dialysis, per 10 ml",HCPCS,CH,FALSE
+2615003,A4770,"Blood collection tube, vacuum, for dialysis, per 50",HCPCS,CH,FALSE
+2615004,A4771,"Serum clotting time tube, for dialysis, per 50",HCPCS,CH,FALSE
+2615005,A4772,"Blood glucose test strips, for dialysis, per 50",HCPCS,CH,FALSE
+2615006,A4773,"Occult blood test strips, for dialysis, per 50",HCPCS,CH,FALSE
+2615007,A4774,"Ammonia test strips, for dialysis, per 50",HCPCS,CH,FALSE
+2615012,A4802,"Protamine sulfate, for hemodialysis, per 50 mg",HCPCS,CH,FALSE
+2615015,A4860,"Disposable catheter tips for peritoneal dialysis, per 10",HCPCS,CH,FALSE
+2615016,A4870,Plumbing and/or electrical work for home hemodialysis equipment,HCPCS,CH,FALSE
+2615018,A4890,"Contracts, repair and maintenance, for hemodialysis equipment",HCPCS,CH,FALSE
+2615023,A4911,"Drain bag/bottle, for dialysis, each",HCPCS,CH,FALSE
+2615025,A4913,"Miscellaneous dialysis supplies, not otherwise specified",HCPCS,CH,FALSE
+2615027,A4918,"Venous pressure clamp, for hemodialysis, each",HCPCS,CH,FALSE
+2615033,A4929,"Tourniquet for dialysis, each",HCPCS,CH,FALSE
+2615429,AX,Item furnished in conjunction with dialysis services,HCPCS,CH,FALSE
+2615761,C1750,"Catheter, hemodialysis/peritoneal, long-term",HCPCS,CH,FALSE
+2615762,C1751,"Catheter, infusion, inserted peripherally, centrally or midline (other than hemodialysis)",HCPCS,CH,FALSE
+2615763,C1752,"Catheter, hemodialysis/peritoneal, short-term",HCPCS,CH,FALSE
+2615860,C1881,Dialysis access system (implantable),HCPCS,CH,FALSE
+2616469,CB,"Service ordered by a renal dialysis facility (rdf) physician as part of the esrd beneficiary's dialysis benefit, is not part of the composite rate, and is separately reimbursable",HCPCS,CH,FALSE
+2616963,E1500,"Centrifuge, for dialysis",HCPCS,CH,FALSE
+2616965,E1520,Heparin infusion pump for hemodialysis,HCPCS,CH,FALSE
+2616966,E1530,"Air bubble detector for hemodialysis, each, replacement",HCPCS,CH,FALSE
+2616967,E1540,"Pressure alarm for hemodialysis, each, replacement",HCPCS,CH,FALSE
+2616968,E1550,"Bath conductivity meter for hemodialysis, each",HCPCS,CH,FALSE
+2616969,E1560,"Blood leak detector for hemodialysis, each, replacement",HCPCS,CH,FALSE
+2616971,E1575,"Transducer protectors/fluid barriers, for hemodialysis, any size, per 10",HCPCS,CH,FALSE
+2616972,E1580,Unipuncture control system for hemodialysis,HCPCS,CH,FALSE
+2616973,E1590,Hemodialysis machine,HCPCS,CH,FALSE
+2616974,E1592,Automatic intermittent peritoneal dialysis system,HCPCS,CH,FALSE
+2616975,E1594,Cycler dialysis machine for peritoneal dialysis,HCPCS,CH,FALSE
+2616976,E1600,Delivery and/or installation charges for hemodialysis equipment,HCPCS,CH,FALSE
+2616977,E1610,"Reverse osmosis water purification system, for hemodialysis",HCPCS,CH,FALSE
+2616978,E1615,"Deionizer water purification system, for hemodialysis",HCPCS,CH,FALSE
+2616979,E1620,"Blood pump for hemodialysis, replacement",HCPCS,CH,FALSE
+2616980,E1625,"Water softening system, for hemodialysis",HCPCS,CH,FALSE
+2616981,E1630,Reciprocating peritoneal dialysis system,HCPCS,CH,FALSE
+2616983,E1634,"Peritoneal dialysis clamps, each",HCPCS,CH,FALSE
+2616985,E1636,"Sorbent cartridges, for hemodialysis, per 10",HCPCS,CH,FALSE
+2616990,E1699,"Dialysis equipment, not otherwise specified",HCPCS,CH,FALSE
+2617342,G0257,Unscheduled or emergency dialysis treatment for an esrd patient in a hospital outpatient department that is not certified as an esrd facility,HCPCS,CH,FALSE
+2617398,G0320,"END STAGE RENAL DISEASE (ESRD) RELATED SERVICES FOR HOME DIALYSIS PATIENTS PER FULL MONTH; FOR PATIENTS UNDER TWO YEARS OF AGE TO INCLUDE MONITORING FOR ADEQUACY OF NUTRITION, ASSESSMENT OF GROWTH AND DEVELOPMENT, AND COUNSELING OF PARENTS",HCPCS,CH,FALSE
+2617399,G0321,"END STAGE RENAL DISEASE (ESRD) RELATED SERVICES FOR HOME DIALYSIS PATIENTS PER FULL MONTH; FOR PATIENTS TWO TO ELEVEN YEARS OF AGE TO INCLUDE MONITORING FOR ADEQUACY OF NUTRITION, ASSESSMENT OF GROWTH AND DEVELOPMENT, AND COUNSELING OF PARENTS",HCPCS,CH,FALSE
+2617400,G0322,"END STAGE RENAL DISEASE (ESRD) RELATED SERVICES FOR HOME DIALYSIS PATIENTS PER FULL MONTH; FOR PATIENTS TWELVE TO NINETEEN YEARS OF AGE TO INCLUDE MONITORING FOR ADEQUACY OF NUTRITION, ASSESSMENT OF GROWTH AND DEVELOPMENT, AND COUNSELING OF PARENTS",HCPCS,CH,FALSE
+2617401,G0323,END STAGE RENAL DISEASE (ESRD) RELATED SERVICES FOR HOME DIALYSIS PATIENTS PER FULL MONTH; FOR PATIENTS TWENTY YEARS OF AGE AND OLDER,HCPCS,CH,FALSE
+2617440,G0365,"Vessel mapping of vessels for hemodialysis access (services for preoperative vessel mapping prior to creation of hemodialysis access using an autogenous hemodialysis conduit, including arterial inflow and venous outflow)",HCPCS,CH,FALSE
+2617461,G0392,"TRANSLUMINAL BALLOON ANGIOPLASTY, PERCUTANEOUS; FOR MAINTENANCE OF HEMODIALYSIS ACCESS, ARTERIOVENOUS FISTULA OR GRAFT; ARTERIAL",HCPCS,CH,FALSE
+2617462,G0393,"TRANSLUMINAL BALLOON ANGIOPLASTY, PERCUTANEOUS; FOR MAINTENANCE OF HEMODIALYSIS ACCESS, ARTERIOVENOUS FISTULA OR GRAFT; VENOUS",HCPCS,CH,FALSE
+2617493,G6,Esrd patient for whom less than six dialysis sessions have been provided in a month,HCPCS,CH,FALSE
+2617544,G8075,End stage renal disease patient with documented dialysis dose of urr greater than or equal to 65% (or kt/v greater than or equal to 1.2),HCPCS,CH,FALSE
+2617545,G8076,End stage renal disease patient with documented dialysis dose of urr less than 65% (or kt/v less than 1.2),HCPCS,CH,FALSE
+2617550,G8081,End stage renal disease patient requiring hemodialysis vascular access documented to have received autogenous av fistula,HCPCS,CH,FALSE
+2617551,G8082,End stage renal disease patient requiring hemodialysis documented to have received vascular access other than autogenous av fistula,HCPCS,CH,FALSE
+2617552,G8085,End-stage renal disease patient requiring hemodialysis vascular access was not an eligible candidate for autogenous av fistula,HCPCS,CH,FALSE
+2718324,J0882,"Injection, darbepoetin alfa, 1 microgram (for esrd on dialysis)",HCPCS,CH,FALSE
+2718326,J0886,"Injection, epoetin alfa, 1000 units (for esrd on dialysis)",HCPCS,CH,FALSE
+2720773,Q4081,"Injection, epoetin alfa, 100 units (for esrd on dialysis)",HCPCS,CH,FALSE
+2721007,S0194,"Dialysis/stress vitamin supplement, oral, 100 capsules",HCPCS,CH,FALSE
+2721479,S9335,"Home therapy, hemodialysis; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing services coded separately), per diem",HCPCS,CH,FALSE
+2721482,S9339,"Home therapy; peritoneal dialysis, administrative services, professional pharmacy services, care coordination and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem",HCPCS,CH,FALSE
+2786488,3E1M39Z,"Irrigation of Peritoneal Cavity using Dialysate, Percutaneous Approach",ICD10PCS,10,FALSE
+2788041,5A1D00Z,"Performance of Urinary Filtration, Single (Deprecated)",ICD10PCS,10,FALSE
+2788042,5A1D60Z,"Performance of Urinary Filtration, Multiple (Deprecated)",ICD10PCS,10,FALSE
+3519900,577721000000104,"Accidental cut, puncture, perforation or haemorrhage during kidney dialysis or other perfusion",SNOMED,OT,FALSE
+3521835,261000124105,Adjustment of prescription for hemodialysis,SNOMED,OT,FALSE
+3521837,391000124108,Increase session time for hemodialysis,SNOMED,OT,FALSE
+3521840,531000124103,Increase exchange volume of peritoneal dialysis,SNOMED,OT,FALSE
+3524310,214171000000109,Stenosis of arteriovenous dialysis fistula,SNOMED,OT,FALSE
+3525358,261001000000101,Creation of graft fistula for dialysis,SNOMED,OT,FALSE
+3525711,266911000000107,Automated peritoneal dialysis,SNOMED,OT,FALSE
+3525712,266921000000101,Continuous ambulatory peritoneal dialysis,SNOMED,OT,FALSE
+3526283,284451000000108,Extracorporeal albumin haemodialysis,SNOMED,OT,FALSE
+3527238,320751000000109,Active cooling of patient using peritoneal dialysis fluid,SNOMED,OT,FALSE
+3527240,320801000000102,Ultrasound doppler scan for insertion of dialysis catheter,SNOMED,OT,FALSE
+3527336,325411000000106,Active warming of patient using peritoneal dialysis fluid,SNOMED,OT,FALSE
+3527770,339651000000109,Haemodialysis training,SNOMED,OT,FALSE
+3528223,351271000000103,Warming patient by dialysis therapy,SNOMED,OT,FALSE
+3528396,363931000000104,Replacement of peritoneal dialysis catheter,SNOMED,OT,FALSE
+3528574,371191000000106,Ligation of arteriovenous dialysis graft,SNOMED,OT,FALSE
+3530452,523491000000101,Inadequate dialysis blood flow,SNOMED,OT,FALSE
+3530453,523501000000107,Misplacement of haemodialysis catheter,SNOMED,OT,FALSE
+3537777,640081000000105,Haemodialysis NEC,SNOMED,OT,FALSE
+3542438,706901000000104,Continuous ambulatory peritoneal dialysis associated peritonitis,SNOMED,OT,FALSE
+3544300,780091000000107,Flushing of chronic ambulatory peritoneal dialysis catheter,SNOMED,OT,FALSE
+3545741,853641000000107,Stenosis of dialysis vascular access,SNOMED,OT,FALSE
+3545742,853661000000108,Thrombosis of dialysis vascular access,SNOMED,OT,FALSE
+3545817,855861000000106,First use syndrome of dialysis,SNOMED,OT,FALSE
+3545820,855901000000104,Thrombus in peritoneal dialysis catheter,SNOMED,OT,FALSE
+3545834,856191000000104,Ruptured aneurysm of dialysis vascular access,SNOMED,OT,FALSE
+3545835,856201000000102,Aneurysm of superficialised artery of dialysis arteriovenous fistula,SNOMED,OT,FALSE
+3545836,856211000000100,Aneurysm of dialysis arteriovenous fistula,SNOMED,OT,FALSE
+3545837,856221000000106,Aneurysm of needle site of dialysis arteriovenous fistula,SNOMED,OT,FALSE
+3545838,856231000000108,Aneurysm of anastomotic site of dialysis arteriovenous fistula,SNOMED,OT,FALSE
+3545917,857571000000105,Disorders associated with peritoneal dialysis,SNOMED,OT,FALSE
+3545995,863341000000109,Aneurysm of dialysis vascular access,SNOMED,OT,FALSE
+3546041,865771000000103,Occlusion of dialysis vascular access,SNOMED,OT,FALSE
+3546042,865791000000104,Infection of dialysis vascular access,SNOMED,OT,FALSE
+3546043,865811000000103,Haemorrhage of dialysis vascular access,SNOMED,OT,FALSE
+3546044,865831000000106,Rupture of dialysis vascular access,SNOMED,OT,FALSE
+3546045,865851000000104,Stenosis of dialysis arteriovenous graft,SNOMED,OT,FALSE
+3546046,865871000000108,Stenosis of dialysis arteriovenous fistula,SNOMED,OT,FALSE
+3546047,865991000000101,Thrombosis of dialysis arteriovenous fistula,SNOMED,OT,FALSE
+3546048,866011000000100,Thrombosis of dialysis arteriovenous fistula,SNOMED,OT,FALSE
+3546049,866031000000108,Thrombosis of dialysis arteriovenous shunt,SNOMED,OT,FALSE
+3546050,866051000000101,Occlusion of dialysis arteriovenous graft,SNOMED,OT,FALSE
+3546051,866071000000105,Occlusion of dialysis arteriovenous fistula,SNOMED,OT,FALSE
+3546052,866091000000109,Occlusion of dialysis arteriovenous shunt,SNOMED,OT,FALSE
+3546064,866741000000102,Infection of dialysis arteriovenous graft,SNOMED,OT,FALSE
+3546065,866751000000104,Infection of dialysis arteriovenous graft,SNOMED,OT,FALSE
+3546066,866761000000101,Infection of dialysis arteriovenous fistula,SNOMED,OT,FALSE
+3546067,866771000000108,Infection of dialysis arteriovenous fistula,SNOMED,OT,FALSE
+3546071,866961000000104,Infection of dialysis arteriovenous shunt,SNOMED,OT,FALSE
+3546072,867001000000104,Haemorrhage of dialysis arteriovenous graft,SNOMED,OT,FALSE
+3546073,867021000000108,Haemorrhage of dialysis arteriovenous fistula,SNOMED,OT,FALSE
+3546074,867041000000101,Haemorrhage of dialysis arteriovenous shunt,SNOMED,OT,FALSE
+3546075,867061000000100,Rupture of dialysis arteriovenous graft,SNOMED,OT,FALSE
+3546076,867081000000109,Rupture of dialysis arteriovenous fistula,SNOMED,OT,FALSE
+3546077,867101000000103,Rupture of dialysis arteriovenous shunt,SNOMED,OT,FALSE
+3546135,872471000000109,Stenosis of arterial side of dialysis arteriovenous shunt,SNOMED,OT,FALSE
+3546136,872491000000108,Stenosis of venous side of dialysis arteriovenous shunt,SNOMED,OT,FALSE
+3547136,938451000000109,Disorder associated with dialysis,SNOMED,OT,FALSE
+3547137,938461000000107,Dialysis disequilibrium,SNOMED,OT,FALSE
+3556124,366091000000107,Peritoneal dialysis catheter in situ,SNOMED,OT,FALSE
+3557225,523461000000107,Patient choice of dialysis access,SNOMED,OT,FALSE
+3557226,523471000000100,Dialysis catheter in situ usable,SNOMED,OT,FALSE
+3557227,523481000000103,Dialysis catheter in situ unusable,SNOMED,OT,FALSE
+3559627,856161000000105,Anaphylactoid reaction due to haemodialysis,SNOMED,OT,FALSE
+3559658,857581000000107,Bloodstained peritoneal dialysis effluent,SNOMED,OT,FALSE
+3561478,1035481000000103,Renal dialysis therapy started,SNOMED,OT,FALSE
+3561479,1035501000000107,Renal dialysis therapy stopped,SNOMED,OT,FALSE
+3561568,1050711000000105,Dependence on renal dialysis,SNOMED,OT,FALSE
+3564238,233181000000101,Peritoneal dialysis NEC,SNOMED,OT,FALSE
+3564428,364571000000105,Peritoneal dialysis subcutaneous leakage,SNOMED,OT,FALSE
+3564588,371000124107,Increase blood flow for hemodialysis,SNOMED,OT,FALSE
+3565529,363581000000105,Shaving of peritoneal dialysis catheter cuff,SNOMED,OT,FALSE
+3566528,525981000000106,Continuous ambulatory peritoneal dialysis associated peritonitis,SNOMED,OT,FALSE
+3566733,198761000000107,Stenosis of arteriovenous dialysis fistula,SNOMED,OT,FALSE
+3567070,342071000000104,Ligation of arteriovenous dialysis fistula,SNOMED,OT,FALSE
+3567217,364701000000105,Malposition of peritoneal dialysis catheter,SNOMED,OT,FALSE
+3567357,699851000000107,Mechanical failure of instrument or apparatus during kidney dialysis and other perfusion,SNOMED,OT,FALSE
+3567425,366101000000104,Temporary peritoneal dialysis catheter in situ,SNOMED,OT,FALSE
+3567944,225371000000104,Creation of graft fistula for dialysis,SNOMED,OT,FALSE
+3568361,342221000000108,Ligation of arteriovenous dialysis graft,SNOMED,OT,FALSE
+3569044,366981000000106,Peritoneal dialysis catheter fell out,SNOMED,OT,FALSE
+3569155,531351000000101,"Kidney dialysis as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of procedure",SNOMED,OT,FALSE
+3569163,365591000000108,Laparoscopic insertion of peritoneal dialysis catheter,SNOMED,OT,FALSE
+3570355,325391000000106,Active warming of patient using haemodialysis circuit,SNOMED,OT,FALSE
+3570529,231631000000105,Automated peritoneal dialysis,SNOMED,OT,FALSE
+3571918,116391000000104,Dialysis fluid examination,SNOMED,OT,FALSE
+3572152,120971000000107,Dialysis fluid examination,SNOMED,OT,FALSE
+3572583,339641000000106,Dialysis training,SNOMED,OT,FALSE
+3572704,351341000000102,Peritoneal dialysis training,SNOMED,OT,FALSE
+3578645,266931000000104,Peritoneal dialysis NEC,SNOMED,OT,FALSE
+3579207,291421000000102,Extracorporeal albumin haemodialysis,SNOMED,OT,FALSE
+3580222,371181000000109,Ligation of arteriovenous dialysis fistula,SNOMED,OT,FALSE
+4000624,119360007,Dialysis fluid specimen,SNOMED,OT,FALSE
+4002872,11932001,Stabilizing hemodialysis,SNOMED,OT,FALSE
+4019622,115499008,Pre-dialysis,SNOMED,OT,FALSE
+4019623,115500004,Post-dialysis,SNOMED,OT,FALSE
+4019967,105502003,Dependence on renal dialysis,SNOMED,OT,FALSE
+4020891,225229003,Peritoneal dialysis bag procedure,SNOMED,OT,FALSE
+4020892,225231007,Stab peritoneal dialysis,SNOMED,OT,FALSE
+4021014,225281003,Reversing hemodialysis lines,SNOMED,OT,FALSE
+4021025,225228006,Putting additive into peritoneal dialysis bag,SNOMED,OT,FALSE
+4021037,225282005,Washing back through hemodialysis lines,SNOMED,OT,FALSE
+4021976,225230008,Chronic peritoneal dialysis,SNOMED,OT,FALSE
+4022107,225283000,Priming hemodialysis lines,SNOMED,OT,FALSE
+4026915,225892009,Revision of arteriovenous shunt for renal dialysis,SNOMED,OT,FALSE
+4027133,19765000,Complication of dialysis,SNOMED,OT,FALSE
+4030520,236435004,End stage renal failure on dialysis,SNOMED,OT,FALSE
+4030678,236540009,Anaphylactoid reaction to dialysis,SNOMED,OT,FALSE
+4030831,238314006,Renewal of chronic ambulatory peritoneal dialysis catheter,SNOMED,OT,FALSE
+4030832,238317004,Flushing of chronic ambulatory peritoneal dialysis catheter,SNOMED,OT,FALSE
+4030834,238323009,Night-time intermittent peritoneal dialysis,SNOMED,OT,FALSE
+4031314,238315007,Adjustment of chronic ambulatory peritoneal dialysis catheter,SNOMED,OT,FALSE
+4031315,238319001,Continuous cycling peritoneal dialysis,SNOMED,OT,FALSE
+4031777,10848006,Removal of peritoneal dialysis catheter,SNOMED,OT,FALSE
+4032128,238316008,Aspiration of chronic ambulatory peritoneal dialysis catheter,SNOMED,OT,FALSE
+4032243,108241001,Dialysis procedure,SNOMED,OT,FALSE
+4032288,236551009,Underdialysis,SNOMED,OT,FALSE
+4032292,236562009,Obstruction of peritoneal dialysis catheter,SNOMED,OT,FALSE
+4032293,236565006,Poor drainage of peritoneal dialysis catheter,SNOMED,OT,FALSE
+4032775,14684005,Peritoneal dialysis excluding cannulation,SNOMED,OT,FALSE
+4045262,12963004,Dialysis-associated ascites,SNOMED,OT,FALSE
+4045763,122586001,Peritoneal dialysis fluid specimen,SNOMED,OT,FALSE
+4049322,15859004,Chronic hemodialysis diet,SNOMED,OT,FALSE
+4049838,233547003,Cannulation of arteriovenous dialysis fistula,SNOMED,OT,FALSE
+4050862,233577009,Intermittent hemodialysis with continuous ultrafiltration,SNOMED,OT,FALSE
+4050863,233578004,Continuous hemodialysis,SNOMED,OT,FALSE
+4051326,233575001,Intermittent hemodialysis,SNOMED,OT,FALSE
+4051327,233576000,Intermittent hemodialysis with sequential ultrafiltration,SNOMED,OT,FALSE
+4051328,233579007,Continuous arteriovenous hemodialysis,SNOMED,OT,FALSE
+4051329,233580005,Continuous venovenous hemodialysis,SNOMED,OT,FALSE
+4051442,20947001,Dialysis secretion of vitreous humor,SNOMED,OT,FALSE
+4070976,17778006,Mechanical complication of dialysis catheter,SNOMED,OT,FALSE
+4076634,224967001,Revision of cannula for dialysis,SNOMED,OT,FALSE
+4080169,238318009,Continuous ambulatory peritoneal dialysis,SNOMED,OT,FALSE
+4080171,238321006,Intermittent peritoneal dialysis,SNOMED,OT,FALSE
+4080172,238322004,Tidal peritoneal dialysis,SNOMED,OT,FALSE
+4080241,180268000,Hemodialysis NEC,SNOMED,OT,FALSE
+4080242,180273006,Removal of chronic ambulatory peritoneal dialysis catheter,SNOMED,OT,FALSE
+4081057,276883000,Peritoneal dialysis-associated peritonitis,SNOMED,OT,FALSE
+4081569,241103007,Skeletal survey - dialysis,SNOMED,OT,FALSE
+4081570,241104001,Skeletal survey - dialysis follow-up,SNOMED,OT,FALSE
+4082257,182753006,Intestinal dialysis,SNOMED,OT,FALSE
+4085920,243778000,Arterial port blood sampling during hemodialysis,SNOMED,OT,FALSE
+4086740,241951000,Dialysis membrane-induced anaphylactoid reaction,SNOMED,OT,FALSE
+4086914,243779008,Venous port blood sampling during hemodialysis,SNOMED,OT,FALSE
+4087232,243777005,Blood sampling from hemodialysis circuit,SNOMED,OT,FALSE
+4089852,251866006,Adequacy of dialysis,SNOMED,OT,FALSE
+4090651,251859005,Dialysis finding,SNOMED,OT,FALSE
+4090652,251860000,Peritoneal dialysis observable,SNOMED,OT,FALSE
+4092503,251867002,Adequacy of peritoneal dialysis,SNOMED,OT,FALSE
+4092504,251869004,Adequacy of hemodialysis,SNOMED,OT,FALSE
+4096103,292762005,Hemodialysis fluid adverse reaction,SNOMED,OT,FALSE
+4097961,26944003,Acute megaloblastic anemia due to dialysis,SNOMED,OT,FALSE
+4098385,292760002,Dialysis fluid adverse reaction,SNOMED,OT,FALSE
+4099603,27366005,Megaloblastic anemia due to hemodialysis,SNOMED,OT,FALSE
+4099721,292761003,Peritoneal dialysis solution adverse reaction,SNOMED,OT,FALSE
+4101363,300478000,Finding of measures of dialysis,SNOMED,OT,FALSE
+4103072,28812006,Hemodialysis education,SNOMED,OT,FALSE
+4107732,180277007,Insertion of temporary peritoneal dialysis catheter,SNOMED,OT,FALSE
+4108838,180272001,Insertion of chronic ambulatory peritoneal dialysis catheter,SNOMED,OT,FALSE
+4120120,302497006,Hemodialysis,SNOMED,OT,FALSE
+4121297,233766001,Dialysis-associated hypoxia,SNOMED,OT,FALSE
+4126124,236538004,Acute disorder of hemodialysis,SNOMED,OT,FALSE
+4126125,236541008,Hyperchloremic acidosis associated with dialysis,SNOMED,OT,FALSE
+4126126,236544000,Matrix stone formation of dialysis,SNOMED,OT,FALSE
+4126129,236564005,Omental wrapping around peritoneal dialysis catheter,SNOMED,OT,FALSE
+4126130,236566007,Extrusion of peritoneal dialysis catheter cuff,SNOMED,OT,FALSE
+4126445,236542001,Long-term disorder of dialysis,SNOMED,OT,FALSE
+4126448,236550005,Polyserositis syndrome of dialysis,SNOMED,OT,FALSE
+4126450,236557008,Peritoneal dialysis catheter exit site infection,SNOMED,OT,FALSE
+4126451,236563004,Migration of peritoneal dialysis catheter,SNOMED,OT,FALSE
+4126452,236567003,Misplacement of acute peritoneal dialysis catheter,SNOMED,OT,FALSE
+4128232,236539007,First use syndrome of dialysis,SNOMED,OT,FALSE
+4128367,236556004,Bloodstained peritoneal dialysis effluent,SNOMED,OT,FALSE
+4128368,236558003,Peritoneal dialysis catheter tunnel infection,SNOMED,OT,FALSE
+4135982,263529000,Peritoneal dialysis used,SNOMED,OT,FALSE
+4137616,32599008,Hemodialysis-associated amyloidosis,SNOMED,OT,FALSE
+4137660,263636009,Type of hemodialysis,SNOMED,OT,FALSE
+4140007,426340003,Creation of graft fistula for dialysis,SNOMED,OT,FALSE
+4140589,427053002,Extracorporeal albumin hemodialysis,SNOMED,OT,FALSE
+4146536,265764009,Renal dialysis,SNOMED,OT,FALSE
+4146649,34897002,"Hemodialysis, maintenance in hospital",SNOMED,OT,FALSE
+4147708,310435001,Perfusion and dialysis finding,SNOMED,OT,FALSE
+4147716,310489004,Care of hemodialysis equipment,SNOMED,OT,FALSE
+4149813,278904002,Hemodialysis diet,SNOMED,OT,FALSE
+4152005,282828000,Recirculation of the dialysis machine,SNOMED,OT,FALSE
+4153208,370935006,Zonular dialysis,SNOMED,OT,FALSE
+4156957,271418008,Chronic ambulatory peritoneal dialysis catheter procedure,SNOMED,OT,FALSE
+4161526,433693008,Active warming of subject using peritoneal dialysis fluid,SNOMED,OT,FALSE
+4163946,294299005,Allergy to dialysis fluid,SNOMED,OT,FALSE
+4163947,294300002,Peritoneal dialysis solution allergy,SNOMED,OT,FALSE
+4167119,294301003,Hemodialysis fluid allergy,SNOMED,OT,FALSE
+4169799,420051002,Hemodialysis fluid,SNOMED,OT,FALSE
+4177685,428937001,Dependence on peritoneal dialysis due to end stage renal disease,SNOMED,OT,FALSE
+4179226,429075005,Dependence on dialysis due to end stage renal disease,SNOMED,OT,FALSE
+4181476,428982002,Dependence on hemodialysis due to end stage renal disease,SNOMED,OT,FALSE
+4183419,54817007,Arteriovenous shunt for renal dialysis by external cannula,SNOMED,OT,FALSE
+4195534,676002,Peritoneal dialysis including cannulation,SNOMED,OT,FALSE
+4195714,67970008,"Hemodialysis, maintenance at home",SNOMED,OT,FALSE
+4196614,433810007,Active cooling of subject using peritoneal dialysis fluid,SNOMED,OT,FALSE
+4197217,79827002,Arteriovenous anastomosis for renal dialysis,SNOMED,OT,FALSE
+4198021,431873008,Peritonitis due to infected peritoneal dialysis catheter,SNOMED,OT,FALSE
+4199924,53060006,Dialysis secretion of aqueous humor,SNOMED,OT,FALSE
+4200470,433635004,Active warming of subject using hemodialysis circuit,SNOMED,OT,FALSE
+4203990,438341004,Laparoscopic insertion of peritoneal dialysis catheter,SNOMED,OT,FALSE
+4204620,439073006,Peritoneal dialysis catheter in situ,SNOMED,OT,FALSE
+4205368,439278006,Measurement of static venous pressure in hemodialysis vascular access,SNOMED,OT,FALSE
+4206254,440084005,Assessment of adequacy of dialysis,SNOMED,OT,FALSE
+4207135,440551001,Malposition of peritoneal dialysis catheter,SNOMED,OT,FALSE
+4214705,39482009,Removal of arteriovenous shunt for renal dialysis,SNOMED,OT,FALSE
+4218333,417038009,Referral for dialysis,SNOMED,OT,FALSE
+4224243,421032001,Peritoneal dialysis route,SNOMED,OT,FALSE
+4227897,88351001,Hypercalcemia associated with chronic dialysis,SNOMED,OT,FALSE
+4228125,421503006,Hemodialysis route,SNOMED,OT,FALSE
+4229542,404813001,Peritoneal dialysis leakage,SNOMED,OT,FALSE
+4229839,438546008,Ligation of arteriovenous dialysis fistula,SNOMED,OT,FALSE
+4230165,406168002,Dialysis access maintenance,SNOMED,OT,FALSE
+4231646,439534001,Shaving of peritoneal dialysis catheter cuff,SNOMED,OT,FALSE
+4231951,438548009,Ligation of arteriovenous dialysis graft,SNOMED,OT,FALSE
+4233312,439976001,Measurement of recirculation in hemodialysis vascular access,SNOMED,OT,FALSE
+4234460,439360004,Peritoneal dialysis catheter fell out,SNOMED,OT,FALSE
+4234504,405044002,Hemodialysis access site status,SNOMED,OT,FALSE
+4234922,440663004,Encapsulating peritoneal sclerosis associated with peritoneal dialysis,SNOMED,OT,FALSE
+4235076,438342006,Replacement of peritoneal dialysis catheter,SNOMED,OT,FALSE
+4238836,57274006,Initial hemodialysis,SNOMED,OT,FALSE
+4244346,9345005,Dialysis dementia,SNOMED,OT,FALSE
+4245156,59596005,Hemodialysis education at home,SNOMED,OT,FALSE
+4247794,73257006,Peritoneal dialysis catheter maintenance,SNOMED,OT,FALSE
+4260778,412859006,Dialysis fluid examination,SNOMED,OT,FALSE
+4261070,440597004,Obstruction of peritoneal dialysis catheter by fibrin formation,SNOMED,OT,FALSE
+4261183,440926006,Temporary peritoneal dialysis catheter in situ,SNOMED,OT,FALSE
+4267880,61740001,"Insertion of cannula for hemodialysis, vein to vein",SNOMED,OT,FALSE
+4268532,365399009,Adequacy of dialysis - finding,SNOMED,OT,FALSE
+4269439,364668008,Perfusion / dialysis observable,SNOMED,OT,FALSE
+4269440,364671000,Dialysis observable,SNOMED,OT,FALSE
+4271754,364672007,Measure of dialysis,SNOMED,OT,FALSE
+4272012,63421002,Insertion of cannula for hemodialysis,SNOMED,OT,FALSE
+4280208,66402002,Peritoneal dialysis education,SNOMED,OT,FALSE
+4286500,68341005,"Hemodialysis, supervision at home",SNOMED,OT,FALSE
+4289454,69380006,Venous catheterization for renal dialysis,SNOMED,OT,FALSE
+4297658,402458002,Hemodialysis-associated secondary amyloidosis of skin,SNOMED,OT,FALSE
+4297919,403732009,Hemodialysis-associated pseudoporphyria,SNOMED,OT,FALSE
+4300025,385238005,Peritoneal dialysis solution,SNOMED,OT,FALSE
+4300026,385240000,Hemodialysis solution,SNOMED,OT,FALSE
+4300027,385241001,Hemodialysis solution concentrate,SNOMED,OT,FALSE
+4300036,385285004,Dialysis dosage form,SNOMED,OT,FALSE
+4300099,403733004,Hemodialysis-associated pruritus,SNOMED,OT,FALSE
+4300106,402762007,Skin lesion associated with hemodialysis,SNOMED,OT,FALSE
+4300837,385970002,Dialysis care assessment,SNOMED,OT,FALSE
+4300838,385972005,Dialysis care education,SNOMED,OT,FALSE
+4300839,385973000,Dialysis care management,SNOMED,OT,FALSE
+4301680,385971003,Dialysis care,SNOMED,OT,FALSE
+4302071,418518002,Dialysis unit,SNOMED,OT,FALSE
+4304314,387191005,Peritoneal dialysis solution,SNOMED,OT,FALSE
+4305215,418377002,Dialysis fluid,SNOMED,OT,FALSE
+4312933,423062001,Stenosis of arteriovenous dialysis fistula,SNOMED,OT,FALSE
+4314555,87235005,Dialysis disequilibrium syndrome,SNOMED,OT,FALSE
+4314662,216977001,Mechanical failure of instrument or apparatus during kidney dialysis and other perfusion,SNOMED,OT,FALSE
+4316606,217058007,"Kidney dialysis as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of procedure",SNOMED,OT,FALSE
+4323627,428648006,Automated peritoneal dialysis,SNOMED,OT,FALSE
+4324124,71192002,Peritoneal dialysis,SNOMED,OT,FALSE
+4325212,428118009,Procedure involving peritoneal dialysis catheter,SNOMED,OT,FALSE
+4325373,430333000,Hematoma of dialysis access site,SNOMED,OT,FALSE
+4329991,224566003,Hemodialysis nurse,SNOMED,OT,FALSE
+4330222,430958003,Infection of peritoneal dialysis catheter,SNOMED,OT,FALSE
+4332640,430332005,Infection of arteriovenous graft for hemodialysis,SNOMED,OT,FALSE
+4333905,432509002,Insertion of dialysis catheter using doppler ultrasound guidance,SNOMED,OT,FALSE
+35609512,1082851000000108,Treatment Escalation Plan decision - appropriate for dialysis,SNOMED,OT,FALSE
+35609513,1082861000000106,Treatment Escalation Plan decision - not appropriate for dialysis,SNOMED,OT,FALSE
+35624178,766790006,Extracorporeal hemodialysis route,SNOMED,OT,FALSE
+36676678,773611006,Hemodialysis catheter submitted as specimen,SNOMED,OT,FALSE
+36696034,781084007,"Accidental cut, puncture, perforation or hemorrhage during kidney dialysis",SNOMED,OT,FALSE
+36713020,16218721000119107,Hyperparathyroidism due to end stage renal disease on dialysis,SNOMED,OT,FALSE
+37016584,631000124104,Compliant with peritoneal dialysis prescription,SNOMED,OT,FALSE
+37016593,641000124109,Non-compliant with peritoneal dialysis prescription,SNOMED,OT,FALSE
+37016665,712754003,Replacement of continuous ambulatory peritoneal dialysis transfer set,SNOMED,OT,FALSE
+37017444,713720009,Sclerosing peritonitis as complication of peritoneal dialysis,SNOMED,OT,FALSE
+37017445,713721008,Hydrothorax as complication of peritoneal dialysis,SNOMED,OT,FALSE
+37017448,713724000,Abdominal hernia as complication of peritoneal dialysis,SNOMED,OT,FALSE
+37017451,713727007,Hemoperitoneum as complication of peritoneal dialysis,SNOMED,OT,FALSE
+37017813,714152005,Chronic kidney disease stage 5 on dialysis,SNOMED,OT,FALSE
+37018686,361000124100,Error in prescription for peritoneal dialysis,SNOMED,OT,FALSE
+37110379,724612006,Osteonecrosis due to and following renal dialysis,SNOMED,OT,FALSE
+37111491,726446003,Dialysis technique,SNOMED,OT,FALSE
+37204516,783187005,Aseptic peritoneal eosinophilia after dialysis,SNOMED,OT,FALSE
+37207270,5571000001109,solution.haemodialysis,SNOMED,OT,FALSE
+37208932,1110511000000102,Kt/V (clearance multiplied by time divided by volume) for haemodialysis,SNOMED,OT,FALSE
+37209515,16320631000119104,Dependence on continuous ambulatory peritoneal dialysis due to end stage renal disease,SNOMED,OT,FALSE
+37312110,789741000,Outpatient dialysis treatment facility,SNOMED,OT,FALSE
+37394586,1035491000000101,Dialysis therapy stopped by renal service,SNOMED,OT,FALSE
+37395591,32751000119100,Line sepsis associated with dialysis catheter,SNOMED,OT,FALSE
+37395728,715272002,Infection of hemodialysis catheter exit site,SNOMED,OT,FALSE
+37397337,717738008,Peritoneal dialysis care assessment,SNOMED,OT,FALSE
+37397396,718019005,Hemodialysis care management,SNOMED,OT,FALSE
+37397621,718308002,Peritoneal dialysis care,SNOMED,OT,FALSE
+37397639,718330001,Hemodialysis care,SNOMED,OT,FALSE
+37397640,718331002,Hemodialysis care assessment,SNOMED,OT,FALSE
+37398827,1035471000000100,Dialysis therapy started by renal service,SNOMED,OT,FALSE
+40217256,G2129,"Procedure-related bp's not taken during an outpatient visit. examples include same day surgery, ambulatory service center, g.i. lab, dialysis, infusion center, chemotherapy",HCPCS,CH,FALSE
+40217395,A4655,Needles and syringes for dialysis,HCPCS,CH,FALSE
+40217396,A4790,Cleansing agents for equipment for dialysis only,HCPCS,CH,FALSE
+40217397,A4850,Hemostats with rubber tips for dialysis,HCPCS,CH,FALSE
+40217401,E1640,Replacement components for hemodialysis and/or peritoneal dialysis machines that are owned or being purchased by the patient,HCPCS,CH,FALSE
+40217659,A4735,Local/topical anesthetics for dialysis only,HCPCS,CH,FALSE
+40217660,A4780,"Sterilizing agent for dialysis equipment, per gallon",HCPCS,CH,FALSE
+40217661,A4820,Hemodialysis kit supplies,HCPCS,CH,FALSE
+40217662,A4880,"Storage tanks utilized in connection with water purification system, replacement tanks for dialysis",HCPCS,CH,FALSE
+40217663,A4900,Continuous ambulatory peritoneal dialysis (CAPD) supply kit,HCPCS,CH,FALSE
+40217664,A4901,Continuous cycling peritoneal dialysis (CCPD) supply kit,HCPCS,CH,FALSE
+40217665,A4905,Intermittent peritoneal dialysis (IPD) supply kit,HCPCS,CH,FALSE
+40217666,A4910,"Non-medical supplies for dialysis, (i.e., scale, scissors, stopwatch, etc.)",HCPCS,CH,FALSE
+40217695,A4800,"Heparin for dialysis and antidote, any strength, porcine or beef, up to 1000 units, 10-30 ml (for parenteral use see b4216)",HCPCS,CH,FALSE
+40217890,C1037,"Catheter, dialysis, Vaxcel chronic dialysis catheter",HCPCS,CH,FALSE
+40218482,C1152,"Access system, dialysis, lifesite access system",HCPCS,CH,FALSE
+40218586,A4801,"Heparin, any type for hemodialysis, per 1000 units",HCPCS,CH,FALSE
+40218608,E1638,"Heating pad, for peritoneal dialysis, any size, each",HCPCS,CH,FALSE
+40218706,K0610,"Peritoneal dialysis clamps, each",HCPCS,CH,FALSE
+40218707,K0611,"Disposable cycler set used with cycler dialysis machine, each",HCPCS,CH,FALSE
+40218708,K0612,"Drainable extension line, sterile, for dialysis, each",HCPCS,CH,FALSE
+40218709,K0613,"Extension line with easy lock connectors, used with dialysis",HCPCS,CH,FALSE
+40218710,K0614,"Chemicals/antiseptics solution used to clean/sterilize dialysis equipment, per 8 ounces",HCPCS,CH,FALSE
+40313125,151045003,Perfusion and dialysis procedures,SNOMED,OT,FALSE
+40313128,151048001,Renal dialysis (& hemodialysis),SNOMED,OT,FALSE
+40313136,151055004,Peritoneal dialysis,SNOMED,OT,FALSE
+40313137,151056003,Intestinal dialysis,SNOMED,OT,FALSE
+40348035,266809003,Renal dialysis (& hemodialysis),SNOMED,OT,FALSE
+40350725,27392003,Hemodialysis,SNOMED,OT,FALSE
+40357901,271362003,Perfusion and dialysis procedures,SNOMED,OT,FALSE
+40376652,180266001,Compensation for renal failure (& dialysis),SNOMED,OT,FALSE
+40376653,180267005,(Renal dialysis) or (Thomas intravascular dialysis shunt),SNOMED,OT,FALSE
+40376658,180271008,Chronic ambulatory peritoneal dialysis catheter procedure (& placement),SNOMED,OT,FALSE
+40409311,213047004,Mechanical complication of dialysis catheter,SNOMED,OT,FALSE
+40409388,213116007,"(Infection and inflammatory reaction due to other internal prosthetic devices, implants and grafts) or (infection: [graft] or [prosthetic]) or ([X] peritoneal dialysis associated peritonitis)",SNOMED,OT,FALSE
+40414907,216877000,"Accidental cut, puncture, perforation or hemorrhage during kidney dialysis or other perfusion",SNOMED,OT,FALSE
+40415172,216978006,Mechanical failure of instrument &/or apparatus during kidney dialysis,SNOMED,OT,FALSE
+40425375,223155009,"[X]Unintentional cut, puncture, perforation or hemorrhage during kidney dialysis or other perfusion",SNOMED,OT,FALSE
+40425387,223166002,[X]Foreign object accidentally left in body during kidney dialysis or other perfusion,SNOMED,OT,FALSE
+40425400,223178003,[X]Failure of sterile precautions during kidney dialysis or other perfusion,SNOMED,OT,FALSE
+40426644,223303003,"[X]Kidney dialysis as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",SNOMED,OT,FALSE
+40440877,236537009,Disorder associated with dialysis,SNOMED,OT,FALSE
+40440895,236553007,Disorders associated with peritoneal dialysis,SNOMED,OT,FALSE
+40480136,443143006,Dependence on hemodialysis,SNOMED,OT,FALSE
+40481167,444887005,Inadequate flow to support prescribed dialysis blood flow,SNOMED,OT,FALSE
+40481562,444946008,Dialysis fluid specimen obtained before dialysis,SNOMED,OT,FALSE
+40481576,444959000,Peritoneal dialysis fluid specimen obtained before dialysis,SNOMED,OT,FALSE
+40482031,445069004,Peritoneal dialysis fluid specimen obtained after dialysis,SNOMED,OT,FALSE
+40482357,443596009,Dependence on peritoneal dialysis,SNOMED,OT,FALSE
+40483083,442326005,Cloudy peritoneal dialysis effluent,SNOMED,OT,FALSE
+40483349,445384000,Hemodialysate specimen from hemodialysis machine using reverse osmosis system,SNOMED,OT,FALSE
+40483837,445516007,Dialysis fluid specimen obtained after dialysis,SNOMED,OT,FALSE
+40483851,445529007,Hemodialysate specimen from hemodialysis machine using water distribution system,SNOMED,OT,FALSE
+40486006,446048008,Change of prescription for hemodialysis,SNOMED,OT,FALSE
+40486068,447693007,Peritoneal dialysis technique,SNOMED,OT,FALSE
+40486245,449288005,Infection of hemodialysis arteriovenous fistula,SNOMED,OT,FALSE
+40487114,449394000,Replacement of peritoneal dialysis transfer set,SNOMED,OT,FALSE
+40487468,446402005,Hemodialysis technique,SNOMED,OT,FALSE
+40489914,448423006,Removal of hemodialysis catheter,SNOMED,OT,FALSE
+40490438,448535008,Outpatient freestanding dialysis treatment facility,SNOMED,OT,FALSE
+40492348,447355008,Dialysis fluid specimen obtained after continuous ambulatory peritoneal dialysis,SNOMED,OT,FALSE
+40493256,445940005,Duration of hemodialysis session,SNOMED,OT,FALSE
+40513647,309432002,Hemodialysis,SNOMED,OT,FALSE
+40515244,309819001,[X] Peritoneal dialysis associated peritonitis,SNOMED,OT,FALSE
+40527660,349356001,Hemodialysis fluid,SNOMED,OT,FALSE
+40540699,360164000,Dialysis - action,SNOMED,OT,FALSE
+40615388,58623005,Revision of arteriovenous shunt for renal dialysis,SNOMED,OT,FALSE
+40624574,68648006,Peritoneal dialysis counseling,SNOMED,OT,FALSE
+40625809,75528009,Hemodialysis counseling,SNOMED,OT,FALSE
+40658868,Q0139,"Injection, ferumoxytol, for treatment of iron deficiency anemia, 1 mg (for esrd on dialysis)",HCPCS,CH,FALSE
+40663931,G8575,Developed postoperative renal failure or required dialysis,HCPCS,CH,FALSE
+40664307,G8576,No postoperative renal failure/dialysis not required,HCPCS,CH,FALSE
+40664693,G8714,Hemodialysis treatment performed exactly three times per week for > 90 days,HCPCS,CH,FALSE
+40664745,G8715,Hemodialysis treatment performed less than three times per week or greater than three times per week,HCPCS,CH,FALSE
+40664909,G8727,"Patient receiving hemodialysis, peritoneal dialysis or kidney transplantation",HCPCS,CH,FALSE
+40756844,49418,"Insertion of tunneled intraperitoneal catheter (eg, dialysis, intraperitoneal chemotherapy instillation, management of ascites), complete procedure, including imaging guidance, catheter placement, contrast injection when performed, and radiological superv",CPT4,CH,FALSE
+40757115,36148,"Introduction of needle and/or catheter, arteriovenous shunt created for dialysis (graft/fistula); additional access for therapeutic intervention (List separately in addition to code for primary procedure)",CPT4,CH,FALSE
+42535587,432621000124105,Hospital admission from dialysis facility,SNOMED,OT,FALSE
+42537068,736190007,Post-dialysis target weight,SNOMED,OT,FALSE
+42537338,736690008,Dialysis care plan,SNOMED,OT,FALSE
+42537416,736795005,Hemodialysis needle gauge,SNOMED,OT,FALSE
+42537495,736918003,Infection of bloodstream co-occurrent and due to hemodialysis catheter in situ,SNOMED,OT,FALSE
+42537496,736919006,Insertion of hemodialysis catheter,SNOMED,OT,FALSE
+42537497,736920000,Infection of bloodstream co-occurrent and due to tunneled hemodialysis catheter in situ,SNOMED,OT,FALSE
+42537540,736984007,Infection of bloodstream co-occurrent and due to temporary hemodialysis catheter in situ,SNOMED,OT,FALSE
+42537543,736987000,Mechanical complication of hemodialysis catheter,SNOMED,OT,FALSE
+42539065,736375002,Hemodialysis care plan,SNOMED,OT,FALSE
+42539666,736922008,Insertion of tunneled hemodialysis catheter,SNOMED,OT,FALSE
+42627889,37247,"Transluminal balloon angioplasty (except lower extremity artery(ies) for occlusive disease, intracranial, coronary, pulmonary, or dialysis circuit), open or percutaneous, including all imaging and radiological supervision and interpretation necessary to p",CPT4,CH,FALSE
+42627928,36909,"Dialysis circuit permanent vascular embolization or occlusion (including main circuit or any accessory veins), endovascular, including all imaging and radiological supervision and interpretation necessary to complete the intervention (List separately in a",CPT4,CH,FALSE
+42627980,37246,"Transluminal balloon angioplasty (except lower extremity artery(ies) for occlusive disease, intracranial, coronary, pulmonary, or dialysis circuit), open or percutaneous, including all imaging and radiological supervision and interpretation necessary to p",CPT4,CH,FALSE
+42628020,37249,"Transluminal balloon angioplasty (except dialysis circuit), open or percutaneous, including all imaging and radiological supervision and interpretation necessary to perform the angioplasty within the same vein; each additional vein (List separately in add",CPT4,CH,FALSE
+42628058,36907,"Transluminal balloon angioplasty, central dialysis segment, performed through dialysis circuit, including all imaging and radiological supervision and interpretation required to perform the angioplasty (List separately in addition to code for primary proc",CPT4,CH,FALSE
+42628210,1029697,"Transluminal balloon angioplasty (except lower extremity artery(ies) for occlusive disease, intracranial, coronary, pulmonary, or dialysis circuit), open or percutaneous, including all imaging and radiological supervision and interpretation necessary to p",CPT4,CH,FALSE
+42628316,AX,Item furnished in conjunction with dialysis services,CPT4,CH,FALSE
+42628378,CB,"Service ordered by a renal dialysis facility (rdf) physician as part of the esrd beneficiary's dialysis benefit, is not part of the composite rate, and is separately reimbursable",CPT4,CH,FALSE
+42628419,G6,Esrd patient for whom less than six dialysis sessions have been provided in a month,CPT4,CH,FALSE
+42628455,1029674,Dialysis Circuit Procedures,CPT4,CH,FALSE
+42628580,36908,"Transcatheter placement of intravascular stent(s), central dialysis segment, performed through dialysis circuit, including all imaging and radiological supervision and interpretation required to perform the stenting, and all angioplasty in the central dia",CPT4,CH,FALSE
+42628646,37248,"Transluminal balloon angioplasty (except dialysis circuit), open or percutaneous, including all imaging and radiological supervision and interpretation necessary to perform the angioplasty within the same vein; initial vein",CPT4,CH,FALSE
+42628706,1029698,"Transluminal balloon angioplasty (except dialysis circuit), open or percutaneous, including all imaging and radiological supervision and interpretation necessary to perform the angioplasty within the same vein",CPT4,CH,FALSE
+42690435,1076461000000100,Assessment prior to construction of renal dialysis vascular access,SNOMED,OT,FALSE
+42690436,1076481000000109,Assessment of existing renal dialysis vascular access,SNOMED,OT,FALSE
+42733185,36488,"Placement of central venous catheter (subclavian, jugular, or other vein) (eg, for central venous pressure, hyperalimentation, hemodialysis, or chemotherapy); percutaneous, age 2 years or under (Deprecated)",CPT4,CH,FALSE
+42733186,36489,"Placement of central venous catheter (subclavian, jugular, or other vein) (eg, for central venous pressure, hyperalimentation, hemodialysis, or chemotherapy); percutaneous, over age 2 (Deprecated)",CPT4,CH,FALSE
+42733187,36490,"Placement of central venous catheter (subclavian, jugular, or other vein) (eg, for central venous pressure, hyperalimentation, hemodialysis, or chemotherapy); cutdown, age 2 years or under (Deprecated)",CPT4,CH,FALSE
+42733188,36491,"Placement of central venous catheter (subclavian, jugular, or other vein) (eg, for central venous pressure, hyperalimentation, hemodialysis, or chemotherapy); cutdown, over age 2 (Deprecated)",CPT4,CH,FALSE
+42736574,36145,"Introduction of needle or intracatheter; arteriovenous shunt created for dialysis (cannula, fistula, or graft)",CPT4,CH,FALSE
+42737052,49420,Insertion of intraperitoneal cannula or catheter for drainage or dialysis; temporary,CPT4,CH,FALSE
+42739840,90939,"Hemodialysis access flow study to determine blood flow in grafts and arteriovenous fistulae by an indicator dilution method, hook-up; transcutaneous measurement and disconnection (Deprecated)",CPT4,CH,FALSE
+42739891,99559,"Home infusion of peritoneal dialysis, per diem (Deprecated)",CPT4,CH,FALSE
+42872870,450865002,Insertion of nontunneled hemodialysis catheter,SNOMED,OT,FALSE
+43018323,5A1D70Z,"Performance of Urinary Filtration, Intermittent, Less than 6 Hours Per Day",ICD10PCS,10,FALSE
+43018324,5A1D80Z,"Performance of Urinary Filtration, Prolonged Intermittent, 6-18 hours Per Day",ICD10PCS,10,FALSE
+43018325,5A1D90Z,"Performance of Urinary Filtration, Continuous, Greater than 18 hours Per Day",ICD10PCS,10,FALSE
+43021247,473034005,Complication associated with dialysis catheter,SNOMED,OT,FALSE
+43021389,473147002,Malfunction of peritoneal dialysis catheter,SNOMED,OT,FALSE
+43021418,473190001,Leakage of peritoneal dialysis catheter,SNOMED,OT,FALSE
+43021420,473193004,Mode of dialysis access by patient choice,SNOMED,OT,FALSE
+43021753,473397008,Dialysis catheter in situ usable,SNOMED,OT,FALSE
+43021754,473398003,Dialysis catheter in situ unusable,SNOMED,OT,FALSE
+43021864,286371000119107,Malignant hypertensive end stage renal disease on dialysis,SNOMED,OT,FALSE
+43021985,473069007,Infection associated with peritoneal dialysis catheter,SNOMED,OT,FALSE
+43533281,G8956,Patient receiving maintenance hemodialysis in an outpatient dialysis facility,HCPCS,CH,FALSE
+43533282,G8957,Patient not receiving maintenance hemodialysis in an outpatient dialysis facility,HCPCS,CH,FALSE
+43533289,Q2047,"Injection, peginesatide, 0.1 mg (for esrd on dialysis)",HCPCS,CH,FALSE
+43533349,J0890,"Injection, peginesatide, 0.1 mg (for esrd on dialysis)",HCPCS,CH,FALSE
+44782717,153891000119101,End stage renal disease on dialysis due to hypertension,SNOMED,OT,FALSE
+44782924,698937002,Misplacement of hemodialysis catheter,SNOMED,OT,FALSE
+44783176,699235009,Continuous ambulatory peritoneal dialysis associated peritonitis,SNOMED,OT,FALSE
+44783963,698074000,Sustained low-efficiency dialysis,SNOMED,OT,FALSE
+44784637,96701000119107,Hypertensive heart AND chronic kidney disease on dialysis,SNOMED,OT,FALSE
+44786436,G9231,"Documentation of end stage renal disease (esrd), dialysis, renal transplant before or during the measurement period or pregnancy during the measurement period",HCPCS,CH,FALSE
+44786444,G9239,"Documentation of reasons for patient initiating maintenance hemodialysis with a catheter as the mode of vascular access (e.g., patient has a maturing arteriovenous fistula (avf)/arteriovenous graft (avg), time-limited trial of hemodialysis, other medic...",HCPCS,CH,FALSE
+44786445,G9240,Patient whose mode of vascular access is a catheter at the time maintenance hemodialysis is initiated,HCPCS,CH,FALSE
+44786446,G9241,Patient whose mode of vascular access is not a catheter at the time maintenance hemodialysis is initiated,HCPCS,CH,FALSE
+44786469,G9264,"Documentation of patient receiving maintenance hemodialysis for greater than or equal to 90 days with a catheter for documented reasons (e.g., other medical reasons, patient declined arteriovenous fistula (avf)/arteriovenous graft (avg), other patient...",HCPCS,CH,FALSE
+44786470,G9265,Patient receiving maintenance hemodialysis for greater than or equal to 90 days with a catheter as the mode of vascular access,HCPCS,CH,FALSE
+44786471,G9266,Patient receiving maintenance hemodialysis for greater than or equal to 90 days without a catheter as the mode of vascular access,HCPCS,CH,FALSE
+44792779,365001000000107,Peritoneal dialysis associated encapsulating peritoneal sclerosis,SNOMED,OT,FALSE
+44792959,364761000000109,Fibrin formation around peritoneal dialysis catheter,SNOMED,OT,FALSE
+44795260,407431000000108,[X]Foreign object accidentally left in body during kidney dialysis or other perfusion,SNOMED,OT,FALSE
+44795457,404471000000102,[X]Failure of sterile precautions during kidney dialysis or other perfusion,SNOMED,OT,FALSE
+44797026,429211000000100,[X] Peritoneal dialysis associated peritonitis,SNOMED,OT,FALSE
+44799773,458451000000106,"[X]Unintentional cut, puncture, perforation or haemorrhage during kidney dialysis or other perfusion",SNOMED,OT,FALSE
+44801317,475561000000102,"[X]Kidney dialysis as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",SNOMED,OT,FALSE
+44802037,523441000000106,Failure of haemodialysis catheter,SNOMED,OT,FALSE
+44802814,517561000000106,Haemodialysis machine sodium level,SNOMED,OT,FALSE
+44802816,517591000000100,Haemodialysis blood flow rate,SNOMED,OT,FALSE
+44802817,517601000000106,Haemodialysis extracorporeal circuit volume,SNOMED,OT,FALSE
+44802818,517611000000108,Haemodialysis machine bicarbonate level,SNOMED,OT,FALSE
+44802819,517621000000102,Haemodialysis pump speed,SNOMED,OT,FALSE
+44802820,517631000000100,Haemodialysis ultrafiltration rate,SNOMED,OT,FALSE
+44802821,517641000000109,Haemodialysis ultrafiltration volume,SNOMED,OT,FALSE
+44802875,517691000000104,Haemodialysis sodium profile type,SNOMED,OT,FALSE
+44802883,518191000000106,Haemodialysis anticoagulant bolus dose,SNOMED,OT,FALSE
+44802884,518201000000108,Duration of haemodialysis,SNOMED,OT,FALSE
+44802885,518221000000104,Haemodialysis blood circuit connection,SNOMED,OT,FALSE
+44802886,518231000000102,Haemodialysis needle gauge,SNOMED,OT,FALSE
+44802887,518251000000109,Haemodialysis pump head segment,SNOMED,OT,FALSE
+44802890,518311000000100,Haemodialysis machine stroke volume,SNOMED,OT,FALSE
+44807870,846671000000106,Aneurysm of superficialised artery of dialysis arteriovenous fistula,SNOMED,OT,FALSE
+44807874,846731000000104,Aneurysm of dialysis arteriovenous fistula,SNOMED,OT,FALSE
+44807875,846761000000109,Aneurysm of needle site of dialysis arteriovenous fistula,SNOMED,OT,FALSE
+44807877,846801000000104,Aneurysm of anastomotic site of dialysis arteriovenous fistula,SNOMED,OT,FALSE
+44808937,851241000000106,Haemodialysis care management,SNOMED,OT,FALSE
+44808938,851261000000107,Haemodialysis care,SNOMED,OT,FALSE
+44808963,851641000000108,Haemodialysis care plan,SNOMED,OT,FALSE
+44809479,853631000000103,Stenosis of dialysis vascular access,SNOMED,OT,FALSE
+44809575,846461000000102,Ruptured aneurysm of dialysis vascular access,SNOMED,OT,FALSE
+44809608,854131000000107,Thrombus in peritoneal dialysis catheter,SNOMED,OT,FALSE
+44809610,854161000000102,Anaphylactoid reaction due to haemodialysis,SNOMED,OT,FALSE
+44809904,865761000000105,Occlusion of dialysis vascular access,SNOMED,OT,FALSE
+44809905,865781000000101,Infection of dialysis vascular access,SNOMED,OT,FALSE
+44809906,865801000000100,Haemorrhage of dialysis vascular access,SNOMED,OT,FALSE
+44809907,865821000000109,Rupture of dialysis vascular access,SNOMED,OT,FALSE
+44809908,865841000000102,Stenosis of dialysis arteriovenous graft,SNOMED,OT,FALSE
+44809909,865861000000101,Stenosis of dialysis arteriovenous shunt,SNOMED,OT,FALSE
+44809914,865981000000103,Thrombosis of dialysis arteriovenous graft,SNOMED,OT,FALSE
+44809915,866001000000102,Thrombosis of dialysis arteriovenous fistula,SNOMED,OT,FALSE
+44809916,866021000000106,Thrombosis of dialysis arteriovenous shunt,SNOMED,OT,FALSE
+44809917,866041000000104,Occlusion of dialysis arteriovenous graft,SNOMED,OT,FALSE
+44809918,866061000000103,Occlusion of dialysis arteriovenous fistula,SNOMED,OT,FALSE
+44809919,866081000000107,Occlusion of dialysis arteriovenous shunt,SNOMED,OT,FALSE
+44810120,866951000000102,Infection of dialysis arteriovenous shunt,SNOMED,OT,FALSE
+44810122,866991000000105,Haemorrhage of dialysis arteriovenous graft,SNOMED,OT,FALSE
+44810123,867011000000102,Haemorrhage of dialysis arteriovenous fistula,SNOMED,OT,FALSE
+44810124,867031000000105,Haemorrhage of dialysis arteriovenous shunt,SNOMED,OT,FALSE
+44810125,867051000000103,Rupture of dialysis arteriovenous graft,SNOMED,OT,FALSE
+44810126,867071000000107,Rupture of dialysis arteriovenous fistula,SNOMED,OT,FALSE
+44810127,867091000000106,Rupture of dialysis arteriovenous shunt,SNOMED,OT,FALSE
+44811116,863331000000100,Aneurysm of dialysis vascular access,SNOMED,OT,FALSE
+44811124,872461000000102,Stenosis of arterial side of dialysis arteriovenous shunt,SNOMED,OT,FALSE
+44811125,872481000000106,Stenosis of venous side of dialysis arteriovenous shunt,SNOMED,OT,FALSE
+44811506,366871000000101,Checking adequacy of dialysis,SNOMED,OT,FALSE
+44813230,518211000000105,Haemodialysis anticoagulant infusion rate,SNOMED,OT,FALSE
+44813231,518241000000106,Haemodialysis priming volume,SNOMED,OT,FALSE
+44813892,853651000000105,Thrombosis of dialysis vascular access,SNOMED,OT,FALSE
+45754745,P9A,Dialysis services (medicare fee schedule),HCPCS,CH,FALSE
+45754746,P9B,Dialysis services (non-medicare fee schedule),HCPCS,CH,FALSE
+45757392,127991000119101,Hypertension concurrent and due to end stage renal disease on dialysis due to type 2 diabetes mellitus,SNOMED,OT,FALSE
+45757393,128001000119105,Hypertension concurrent and due to end stage renal disease on dialysis due to type 1 diabetes mellitus,SNOMED,OT,FALSE
+45757398,129721000119106,Acute renal failure on dialysis,SNOMED,OT,FALSE
+45757693,331000124109,Hemodialysis finding,SNOMED,OT,FALSE
+45757782,401000124105,Hemodialysis blood flow,SNOMED,OT,FALSE
+45757790,411000124108,Hemodialysis residual renal function,SNOMED,OT,FALSE
+45757799,431000124102,Hemodialysis access site non-patent,SNOMED,OT,FALSE
+45757807,441000124107,Hemodialysis access site patent,SNOMED,OT,FALSE
+45757811,451000124109,Increase in hemodialysis blood flow,SNOMED,OT,FALSE
+45757814,461000124106,Increase in hemodialysis dialyzer size,SNOMED,OT,FALSE
+45763545,471000124104,Increase in hemodialysis session time,SNOMED,OT,FALSE
+45763548,481000124101,Hemodialysis observable,SNOMED,OT,FALSE
+45763570,571000124100,Requires additional education about peritoneal dialysis,SNOMED,OT,FALSE
+45763579,601000124107,Inadequate monitoring of dose delivery of peritoneal dialysis,SNOMED,OT,FALSE
+45765649,702634004,Inadequate peritoneal dialysis,SNOMED,OT,FALSE
+45767079,704376002,Knowledge level about peritoneal dialysis,SNOMED,OT,FALSE
+45769136,707720002,Two hours after peritoneal dialysis,SNOMED,OT,FALSE
+45769137,707722005,Twelve hours after peritoneal dialysis,SNOMED,OT,FALSE
+45769138,707723000,One day after peritoneal dialysis,SNOMED,OT,FALSE
+45769371,708008000,Increase exchange volume of peritoneal dialysis,SNOMED,OT,FALSE
+45769372,708009008,Increase number of perfusion exchanges per 24 hours of peritoneal dialysis,SNOMED,OT,FALSE
+45769374,708011004,Increase blood flow for hemodialysis,SNOMED,OT,FALSE
+45769375,708012006,Increase session time for hemodialysis,SNOMED,OT,FALSE
+45769904,90771000119100,End stage renal disease on dialysis due to type 1 diabetes mellitus,SNOMED,OT,FALSE
+45769906,90791000119104,End stage renal disease on dialysis due to type 2 diabetes mellitus,SNOMED,OT,FALSE
+45770916,341000124104,Peritoneal dialysis finding,SNOMED,OT,FALSE
+45771002,707090004,Spondyloarthropathy due to hemodialysis-associated amyloidosis,SNOMED,OT,FALSE
+45771047,651000124106,Peritoneal dialysis prescription compliance,SNOMED,OT,FALSE
+45771420,704308002,Difficulty managing peritoneal dialysis,SNOMED,OT,FALSE
+45772722,704377006,Deficient knowledge of peritoneal dialysis,SNOMED,OT,FALSE
+45772751,704667004,Hypertension concurrent and due to end stage renal disease on dialysis,SNOMED,OT,FALSE
+45772964,707721003,Four hours after peritoneal dialysis,SNOMED,OT,FALSE
+45773389,702635003,Inadequate hemodialysis,SNOMED,OT,FALSE
+45888223,1020214,"Introduction of needle and/or catheter, arteriovenous shunt created for dialysis (graft/fistula)",CPT4,CH,FALSE
+45888492,1019071,Other Dialysis Procedures,CPT4,CH,FALSE
+45888999,1012757,Miscellaneous Dialysis Services and Procedures,CPT4,CH,FALSE
+45889034,1012752,Hemodialysis Procedures,CPT4,CH,FALSE
+45889335,1019322,"End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day",CPT4,CH,FALSE
+45889365,1012740,Dialysis Services and Procedures,CPT4,CH,FALSE
+45889458,1014621,Thrombectomy of arterial or venous graft (other than hemodialysis graft or fistula),CPT4,CH,FALSE
+45889749,1006747,"Hemodialysis Access, Intervascular Cannulation for Extracorporeal Circulation, or Shunt Insertion Procedures on Arteries and Veins",CPT4,CH,FALSE
+45889973,1006748,"Insertion of cannula for hemodialysis, other purpose (separate procedure)",CPT4,CH,FALSE
+45890797,J0887,"Injection, epoetin beta, 1 microgram, (for esrd on dialysis)",HCPCS,CH,FALSE
+45890825,Q9972,"Injection, epoetin beta, 1 microgram, (for esrd on dialysis)",HCPCS,CH,FALSE
+45956871,18682911000001103,Haemodialysis,SNOMED,OT,FALSE
+46269984,11000731000119102,Dependence on continuous ambulatory peritoneal dialysis,SNOMED,OT,FALSE
+46269985,11000771000119104,Dependence on continuous cycling peritoneal dialysis,SNOMED,OT,FALSE
+46270032,125141000119102,Non-compliance with renal dialysis,SNOMED,OT,FALSE
+46270073,133031000119106,Thrombosis of arteriovenous graft due to hemodialysis arteriovenous access device,SNOMED,OT,FALSE
+46270107,14030001000004108,Insertion of dialysis catheter into femoral vein,SNOMED,OT,FALSE
+46270524,381000124105,Increase dialyzer size for hemodialysis,SNOMED,OT,FALSE
+46270933,708932005,Emergency hemodialysis,SNOMED,OT,FALSE
+46271816,710071003,Management of peritoneal dialysis,SNOMED,OT,FALSE
+46273700,708931003,Maintenance hemodialysis,SNOMED,OT,FALSE

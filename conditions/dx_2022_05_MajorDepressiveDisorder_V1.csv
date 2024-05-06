@@ -1,0 +1,67 @@
+﻿concept_id,concept_code,concept_name,vocabulary_id,category
+45547705,F33.2,"Recurrent depressive disorder, current episode severe without psychotic symptoms",ICD10,depression
+45586238,F34.1,Dysthymia,ICD10,depression
+45600741,F34.9,"Persistent mood [affective] disorder, unspecified",ICD10,depression
+45538066,F34.8,Other persistent mood [affective] disorders,ICD10,depression
+45581458,F33.9,"Recurrent depressive disorder, unspecified",ICD10,depression
+45557203,F34,Persistent mood [affective] disorders,ICD10,depression
+766349,F32.A,"Depression, unspecified",ICD10CM,depression
+45595904,F32,Depressive episode,ICD10,depression
+45562041,F32.0,Mild depressive episode,ICD10,depression
+45552478,F32.1,Moderate depressive episode,ICD10,depression
+45557202,F32.2,Severe depressive episode without psychotic symptoms,ICD10,depression
+45600739,F32.3,Severe depressive episode with psychotic symptoms,ICD10,depression
+45571759,F32.8,Other depressive episodes,ICD10,depression
+45571760,F32.9,"Depressive episode, unspecified",ICD10,depression
+45576542,F33,Recurrent depressive disorder,ICD10,depression
+45538065,F33.0,"Recurrent depressive disorder, current episode mild",ICD10,depression
+45576543,F33.1,"Recurrent depressive disorder, current episode moderate",ICD10,depression
+45562042,F33.3,"Recurrent depressive disorder, current episode severe with psychotic symptoms",ICD10,depression
+45533100,F33.4,"Recurrent depressive disorder, currently in remission",ICD10,depression
+45600740,F33.8,Other recurrent depressive disorders,ICD10,depression
+37200319,F32.81,Premenstrual dysphoric disorder,ICD10CM,depression
+37200320,F32.89,Other specified depressive episodes,ICD10CM,depression
+1568217,F32,Depressive episode,ICD10CM,depression
+35207150,F32.0,"Major depressive disorder, single episode, mild",ICD10CM,depression
+35207151,F32.1,"Major depressive disorder, single episode, moderate",ICD10CM,depression
+35207152,F32.2,"Major depressive disorder, single episode, severe without psychotic features",ICD10CM,depression
+35207153,F32.3,"Major depressive disorder, single episode, severe with psychotic features",ICD10CM,depression
+45576541,F32.4,"Major depressive disorder, single episode, in partial remission",ICD10CM,depression
+45547704,F32.5,"Major depressive disorder, single episode, in full remission",ICD10CM,depression
+35207154,F32.8,Other depressive episodes,ICD10CM,depression
+35207155,F32.9,"Major depressive disorder, single episode, unspecified",ICD10CM,depression
+1568218,F33,"Major depressive disorder, recurrent",ICD10CM,depression
+35207156,F33.0,"Major depressive disorder, recurrent, mild",ICD10CM,depression
+35207157,F33.1,"Major depressive disorder, recurrent, moderate",ICD10CM,depression
+35207158,F33.2,"Major depressive disorder, recurrent severe without psychotic features",ICD10CM,depression
+35207159,F33.3,"Major depressive disorder, recurrent, severe with psychotic symptoms",ICD10CM,depression
+1568219,F33.4,"Major depressive disorder, recurrent, in remission",ICD10CM,depression
+45547706,F33.40,"Major depressive disorder, recurrent, in remission, unspecified",ICD10CM,depression
+45552479,F33.41,"Major depressive disorder, recurrent, in partial remission",ICD10CM,depression
+45571761,F33.42,"Major depressive disorder, recurrent, in full remission",ICD10CM,depression
+35207160,F33.8,Other recurrent depressive disorders,ICD10CM,depression
+35207161,F33.9,"Major depressive disorder, recurrent, unspecified",ICD10CM,depression
+1568220,F34,Persistent mood [affective] disorders,ICD10CM,depression
+35207163,F34.1,Dysthymic disorder,ICD10CM,depression
+35207164,F34.8,Other persistent mood [affective] disorders,ICD10CM,depression
+37200322,F34.89,Other specified persistent mood disorders,ICD10CM,depression
+35207165,F34.9,"Persistent mood [affective] disorder, unspecified",ICD10CM,depression
+44836972,300.4,Dysthymic disorder,ICD9CM,depression
+44821821,296.2,"Major depressive disorder, single episode",ICD9CM,depression
+44822975,296.2,"Major depressive affective disorder, single episode, unspecified",ICD9CM,depression
+44824114,296.21,"Major depressive affective disorder, single episode, mild",ICD9CM,depression
+44827654,296.22,"Major depressive affective disorder, single episode, moderate",ICD9CM,depression
+44835784,296.23,"Major depressive affective disorder, single episode, severe, without mention of psychotic behavior",ICD9CM,depression
+44820717,296.24,"Major depressive affective disorder, single episode, severe, specified as with psychotic behavior",ICD9CM,depression
+44822976,296.25,"Major depressive affective disorder, single episode, in partial or unspecified remission",ICD9CM,depression
+44832232,296.26,"Major depressive affective disorder, single episode, in full remission",ICD9CM,depression
+44825293,296.3,"Major depressive disorder, recurrent episode",ICD9CM,depression
+44831089,296.3,"Major depressive affective disorder, recurrent episode, unspecified",ICD9CM,depression
+44829923,296.31,"Major depressive affective disorder, recurrent episode, mild",ICD9CM,depression
+44831090,296.32,"Major depressive affective disorder, recurrent episode, moderate",ICD9CM,depression
+44835785,296.33,"Major depressive affective disorder, recurrent episode, severe, without mention of psychotic behavior",ICD9CM,depression
+44827655,296.34,"Major depressive affective disorder, recurrent episode, severe, specified as with psychotic behavior",ICD9CM,depression
+44834589,296.35,"Major depressive affective disorder, recurrent episode, in partial or unspecified remission",ICD9CM,depression
+44827656,296.36,"Major depressive affective disorder, recurrent episode, in full remission",ICD9CM,depression
+44832235,296.82,Atypical depressive disorder,ICD9CM,depression
+44822983,296.99,Other specified episodic mood disorder,ICD9CM,depression

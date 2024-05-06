@@ -1,0 +1,612 @@
+﻿concept_id,concept_name,Any records in s6 or s8?,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason
+257011,Acute upper respiratory infection,1,Condition,SNOMED,Clinical Finding,S,54398005,1/31/02,12/31/99,NA
+25297,Acute pharyngitis,1,Condition,SNOMED,Clinical Finding,S,363746003,1/31/02,12/31/99,NA
+440029,Viral disease,1,Condition,SNOMED,Clinical Finding,S,34014006,1/31/02,12/31/99,NA
+28060,Streptococcal sore throat,1,Condition,SNOMED,Clinical Finding,S,43878008,1/31/02,12/31/99,NA
+260125,Acute bronchiolitis,1,Condition,SNOMED,Clinical Finding,S,5505005,1/31/02,12/31/99,NA
+4085100,Viral upper respiratory tract infection,1,Condition,SNOMED,Clinical Finding,S,281794004,1/31/02,12/31/99,NA
+46273463,Upper respiratory tract infection due to Influenza,1,Condition,SNOMED,Clinical Finding,S,1.07E+16,7/31/15,12/31/99,NA
+260123,Acute sinusitis,1,Condition,SNOMED,Clinical Finding,S,15805002,1/31/02,12/31/99,NA
+255848,Pneumonia,1,Condition,SNOMED,Clinical Finding,S,233604007,1/31/02,12/31/99,NA
+443410,Infective pneumonia,1,Condition,SNOMED,Clinical Finding,S,312342009,1/31/02,12/31/99,NA
+254058,Acute bronchiolitis due to respiratory syncytial virus,1,Condition,SNOMED,Clinical Finding,S,195739001,1/31/02,12/31/99,NA
+260427,Common cold,1,Condition,SNOMED,Clinical Finding,S,82272006,1/31/02,12/31/99,NA
+4165112,Bronchiolitis,1,Condition,SNOMED,Clinical Finding,S,4120002,1/31/02,12/31/99,NA
+4266367,Influenza,1,Condition,SNOMED,Clinical Finding,S,6142004,1/31/02,12/31/99,NA
+260139,Acute bronchitis,1,Condition,SNOMED,Clinical Finding,S,10509002,1/31/02,12/31/99,NA
+141323,Acute maxillary sinusitis,1,Condition,SNOMED,Clinical Finding,S,68272006,1/31/02,12/31/99,NA
+4273095,Acute tracheitis without obstruction,1,Condition,SNOMED,Clinical Finding,S,64369009,1/31/02,12/31/99,NA
+257315,Bacterial pneumonia,1,Condition,SNOMED,Clinical Finding,S,53084003,1/31/02,12/31/99,NA
+312664,Influenza with respiratory manifestation other than pneumonia,1,Condition,SNOMED,Clinical Finding,NA,63039003,1/31/02,1/31/18,D
+4035987,Viral pharyngitis,1,Condition,SNOMED,Clinical Finding,S,1532007,1/31/02,12/31/99,NA
+261326,Viral pneumonia,1,Condition,SNOMED,Clinical Finding,S,75570004,1/31/02,12/31/99,NA
+40483537,Influenza due to Influenza A virus,1,Condition,SNOMED,Clinical Finding,S,442438000,7/31/09,12/31/99,NA
+4133224,Lobar pneumonia,1,Condition,SNOMED,Clinical Finding,S,278516003,1/31/02,12/31/99,NA
+4212727,Streptococcal tonsillitis,1,Condition,SNOMED,Clinical Finding,S,41582007,1/31/02,12/31/99,NA
+139850,Acute frontal sinusitis,1,Condition,SNOMED,Clinical Finding,S,91038008,1/31/02,12/31/99,NA
+4283893,Sinusitis,1,Condition,SNOMED,Clinical Finding,S,36971009,1/31/02,12/31/99,NA
+4153160,Influenza-like symptoms,1,Condition,SNOMED,Clinical Finding,S,315642008,1/31/02,12/31/99,NA
+4052544,Acute viral bronchiolitis,1,Condition,SNOMED,Clinical Finding,S,233602006,1/31/02,12/31/99,NA
+4307774,Acute lower respiratory tract infection,1,Condition,SNOMED,Clinical Finding,S,195742007,1/31/06,12/31/99,NA
+4237921,Respiratory syncytial virus bronchiolitis,1,Condition,SNOMED,Clinical Finding,S,57089007,1/31/02,12/31/99,NA
+4112006,Acute bacterial pharyngitis,1,Condition,SNOMED,Clinical Finding,S,195658003,1/31/02,12/31/99,NA
+4319159,Influenza-like illness,1,Condition,SNOMED,Clinical Finding,S,95891005,1/31/02,12/31/99,NA
+252351,Pneumonia due to Pseudomonas,1,Condition,SNOMED,Clinical Finding,S,41381004,1/31/02,12/31/99,NA
+4294548,Acute bacterial sinusitis,1,Condition,SNOMED,Clinical Finding,S,75498004,1/31/02,12/31/99,NA
+4048489,Recurrent acute sinusitis,1,Condition,SNOMED,Clinical Finding,S,232391008,1/31/02,12/31/99,NA
+4173734,Acute pansinusitis,1,Condition,SNOMED,Clinical Finding,S,5028002,1/31/02,12/31/99,NA
+437903,Acute tracheitis,1,Condition,SNOMED,Clinical Finding,S,26650005,1/31/02,12/31/99,NA
+4116488,Left lower zone pneumonia,1,Condition,SNOMED,Clinical Finding,S,301000005,1/31/02,12/31/99,NA
+4080680,Influenza due to Influenza B virus,1,Condition,SNOMED,Clinical Finding,S,24662006,1/31/02,12/31/99,NA
+436145,Pneumonia due to respiratory syncytial virus,1,Condition,SNOMED,Clinical Finding,S,195881003,1/31/02,12/31/99,NA
+440431,Mycoplasma pneumonia,1,Condition,SNOMED,Clinical Finding,S,46970008,1/31/02,12/31/99,NA
+30133,Acute laryngitis,1,Condition,SNOMED,Clinical Finding,S,6655004,1/31/02,12/31/99,NA
+259992,Ventilator associated pneumonia,1,Condition,SNOMED,Clinical Finding,S,429271009,1/31/08,12/31/99,NA
+256722,Bronchopneumonia,1,Condition,SNOMED,Clinical Finding,S,396285007,7/31/03,12/31/99,NA
+141056,Acute ethmoidal sinusitis,1,Condition,SNOMED,Clinical Finding,S,67832005,1/31/02,12/31/99,NA
+256723,Pneumonia and influenza,1,Condition,SNOMED,Clinical Finding,S,195878008,1/31/02,12/31/99,NA
+46274035,Pneumonia due to methicillin susceptible Staphylococcus aureus,1,Condition,SNOMED,Clinical Finding,S,1.29E+14,7/31/15,12/31/99,NA
+4293463,Community acquired pneumonia,1,Condition,SNOMED,Clinical Finding,S,385093006,1/31/03,12/31/99,NA
+46270491,Upper respiratory tract infection due to Influenza A,1,Condition,SNOMED,Clinical Finding,S,3.29E+14,7/31/15,12/31/99,NA
+4117114,Right lower zone pneumonia,1,Condition,SNOMED,Clinical Finding,S,301001009,1/31/02,12/31/99,NA
+40482069,Bronchiolitis due to Human metapneumovirus,1,Condition,SNOMED,Clinical Finding,S,445102008,7/31/10,12/31/99,NA
+40482061,Pneumonia due to Human metapneumovirus,1,Condition,SNOMED,Clinical Finding,S,445096001,7/31/10,12/31/99,NA
+320752,Influenza with non-respiratory manifestation,1,Condition,SNOMED,Clinical Finding,S,61700007,1/31/02,12/31/99,NA
+258785,Pneumococcal pneumonia,1,Condition,SNOMED,Clinical Finding,S,233607000,1/31/02,12/31/99,NA
+46270027,Pneumonia due to methicillin resistant Staphylococcus aureus,1,Condition,SNOMED,Clinical Finding,S,1.25E+14,7/31/15,12/31/99,NA
+4102253,Right middle zone pneumonia,1,Condition,SNOMED,Clinical Finding,S,301003007,1/31/02,12/31/99,NA
+4050869,Atypical pneumonia,1,Condition,SNOMED,Clinical Finding,S,233606009,1/31/02,12/31/99,NA
+44782989,Recurrent pneumonia,1,Condition,SNOMED,Clinical Finding,S,699014000,1/31/14,12/31/99,NA
+4236311,Bilateral pneumonia,1,Condition,SNOMED,Clinical Finding,S,407671000,1/31/04,12/31/99,NA
+4112343,Acute viral pharyngitis,1,Condition,SNOMED,Clinical Finding,S,195662009,1/31/02,12/31/99,NA
+23798,Acute laryngopharyngitis,1,Condition,SNOMED,Clinical Finding,S,55355000,1/31/02,12/31/99,NA
+46271784,Exposure to Influenzavirus,1,Observation,SNOMED,Event,S,710034000,7/31/15,12/31/99,NA
+254677,Adenoviral pneumonia,1,Condition,SNOMED,Clinical Finding,S,41207000,1/31/02,12/31/99,NA
+4114031,Right upper zone pneumonia,1,Condition,SNOMED,Clinical Finding,S,301004001,1/31/02,12/31/99,NA
+439857,Parainfluenza virus pneumonia,1,Condition,SNOMED,Clinical Finding,S,64917006,1/31/02,12/31/99,NA
+4112521,Acute bronchitis due to rhinovirus,1,Condition,SNOMED,Clinical Finding,S,195728004,1/31/02,12/31/99,NA
+4329087,Acute rhinosinusitis,1,Condition,SNOMED,Clinical Finding,S,431231008,7/31/08,12/31/99,NA
+4116487,Basal pneumonia,1,Condition,SNOMED,Clinical Finding,S,300999006,1/31/02,12/31/99,NA
+261324,Pneumonia due to Streptococcus,1,Condition,SNOMED,Clinical Finding,S,34020007,1/31/02,12/31/99,NA
+4208807,Acute infective bronchitis,1,Condition,SNOMED,Clinical Finding,S,312371005,1/31/02,12/31/99,NA
+4110479,Recurrent upper respiratory tract infection,1,Condition,SNOMED,Clinical Finding,S,195708003,1/31/02,12/31/99,NA
+4154776,Whooping cough-like syndrome,1,Condition,SNOMED,Clinical Finding,S,271567008,1/31/02,12/31/99,NA
+31597,Acute laryngotracheitis,1,Condition,SNOMED,Clinical Finding,S,64375000,1/31/02,12/31/99,NA
+4114030,Left upper zone pneumonia,1,Condition,SNOMED,Clinical Finding,S,301002002,1/31/02,12/31/99,NA
+4112824,Influenza with gastrointestinal tract involvement,1,Condition,SNOMED,Clinical Finding,S,195929004,1/31/02,12/31/99,NA
+40489912,Sepsis due to Streptococcus pneumoniae,1,Condition,SNOMED,Clinical Finding,S,448421008,7/31/11,12/31/99,NA
+46269706,Otitis media due to influenza,1,Condition,SNOMED,Clinical Finding,S,1.06E+16,7/31/15,12/31/99,NA
+259852,Staphylococcal pneumonia,1,Condition,SNOMED,Clinical Finding,S,22754005,1/31/02,12/31/99,NA
+40484544,Influenza due to Influenza A virus subtype H1N1,1,Condition,SNOMED,Clinical Finding,S,442696006,7/31/09,12/31/99,NA
+45757528,Influenza A virus present,1,Measurement,SNOMED,Clinical Finding,S,1.81E+11,3/1/11,12/31/99,NA
+4051332,Acute mycoplasmal bronchitis,1,Condition,SNOMED,Clinical Finding,S,233599001,1/31/02,12/31/99,NA
+137900,Acute sphenoidal sinusitis,1,Condition,SNOMED,Clinical Finding,S,77919000,1/31/02,12/31/99,NA
+4312602,Laryngotracheobronchitis,1,Condition,SNOMED,Clinical Finding,S,85915003,1/31/02,12/31/99,NA
+4262075,Influenza B virus present,1,Measurement,SNOMED,Clinical Finding,S,441345003,1/31/09,12/31/99,NA
+435840,Acute epiglottitis without obstruction,1,Condition,SNOMED,Clinical Finding,S,49908003,1/31/02,12/31/99,NA
+255566,Acute tracheitis with obstruction,1,Condition,SNOMED,Clinical Finding,S,8519009,1/31/02,12/31/99,NA
+4035960,Acute bronchiolitis with bronchospasm,1,Condition,SNOMED,Clinical Finding,S,15199004,1/31/02,12/31/99,NA
+36676238,Pneumonia caused by Influenza A virus,1,Condition,SNOMED,Clinical Finding,S,772839003,1/31/19,12/31/99,NA
+4141619,Pneumococcal lobar pneumonia,1,Condition,SNOMED,Clinical Finding,S,266350000,1/31/02,12/31/99,NA
+4197404,Acute bronchitis with bronchospasm,1,Condition,SNOMED,Clinical Finding,S,80257001,1/31/02,12/31/99,NA
+252655,Group B streptococcal pneumonia,1,Condition,SNOMED,Clinical Finding,S,195886008,1/31/02,12/31/99,NA
+4112359,Acute parainfluenza virus bronchitis,1,Condition,SNOMED,Clinical Finding,S,195726000,1/31/02,12/31/99,NA
+4058712,Viral bronchitis,1,Condition,SNOMED,Clinical Finding,S,16146001,1/31/02,12/31/99,NA
+46270122,Upper respiratory tract infection due to H1N1 influenza,1,Condition,SNOMED,Clinical Finding,S,1.43E+14,7/31/15,12/31/99,NA
+4231983,Infection due to Mycoplasma pneumoniae,1,Condition,SNOMED,Clinical Finding,S,406595002,1/31/04,12/31/99,NA
+4145369,Lingular pneumonia,1,Condition,SNOMED,Clinical Finding,S,426696003,7/31/07,12/31/99,NA
+4195736,Respiratory syncytial virus bronchitis,1,Condition,SNOMED,Clinical Finding,S,79479005,1/31/02,12/31/99,NA
+4190647,Pneumocystosis pneumonia,1,Condition,SNOMED,Clinical Finding,S,415125002,1/31/05,12/31/99,NA
+4208810,Acute infective tracheobronchitis,1,Condition,SNOMED,Clinical Finding,S,312400008,1/31/02,12/31/99,NA
+4252885,Influenza with encephalopathy,1,Condition,SNOMED,Clinical Finding,S,74644004,1/31/02,12/31/99,NA
+4045227,Respiratory bronchiolitis associated interstitial lung disease,1,Condition,SNOMED,Clinical Finding,S,129451001,1/31/02,12/31/99,NA
+4173027,Acute laryngitis and/or tracheitis,1,Condition,SNOMED,Clinical Finding,S,276443001,1/31/02,12/31/99,NA
+4049964,Acute bacterial bronchitis,1,Condition,SNOMED,Clinical Finding,S,233598009,1/31/02,12/31/99,NA
+4045589,Adenoviral bronchiolitis,1,Condition,SNOMED,Clinical Finding,S,13089009,1/31/02,12/31/99,NA
+46270318,Pneumonia due to influenza,1,Condition,SNOMED,Clinical Finding,S,1.63E+13,7/31/15,12/31/99,NA
+4212120,Unresolved pneumonia,1,Condition,SNOMED,Clinical Finding,S,57702005,1/31/02,12/31/99,NA
+4207185,Bacterial upper respiratory infection,1,Condition,SNOMED,Clinical Finding,S,312118003,1/31/02,12/31/99,NA
+258453,Acute upper respiratory infection of multiple sites,1,Condition,SNOMED,Clinical Finding,NA,78337007,1/31/02,7/31/19,D
+40480033,Pneumonia due to Staphylococcus aureus,1,Condition,SNOMED,Clinical Finding,S,441658007,7/31/09,12/31/99,NA
+40479642,Pneumonia due to Severe acute respiratory syndrome coronavirus,1,Condition,SNOMED,Clinical Finding,S,441590008,7/31/09,12/31/99,NA
+40481335,Pneumonia due to infection by Streptococcus pyogenes,1,Condition,SNOMED,Clinical Finding,S,441942006,7/31/09,12/31/99,NA
+4299935,Myocarditis due to influenza virus,1,Condition,SNOMED,Clinical Finding,S,78046005,1/31/02,12/31/99,NA
+46269741,Bronchiolitis caused by influenza virus,1,Condition,SNOMED,Clinical Finding,S,1.06E+16,7/31/15,12/31/99,NA
+4052543,Acute viral bronchitis,1,Condition,SNOMED,Clinical Finding,S,233601004,1/31/02,12/31/99,NA
+4215807,Infective pneumonia acquired prenatally,1,Condition,SNOMED,Clinical Finding,S,71926009,1/31/02,12/31/99,NA
+36676233,Influenza caused by Influenza A virus subtype H5N1,1,Condition,SNOMED,Clinical Finding,S,772828001,1/31/19,12/31/99,NA
+4105773,Acute epiglottitis,1,Condition,SNOMED,Clinical Finding,S,29608009,1/31/02,12/31/99,NA
+4046011,Focal pneumonia,1,Condition,SNOMED,Clinical Finding,S,123590007,1/31/02,12/31/99,NA
+4148204,Acute tracheobronchitis,1,Condition,SNOMED,Clinical Finding,S,35301006,1/31/02,12/31/99,NA
+253235,Pneumonia in pertussis,1,Condition,SNOMED,Clinical Finding,S,59475000,1/31/02,12/31/99,NA
+4112015,Acute streptococcal bronchitis,1,Condition,SNOMED,Clinical Finding,S,195720006,1/31/02,12/31/99,NA
+4273378,Interstitial pneumonia,1,Condition,SNOMED,Clinical Finding,S,64667001,1/31/02,12/31/99,NA
+4341520,Acute interstitial pneumonia,1,Condition,SNOMED,Clinical Finding,S,236302005,1/31/02,12/31/99,NA
+4146943,Encephalitis due to influenza,1,Condition,SNOMED,Clinical Finding,S,309789002,1/31/02,12/31/99,NA
+4110510,Chickenpox pneumonia,1,Condition,SNOMED,Clinical Finding,S,195911009,1/31/02,12/31/99,NA
+4028970,Tracheobronchitis,1,Condition,SNOMED,Clinical Finding,S,13617004,1/31/02,12/31/99,NA
+43020558,Cavitary pneumonia,1,Condition,SNOMED,Clinical Finding,S,471272001,1/31/13,12/31/99,NA
+4099911,Parainfluenza virus bronchitis,1,Condition,SNOMED,Clinical Finding,S,27475006,1/31/02,12/31/99,NA
+4052545,Acute bronchiolitis due to adenovirus,1,Condition,SNOMED,Clinical Finding,S,233603001,1/31/02,12/31/99,NA
+4204819,Secondary bacterial pneumonia,1,Condition,SNOMED,Clinical Finding,S,308906005,1/31/02,12/31/99,NA
+4256236,Pneumonia due to aerobic bacteria,1,Condition,SNOMED,Clinical Finding,S,409665004,7/31/04,12/31/99,NA
+4146838,Parainfluenza virus laryngotracheobronchitis,1,Condition,SNOMED,Clinical Finding,S,35377009,1/31/02,12/31/99,NA
+46270121,Pneumonia due to H1N1 influenza,1,Condition,SNOMED,Clinical Finding,S,1.43E+14,7/31/15,12/31/99,NA
+4143092,Hospital acquired pneumonia,1,Condition,SNOMED,Clinical Finding,S,425464007,7/31/07,12/31/99,NA
+4301754,Adenoviral pharyngitis,1,Condition,SNOMED,Clinical Finding,S,78430008,1/31/02,12/31/99,NA
+433513,Acute epiglottitis with obstruction,1,Condition,SNOMED,Clinical Finding,S,222008,1/31/02,12/31/99,NA
+4280213,Unresolved lobar pneumonia,1,Condition,SNOMED,Clinical Finding,S,66429007,1/31/02,12/31/99,NA
+4183609,Influenzal acute upper respiratory infection,1,Condition,SNOMED,Clinical Finding,S,43692000,1/31/02,12/31/99,NA
+37017277,Recurrent bacterial pneumonia,1,Condition,SNOMED,Clinical Finding,S,713525001,1/31/16,12/31/99,NA
+4274802,Parainfluenza virus bronchopneumonia,1,Condition,SNOMED,Clinical Finding,S,64880000,1/31/02,12/31/99,NA
+46269954,Pneumonia due to Bordetella parapertussis,1,Condition,SNOMED,Clinical Finding,S,1.09E+15,7/31/15,12/31/99,NA
+4138769,Bilateral basal pneumonia,1,Condition,SNOMED,Clinical Finding,S,425996009,7/31/07,12/31/99,NA
+4112662,"Influenza with pneumonia, influenza virus identified",1,Condition,SNOMED,Clinical Finding,NA,195920000,1/31/02,7/31/18,U
+37206139,Acute bronchitis co-occurrent with wheeze,1,Condition,SNOMED,Clinical Finding,S,785745000,7/31/19,12/31/99,NA
+37016927,Pneumonia caused by Human coronavirus,1,Condition,SNOMED,Clinical Finding,S,713084008,1/31/16,12/31/99,NA
+4048517,Acute bronchopneumonia,1,Condition,SNOMED,Clinical Finding,S,123587001,1/31/02,12/31/99,NA
+46269714,Bronchopneumonia due to Human metapneumovirus,1,Condition,SNOMED,Clinical Finding,S,1.06E+16,7/31/15,12/31/99,NA
+4110039,Pneumonia due to measles,1,Condition,SNOMED,Clinical Finding,S,195900001,1/31/02,12/31/99,NA
+4008725,Adenoviral bronchitis,1,Condition,SNOMED,Clinical Finding,S,111849006,1/31/02,12/31/99,NA
+4110512,Influenza with pharyngitis,1,Condition,SNOMED,Clinical Finding,S,195924009,1/31/02,12/31/99,NA
+4310964,Hypostatic pneumonia,1,Condition,SNOMED,Clinical Finding,S,85469005,1/31/02,12/31/99,NA
+4232302,Catarrhal bronchitis,1,Condition,SNOMED,Clinical Finding,S,89549007,1/31/02,12/31/99,NA
+4186568,Influenzal bronchopneumonia,1,Condition,SNOMED,Clinical Finding,S,41269000,1/31/02,12/31/99,NA
+4208931,Influenza A virus subtype H1 present,1,Measurement,SNOMED,Clinical Finding,S,441043003,1/31/09,12/31/99,NA
+36714388,Influenza caused by seasonal influenza virus,1,Condition,SNOMED,Clinical Finding,S,719590007,1/31/17,12/31/99,NA
+4322815,Adenoviral laryngotracheobronchitis,1,Condition,SNOMED,Clinical Finding,S,71255007,1/31/02,12/31/99,NA
+4166072,Pneumonia in typhoid fever,1,Condition,SNOMED,Clinical Finding,S,45312009,1/31/02,12/31/99,NA
+4170144,Acute wheezy bronchitis,1,Condition,SNOMED,Clinical Finding,NA,275499005,1/31/02,7/31/19,D
+46269721,Bronchopneumonia due to respiratory syncytial virus,1,Condition,SNOMED,Clinical Finding,S,1.06E+16,7/31/15,12/31/99,NA
+4318117,Mycoplasmal pharyngitis,1,Condition,SNOMED,Clinical Finding,S,95885008,1/31/02,12/31/99,NA
+763011,Pneumonia due to Influenza A virus,1,Condition,SNOMED,Clinical Finding,NA,4.35E+14,9/1/13,9/1/21,U
+36676221,Influenza caused by Influenza A virus subtype H3N2,1,Condition,SNOMED,Clinical Finding,S,772810003,1/31/19,12/31/99,NA
+4240452,Adenoviral bronchopneumonia,1,Condition,SNOMED,Clinical Finding,S,58890000,1/31/02,12/31/99,NA
+45765951,Streptococcus acidominimus or Streptococcus pneumoniae or Streptococcus morbillorum,1,Condition,SNOMED,Clinical Finding,S,703018008,7/31/14,12/31/99,NA
+46269726,Bronchopneumonia due to virus,1,Condition,SNOMED,Clinical Finding,S,1.06E+16,7/31/15,12/31/99,NA
+4320830,Mycoplasmal tracheobronchitis,1,Condition,SNOMED,Clinical Finding,S,95886009,1/31/02,12/31/99,NA
+765646,Influenza virus not isolated,1,Condition,SNOMED,Clinical Finding,S,4.54E+14,3/1/17,12/31/99,NA
+37017852,Acute bronchitis co-occurrent with bronchiectasis,1,Condition,SNOMED,Clinical Finding,S,714203003,1/31/16,12/31/99,NA
+763012,Pneumonia due to Influenza A virus subtype H1N1,1,Condition,SNOMED,Clinical Finding,S,4.35E+14,9/1/13,12/31/99,NA
+46269718,Bronchopneumonia due to Mycoplasma pneumoniae,1,Condition,SNOMED,Clinical Finding,S,1.06E+16,7/31/15,12/31/99,NA
+37017354,Drug resistant Streptococcus pneumoniae disease,1,Condition,SNOMED,Clinical Finding,S,713614001,1/31/16,12/31/99,NA
+765607,Influenza due to Influenza A virus with upper respiratory signs,1,Condition,SNOMED,Clinical Finding,S,4.35E+14,9/1/13,12/31/99,NA
+4112664,Influenza with laryngitis,1,Condition,SNOMED,Clinical Finding,S,195923003,1/31/02,12/31/99,NA
+258333,Salmonella pneumonia,1,Condition,SNOMED,Clinical Finding,S,2523007,1/31/02,12/31/99,NA
+4150370,Respiratory syncytial virus pharyngitis,1,Condition,SNOMED,Clinical Finding,S,31309002,1/31/02,12/31/99,NA
+46269711,Bronchopneumonia due to Group A Streptococcus,1,Condition,SNOMED,Clinical Finding,S,1.06E+16,7/31/15,12/31/99,NA
+4237183,Healthcare associated pneumonia,1,Condition,SNOMED,Clinical Finding,NA,408679000,7/31/04,1/31/19,U
+37116366,Pneumonia caused by Gram positive bacteria,1,Condition,SNOMED,Clinical Finding,S,733051000,7/31/17,12/31/99,NA
+4110485,Acute echovirus bronchitis,1,Condition,SNOMED,Clinical Finding,S,195729007,1/31/02,12/31/99,NA
+4218289,Respiratory syncytial virus laryngotracheobronchitis,1,Condition,SNOMED,Clinical Finding,S,72204002,1/31/02,12/31/99,NA
+314979,Avian influenza,1,Condition,SNOMED,Clinical Finding,NA,55604004,1/31/02,1/31/19,D
+4233924,Pneumococcal bronchitis,1,Condition,SNOMED,Clinical Finding,S,40600002,1/31/02,12/31/99,NA
+46272887,Influenza A virus subtype H1N1 detected,1,Measurement,SNOMED,Clinical Finding,S,711330007,7/31/15,12/31/99,NA
+4193918,Parainfluenza virus pharyngitis,1,Condition,SNOMED,Clinical Finding,S,78911000,1/31/02,12/31/99,NA
+4215773,Acute bronchiolitis with obstruction,1,Condition,SNOMED,Clinical Finding,S,718004,1/31/02,12/31/99,NA
+4245006,Bilateral bronchopneumonia,1,Condition,SNOMED,Clinical Finding,S,396286008,7/31/03,12/31/99,NA
+4135197,Hypostatic bronchopneumonia,1,Condition,SNOMED,Clinical Finding,S,31561003,1/31/02,12/31/99,NA
+46269709,Bronchopneumonia due to bacteria,1,Condition,SNOMED,Clinical Finding,S,1.06E+16,7/31/15,12/31/99,NA
+4048052,Necrotizing bronchopneumonia,1,Condition,SNOMED,Clinical Finding,S,123589003,1/31/02,12/31/99,NA
+4170622,Pneumonia NOS,1,Condition,SNOMED,Clinical Finding,NA,274103002,1/31/02,1/27/22,U
+46272714,"Influenza due to influenza virus type A, avian, H3N2 strain",1,Condition,SNOMED,Clinical Finding,NA,711128004,7/31/15,1/31/19,D
+46270123,Myocarditis due to Influenza A virus subtype H1N1,1,Condition,SNOMED,Clinical Finding,S,1.43E+14,7/31/15,12/31/99,NA
+4050872,Pneumonia due to parasitic infestation,1,Condition,SNOMED,Clinical Finding,S,233620002,1/31/02,12/31/99,NA
+45770900,Rubella pneumonia,1,Condition,SNOMED,Clinical Finding,S,1.09E+15,1/31/15,12/31/99,NA
+4124677,Infectious disorder of bronchus,1,Condition,SNOMED,Clinical Finding,S,233795005,1/31/02,12/31/99,NA
+4248807,Healthcare associated bacterial pneumonia,1,Condition,SNOMED,Clinical Finding,S,408680002,7/31/04,12/31/99,NA
+36714570,Influenza caused by pandemic influenza virus,1,Condition,SNOMED,Clinical Finding,S,719865001,1/31/17,12/31/99,NA
+4304374,Influenza due to Influenza C virus,1,Condition,SNOMED,Clinical Finding,S,81524006,1/31/02,12/31/99,NA
+4221503,Pneumococcal pneumonia associated with AIDS,1,Condition,SNOMED,Clinical Finding,S,420787001,7/31/06,12/31/99,NA
+46270120,Upper respiratory tract infection due to avian influenza,1,Condition,SNOMED,Clinical Finding,NA,1.43E+14,7/31/15,1/31/19,D
+44826351,Coxsackie virus infection in conditions classified elsewhere and of unspecified site,0,Condition,ICD9CM,4-dig billing code,NA,79.2,1/1/70,12/31/99,NA
+40395495,(Pneumonia) or (chest infection) with infectious diseases EC,0,Condition,SNOMED,Clinical Finding,NA,195899006,1/1/70,1/31/02,D
+40396933,[X]Other bacterial pneumonia,0,Condition,SNOMED,Clinical Finding,NA,196206008,1/31/02,1/31/09,D
+40396941,"[X]Other pneumonia, organism unspecified",0,Condition,SNOMED,Clinical Finding,NA,196213008,1/31/02,1/31/09,D
+40396931,[X]Other viral pneumonia,0,Condition,SNOMED,Clinical Finding,NA,196204006,1/31/02,1/31/09,D
+40396934,[X]Pneumonia due to other specified infectious organisms,0,Condition,SNOMED,Clinical Finding,NA,196207004,1/31/02,1/31/09,D
+40396935,[X]Pneumonia in bacterial diseases classified elsewhere,0,Condition,SNOMED,Clinical Finding,NA,196208009,1/31/02,1/31/09,D
+44797302,[X]Pneumonia in bacterial diseases classified elsewhere,0,Condition,SNOMED,Clinical Finding,NA,4.32E+14,4/1/09,4/1/15,U
+40396937,[X]Pneumonia in mycoses classified elsewhere,0,Condition,SNOMED,Clinical Finding,NA,196210006,1/31/02,1/31/09,D
+40396940,[X]Pneumonia in other diseases classified elsewhere,0,Condition,SNOMED,Clinical Finding,NA,196212003,1/31/02,1/31/09,D
+44813169,[X]Pneumonia in other diseases classified elsewhere,0,Condition,SNOMED,Clinical Finding,NA,4.42E+14,4/1/09,4/1/15,U
+40396936,[X]Pneumonia in viral diseases classified elsewhere,0,Condition,SNOMED,Clinical Finding,NA,196209001,1/31/02,1/31/09,D
+35208076,Abscess of lung with pneumonia,0,Condition,ICD10CM,4-char billing code,NA,J85.1,1/1/07,12/31/99,NA
+1569471,Acute bronchiolitis,0,Condition,ICD10CM,3-char nonbill code,NA,J21,1/1/12,12/31/99,NA
+40316060,Acute bronchiolitis,0,Condition,SNOMED,Clinical Finding,NA,155513009,1/1/70,1/31/02,U
+45581851,Acute bronchiolitis,0,Condition,ICD10,ICD10 Hierarchy,NA,J21,5/1/90,12/31/99,NA
+920135,Acute bronchiolitis due to human metapneumovirus,0,Condition,ICD10CM,4-char billing code,NA,J21.1,1/1/10,12/31/99,NA
+45562446,Acute bronchiolitis due to human metapneumovirus,0,Condition,ICD10,ICD10 code,NA,J21.1,1/1/10,12/31/99,NA
+44829002,Acute bronchiolitis due to other infectious organisms,0,Condition,ICD9CM,5-dig billing code,NA,466.19,1/1/70,12/31/99,NA
+4112361,Acute bronchiolitis due to other specified organisms,0,Condition,SNOMED,Clinical Finding,NA,195740004,1/31/02,1/31/10,U
+35207968,Acute bronchiolitis due to other specified organisms,0,Condition,ICD10CM,4-char billing code,NA,J21.8,1/1/07,12/31/99,NA
+45548109,Acute bronchiolitis due to other specified organisms,0,Condition,ICD10,ICD10 code,NA,J21.8,5/1/90,12/31/99,NA
+35207967,Acute bronchiolitis due to respiratory syncytial virus,0,Condition,ICD10CM,4-char billing code,NA,J21.0,1/1/07,12/31/99,NA
+45552884,Acute bronchiolitis due to respiratory syncytial virus,0,Condition,ICD10,ICD10 code,NA,J21.0,5/1/90,12/31/99,NA
+44821977,Acute bronchiolitis due to respiratory syncytial virus (RSV),0,Condition,ICD9CM,5-dig billing code,NA,466.11,1/1/70,12/31/99,NA
+40394990,Acute bronchiolitis with bronchospasm,0,Condition,SNOMED,Clinical Finding,NA,195736008,1/1/70,1/31/02,U
+35207969,"Acute bronchiolitis, unspecified",0,Condition,ICD10CM,4-char billing code,NA,J21.9,1/1/07,12/31/99,NA
+45567262,"Acute bronchiolitis, unspecified",0,Condition,ICD10,ICD10 code,NA,J21.9,5/1/90,12/31/99,NA
+40316058,Acute bronchitis and bronchiolitis,0,Condition,SNOMED,Clinical Finding,NA,155511006,1/1/70,1/31/02,D
+44832414,Acute bronchitis and bronchiolitis,0,Condition,ICD9CM,3-dig nonbill code,NA,466,1/1/70,12/31/99,NA
+4110022,Acute bronchitis and/or bronchiolitis,0,Condition,SNOMED,Clinical Finding,NA,195712009,1/31/02,7/31/09,D
+35207957,Acute bronchitis due to Mycoplasma pneumoniae,0,Condition,ICD10CM,4-char billing code,NA,J20.0,1/1/07,12/31/99,NA
+45605884,Acute bronchitis due to Mycoplasma pneumoniae,0,Condition,ICD10,ICD10 code,NA,J20.0,5/1/90,12/31/99,NA
+35207961,Acute bronchitis due to parainfluenza virus,0,Condition,ICD10CM,4-char billing code,NA,J20.4,1/1/07,12/31/99,NA
+45586664,Acute bronchitis due to parainfluenza virus,0,Condition,ICD10,ICD10 code,NA,J20.4,5/1/90,12/31/99,NA
+35207963,Acute bronchitis due to rhinovirus,0,Condition,ICD10CM,4-char billing code,NA,J20.6,1/1/07,12/31/99,NA
+45581850,Acute bronchitis due to rhinovirus,0,Condition,ICD10,ICD10 code,NA,J20.6,5/1/90,12/31/99,NA
+1569442,Acute ethmoidal sinusitis,0,Condition,ICD10CM,4-char nonbill code,NA,J01.2,1/1/12,12/31/99,NA
+45538468,"Acute ethmoidal sinusitis, unspecified",0,Condition,ICD10CM,5-char billing code,NA,J01.20,1/1/70,12/31/99,NA
+1569441,Acute frontal sinusitis,0,Condition,ICD10CM,4-char nonbill code,NA,J01.1,1/1/12,12/31/99,NA
+45533536,"Acute frontal sinusitis, unspecified",0,Condition,ICD10CM,5-char billing code,NA,J01.10,1/1/70,12/31/99,NA
+1569440,Acute maxillary sinusitis,0,Condition,ICD10CM,4-char nonbill code,NA,J01.0,1/1/12,12/31/99,NA
+45576939,"Acute maxillary sinusitis, unspecified",0,Condition,ICD10CM,5-char billing code,NA,J01.00,1/1/70,12/31/99,NA
+4049279,Acute mucous pneumonia,0,Condition,SNOMED,Clinical Finding,NA,123592004,1/31/02,7/31/17,D
+1569444,Acute pansinusitis,0,Condition,ICD10CM,4-char nonbill code,NA,J01.4,1/1/12,12/31/99,NA
+45557614,"Acute pansinusitis, unspecified",0,Condition,ICD10CM,5-char billing code,NA,J01.40,1/1/70,12/31/99,NA
+45548100,Acute recurrent ethmoidal sinusitis,0,Condition,ICD10CM,5-char billing code,NA,J01.21,1/1/70,12/31/99,NA
+45576940,Acute recurrent frontal sinusitis,0,Condition,ICD10CM,5-char billing code,NA,J01.11,1/1/70,12/31/99,NA
+45581839,Acute recurrent maxillary sinusitis,0,Condition,ICD10CM,5-char billing code,NA,J01.01,1/1/70,12/31/99,NA
+45601113,Acute recurrent pansinusitis,0,Condition,ICD10CM,5-char billing code,NA,J01.41,1/1/70,12/31/99,NA
+45538471,"Acute recurrent sinusitis, unspecified",0,Condition,ICD10CM,5-char billing code,NA,J01.91,1/1/70,12/31/99,NA
+45596274,Acute recurrent sphenoidal sinusitis,0,Condition,ICD10CM,5-char billing code,NA,J01.31,1/1/70,12/31/99,NA
+1569446,"Acute sinusitis, unspecified",0,Condition,ICD10CM,4-char nonbill code,NA,J01.9,1/1/12,12/31/99,NA
+45538470,"Acute sinusitis, unspecified",0,Condition,ICD10CM,5-char billing code,NA,J01.90,1/1/70,12/31/99,NA
+1569443,Acute sphenoidal sinusitis,0,Condition,ICD10CM,4-char nonbill code,NA,J01.3,1/1/12,12/31/99,NA
+45538469,"Acute sphenoidal sinusitis, unspecified",0,Condition,ICD10CM,5-char billing code,NA,J01.30,1/1/70,12/31/99,NA
+35207932,Adenoviral pneumonia,0,Condition,ICD10CM,4-char billing code,NA,J12.0,1/1/07,12/31/99,NA
+45591547,Adenoviral pneumonia,0,Condition,ICD10,ICD10 code,NA,J12.0,5/1/90,12/31/99,NA
+40395533,Atypical pneumonia,0,Condition,SNOMED,Clinical Finding,NA,195932001,1/1/70,1/31/02,U
+1569466,"Bacterial pneumonia, not elsewhere classified",0,Condition,ICD10CM,3-char nonbill code,NA,J15,1/1/12,12/31/99,NA
+45581847,"Bacterial pneumonia, not elsewhere classified",0,Condition,ICD10,ICD10 Hierarchy,NA,J15,5/1/90,12/31/99,NA
+45557621,"Bacterial pneumonia, unspecified",0,Condition,ICD10,ICD10 code,NA,J15.9,5/1/90,12/31/99,NA
+4141404,Basal pneumonia due to unspecified organism,0,Condition,SNOMED,Clinical Finding,NA,307763005,1/31/02,1/27/22,U
+40395517,Basal pneumonia due to unspecified organism,0,Condition,SNOMED,Clinical Finding,NA,195918003,1/1/70,1/31/02,U
+40316518,Bronchopneumonia,0,Condition,SNOMED,Clinical Finding,NA,155551009,1/1/70,1/31/02,D
+40620562,Bronchopneumonia,0,Condition,SNOMED,Clinical Finding,NA,67814005,1/31/02,1/27/22,U
+46269708,Bronchopneumonia due to anaerobic bacteria,0,Condition,SNOMED,Clinical Finding,S,1.06E+16,7/31/15,12/31/99,NA
+46269712,Bronchopneumonia due to Group B Streptococcus,0,Condition,SNOMED,Clinical Finding,S,1.06E+16,7/31/15,12/31/99,NA
+46269724,Bronchopneumonia due to Streptococcus,0,Condition,SNOMED,Clinical Finding,S,1.06E+16,7/31/15,12/31/99,NA
+46269725,Bronchopneumonia due to Streptococcus pneumoniae,0,Condition,SNOMED,Clinical Finding,S,1.06E+16,7/31/15,12/31/99,NA
+4144102,Bronchopneumonia due to unspecified organism,0,Condition,SNOMED,Clinical Finding,NA,266352008,1/31/02,1/27/22,U
+45572164,"Bronchopneumonia, unspecified",0,Condition,ICD10,ICD10 code,NA,J18.0,5/1/90,12/31/99,NA
+35207952,"Bronchopneumonia, unspecified organism",0,Condition,ICD10CM,4-char billing code,NA,J18.0,1/1/07,12/31/99,NA
+40395513,Bronchopneumonia: [unspecified organism] or [chest infection - unspecified],0,Condition,SNOMED,Clinical Finding,NA,195914001,1/1/70,1/31/02,D
+4175598,Catarrhal pneumonia,0,Condition,SNOMED,Clinical Finding,S,50804000,1/31/02,12/31/99,NA
+4048518,Confluent bronchopneumonia with abscess formation,0,Condition,SNOMED,Clinical Finding,S,123588006,1/31/02,12/31/99,NA
+4048519,Confluent pneumonia,0,Condition,SNOMED,Clinical Finding,S,123591006,1/31/02,12/31/99,NA
+35210488,Congenital pneumonia due to viral agent,0,Condition,ICD10CM,4-char billing code,NA,P23.0,1/1/07,12/31/99,NA
+4328679,Diffuse panbronchiolitis,0,Condition,SNOMED,Clinical Finding,S,430476004,7/31/08,12/31/99,NA
+40389698,Encephalitis due to influenza,0,Condition,SNOMED,Clinical Finding,NA,192691003,1/1/70,1/31/02,U
+40389700,Encephalitis due to influenza-virus identified,0,Condition,SNOMED,Clinical Finding,NA,192693000,1/1/70,1/27/22,D
+4338956,Equine influenza,0,Condition,SNOMED,Clinical Finding,NA,88152000,1/31/02,1/31/14,D
+37397158,Gemella morbillorum or Streptococcus acidominimus or Streptococcus pneumoniae,0,Condition,SNOMED,Clinical Finding,S,717203007,7/31/16,12/31/99,NA
+37397157,Gemella species or Streptococcus pneumoniae,0,Condition,SNOMED,Clinical Finding,S,717202002,7/31/16,12/31/99,NA
+44836773,Hemophilus influenzae [H. influenzae] infection in conditions classified elsewhere and of unspecified site,0,Condition,ICD9CM,4-dig billing code,NA,41.5,1/1/70,12/31/99,NA
+35207935,Human metapneumovirus pneumonia,0,Condition,ICD10CM,4-char billing code,NA,J12.3,1/1/07,12/31/99,NA
+45557619,Human metapneumovirus pneumonia,0,Condition,ICD10,ICD10 code,NA,J12.3,1/1/10,12/31/99,NA
+36685503,Infection caused by Streptococcus pneumoniae,0,Condition,SNOMED,Clinical Finding,S,1.10E+15,10/1/18,12/31/99,NA
+40316526,Influenza,0,Condition,SNOMED,Clinical Finding,NA,155559006,1/1/70,1/31/02,U
+45765521,Influenza A H1N1 virus 2009 pandemic strain present,0,Measurement,SNOMED,Clinical Finding,S,702482001,7/31/14,12/31/99,NA
+46273956,Influenza A virus H1N1 subtype not detected,0,Condition,SNOMED,Clinical Finding,S,711334003,7/31/15,12/31/99,NA
+4235537,Influenza A virus subtype H2 present,0,Measurement,SNOMED,Clinical Finding,S,440927002,1/31/09,12/31/99,NA
+4207452,Influenza A virus subtype H3 present,0,Measurement,SNOMED,Clinical Finding,S,441049004,1/31/09,12/31/99,NA
+4262073,Influenza A virus subtype H5 present,0,Measurement,SNOMED,Clinical Finding,S,441343005,1/31/09,12/31/99,NA
+45771050,Influenza A virus subtype H7 present,0,Measurement,SNOMED,Clinical Finding,S,708119004,1/31/15,12/31/99,NA
+45773008,Influenza A virus subtype H9 present,0,Measurement,SNOMED,Clinical Finding,S,708120005,1/31/15,12/31/99,NA
+44783879,Influenza A virus untyped strain present,0,Measurement,SNOMED,Clinical Finding,S,699872005,1/31/14,12/31/99,NA
+37016926,Influenza caused by Influenza A virus subtype H5,0,Condition,SNOMED,Clinical Finding,S,713083002,1/31/16,12/31/99,NA
+35207930,Influenza due to certain identified influenza viruses,0,Condition,ICD10CM,3-char nonbill code,NA,J09,1/1/07,12/31/99,NA
+45548102,Influenza due to identified avian influenza virus with encephalopathy,0,Condition,ICD10CM,6-char billing code,NA,J09.090,1/1/70,12/31/11,D
+45596275,Influenza due to identified avian influenza virus with gastrointestinal manifestations,0,Condition,ICD10CM,5-char billing code,NA,J09.03,1/1/70,12/31/11,D
+45605881,Influenza due to identified avian influenza virus with identified avian influenza pneumonia,0,Condition,ICD10CM,6-char billing code,NA,J09.010,1/1/70,12/31/11,D
+45591543,Influenza due to identified avian influenza virus with myocarditis,0,Condition,ICD10CM,6-char billing code,NA,J09.091,1/1/70,12/31/11,D
+45601117,Influenza due to identified avian influenza virus with other manifestations,0,Condition,ICD10CM,6-char billing code,NA,J09.098,1/1/70,12/31/11,D
+45548101,Influenza due to identified avian influenza virus with other respiratory manifestations,0,Condition,ICD10CM,5-char billing code,NA,J09.02,1/1/70,12/31/11,D
+45591541,Influenza due to identified avian influenza virus with other specified type of pneumonia,0,Condition,ICD10CM,6-char billing code,NA,J09.018,1/1/70,12/31/11,D
+45586658,Influenza due to identified avian influenza virus with otitis media,0,Condition,ICD10CM,6-char billing code,NA,J09.092,1/1/70,12/31/11,D
+920133,Influenza due to identified avian influenza virus with respiratory manifestations,0,Condition,ICD10CM,5-char billing code,NA,J09.01,1/1/10,12/31/10,D
+45591542,Influenza due to identified avian influenza virus with unspecified type of pneumonia,0,Condition,ICD10CM,6-char billing code,NA,J09.019,1/1/70,12/31/11,D
+45552878,Influenza due to identified novel H1N1 influenza virus with encephalopathy,0,Condition,ICD10CM,6-char billing code,NA,J09.190,1/1/70,12/31/11,D
+45562439,Influenza due to identified novel H1N1 influenza virus with gastrointestinal manifestations,0,Condition,ICD10CM,5-char billing code,NA,J09.13,1/1/70,12/31/11,D
+45548103,Influenza due to identified novel H1N1 influenza virus with identified novel H1N1 influenza pneumonia,0,Condition,ICD10CM,6-char billing code,NA,J09.110,1/1/70,12/31/11,D
+45591544,Influenza due to identified novel H1N1 influenza virus with myocarditis,0,Condition,ICD10CM,6-char billing code,NA,J09.191,1/1/70,12/31/11,D
+45557616,Influenza due to identified novel H1N1 influenza virus with other manifestations,0,Condition,ICD10CM,6-char billing code,NA,J09.198,1/1/70,12/31/11,D
+45562438,Influenza due to identified novel H1N1 influenza virus with other respiratory manifestations,0,Condition,ICD10CM,5-char billing code,NA,J09.12,1/1/70,12/31/11,D
+45576944,Influenza due to identified novel H1N1 influenza virus with other specified type of pneumonia,0,Condition,ICD10CM,6-char billing code,NA,J09.118,1/1/70,12/31/11,D
+45548104,Influenza due to identified novel H1N1 influenza virus with otitis media,0,Condition,ICD10CM,6-char billing code,NA,J09.192,1/1/70,12/31/11,D
+920134,Influenza due to identified novel H1N1 influenza virus with respiratory manifestations,0,Condition,ICD10CM,5-char billing code,NA,J09.11,1/1/10,12/31/10,D
+45605882,Influenza due to identified novel H1N1 influenza virus with unspecified type of pneumonia,0,Condition,ICD10CM,6-char billing code,NA,J09.119,1/1/70,12/31/11,D
+1569458,Influenza due to identified novel influenza A virus,0,Condition,ICD10CM,4-char nonbill code,NA,J09.X,1/1/12,12/31/99,NA
+45601118,Influenza due to identified novel influenza A virus with gastrointestinal manifestations,0,Condition,ICD10CM,5-char billing code,NA,J09.X3,12/30/06,12/31/99,NA
+45581841,Influenza due to identified novel influenza A virus with other manifestations,0,Condition,ICD10CM,5-char billing code,NA,J09.X9,12/30/06,12/31/99,NA
+45562440,Influenza due to identified novel influenza A virus with other respiratory manifestations,0,Condition,ICD10CM,5-char billing code,NA,J09.X2,12/30/06,12/31/99,NA
+45596276,Influenza due to identified novel influenza A virus with pneumonia,0,Condition,ICD10CM,5-char billing code,NA,J09.X1,12/30/06,12/31/99,NA
+45755450,Influenza due to identified seasonal influenza virus,0,Condition,ICD10,ICD10 Hierarchy,NA,J10,5/1/90,12/31/99,NA
+45755449,Influenza due to identified zoonotic or pandemic influenza virus,0,Condition,ICD10,ICD10 Hierarchy,NA,J09,10/1/08,12/31/99,NA
+42872723,Influenza due to Influenza A virus subtype H7,0,Condition,SNOMED,Clinical Finding,S,450715004,7/31/12,12/31/99,NA
+45768913,Influenza due to Influenza A virus subtype H7N9,0,Condition,SNOMED,Clinical Finding,S,707448003,1/31/15,12/31/99,NA
+42872724,Influenza due to Influenza A virus subtype H9,0,Condition,SNOMED,Clinical Finding,S,450716003,7/31/12,12/31/99,NA
+4176911,"Influenza due to influenza virus type A, avian, H5N1 strain",0,Condition,SNOMED,Clinical Finding,NA,427873006,1/31/08,1/31/19,D
+4301755,"Influenza due to Influenza virus, type A, human",0,Condition,SNOMED,Clinical Finding,NA,78431007,1/31/02,7/31/09,D
+4261801,"Influenza due to Influenza virus, type A, porcine",0,Condition,SNOMED,Clinical Finding,NA,46171006,1/31/02,7/31/09,D
+1569459,Influenza due to other identified influenza virus,0,Condition,ICD10CM,3-char nonbill code,NA,J10,1/1/12,12/31/99,NA
+45586659,Influenza due to other identified influenza virus with encephalopathy,0,Condition,ICD10CM,5-char billing code,NA,J10.81,1/1/70,12/31/99,NA
+45576945,Influenza due to other identified influenza virus with gastrointestinal manifestations,0,Condition,ICD10CM,4-char billing code,NA,J10.2,1/1/70,12/31/99,NA
+45591546,Influenza due to other identified influenza virus with myocarditis,0,Condition,ICD10CM,5-char billing code,NA,J10.82,1/1/70,12/31/99,NA
+1569461,Influenza due to other identified influenza virus with other manifestations,0,Condition,ICD10CM,4-char nonbill code,NA,J10.8,1/1/12,12/31/99,NA
+45586660,Influenza due to other identified influenza virus with other manifestations,0,Condition,ICD10CM,5-char billing code,NA,J10.89,1/1/70,12/31/99,NA
+35207931,Influenza due to other identified influenza virus with other respiratory manifestations,0,Condition,ICD10CM,4-char billing code,NA,J10.1,1/1/07,12/31/99,NA
+45591545,Influenza due to other identified influenza virus with other specified pneumonia,0,Condition,ICD10CM,5-char billing code,NA,J10.08,1/1/70,12/31/99,NA
+45601121,Influenza due to other identified influenza virus with otitis media,0,Condition,ICD10CM,5-char billing code,NA,J10.83,1/1/70,12/31/99,NA
+1569460,Influenza due to other identified influenza virus with pneumonia,0,Condition,ICD10CM,4-char nonbill code,NA,J10.0,1/1/12,12/31/99,NA
+45543254,Influenza due to other identified influenza virus with the same other identified influenza virus pneumonia,0,Condition,ICD10CM,5-char billing code,NA,J10.01,1/1/70,12/31/99,NA
+45567259,Influenza due to other identified influenza virus with unspecified type of pneumonia,0,Condition,ICD10CM,5-char billing code,NA,J10.00,1/1/70,12/31/99,NA
+40276903,Influenza due to other Influenza virus,0,Condition,SNOMED,Clinical Finding,NA,111876006,1/1/70,1/31/02,U
+37394477,Influenza due to pandemic influenza virus,0,Condition,SNOMED,Clinical Finding,S,1.03E+15,4/1/16,12/31/99,NA
+37394478,Influenza due to seasonal influenza virus,0,Condition,SNOMED,Clinical Finding,S,1.03E+15,4/1/16,12/31/99,NA
+1569462,Influenza due to unidentified influenza virus,0,Condition,ICD10CM,3-char nonbill code,NA,J11,1/1/12,12/31/99,NA
+45581844,Influenza due to unidentified influenza virus with encephalopathy,0,Condition,ICD10CM,5-char billing code,NA,J11.81,1/1/70,12/31/99,NA
+45572160,Influenza due to unidentified influenza virus with gastrointestinal manifestations,0,Condition,ICD10CM,4-char billing code,NA,J11.2,1/1/70,12/31/99,NA
+45543255,Influenza due to unidentified influenza virus with myocarditis,0,Condition,ICD10CM,5-char billing code,NA,J11.82,1/1/70,12/31/99,NA
+1569464,Influenza due to unidentified influenza virus with other manifestations,0,Condition,ICD10CM,4-char nonbill code,NA,J11.8,1/1/12,12/31/99,NA
+45581845,Influenza due to unidentified influenza virus with other manifestations,0,Condition,ICD10CM,5-char billing code,NA,J11.89,1/1/70,12/31/99,NA
+8689,Influenza due to unidentified influenza virus with other respiratory manifestations,0,Condition,ICD10CM,4-char billing code,NA,J11.1,1/1/11,12/31/99,NA
+45538475,Influenza due to unidentified influenza virus with otitis media,0,Condition,ICD10CM,5-char billing code,NA,J11.83,1/1/70,12/31/99,NA
+1569463,Influenza due to unidentified influenza virus with pneumonia,0,Condition,ICD10CM,4-char nonbill code,NA,J11.0,1/1/12,12/31/99,NA
+45581842,Influenza due to unidentified influenza virus with specified pneumonia,0,Condition,ICD10CM,5-char billing code,NA,J11.08,1/1/70,12/31/99,NA
+45586661,Influenza due to unidentified influenza virus with unspecified type of pneumonia,0,Condition,ICD10CM,5-char billing code,NA,J11.00,1/1/70,12/31/99,NA
+37394476,Influenza due to zoonotic influenza virus,0,Condition,SNOMED,Clinical Finding,S,1.03E+15,4/1/16,12/31/99,NA
+4237779,Influenza of the central nervous system,0,Condition,SNOMED,Clinical Finding,NA,406588006,1/31/04,1/31/18,D
+42537960,Influenza with CNS disorder,0,Condition,SNOMED,Clinical Finding,S,738276008,1/31/18,12/31/99,NA
+40642055,Influenza with involvement of gastrointestinal tract,0,Condition,SNOMED,Clinical Finding,NA,83440004,1/31/02,7/31/02,U
+4110634,Influenza with other manifestations,0,Condition,SNOMED,Clinical Finding,NA,195927002,1/31/02,1/31/10,U
+45572159,"Influenza with other manifestations, seasonal influenza virus identified",0,Condition,ICD10,ICD10 code,NA,J10.8,5/1/90,12/31/99,NA
+4112663,Influenza with other respiratory manifestation,0,Condition,SNOMED,Clinical Finding,NA,195922008,1/31/02,1/27/22,U
+45601120,"Influenza with other respiratory manifestations, seasonal influenza virus identified",0,Condition,ICD10,ICD10 code,NA,J10.1,5/1/90,12/31/99,NA
+40468330,Influenza with pneumonia,0,Condition,SNOMED,Clinical Finding,NA,42964004,1/31/02,7/31/06,U
+44830112,Influenza with pneumonia,0,Condition,ICD9CM,4-dig billing code,NA,487,1/1/70,12/31/99,NA
+37394479,Influenza with pneumonia due to seasonal influenza virus,0,Condition,SNOMED,Clinical Finding,S,1.03E+15,4/1/16,12/31/99,NA
+45601119,"Influenza with pneumonia, seasonal influenza virus identified",0,Condition,ICD10,ICD10 code,NA,J10.0,5/1/90,12/31/99,NA
+40303821,Influenza-like symptoms,0,Condition,SNOMED,Clinical Finding,NA,139168000,1/1/70,1/31/02,U
+40365652,Influenzal laryngitis,0,Condition,SNOMED,Clinical Finding,NA,28105000,1/31/02,7/31/02,U
+40636737,Influenzal pharyngitis,0,Condition,SNOMED,Clinical Finding,NA,84512003,1/31/02,7/31/02,U
+40316527,Influenzal pneumonia,0,Condition,SNOMED,Clinical Finding,NA,155560001,1/1/70,1/27/22,U
+4112823,Lobar pneumonia due to unspecified organism,0,Condition,SNOMED,Clinical Finding,NA,195916004,1/31/02,1/31/10,U
+45562442,"Lobar pneumonia, unspecified",0,Condition,ICD10,ICD10 code,NA,J18.1,5/1/90,12/31/99,NA
+35207953,"Lobar pneumonia, unspecified organism",0,Condition,ICD10CM,4-char billing code,NA,J18.1,1/1/07,12/31/99,NA
+4245828,Lobular pneumonia,0,Condition,SNOMED,Clinical Finding,NA,396284006,7/31/03,7/31/17,U
+35205746,Measles complicated by pneumonia,0,Condition,ICD10CM,4-char billing code,NA,B05.2,1/1/07,12/31/99,NA
+40316521,Mycoplasmal pneumonia,0,Condition,SNOMED,Clinical Finding,NA,155554001,1/1/70,1/31/02,U
+40395490,Mycoplasmal pneumonia,0,Condition,SNOMED,Clinical Finding,NA,195894001,1/1/70,1/31/02,U
+40395491,Mycoplasmal pneumonia,0,Condition,SNOMED,Clinical Finding,NA,195895000,1/1/70,1/31/02,U
+45576941,Other acute recurrent sinusitis,0,Condition,ICD10CM,5-char billing code,NA,J01.81,1/1/70,12/31/99,NA
+1569445,Other acute sinusitis,0,Condition,ICD10CM,4-char nonbill code,NA,J01.8,1/1/12,12/31/99,NA
+45581840,Other acute sinusitis,0,Condition,ICD10CM,5-char billing code,NA,J01.80,1/1/70,12/31/99,NA
+4110505,Other bacterial pneumonia,0,Condition,SNOMED,Clinical Finding,NA,195885007,1/31/02,1/31/10,U
+45572162,Other bacterial pneumonia,0,Condition,ICD10,ICD10 code,NA,J15.8,5/1/90,12/31/99,NA
+45605883,"Other pneumonia, organism unspecified",0,Condition,ICD10,ICD10 code,NA,J18.8,5/1/90,12/31/99,NA
+35207955,"Other pneumonia, unspecified organism",0,Condition,ICD10CM,4-char billing code,NA,J18.8,1/1/07,12/31/99,NA
+4112665,Other specified pneumonia or influenza,0,Condition,SNOMED,Clinical Finding,NA,195933006,1/31/02,1/27/22,U
+35207936,Other viral pneumonia,0,Condition,ICD10CM,4-char nonbill code,NA,J12.8,1/1/07,12/31/99,NA
+45538476,Other viral pneumonia,0,Condition,ICD10,ICD10 code,NA,J12.8,5/1/90,12/31/99,NA
+45572161,Other viral pneumonia,0,Condition,ICD10CM,5-char billing code,NA,J12.89,1/1/70,12/31/99,NA
+35207934,Parainfluenza virus pneumonia,0,Condition,ICD10CM,4-char billing code,NA,J12.2,1/1/07,12/31/99,NA
+45557618,Parainfluenza virus pneumonia,0,Condition,ICD10,ICD10 code,NA,J12.2,5/1/90,12/31/99,NA
+4205578,Peribronchial pneumonia,0,Condition,SNOMED,Clinical Finding,S,55679008,1/31/02,12/31/99,NA
+4245499,Pleurobronchopneumonia,0,Condition,SNOMED,Clinical Finding,S,60485005,1/31/02,12/31/99,NA
+40605924,Pneumococcal pneumonia,0,Condition,SNOMED,Clinical Finding,NA,54339004,1/1/70,1/31/02,D
+40395479,Pneumococcal pneumonia (& lobar),0,Condition,SNOMED,Clinical Finding,NA,195884006,1/1/70,1/31/02,D
+4226502,Pneumocystosis associated with AIDS,0,Condition,SNOMED,Clinical Finding,S,420403001,7/31/06,12/31/99,NA
+40614339,Pneumonia,0,Condition,SNOMED,Clinical Finding,NA,60363000,1/1/70,1/31/02,D
+40316514,Pneumonia and influenza &/or pneumonia,0,Condition,SNOMED,Clinical Finding,NA,155548002,1/1/70,1/31/02,D
+40345753,Pneumonia and influenza &/or pneumonia,0,Condition,SNOMED,Clinical Finding,NA,266391003,1/1/70,1/31/02,D
+44825466,Pneumonia due to adenovirus,0,Condition,ICD9CM,4-dig billing code,NA,480,1/1/70,12/31/99,NA
+46270128,Pneumonia due to avian influenza,0,Condition,SNOMED,Clinical Finding,NA,1.43E+14,7/31/15,1/31/19,D
+35207944,Pneumonia due to Escherichia coli,0,Condition,ICD10CM,4-char billing code,NA,J15.5,1/1/07,12/31/99,NA
+45581848,Pneumonia due to Escherichia coli,0,Condition,ICD10,ICD10 code,NA,J15.5,5/1/90,12/31/99,NA
+45581846,Pneumonia due to Haemophilus influenzae,0,Condition,ICD10,ICD10 Hierarchy,NA,J14,5/1/90,12/31/99,NA
+35207939,Pneumonia due to Hemophilus influenzae,0,Condition,ICD10CM,3-char billing code,NA,J14,1/1/07,12/31/99,NA
+35207940,Pneumonia due to Klebsiella pneumoniae,0,Condition,ICD10CM,4-char billing code,NA,J15.0,1/1/07,12/31/99,NA
+45591548,Pneumonia due to Klebsiella pneumoniae,0,Condition,ICD10,ICD10 code,NA,J15.0,5/1/90,12/31/99,NA
+45557620,Pneumonia due to Methicillin resistant Staphylococcus aureus,0,Condition,ICD10CM,6-char billing code,NA,J15.212,12/30/06,12/31/99,NA
+45533545,Pneumonia due to Methicillin susceptible Staphylococcus aureus,0,Condition,ICD10CM,6-char billing code,NA,J15.211,12/30/06,12/31/99,NA
+35207946,Pneumonia due to Mycoplasma pneumoniae,0,Condition,ICD10CM,4-char billing code,NA,J15.7,1/1/07,12/31/99,NA
+45543260,Pneumonia due to Mycoplasma pneumoniae,0,Condition,ICD10,ICD10 code,NA,J15.7,5/1/90,12/31/99,NA
+35207945,Pneumonia due to other Gram-negative bacteria,0,Condition,ICD10CM,4-char billing code,NA,J15.6,1/1/07,12/31/99,NA
+45543259,Pneumonia due to other Gram-negative bacteria,0,Condition,ICD10,ICD10 code,NA,J15.6,5/1/90,12/31/99,NA
+1569468,"Pneumonia due to other infectious organisms, not elsewhere classified",0,Condition,ICD10CM,3-char nonbill code,NA,J16,1/1/12,12/31/99,NA
+45755452,"Pneumonia due to other infectious organisms, not elsewhere classified",0,Condition,ICD10,ICD10 Hierarchy,NA,J16,5/1/90,12/31/99,NA
+4112819,Pneumonia due to other specified bacteria,0,Condition,SNOMED,Clinical Finding,NA,195887004,1/31/02,1/31/10,U
+35207947,Pneumonia due to other specified bacteria,0,Condition,ICD10CM,4-char billing code,NA,J15.8,1/1/07,12/31/99,NA
+35207950,Pneumonia due to other specified infectious organisms,0,Condition,ICD10CM,4-char billing code,NA,J16.8,1/1/07,12/31/99,NA
+45552881,Pneumonia due to other specified infectious organisms,0,Condition,ICD10,ICD10 code,NA,J16.8,5/1/90,12/31/99,NA
+4112658,Pneumonia due to other specified organisms,0,Condition,SNOMED,Clinical Finding,NA,195893007,1/31/02,1/31/10,U
+40435884,Pneumonia due to other specified organisms,0,Condition,SNOMED,Clinical Finding,NA,233605008,1/1/70,1/31/02,U
+45591550,Pneumonia due to other staphylococcus,0,Condition,ICD10CM,5-char billing code,NA,J15.29,1/1/70,12/31/99,NA
+35207943,Pneumonia due to other streptococci,0,Condition,ICD10CM,4-char billing code,NA,J15.4,1/1/07,12/31/99,NA
+45562441,Pneumonia due to other streptococci,0,Condition,ICD10,ICD10 code,NA,J15.4,5/1/90,12/31/99,NA
+44829005,Pneumonia due to other virus not elsewhere classified,0,Condition,ICD9CM,4-dig billing code,NA,480.8,1/1/70,12/31/99,NA
+4110506,Pneumonia due to pleuropneumonia-like organism,0,Condition,SNOMED,Clinical Finding,S,195896004,1/31/02,12/31/99,NA
+35207941,Pneumonia due to Pseudomonas,0,Condition,ICD10CM,4-char billing code,NA,J15.1,1/1/07,12/31/99,NA
+44835977,Pneumonia due to respiratory syncytial virus,0,Condition,ICD9CM,4-dig billing code,NA,480.1,1/1/70,12/31/99,NA
+1569467,Pneumonia due to staphylococcus,0,Condition,ICD10CM,4-char nonbill code,NA,J15.2,1/1/12,12/31/99,NA
+45567261,Pneumonia due to staphylococcus aureus,0,Condition,ICD10CM,5-char nonbill code,NA,J15.21,1/1/70,12/31/99,NA
+45601122,"Pneumonia due to staphylococcus, unspecified",0,Condition,ICD10CM,5-char billing code,NA,J15.20,1/1/70,12/31/99,NA
+35207938,Pneumonia due to Streptococcus pneumoniae,0,Condition,ICD10CM,3-char billing code,NA,J13,1/1/07,12/31/99,NA
+45586662,Pneumonia due to Streptococcus pneumoniae,0,Condition,ICD10,ICD10 Hierarchy,NA,J13,5/1/90,12/31/99,NA
+35207942,"Pneumonia due to streptococcus, group B",0,Condition,ICD10CM,4-char billing code,NA,J15.3,1/1/07,12/31/99,NA
+45543258,"Pneumonia due to streptococcus, group B",0,Condition,ICD10,ICD10 code,NA,J15.3,5/1/90,12/31/99,NA
+4112661,Pneumonia due to unspecified organism,0,Condition,SNOMED,Clinical Finding,NA,195915000,1/31/02,1/27/22,U
+45591551,Pneumonia in bacterial diseases classified elsewhere,0,Condition,ICD10,ICD10 code,NA,J17.0,5/1/90,12/31/99,NA
+35207951,Pneumonia in diseases classified elsewhere,0,Condition,ICD10CM,3-char billing code,NA,J17,1/1/07,12/31/99,NA
+45533546,Pneumonia in diseases classified elsewhere,0,Condition,ICD10,ICD10 Hierarchy,NA,J17,5/1/90,12/31/99,NA
+45572163,Pneumonia in mycoses,0,Condition,ICD10,ICD10 code,NA,J17.2,5/1/90,12/31/99,NA
+45591552,Pneumonia in other diseases classified elsewhere,0,Condition,ICD10,ICD10 code,NA,J17.8,5/1/90,12/31/99,NA
+45548106,Pneumonia in parasitic diseases,0,Condition,ICD10,ICD10 code,NA,J17.3,5/1/90,12/31/99,NA
+45586663,Pneumonia in viral diseases classified elsewhere,0,Condition,ICD10,ICD10 code,NA,J17.1,5/1/90,12/31/99,NA
+259849,Pneumonia with infectious diseases EC,0,Condition,SNOMED,Clinical Finding,NA,266351001,1/31/02,1/27/22,U
+4112659,Pneumonia with other infectious diseases EC,0,Condition,SNOMED,Clinical Finding,NA,195907003,1/31/02,1/31/10,U
+44829009,"Pneumonia, organism unspecified",0,Condition,ICD9CM,3-dig billing code,NA,486,1/1/70,12/31/99,NA
+45548107,"Pneumonia, organism unspecified",0,Condition,ICD10,ICD10 Hierarchy,NA,J18,5/1/90,12/31/99,NA
+45601123,"Pneumonia, unspecified",0,Condition,ICD10,ICD10 code,NA,J18.9,5/1/90,12/31/99,NA
+1569469,"Pneumonia, unspecified organism",0,Condition,ICD10CM,3-char nonbill code,NA,J18,1/1/12,12/31/99,NA
+35207956,"Pneumonia, unspecified organism",0,Condition,ICD10CM,4-char billing code,NA,J18.9,1/1/07,12/31/99,NA
+40316516,Pneumonia: [lobar] or [pneumococcal],0,Condition,SNOMED,Clinical Finding,NA,155550005,1/1/70,1/31/02,D
+40345754,Pneumonia: [lobar] or [pneumococcal],0,Condition,SNOMED,Clinical Finding,NA,266392005,1/1/70,1/31/02,D
+40395518,Postoperative pneumonia,0,Condition,SNOMED,Clinical Finding,NA,195919006,1/1/70,1/31/02,U
+37017278,Recurrent bacterial pneumonia co-occurrent with human immunodeficiency virus infection,0,Condition,SNOMED,Clinical Finding,S,713526000,1/31/16,12/31/99,NA
+45591563,Respiratory bronchiolitis interstitial lung disease,0,Condition,ICD10CM,6-char billing code,NA,J84.115,12/30/06,12/31/99,NA
+44821694,Respiratory syncytial virus (RSV),0,Condition,ICD9CM,4-dig billing code,NA,79.6,1/1/70,12/31/99,NA
+35207933,Respiratory syncytial virus pneumonia,0,Condition,ICD10CM,4-char billing code,NA,J12.1,1/1/07,12/31/99,NA
+40527956,Respiratory syncytial virus pneumonia,0,Condition,SNOMED,Clinical Finding,NA,34050004,1/31/02,7/31/02,U
+45543256,Respiratory syncytial virus pneumonia,0,Condition,ICD10,ICD10 code,NA,J12.1,5/1/90,12/31/99,NA
+44832091,Rhinovirus infection in conditions classified elsewhere and of unspecified site,0,Condition,ICD9CM,4-dig billing code,NA,79.3,1/1/70,12/31/99,NA
+45581145,Rubella pneumonia,0,Condition,ICD10CM,5-char billing code,NA,B06.81,1/1/70,12/31/99,NA
+45532808,Salmonella pneumonia,0,Condition,ICD10CM,5-char billing code,NA,A02.22,1/1/70,12/31/99,NA
+135183,Septicemia due to streptococcus pneumoniae,0,Condition,SNOMED,Clinical Finding,NA,310668004,1/31/02,1/31/16,U
+37397168,Streptococcus pneumoniae or Streptococcus viridans group,0,Condition,SNOMED,Clinical Finding,S,717216007,7/31/16,12/31/99,NA
+4223225,Swine influenza,0,Condition,SNOMED,Clinical Finding,NA,84037004,1/31/02,7/31/09,D
+4276663,Terminal bronchopneumonia,0,Condition,SNOMED,Clinical Finding,S,64703005,1/31/02,12/31/99,NA
+45556887,Typhoid pneumonia,0,Condition,ICD10CM,5-char billing code,NA,A01.03,1/1/70,12/31/99,NA
+35207948,Unspecified bacterial pneumonia,0,Condition,ICD10CM,4-char billing code,NA,J15.9,1/1/07,12/31/99,NA
+35205735,Varicella pneumonia,0,Condition,ICD10CM,4-char billing code,NA,B01.2,1/1/07,12/31/99,NA
+45552902,Ventilator associated pneumonia,0,Condition,ICD10CM,6-char billing code,NA,J95.851,1/1/70,12/31/99,NA
+40316515,Viral pneumonia,0,Condition,SNOMED,Clinical Finding,NA,155549005,1/1/70,1/31/02,U
+40395474,Viral pneumonia (& chest infection),0,Condition,SNOMED,Clinical Finding,NA,195880002,1/1/70,1/31/02,D
+4225318,Viral pneumonia associated with AIDS,0,Condition,SNOMED,Clinical Finding,S,421508002,7/31/06,12/31/99,NA
+4112818,Viral pneumonia NEC,0,Condition,SNOMED,Clinical Finding,NA,195882005,1/31/02,1/27/22,D
+1569465,"Viral pneumonia, not elsewhere classified",0,Condition,ICD10CM,3-char nonbill code,NA,J12,1/1/12,12/31/99,NA
+45552879,"Viral pneumonia, not elsewhere classified",0,Condition,ICD10,ICD10 Hierarchy,NA,J12,5/1/90,12/31/99,NA
+35207937,"Viral pneumonia, unspecified",0,Condition,ICD10CM,4-char billing code,NA,J12.9,1/1/07,12/31/99,NA
+44831277,"Viral pneumonia, unspecified",0,Condition,ICD9CM,4-dig billing code,NA,480.9,1/1/70,12/31/99,NA
+45552880,"Viral pneumonia, unspecified",0,Condition,ICD10,ICD10 code,NA,J12.9,5/1/90,12/31/99,NA
+45542528,Whooping cough due to Bordetella parapertussis with pneumonia,0,Condition,ICD10CM,5-char billing code,NA,A37.11,1/1/70,12/31/99,NA
+45600409,Whooping cough due to Bordetella pertussis with pneumonia,0,Condition,ICD10CM,5-char billing code,NA,A37.01,1/1/70,12/31/99,NA
+45542529,Whooping cough due to other Bordetella species with pneumonia,0,Condition,ICD10CM,5-char billing code,NA,A37.81,1/1/70,12/31/99,NA
+45556897,"Whooping cough, unspecified species with pneumonia",0,Condition,ICD10CM,5-char billing code,NA,A37.91,1/1/70,12/31/99,NA
+4112525,Acute bronchiolitis NOS,0,Condition,SNOMED,Clinical Finding,NA,195741000,1/31/02,1/31/10,U
+4112657,Bacterial pneumonia NOS,0,Condition,SNOMED,Clinical Finding,NA,195892002,1/31/02,1/31/10,U
+40316520,Bacterial pneumonia NOS,0,Condition,SNOMED,Clinical Finding,NA,155553007,1/1/70,1/31/02,U
+4144103,Influenza NOS,0,Condition,SNOMED,Clinical Finding,NA,266353003,1/31/02,1/31/10,U
+4110043,Influenza with other manifestations NOS,0,Condition,SNOMED,Clinical Finding,NA,195930009,1/31/02,1/31/10,U
+4110511,Influenza with pneumonia NOS,0,Condition,SNOMED,Clinical Finding,NA,195921001,1/31/02,1/27/22,U
+4110042,Influenza with respiratory manifestations NOS,0,Condition,SNOMED,Clinical Finding,NA,195925005,1/31/02,1/31/10,U
+4112656,Pneumonia due to bacteria NOS,0,Condition,SNOMED,Clinical Finding,NA,195891009,1/31/02,1/31/10,U
+4110038,Pneumonia due to specified organism NOS,0,Condition,SNOMED,Clinical Finding,NA,195898003,1/31/02,1/31/10,U
+40316519,Pneumonia NOS,0,Condition,SNOMED,Clinical Finding,NA,155552002,1/1/70,1/31/02,U
+40316525,Pneumonia NOS,0,Condition,SNOMED,Clinical Finding,NA,155558003,1/1/70,1/31/02,U
+4112825,Pneumonia or influenza NOS,0,Condition,SNOMED,Clinical Finding,NA,195934000,1/31/02,1/27/22,U
+40316532,Pneumonia or influenza NOS,0,Condition,SNOMED,Clinical Finding,NA,155564005,1/1/70,1/31/02,U
+4112654,Viral pneumonia NOS,0,Condition,SNOMED,Clinical Finding,NA,195883000,1/31/02,1/31/10,U
+40316530,(Influenza NOS) or (influenza-like illness),0,Condition,SNOMED,Clinical Finding,NA,155562009,1/1/70,1/31/02,D
+40345755,(Influenza NOS) or (influenza-like illness),0,Condition,SNOMED,Clinical Finding,NA,266393000,1/1/70,1/31/02,D
+4112362,Acute bronchitis or bronchiolitis NOS,0,Condition,SNOMED,Clinical Finding,NA,195743002,1/31/02,1/31/10,U
+45770619,At risk of influenza related complication,0,Condition,SNOMED,Clinical Finding,S,9.32E+14,10/1/14,12/31/99,NA
+45581843,"Influenza with other manifestations, virus not identified",0,Condition,ICD10,ICD10 code,NA,J11.8,5/1/90,12/31/99,NA
+45557617,"Influenza with other respiratory manifestations, virus not identified",0,Condition,ICD10,ICD10 code,NA,J11.1,5/1/90,12/31/99,NA
+45533544,"Influenza with pneumonia, virus not identified",0,Condition,ICD10,ICD10 code,NA,J11.0,5/1/90,12/31/99,NA
+40375021,Influenza-like illness,0,Condition,SNOMED,Clinical Finding,NA,285342006,1/1/70,1/31/02,U
+40325150,Influenza-like symptoms,0,Condition,SNOMED,Clinical Finding,NA,161913008,1/1/70,1/31/02,U
+45755451,"Influenza, virus not identified",0,Condition,ICD10,ICD10 Hierarchy,NA,J11,5/1/90,12/31/99,NA
+4110041,Pneumonia with infectious diseases EC NOS,0,Condition,SNOMED,Clinical Finding,NA,195913007,1/31/02,1/31/10,U
+4112660,Pneumonia with other infectious diseases EC NOS,0,Condition,SNOMED,Clinical Finding,NA,195912002,1/31/02,1/31/10,U
+40395532,(Influenza like illness) or (influenza NOS),0,Condition,SNOMED,Clinical Finding,NA,195931008,1/1/70,1/31/02,D
+4112522,Acute bacterial bronchitis unspecified,0,Condition,SNOMED,Clinical Finding,NA,195732005,1/31/02,1/31/10,U
+1569470,Acute bronchitis,0,Condition,ICD10CM,3-char nonbill code,NA,J20,1/1/12,12/31/99,NA
+45581849,Acute bronchitis,0,Condition,ICD10,ICD10 Hierarchy,NA,J20,5/1/90,12/31/99,NA
+40394965,Acute bronchitis (& wheezy),0,Condition,SNOMED,Clinical Finding,NA,195713004,1/1/70,1/27/22,U
+35207960,Acute bronchitis due to coxsackievirus,0,Condition,ICD10CM,4-char billing code,NA,J20.3,1/1/07,12/31/99,NA
+45552882,Acute bronchitis due to coxsackievirus,0,Condition,ICD10,ICD10 code,NA,J20.3,5/1/90,12/31/99,NA
+35207964,Acute bronchitis due to echovirus,0,Condition,ICD10CM,4-char billing code,NA,J20.7,1/1/07,12/31/99,NA
+45552883,Acute bronchitis due to echovirus,0,Condition,ICD10,ICD10 code,NA,J20.7,5/1/90,12/31/99,NA
+35207965,Acute bronchitis due to other specified organisms,0,Condition,ICD10CM,4-char billing code,NA,J20.8,1/1/07,12/31/99,NA
+45562444,Acute bronchitis due to other specified organisms,0,Condition,ICD10,ICD10 code,NA,J20.8,5/1/90,12/31/99,NA
+35207962,Acute bronchitis due to respiratory syncytial virus,0,Condition,ICD10CM,4-char billing code,NA,J20.5,1/1/07,12/31/99,NA
+45548108,Acute bronchitis due to respiratory syncytial virus,0,Condition,ICD10,ICD10 code,NA,J20.5,5/1/90,12/31/99,NA
+35207959,Acute bronchitis due to streptococcus,0,Condition,ICD10CM,4-char billing code,NA,J20.2,1/1/07,12/31/99,NA
+45543261,Acute bronchitis due to streptococcus,0,Condition,ICD10,ICD10 code,NA,J20.2,5/1/90,12/31/99,NA
+4112523,Acute bronchitis NOS,0,Condition,SNOMED,Clinical Finding,NA,195733000,1/31/02,1/31/10,U
+40316062,Acute bronchitis NOS,0,Condition,SNOMED,Clinical Finding,NA,155515002,1/1/70,1/31/02,U
+4243199,Acute bronchitis with obstruction,0,Condition,SNOMED,Clinical Finding,S,5875001,1/31/02,12/31/99,NA
+35207966,"Acute bronchitis, unspecified",0,Condition,ICD10CM,4-char billing code,NA,J20.9,1/1/07,12/31/99,NA
+45562445,"Acute bronchitis, unspecified",0,Condition,ICD10,ICD10 code,NA,J20.9,5/1/90,12/31/99,NA
+1569456,Acute epiglottitis,0,Condition,ICD10CM,4-char nonbill code,NA,J05.1,1/1/12,12/31/99,NA
+45601115,Acute epiglottitis with obstruction,0,Condition,ICD10CM,5-char billing code,NA,J05.11,1/1/70,12/31/99,NA
+45533541,Acute epiglottitis without obstruction,0,Condition,ICD10CM,5-char billing code,NA,J05.10,1/1/70,12/31/99,NA
+35207925,Acute laryngitis,0,Condition,ICD10CM,4-char billing code,NA,J04.0,1/1/07,12/31/99,NA
+45533538,Acute laryngitis,0,Condition,ICD10,ICD10 code,NA,J04.0,5/1/90,12/31/99,NA
+1569452,Acute laryngitis and tracheitis,0,Condition,ICD10CM,3-char nonbill code,NA,J04,1/1/12,12/31/99,NA
+45572157,Acute laryngitis and tracheitis,0,Condition,ICD10,ICD10 Hierarchy,NA,J04,5/1/90,12/31/99,NA
+35207928,Acute laryngopharyngitis,0,Condition,ICD10CM,4-char billing code,NA,J06.0,1/1/07,12/31/99,NA
+45562436,Acute laryngopharyngitis,0,Condition,ICD10,ICD10 code,NA,J06.0,5/1/90,12/31/99,NA
+35207926,Acute laryngotracheitis,0,Condition,ICD10CM,4-char billing code,NA,J04.2,1/1/07,12/31/99,NA
+45562434,Acute laryngotracheitis,0,Condition,ICD10,ICD10 code,NA,J04.2,5/1/90,12/31/99,NA
+40316056,Acute laryngotracheobronchitis,0,Condition,SNOMED,Clinical Finding,NA,155510007,1/1/70,1/31/02,U
+40394953,Acute laryngotracheobronchitis,0,Condition,SNOMED,Clinical Finding,NA,195702002,1/1/70,1/31/02,U
+40394976,Acute mycoplasmal bronchitis,0,Condition,SNOMED,Clinical Finding,NA,195723008,1/1/70,1/31/02,U
+35207921,Acute nasopharyngitis [common cold],0,Condition,ICD10CM,3-char billing code,NA,J00,1/1/07,12/31/99,NA
+45562431,Acute nasopharyngitis [common cold],0,Condition,ICD10,ICD10 Hierarchy,NA,J00,5/1/90,12/31/99,NA
+35207927,Acute obstructive laryngitis [croup],0,Condition,ICD10CM,4-char billing code,NA,J05.0,1/1/07,12/31/99,NA
+45567258,Acute obstructive laryngitis [croup],0,Condition,ICD10,ICD10 code,NA,J05.0,5/1/90,12/31/99,NA
+1569447,Acute pharyngitis,0,Condition,ICD10CM,3-char nonbill code,NA,J02,1/1/12,12/31/99,NA
+45557615,Acute pharyngitis,0,Condition,ICD10,ICD10 Hierarchy,NA,J02,5/1/90,12/31/99,NA
+35207923,Acute pharyngitis due to other specified organisms,0,Condition,ICD10CM,4-char billing code,NA,J02.8,1/1/07,12/31/99,NA
+45562432,Acute pharyngitis due to other specified organisms,0,Condition,ICD10,ICD10 code,NA,J02.8,5/1/90,12/31/99,NA
+35207924,"Acute pharyngitis, unspecified",0,Condition,ICD10CM,4-char billing code,NA,J02.9,1/1/07,12/31/99,NA
+45538472,"Acute pharyngitis, unspecified",0,Condition,ICD10,ICD10 code,NA,J02.9,5/1/90,12/31/99,NA
+45538487,Acute postprocedural respiratory failure,0,Condition,ICD10CM,6-char billing code,NA,J95.821,12/30/06,12/31/99,NA
+45552877,Acute recurrent streptococcal tonsillitis,0,Condition,ICD10CM,5-char billing code,NA,J03.01,1/1/70,12/31/99,NA
+45591540,"Acute recurrent tonsillitis, unspecified",0,Condition,ICD10CM,5-char billing code,NA,J03.91,1/1/70,12/31/99,NA
+1569448,Acute tonsillitis,0,Condition,ICD10CM,3-char nonbill code,NA,J03,1/1/12,12/31/99,NA
+1569450,Acute tonsillitis due to other specified organisms,0,Condition,ICD10CM,4-char nonbill code,NA,J03.8,1/1/12,12/31/99,NA
+45591539,Acute tonsillitis due to other specified organisms,0,Condition,ICD10CM,5-char billing code,NA,J03.80,1/1/70,12/31/99,NA
+1569451,"Acute tonsillitis, unspecified",0,Condition,ICD10CM,4-char nonbill code,NA,J03.9,1/1/12,12/31/99,NA
+45538473,"Acute tonsillitis, unspecified",0,Condition,ICD10CM,5-char billing code,NA,J03.90,1/1/70,12/31/99,NA
+45576943,Acute tracheitis,0,Condition,ICD10,ICD10 code,NA,J04.1,5/1/90,12/31/99,NA
+45533540,Acute tracheitis with obstruction,0,Condition,ICD10CM,5-char billing code,NA,J04.11,1/1/70,12/31/99,NA
+45533539,Acute tracheitis without obstruction,0,Condition,ICD10CM,5-char billing code,NA,J04.10,1/1/70,12/31/99,NA
+35207929,"Acute upper respiratory infection, unspecified",0,Condition,ICD10CM,4-char billing code,NA,J06.9,1/1/07,12/31/99,NA
+45562437,"Acute upper respiratory infection, unspecified",0,Condition,ICD10,ICD10 code,NA,J06.9,5/1/90,12/31/99,NA
+1569457,Acute upper respiratory infections of multiple and unspecified sites,0,Condition,ICD10CM,3-char nonbill code,NA,J06,1/1/12,12/31/99,NA
+45601116,Acute upper respiratory infections of multiple and unspecified sites,0,Condition,ICD10,ICD10 Hierarchy,NA,J06,5/1/90,12/31/99,NA
+4112360,Acute viral bronchitis unspecified,0,Condition,SNOMED,Clinical Finding,NA,195731003,1/31/02,1/27/22,U
+40316059,Acute: [bronchitis] or [chest infections] or [tracheobronchitis],0,Condition,SNOMED,Clinical Finding,NA,155512004,1/1/70,1/31/02,D
+40345740,Acute: [bronchitis] or [chest infections] or [tracheobronchitis],0,Condition,SNOMED,Clinical Finding,NA,266380005,1/1/70,1/31/02,D
+45562458,Bronchiectasis with acute lower respiratory infection,0,Condition,ICD10CM,4-char billing code,NA,J47.0,1/1/70,12/31/99,NA
+4110045,Bronchitis NOS,0,Condition,SNOMED,Clinical Finding,NA,195940007,1/31/02,1/31/10,U
+40316590,Bronchitis NOS,0,Condition,SNOMED,Clinical Finding,NA,155616009,1/1/70,1/31/02,U
+4148123,Bronchitis unspecified,0,Condition,SNOMED,Clinical Finding,NA,266354009,1/31/02,1/27/22,U
+35208013,"Bronchitis, not specified as acute or chronic",0,Condition,ICD10CM,3-char billing code,NA,J40,1/1/07,12/31/99,NA
+44820887,"Bronchitis, not specified as acute or chronic",0,Condition,ICD9CM,3-dig billing code,NA,490,1/1/70,12/31/99,NA
+45572167,"Bronchitis, not specified as acute or chronic",0,Condition,ICD10,ICD10 Hierarchy,NA,J40,5/1/90,12/31/99,NA
+40395537,Bronchitis: [unspecified (& chest infection)] or [recurrent wheezy],0,Condition,SNOMED,Clinical Finding,NA,195936003,1/1/70,1/31/02,D
+4049963,Chest infection - unspecified bronchitis,0,Condition,SNOMED,Clinical Finding,NA,233597004,1/31/02,1/27/22,U
+44819383,Echo virus infection in conditions classified elsewhere and of unspecified site,0,Condition,ICD9CM,4-dig billing code,NA,79.1,1/1/70,12/31/99,NA
+35205756,Enteroviral vesicular pharyngitis,0,Condition,ICD10CM,4-char billing code,NA,B08.5,1/1/07,12/31/99,NA
+4256894,Healthcare associated Legionnaires' disease,0,Condition,SNOMED,Clinical Finding,S,408681003,7/31/04,12/31/99,NA
+764964,Influenza A virus subtype H1 2009 pandemic strain inconclusive,0,Condition,SNOMED,Clinical Finding,S,9.41E+11,8/1/11,12/31/99,NA
+764950,Influenza A virus subtype H1 2009 pandemic strain not detected,0,Measurement,SNOMED,Clinical Finding,S,9.01E+11,8/1/11,12/31/99,NA
+764962,Influenza A virus subtype H1 inconclusive,0,Condition,SNOMED,Clinical Finding,S,9.31E+11,8/1/11,12/31/99,NA
+764942,Influenza A virus subtype H1 not detected,0,Measurement,SNOMED,Clinical Finding,S,8.91E+11,8/1/11,12/31/99,NA
+764967,Influenza A virus subtype H5 asian strain inconclusive,0,Condition,SNOMED,Clinical Finding,S,9.61E+11,8/1/11,12/31/99,NA
+765125,Influenza A virus subtype H5 inconclusive,0,Condition,SNOMED,Clinical Finding,S,9.51E+11,8/1/11,12/31/99,NA
+40395539,Laryngotracheobronchitis,0,Condition,SNOMED,Clinical Finding,NA,195938002,1/1/70,1/31/02,U
+35208016,Mixed simple and mucopurulent chronic bronchitis,0,Condition,ICD10CM,4-char billing code,NA,J41.8,1/1/07,12/31/99,NA
+45586671,Mixed simple and mucopurulent chronic bronchitis,0,Condition,ICD10,ICD10 code,NA,J41.8,5/1/90,12/31/99,NA
+35208015,Mucopurulent chronic bronchitis,0,Condition,ICD10CM,4-char billing code,NA,J41.1,1/1/07,12/31/99,NA
+44837134,Mucopurulent chronic bronchitis,0,Condition,ICD9CM,4-dig billing code,NA,491.1,1/1/70,12/31/99,NA
+45533542,Other acute upper respiratory infections of multiple sites,0,Condition,ICD10,ICD10 code,NA,J06.8,5/1/90,12/31/99,NA
+44834424,"Other specified bacterial infections in conditions classified elsewhere and of unspecified site, mycoplasma",0,Condition,ICD9CM,5-dig billing code,NA,41.81,1/1/70,12/31/99,NA
+45561778,Other viral agents as the cause of diseases classified elsewhere,0,Condition,ICD10CM,5-char billing code,NA,B97.89,1/1/70,12/31/99,NA
+35205803,Other viral infections of unspecified site,0,Condition,ICD10CM,4-char billing code,NA,B34.8,1/1/07,12/31/99,NA
+45567260,Pneumonia due to SARS-associated coronavirus,0,Condition,ICD10CM,5-char billing code,NA,J12.81,12/30/06,12/31/99,NA
+35207922,Streptococcal pharyngitis,0,Condition,ICD10CM,4-char billing code,NA,J02.0,1/1/07,12/31/99,NA
+1569449,Streptococcal tonsillitis,0,Condition,ICD10CM,4-char nonbill code,NA,J03.0,1/1/12,12/31/99,NA
+4110486,Subacute bronchitis unspecified,0,Condition,SNOMED,Clinical Finding,NA,195730002,1/31/02,1/31/10,U
+1569454,"Supraglottitis, unspecified",0,Condition,ICD10CM,4-char nonbill code,NA,J04.3,1/1/12,12/31/99,NA
+45572158,"Supraglottitis, unspecified, with obstruction",0,Condition,ICD10CM,5-char billing code,NA,J04.31,1/1/70,12/31/99,NA
+45562435,"Supraglottitis, unspecified, without obstruction",0,Condition,ICD10CM,5-char billing code,NA,J04.30,1/1/70,12/31/99,NA
+4110044,Tracheobronchitis NOS,0,Condition,SNOMED,Clinical Finding,NA,195937007,1/31/02,1/27/22,U
+35207970,Unspecified acute lower respiratory infection,0,Condition,ICD10CM,3-char billing code,NA,J22,1/1/07,12/31/99,NA

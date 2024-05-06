@@ -1,0 +1,34 @@
+concept_id,concept_code,concept_name,codeset
+4083547,23971007,Acute vomiting,nausea_vomiting_diarrhea
+4323686,71419002,Bilious vomiting,nausea_vomiting_diarrhea
+36716760,722933003,Bilious vomiting of newborn,nausea_vomiting_diarrhea
+4077500,275744000,Bilious vomit on examination,nausea_vomiting_diarrhea
+4091519,249519007,Diarrhea and vomiting,nausea_vomiting_diarrhea
+4170302,275297005,"Diarrhea and vomiting, symptom",nausea_vomiting_diarrhea
+4101344,300359004,Finding of vomiting,nausea_vomiting_diarrhea
+42539349,762279002,Functional nausea,nausea_vomiting_diarrhea
+4247894,73335002,Increased nausea and vomiting,nausea_vomiting_diarrhea
+4340522,236083006,Intermittent vomiting,nausea_vomiting_diarrhea
+44783646,698861005,Intractable nausea and vomiting,nausea_vomiting_diarrhea
+44806510,8.12681E+14,Minimal nausea,nausea_vomiting_diarrhea
+31967,422587007,Nausea,nausea_vomiting_diarrhea
+27674,16932000,Nausea and vomiting,nausea_vomiting_diarrhea
+4104544,2919008,"Nausea, vomiting and diarrhea",nausea_vomiting_diarrhea
+27321,196746003,Persistent vomiting,nausea_vomiting_diarrhea
+4311574,424580008,Post-tussive vomiting,nausea_vomiting_diarrhea
+4312477,8579004,Projectile vomiting,nausea_vomiting_diarrhea
+4309379,84480002,Retching,nausea_vomiting_diarrhea
+4222657,332982000,Uncontrollable vomiting,nausea_vomiting_diarrhea
+4321138,9814003,Violent retching,nausea_vomiting_diarrhea
+4200526,301790009,Vomited meal,nausea_vomiting_diarrhea
+441408,422400008,Vomiting,nausea_vomiting_diarrhea
+35623148,765480005,Vomiting co-occurrent and due to infectious disease,nausea_vomiting_diarrhea
+4023182,225586007,Vomiting food,nausea_vomiting_diarrhea
+4149594,3094009,Vomiting in infants AND/OR children,nausea_vomiting_diarrhea
+4169915,48000002,Vomiting in newborn,nausea_vomiting_diarrhea
+4096715,249497008,Vomiting symptom,nausea_vomiting_diarrhea
+45757468,1.46291E+14,Vomiting without nausea,nausea_vomiting_diarrhea
+4091519,249519007,Diarrhea and vomiting,nausea_vomiting_diarrhea
+4170302,275297005,"Diarrhea and vomiting, symptom",nausea_vomiting_diarrhea
+4145808,267060006,Diarrhea symptom,nausea_vomiting_diarrhea
+4104544,2919008,"Nausea, vomiting and diarrhea",nausea_vomiting_diarrhea

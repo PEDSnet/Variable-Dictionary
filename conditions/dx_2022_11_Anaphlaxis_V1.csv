@@ -1,0 +1,130 @@
+concept_id,concept_name,vocabulary_id,concept_code
+19251,Anaphylactic reaction due to unspecified food,ICD10CM,T78.00
+19252,Anaphylactic reaction due to peanuts,ICD10CM,T78.01
+19259,Anaphylactic reaction due to eggs,ICD10CM,T78.08
+19260,Anaphylactic reaction due to other food products,ICD10CM,T78.09
+44821406,Anaphylactic reaction due to fish,ICD9CM,995.65
+44821407,Anaphylactic reaction due to milk products,ICD9CM,995.67
+44823658,"Anaphylactic reaction due to serum, not elsewhere classified",ICD9CM,999.4
+44824839,Anaphylactic reaction due to peanuts,ICD9CM,995.61
+44826025,Anaphylactic reaction due to eggs,ICD9CM,995.68
+44827179,Anaphylactic reaction due to food additives,ICD9CM,995.66
+44828343,Anaphylactic reaction due to other specified food,ICD9CM,995.69
+44829475,Anaphylactic reaction due to food,ICD9CM,995.6
+44829488,Anaphylactic reaction due to vaccination,ICD9CM,999.42
+44831787,Anaphylactic reaction due to fruits and vegetables,ICD9CM,995.63
+44832926,Anaphylactic reaction due to tree nuts and seeds,ICD9CM,995.64
+44834121,Other anaphylactic reaction,ICD9CM,995
+44834126,Anaphylactic reaction due to administration of blood and blood products,ICD9CM,999.41
+44834227,Personal history of anaphylaxis,ICD9CM,V13.81
+44835303,Anaphylactic reaction due to other serum,ICD9CM,999.49
+44836484,Anaphylactic reaction due to crustaceans,ICD9CM,995.62
+44837633,Anaphylactic reaction due to unspecified food,ICD9CM,995.6
+45541800,"Anaphylactic reaction due to vaccination, initial encounter",ICD10CM,T80.52XA
+45541893,"Anaphylactic reaction due to adverse effect of correct drug or medicament properly administered, initial encounter",ICD10CM,T88.6XXA
+45546669,"Anaphylactic reaction due to peanuts, subsequent encounter",ICD10CM,T78.01XD
+45546670,"Anaphylactic reaction due to fruits and vegetables, sequela",ICD10CM,T78.04XS
+45546671,"Anaphylactic reaction due to tree nuts and seeds, initial encounter",ICD10CM,T78.05XA
+45546672,"Anaphylactic reaction due to eggs, initial encounter",ICD10CM,T78.08XA
+45551445,"Anaphylactic reaction due to tree nuts and seeds, subsequent encounter",ICD10CM,T78.05XD
+45551446,"Anaphylactic shock, unspecified, initial encounter",ICD10CM,T78.2XXA
+45551464,"Anaphylactic reaction due to administration of blood and blood products, subsequent encounter",ICD10CM,T80.51XD
+45551465,"Anaphylactic reaction due to other serum, subsequent encounter",ICD10CM,T80.59XD
+45556221,"Anaphylactic reaction due to eggs, sequela",ICD10CM,T78.08XS
+45561003,"Anaphylactic reaction due to peanuts, sequela",ICD10CM,T78.01XS
+45561004,"Anaphylactic reaction due to milk and dairy products, sequela",ICD10CM,T78.07XS
+45561109,"Anaphylactic reaction due to adverse effect of correct drug or medicament properly administered, sequela",ICD10CM,T88.6XXS
+45565797,"Anaphylactic reaction due to unspecified food, sequela",ICD10CM,T78.00XS
+45565798,"Anaphylactic reaction due to other fish, initial encounter",ICD10CM,T78.03XA
+45565799,"Anaphylactic shock, unspecified, subsequent encounter",ICD10CM,T78.2XXD
+45565807,"Anaphylactic reaction due to vaccination, subsequent encounter",ICD10CM,T80.52XD
+45570679,"Anaphylactic reaction due to shellfish (crustaceans), initial encounter",ICD10CM,T78.02XA
+45570680,"Anaphylactic reaction due to fruits and vegetables, initial encounter",ICD10CM,T78.04XA
+45570681,"Anaphylactic reaction due to tree nuts and seeds, sequela",ICD10CM,T78.05XS
+45570682,"Anaphylactic reaction due to food additives, subsequent encounter",ICD10CM,T78.06XD
+45575521,"Anaphylactic reaction due to other fish, sequela",ICD10CM,T78.03XS
+45575522,"Anaphylactic reaction due to eggs, subsequent encounter",ICD10CM,T78.08XD
+45575523,"Anaphylactic reaction due to other food products, sequela",ICD10CM,T78.09XS
+45580385,"Anaphylactic reaction due to vaccination, sequela",ICD10CM,T80.52XS
+45585207,"Anaphylactic reaction due to unspecified food, subsequent encounter",ICD10CM,T78.00XD
+45585208,"Anaphylactic reaction due to shellfish (crustaceans), sequela",ICD10CM,T78.02XS
+45585209,"Anaphylactic reaction due to food additives, initial encounter",ICD10CM,T78.06XA
+45585210,"Anaphylactic reaction due to milk and dairy products, initial encounter",ICD10CM,T78.07XA
+45585217,"Anaphylactic reaction due to administration of blood and blood products, initial encounter",ICD10CM,T80.51XA
+45590032,"Anaphylactic reaction due to peanuts, initial encounter",ICD10CM,T78.01XA
+45590033,"Anaphylactic reaction due to milk and dairy products, subsequent encounter",ICD10CM,T78.07XD
+45590036,"Anaphylactic shock, unspecified, sequela",ICD10CM,T78.2XXS
+45590767,Personal history of anaphylaxis,ICD10CM,Z87.892
+45594873,"Anaphylactic reaction due to fruits and vegetables, subsequent encounter",ICD10CM,T78.04XD
+45594874,"Anaphylactic reaction due to food additives, sequela",ICD10CM,T78.06XS
+45594979,"Anaphylactic reaction due to adverse effect of correct drug or medicament properly administered, subsequent encounter",ICD10CM,T88.6XXD
+45599718,"Anaphylactic reaction due to other food products, initial encounter",ICD10CM,T78.09XA
+45599735,"Anaphylactic reaction due to administration of blood and blood products, sequela",ICD10CM,T80.51XS
+45599736,"Anaphylactic reaction due to other serum, initial encounter",ICD10CM,T80.59XA
+45604510,"Anaphylactic reaction due to unspecified food, initial encounter",ICD10CM,T78.00XA
+45604511,"Anaphylactic reaction due to shellfish (crustaceans), subsequent encounter",ICD10CM,T78.02XD
+45604512,"Anaphylactic reaction due to other fish, subsequent encounter",ICD10CM,T78.03XD
+45609293,"Anaphylactic reaction due to other food products, subsequent encounter",ICD10CM,T78.09XD
+42574086,Anaphylactic reaction to rabies vaccine,SNOMED Veterinary,3.2941E+13
+42536383,Anaphylactic shock,SNOMED,735173007
+442038,Anaphylactic shock due to serum,SNOMED,213320003
+4193788,Anaphylactic transfusion reaction,SNOMED,79337003
+4148381,Anaphylactoid reaction,SNOMED,35001004
+44809610,Anaphylactoid reaction due to haemodialysis,SNOMED,8.54161E+14
+4270864,"Anaphylactoid reaction, iatrogenic",SNOMED,402395003
+4030678,Anaphylactoid reaction to dialysis,SNOMED,236540009
+44782656,Anaphylactoid reaction to food additive,SNOMED,698300001
+4299301,Anaphylactoid reaction to radiocontrast media,SNOMED,402396002
+441202,Anaphylaxis,SNOMED,39579001
+3661865,Anaphylaxis after allergen immunotherapy,SNOMED,871930001
+3661863,Anaphylaxis caused by insect bite and/or insect sting,SNOMED,871926004
+42536526,Anaphylaxis caused by insect venom,SNOMED,735447008
+42538691,Anaphylaxis caused by low temperature,SNOMED,762455001
+36713986,Anaphylaxis caused by lupin flour,SNOMED,719040004
+37396175,Anaphylaxis caused by sulfite salt,SNOMED,715887004
+36713373,Anaphylaxis caused by sulfur dioxide,SNOMED,716374005
+4083866,Anaphylaxis caused by venom,SNOMED,241930003
+443560,Anaphylaxis due to fish,SNOMED,427903006
+436863,Anaphylaxis due to fruit,SNOMED,429751004
+4330225,Anaphylaxis due to hymenoptera venom,SNOMED,430980000
+4292362,Anaphylaxis due to ingested food,SNOMED,402390008
+40479646,Anaphylaxis due to latex,SNOMED,441593005
+4176292,Anaphylaxis due to mollusk,SNOMED,427833000
+40479204,Anaphylaxis due to seed,SNOMED,441492003
+40481793,Anaphylaxis due to shellfish,SNOMED,442052005
+4221182,Anaphylaxis due to substance,SNOMED,417516000
+40479207,Anaphylaxis due to tree nut,SNOMED,441495001
+443567,Anaphylaxis due to vegetable,SNOMED,428795003
+4084637,Aspirin-induced anaphylactoid reaction,SNOMED,241949004
+45767058,At risk of anaphylaxis,SNOMED,704354006
+4084633,Bee sting-induced anaphylaxis,SNOMED,241931004
+3661817,Blood product-induced anaphylactoid reaction,SNOMED,871554001
+4301784,Bullous urticaria pigmentosa,SNOMED,404170009
+4084638,Cholinergic anaphylactoid reaction,SNOMED,241953002
+437442,Cow's milk protein-induced anaphylaxis,SNOMED,241936009
+4086740,Dialysis membrane-induced anaphylactoid reaction,SNOMED,241951000
+4083993,Drug-induced anaphylactoid reaction,SNOMED,241947002
+4084168,Drug-induced anaphylaxis,SNOMED,241937000
+4084635,Egg white-induced anaphylaxis,SNOMED,241935008
+4083995,Exercise anaphylaxis,SNOMED,241952007
+434219,Food anaphylaxis,SNOMED,91941002
+36716445,Hennekam Beemer syndrome,SNOMED,722453009
+4084639,Idiopathic anaphylaxis,SNOMED,241954008
+4086739,Immunoglobulin-induced anaphylactoid reaction,SNOMED,241945005
+4086737,Insulin-induced anaphylaxis,SNOMED,241939002
+4032658,Localized anaphylaxis,SNOMED,14654002
+37309640,Mast cell activation syndrome,SNOMED,1.66979E+16
+439412,Mast cell disorder,SNOMED,397007003
+37312136,Mast cell gastritis,SNOMED,789697006
+4084636,NSAID-induced anaphylactoid reaction,SNOMED,241948007
+435987,Peanut-induced anaphylaxis,SNOMED,241933001
+4084169,Penicillin-induced anaphylaxis,SNOMED,241938005
+442010,Seafood-induced anaphylaxis,SNOMED,241934007
+4086738,Seminal fluid-induced anaphylaxis,SNOMED,241941001
+42539054,Shock co-occurrent and due to anaphylaxis caused by serum,SNOMED,735975001
+4219464,Telangiectasia macularis eruptiva perstans,SNOMED,8214000
+4301385,Urticaria pigmentosa,SNOMED,78745000
+4147317,"Urticaria pigmentosa, adult form",SNOMED,34739009
+4297865,"Urticaria pigmentosa, infantile form",SNOMED,76621000
+4084634,Wasp sting-induced anaphylaxis,SNOMED,241932006
+4084170,Whole blood-induced anaphylactoid reaction,SNOMED,241944009

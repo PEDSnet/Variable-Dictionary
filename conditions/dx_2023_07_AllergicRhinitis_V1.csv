@@ -1,0 +1,62 @@
+concept_id,concept_code,concept_name,vocabulary_id
+45757081,10629391000119103,Allergic rhinitis caused by feathers,SNOMED
+46269743,10629431000119108,Allergic rhinitis caused by insects,SNOMED
+46269771,10675551000119104,Acute severe exacerbation of severe persistent asthma co-occurrent with allergic rhinitis,SNOMED
+46269773,10675631000119109,Severe persistent asthma controlled co-occurrent with allergic rhinitis,SNOMED
+46269775,10675711000119106,Severe persistent asthma uncontrolled co-occurrent with allergic rhinitis,SNOMED
+46269777,10675991000119100,Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis,SNOMED
+46269779,10676111000119102,Mild persistent asthma controlled co-occurrent with allergic rhinitis,SNOMED
+46269782,10676231000119102,Mild persistent asthma uncontrolled co-occurrent with allergic rhinitis,SNOMED
+46269785,10676511000119109,Acute severe exacerbation of moderate persistent asthma co-occurrent with allergic rhinitis,SNOMED
+46269787,10676591000119100,Moderate persistent controlled asthma co-occurrent with allergic rhinitis,SNOMED
+46269789,10676671000119102,Moderate persistent asthma uncontrolled co-occurrent with allergic rhinitis,SNOMED
+4009043,111277007,Pharyngeal bursitis,SNOMED
+46270028,124991000119109,Severe persistent asthma co-occurrent with allergic rhinitis,SNOMED
+46273454,125001000119103,Moderate persistent asthma co-occurrent with allergic rhinitis,SNOMED
+46270029,125011000119100,Mild persistent asthma co-occurrent with allergic rhinitis,SNOMED
+46270030,125021000119107,Intermittent asthma co-occurrent with allergic rhinitis,SNOMED
+436720,13177009,Cellulitis of nasopharynx,SNOMED
+46270156,156051000119109,Allergic rhinitis due to animal hair and dander,SNOMED
+4112367,195765002,Chronic simple rhinitis,SNOMED
+4112497,195768000,Chronic hypertrophic rhinitis,SNOMED
+4110489,195769008,Chronic atrophic rhinitis,SNOMED
+4110027,195770009,Chronic infective rhinitis,SNOMED
+4112529,195771008,Chronic ulcerative rhinitis,SNOMED
+4112498,195772001,Chronic membranous rhinitis,SNOMED
+4110490,195773006,Chronic fibrinous rhinitis,SNOMED
+24978,195798007,Chronic adenotonsillitis,SNOMED
+256439,21719001,Allergic rhinitis due to pollen,SNOMED
+4051475,232344001,Rhinitis caseosa,SNOMED
+4048171,232353008,Perennial allergic rhinitis with seasonal variation,SNOMED
+439851,232420002,Chronic adenoiditis,SNOMED
+4123253,233683003,Hay fever with asthma,SNOMED
+4123082,234528007,Nasopharyngeal sarcoidosis,SNOMED
+443775,24078009,Gangosa of yaws,SNOMED
+4145495,266342009,Chronic catarrhal rhinitis,SNOMED
+4280726,367498001,Seasonal allergic rhinitis,SNOMED
+443558,429195002,Allergic rhinitis due to animal dander,SNOMED
+40481374,441978001,Allergic rhinitis due to food,SNOMED
+40482414,445130008,Acute infective adenoiditis,SNOMED
+40486433,446096008,Perennial allergic rhinitis,SNOMED
+42709857,449729000,Allergic rhinitis due to house dust mite,SNOMED
+441321,47841006,Chronic nasopharyngitis,SNOMED
+4197268,51476001,Nasopharyngitis,SNOMED
+4181738,54287007,Ozena laryngis,SNOMED
+4209565,56498009,Tuberculosis of nasopharynx,SNOMED
+4244268,59221008,Parainfluenza virus rhinopharyngitis,SNOMED
+257007,61582004,Allergic rhinitis,SNOMED
+4288156,69646003,Ozena,SNOMED
+4289744,70020005,Adenoiditis,SNOMED
+45766684,703903005,Allergic rhinitis due to Dermatophagoides farinae,SNOMED
+45766713,703937002,Allergic rhinitis due to Dermatophagoides pteronyssinus,SNOMED
+259848,86094006,Chronic rhinitis,SNOMED
+46273416,88171000119100,Acute adenoiditis,SNOMED
+619760,897657000,Chronic rhinosinusitis,SNOMED
+252936,91925003,Allergic rhinitis due to animals,SNOMED
+4241525,91926002,Allergic rhinitis due to grass pollen,SNOMED
+4241526,91927006,Allergic rhinitis due to tree pollen,SNOMED
+4240899,91928001,Allergic rhinitis due to weed pollen,SNOMED
+4247588,93447004,Eosinophilic nonallergic rhinitis,SNOMED
+4316066,95239003,Rhinitis medicamentosa,SNOMED
+4316067,95240001,Rhinitis sicca,SNOMED
+46273452,99031000119107,Acute exacerbation of asthma co-occurrent with allergic rhinitis,SNOMED

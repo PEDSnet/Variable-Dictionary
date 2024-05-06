@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Psoriasis                                                                                                                                |
-|Codeset Link |[dx_2021_11_Psoriasis_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_Psoriasis_V1.csv.csv)       |
+|Codeset Link |[dx_2021_11_Psoriasis_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_Psoriasis_V1.csv)           |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Psoriasis diagnosis codes                                                                                                                |
 |Vocabulary   |ICD10,ICD10CM,SNOMED                                                                                                                     |

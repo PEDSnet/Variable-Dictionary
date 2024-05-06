@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                     |
 |:------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Ureteral Stent                                                                                                                            |
-|Codeset Link |[px_2022_04_UreteralStent_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_2022_04_UreteralStent_V1.csv.csv)|
+|Codeset Link |[px_2022_04_UreteralStent_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_2022_04_UreteralStent_V1.csv)    |
 |CDM          |PEDSnet                                                                                                                                   |
 |Description  |Ureteral stent procedures                                                                                                                 |
 |Vocabulary   |CPT4,SNOMED,OPCS4                                                                                                                         |

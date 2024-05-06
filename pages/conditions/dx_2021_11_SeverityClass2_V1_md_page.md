@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Severity Class 2, Diagnoses                                                                                                              |
-|Codeset Link |[dx_2021_11_SeverityClass2_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_SeverityClass2_V1.csv.csv)|
+|Codeset Link |[dx_2021_11_SeverityClass2_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_SeverityClass2_V1.csv) |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Merged diagnosis codeset for severity class 2 (diagnoses)                                                                                |
 |Vocabulary   |SNOMED                                                                                                                                   |

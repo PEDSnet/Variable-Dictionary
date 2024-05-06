@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |COVID-19 Diagnoses                                                                                                                       |
-|Codeset Link |[dx_2021_11_Covid19Diagnoses_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_Covid19Diagnoses_V1.csv.csv)|
+|Codeset Link |[dx_2021_11_Covid19Diagnoses_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_Covid19Diagnoses_V1.csv)|
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Diagnoses specific to COVID-19.                                                                                                          |
 |Vocabulary   |SNOMED                                                                                                                                   |

@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                         |
 |:------------|:-------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Cystitis                                                                                                      |
-|Codeset Link |[dx_2022_03_Cystitis_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2022_03_Cystitis_V1.csv.csv)|
+|Codeset Link |[dx_2022_03_Cystitis_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2022_03_Cystitis_V1.csv)|
 |CDM          |PEDSnet                                                                                                       |
 |Description  |diagnoses of cystitis                                                                                         |
 |Vocabulary   |SNOMED                                                                                                        |

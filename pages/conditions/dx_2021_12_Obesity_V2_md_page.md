@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Obesity Diagnosis for RECOVER                                                                                                            |
-|Codeset Link |[dx_2021_12_Obesity_V2.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_12_Obesity_V2.csv.csv)           |
+|Codeset Link |[dx_2021_12_Obesity_V2.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_12_Obesity_V2.csv)               |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Diagnosis of obesity                                                                                                                     |
 |Vocabulary   |ICD10,ICD10CM                                                                                                                            |

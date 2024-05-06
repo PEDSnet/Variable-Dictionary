@@ -1,7 +1,7 @@
 |Field        |Value                                                                         |
 |:------------|:-----------------------------------------------------------------------------|
 |Codeset Name |Serum Cystatin Measurement                                                    |
-|Codeset Link |[lab_2021_11_SerumCystatin_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/lab_meas/lab_2021_11_SerumCystatin_V1.csv.csv)|
+|Codeset Link |[lab_2021_11_SerumCystatin_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/lab_meas/lab_2021_11_SerumCystatin_V1.csv)|
 |CDM          |PEDSnet,PCORnet                                                               |
 |Description  |Serum cystatin measurements                                                   |
 |Vocabulary   |ICD11CM                                                                       |

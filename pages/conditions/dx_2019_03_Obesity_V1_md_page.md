@@ -1,7 +1,7 @@
 |Field        |Value                                     |
 |:------------|:-----------------------------------------|
 |Codeset Name |Obesity in PCORnet CDM                    |
-|Codeset Link |[dx_2019_03_Obesity_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2019_03_Obesity_V1.csv.csv)|
+|Codeset Link |[dx_2019_03_Obesity_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2019_03_Obesity_V1.csv)|
 |CDM          |PCORnet                                   |
 |Description  |NA                                        |
 |Vocabulary   |ICD9CM,ICD10,ICD10CM,SNOMED               |

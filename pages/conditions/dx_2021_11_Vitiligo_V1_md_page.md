@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Vitiligo                                                                                                                                 |
-|Codeset Link |[dx_2021_11_Vitiligo_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_Vitiligo_V1.csv.csv)         |
+|Codeset Link |[dx_2021_11_Vitiligo_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_Vitiligo_V1.csv)             |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Vitiligo diagnosis codes                                                                                                                 |
 |Vocabulary   |ICD10,ICD10CM,SNOMED                                                                                                                     |

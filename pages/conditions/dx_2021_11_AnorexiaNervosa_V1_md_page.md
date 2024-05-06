@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Anorexia Nervosa                                                                                                                         |
-|Codeset Link |[dx_2021_11_AnorexiaNervosa_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_AnorexiaNervosa_V1.csv.csv)|
+|Codeset Link |[dx_2021_11_AnorexiaNervosa_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_AnorexiaNervosa_V1.csv)|
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Symptom of anorexia                                                                                                                      |
 |Vocabulary   |SNOMED                                                                                                                                   |

@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                     |
 |:------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Bone Density Procedures                                                                                                                   |
-|Codeset Link |[px_2022_04_BoneDensity_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_2022_04_BoneDensity_V1.csv.csv)    |
+|Codeset Link |[px_2022_04_BoneDensity_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_2022_04_BoneDensity_V1.csv)        |
 |CDM          |PEDSnet                                                                                                                                   |
 |Description  |Procedures to measure bone density                                                                                                        |
 |Vocabulary   |CPT4,HCPCS,SNOMED                                                                                                                         |

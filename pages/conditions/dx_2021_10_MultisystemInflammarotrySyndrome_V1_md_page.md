@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Multisystem Inflammatory Syndrome                                                                                                        |
-|Codeset Link |[dx_2021_10_MultisystemInflammarotrySyndrome_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_10_MultisystemInflammarotrySyndrome_V1.csv.csv)|
+|Codeset Link |[dx_2021_10_MultisystemInflammarotrySyndrome_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_10_MultisystemInflammarotrySyndrome_V1.csv)|
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Multisystem Inflammatory Syndrome diagnosis codes                                                                                        |
 |Vocabulary   |SNOMED                                                                                                                                   |

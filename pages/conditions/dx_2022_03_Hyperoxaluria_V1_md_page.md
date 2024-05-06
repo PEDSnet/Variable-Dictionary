@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                     |
 |:------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Hyperoxaluria                                                                                                                             |
-|Codeset Link |[dx_2022_03_Hyperoxaluria_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2022_03_Hyperoxaluria_V1.csv.csv)|
+|Codeset Link |[dx_2022_03_Hyperoxaluria_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2022_03_Hyperoxaluria_V1.csv)    |
 |CDM          |PEDSnet                                                                                                                                   |
 |Description  |Diagnoses for or related to primary hyperoxaluria                                                                                         |
 |Vocabulary   |SNOMED                                                                                                                                    |

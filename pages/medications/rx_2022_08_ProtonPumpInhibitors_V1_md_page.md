@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                        |
 |:------------|:--------------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Proton-Pump Inhibitors                                                                                                                       |
-|Codeset Link |[rx_2022_08_ProtonPumpInhibitors_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2022_08_ProtonPumpInhibitors_V1.csv.csv)|
+|Codeset Link |[rx_2022_08_ProtonPumpInhibitors_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2022_08_ProtonPumpInhibitors_V1.csv)|
 |CDM          |PEDSnet                                                                                                                                      |
 |Description  |exposures to one of the following proton-pump inhibitors: omeprazole, esomeprazole, lansoprazole, pantoprazole, rabeprazole, dexlansoprazole |
 |Vocabulary   |RxNorm,RxNorm Extension                                                                                                                      |

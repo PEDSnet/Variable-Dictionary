@@ -1,7 +1,7 @@
 |Field        |Value                                                                         |
 |:------------|:-----------------------------------------------------------------------------|
 |Codeset Name |Inpatient Visits                                                              |
-|Codeset Link |[ucp_2021_09_Inpatient Visits_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visits/ucp_2021_09_Inpatient Visits_V1.csv.csv)|
+|Codeset Link |[ucp_2021_09_Inpatient Visits_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visits/ucp_2021_09_Inpatient Visits_V1.csv)|
 |CDM          |PCORnet                                                                       |
 |Description  |Inpatient and Emergency->Inpatient Visits                                     |
 |Vocabulary   |NA                                                                            |

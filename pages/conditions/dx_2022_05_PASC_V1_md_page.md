@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Post-Acute Sequelae of SARS-CoV2                                                                                                         |
-|Codeset Link |[dx_2022_05_PASC_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2022_05_PASC_V1.csv.csv)                 |
+|Codeset Link |[dx_2022_05_PASC_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2022_05_PASC_V1.csv)                     |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |NA                                                                                                                                       |
 |Vocabulary   |ICD10,ICD10CM                                                                                                                            |

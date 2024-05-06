@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Abnormal Weight Gain                                                                                                                     |
-|Codeset Link |[dx_2021_12_AbnormalWeightGain_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_12_AbnormalWeightGain_V1.csv.csv)|
+|Codeset Link |[dx_2021_12_AbnormalWeightGain_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_12_AbnormalWeightGain_V1.csv)|
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Diagnosis of weight gain.                                                                                                                |
 |Vocabulary   |ICD10,ICD10CM                                                                                                                            |

@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Malaise and Fatigue                                                                                                                      |
-|Codeset Link |[dx_2021_10_MalaiseFatigue_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_10_MalaiseFatigue_V1.csv.csv)|
+|Codeset Link |[dx_2021_10_MalaiseFatigue_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_10_MalaiseFatigue_V1.csv) |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Symptoms of fatigue or malaise.                                                                                                          |
 |Vocabulary   |SNOMED                                                                                                                                   |

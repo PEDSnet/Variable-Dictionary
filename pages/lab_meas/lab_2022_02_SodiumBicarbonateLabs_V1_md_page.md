@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Sodium Bicarbonate Measurement                                                                                                           |
-|Codeset Link |[lab_2022_02_SodiumBicarbonateLabs_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/lab_meas/lab_2022_02_SodiumBicarbonateLabs_V1.csv.csv)|
+|Codeset Link |[lab_2022_02_SodiumBicarbonateLabs_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/lab_meas/lab_2022_02_SodiumBicarbonateLabs_V1.csv)|
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Sodium bicarbonate labs.                                                                                                                 |
 |Vocabulary   |CPT4,LOINC,EDI                                                                                                                           |

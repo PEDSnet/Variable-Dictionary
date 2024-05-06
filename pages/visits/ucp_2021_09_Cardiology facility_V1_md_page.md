@@ -1,7 +1,7 @@
 |Field        |Value                                                                         |
 |:------------|:-----------------------------------------------------------------------------|
 |Codeset Name |Cardiology, Facility                                                          |
-|Codeset Link |[ucp_2021_09_Cardiology facility_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visits/ucp_2021_09_Cardiology facility_V1.csv.csv)|
+|Codeset Link |[ucp_2021_09_Cardiology facility_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visits/ucp_2021_09_Cardiology facility_V1.csv)|
 |CDM          |PEDSnet,PCORnet                                                               |
 |Description  |Cardiology facility                                                           |
 |Vocabulary   |SNOMED                                                                        |

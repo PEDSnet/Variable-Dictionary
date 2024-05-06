@@ -1,7 +1,7 @@
 |Field        |Value                                                                         |
 |:------------|:-----------------------------------------------------------------------------|
 |Codeset Name |Proteinuria                                                                   |
-|Codeset Link |[dx_2022_08_Proteinuria_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2022_08_Proteinuria_V1.csv.csv)|
+|Codeset Link |[dx_2022_08_Proteinuria_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2022_08_Proteinuria_V1.csv)|
 |CDM          |PEDSnet                                                                       |
 |Description  |Did patient have this condition                                               |
 |Vocabulary   |SNOMED                                                                        |

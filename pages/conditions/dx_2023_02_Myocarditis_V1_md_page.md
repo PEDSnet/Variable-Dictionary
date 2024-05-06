@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Myocarditis for CDC Morbidity and Mortality Weekly Report                                                                                |
-|Codeset Link |[dx_2023_02_Myocarditis_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2023_02_Myocarditis_V1.csv.csv)   |
+|Codeset Link |[dx_2023_02_Myocarditis_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2023_02_Myocarditis_V1.csv)       |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |MMWR-specific codeset was used as an outcome of interest in the COVID VE paper (Razzaghi et al. 2024)                                    |
 |Vocabulary   |ICD10CM                                                                                                                                  |

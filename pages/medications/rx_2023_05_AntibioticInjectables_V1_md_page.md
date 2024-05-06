@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                                         |
 |:------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Antibiotic Injectables                                                                                                                                        |
-|Codeset Link |[rx_2023_05_AntibioticInjectables_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2023_05_AntibioticInjectables_V1.csv.csv)         |
+|Codeset Link |[rx_2023_05_AntibioticInjectables_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2023_05_AntibioticInjectables_V1.csv)             |
 |CDM          |PEDSnet                                                                                                                                                       |
 |Description  |injectable antibiotic drugs for neonates. purpose is to evaluate use of injectable antibiotic medications during hospitalization at clinical dose group level |
 |Vocabulary   |RxNorm                                                                                                                                                        |

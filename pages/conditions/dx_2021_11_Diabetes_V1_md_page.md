@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Diabetes                                                                                                                                 |
-|Codeset Link |[dx_2021_11_Diabetes_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_Diabetes_V1.csv.csv)         |
+|Codeset Link |[dx_2021_11_Diabetes_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_Diabetes_V1.csv)             |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |NA                                                                                                                                       |
 |Vocabulary   |SNOMED                                                                                                                                   |

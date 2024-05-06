@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Intravenous Fluids                                                                                                                       |
-|Codeset Link |[rx_2021_11_IVFluids_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2021_11_IVFluids_V1.csv.csv)              |
+|Codeset Link |[rx_2021_11_IVFluids_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2021_11_IVFluids_V1.csv)                  |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Full medication codeset for IV fluids.                                                                                                   |
 |Vocabulary   |RxNorm,RxNorm Extension                                                                                                                  |

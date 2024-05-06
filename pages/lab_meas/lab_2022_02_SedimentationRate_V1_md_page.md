@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Sedimentation Rate                                                                                                                       |
-|Codeset Link |[lab_2022_02_SedimentationRate_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/lab_meas/lab_2022_02_SedimentationRate_V1.csv.csv)|
+|Codeset Link |[lab_2022_02_SedimentationRate_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/lab_meas/lab_2022_02_SedimentationRate_V1.csv)|
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |NA                                                                                                                                       |
 |Vocabulary   |ICD11CM,SNOMED                                                                                                                           |

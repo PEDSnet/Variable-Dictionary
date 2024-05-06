@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Troponin Measurement                                                                                                                     |
-|Codeset Link |[px_2022_04_TroponinLabs_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/lab_meas/px_2022_04_TroponinLabs_V1.csv.csv)   |
+|Codeset Link |[px_2022_04_TroponinLabs_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/lab_meas/px_2022_04_TroponinLabs_V1.csv)       |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |NA                                                                                                                                       |
 |Vocabulary   |ICD11CM                                                                                                                                  |

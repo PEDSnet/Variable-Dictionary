@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Pulmonary Embolism Diagnosis for RECOVER                                                                                                 |
-|Codeset Link |[dx_2021_12_PulmonaryEmbolism_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_12_PulmonaryEmbolism_V1.csv.csv)|
+|Codeset Link |[dx_2021_12_PulmonaryEmbolism_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_12_PulmonaryEmbolism_V1.csv)|
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Diagnosis of pulmonary embolism.                                                                                                         |
 |Vocabulary   |ICD10,ICD10CM                                                                                                                            |

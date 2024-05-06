@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Stroke                                                                                                                                   |
-|Codeset Link |[dx_2023_Stroke_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2023_Stroke_V1.csv.csv)                   |
+|Codeset Link |[dx_2023_Stroke_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2023_Stroke_V1.csv)                       |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Developed as an outcome for the sickle cell disease manuscript                                                                           |
 |Vocabulary   |ICD10,ICD10CM,SNOMED                                                                                                                     |

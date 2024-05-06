@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Renal Failure                                                                                                                            |
-|Codeset Link |[dx_2021_12_RenalFailure_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_12_RenalFailure_V1.csv.csv) |
+|Codeset Link |[dx_2021_12_RenalFailure_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_12_RenalFailure_V1.csv)     |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Diagnosis of chronic renal failure                                                                                                       |
 |Vocabulary   |ICD10,ICD10CM                                                                                                                            |

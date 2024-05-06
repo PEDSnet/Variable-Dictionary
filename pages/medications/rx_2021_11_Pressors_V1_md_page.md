@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Vasopressors                                                                                                                             |
-|Codeset Link |[rx_2021_11_Pressors_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2021_11_Pressors_V1.csv.csv)              |
+|Codeset Link |[rx_2021_11_Pressors_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2021_11_Pressors_V1.csv)                  |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Drug codes for pressors/inotropes                                                                                                        |
 |Vocabulary   |RxNorm Extension,SNOMED                                                                                                                  |

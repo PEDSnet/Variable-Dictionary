@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                     |
 |:------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Shockwave Lithotripsy                                                                                                                     |
-|Codeset Link |[px_2022_04_ShockwaveLithotripsy_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_2022_04_ShockwaveLithotripsy_V1.csv.csv)|
+|Codeset Link |[px_2022_04_ShockwaveLithotripsy_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_2022_04_ShockwaveLithotripsy_V1.csv)|
 |CDM          |PEDSnet                                                                                                                                   |
 |Description  |Shockwave Lithotripsy procedures                                                                                                          |
 |Vocabulary   |CPT4,HCPCS,ICD9Proc,SNOMED,OPCS4                                                                                                          |

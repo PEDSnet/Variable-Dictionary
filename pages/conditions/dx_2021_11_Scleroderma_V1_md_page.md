@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Scleroderma                                                                                                                              |
-|Codeset Link |[dx_2021_11_Scleroderma_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_Scleroderma_V1.csv.csv)   |
+|Codeset Link |[dx_2021_11_Scleroderma_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_Scleroderma_V1.csv)       |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Scleroderma diagnosis codes.                                                                                                             |
 |Vocabulary   |ICD10,ICD10CM,SNOMED                                                                                                                     |

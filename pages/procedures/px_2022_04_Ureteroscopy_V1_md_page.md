@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                     |
 |:------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Ureteroscopy                                                                                                                              |
-|Codeset Link |[px_2022_04_Ureteroscopy_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_2022_04_Ureteroscopy_V1.csv.csv)  |
+|Codeset Link |[px_2022_04_Ureteroscopy_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_2022_04_Ureteroscopy_V1.csv)      |
 |CDM          |PEDSnet                                                                                                                                   |
 |Description  |Ureteroscopy procedures                                                                                                                   |
 |Vocabulary   |CPT4,HCPCS,SNOMED                                                                                                                         |

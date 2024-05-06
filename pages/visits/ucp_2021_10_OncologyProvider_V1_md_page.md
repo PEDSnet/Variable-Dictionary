@@ -1,7 +1,7 @@
 |Field        |Value                                                                         |
 |:------------|:-----------------------------------------------------------------------------|
 |Codeset Name |Oncology, Provider Specialty                                                  |
-|Codeset Link |[ucp_2021_10_OncologyProvider_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visits/ucp_2021_10_OncologyProvider_V1.csv.csv)|
+|Codeset Link |[ucp_2021_10_OncologyProvider_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visits/ucp_2021_10_OncologyProvider_V1.csv)|
 |CDM          |PCORnet                                                                       |
 |Description  |Oncology provider                                                             |
 |Vocabulary   |NUCC                                                                          |

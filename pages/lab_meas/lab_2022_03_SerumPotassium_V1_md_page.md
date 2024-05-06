@@ -1,7 +1,7 @@
 |Field        |Value                                                                         |
 |:------------|:-----------------------------------------------------------------------------|
 |Codeset Name |Serum Potassium Measurement                                                   |
-|Codeset Link |[lab_2022_03_SerumPotassium_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/lab_meas/lab_2022_03_SerumPotassium_V1.csv.csv)|
+|Codeset Link |[lab_2022_03_SerumPotassium_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/lab_meas/lab_2022_03_SerumPotassium_V1.csv)|
 |CDM          |PEDSnet,PCORnet                                                               |
 |Description  |Serum potassium measurements                                                  |
 |Vocabulary   |ICD11CM                                                                       |

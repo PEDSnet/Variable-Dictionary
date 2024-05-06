@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Acute Respiratory Distress Syndrome, Diagnosis                                                                                           |
-|Codeset Link |[dx_2021_12_AcuteRespitoryDistressSyndrome_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_12_AcuteRespitoryDistressSyndrome_V1.csv.csv)|
+|Codeset Link |[dx_2021_12_AcuteRespitoryDistressSyndrome_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_12_AcuteRespitoryDistressSyndrome_V1.csv)|
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Diagnosis of acute respiratory distress.                                                                                                 |
 |Vocabulary   |ICD10CM                                                                                                                                  |

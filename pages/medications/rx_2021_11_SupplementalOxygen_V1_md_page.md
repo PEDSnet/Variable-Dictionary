@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Supplemental Oxygen                                                                                                                      |
-|Codeset Link |[rx_2021_11_SupplementalOxygen_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2021_11_SupplementalOxygen_V1.csv.csv)|
+|Codeset Link |[rx_2021_11_SupplementalOxygen_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2021_11_SupplementalOxygen_V1.csv)|
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Procedure codes for use of supplemental oxygen                                                                                           |
 |Vocabulary   |CPT4,HCPCS,ICD9Proc,ICD10PCS                                                                                                             |

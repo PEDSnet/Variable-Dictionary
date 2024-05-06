@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                         |
 |:------------|:-------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Retinopathy                                                                                                   |
-|Codeset Link |[dx_2022_03_Retinopathy_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2022_03_Retinopathy_V1.csv.csv)|
+|Codeset Link |[dx_2022_03_Retinopathy_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2022_03_Retinopathy_V1.csv)|
 |CDM          |PEDSnet                                                                                                       |
 |Description  |diagnoses related to retinopathy / retinal conditions                                                         |
 |Vocabulary   |SNOMED                                                                                                        |

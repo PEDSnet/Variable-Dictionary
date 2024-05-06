@@ -1,7 +1,7 @@
 |Field        |Value                                                                         |
 |:------------|:-----------------------------------------------------------------------------|
 |Codeset Name |Urine Creatinine Measurement                                                  |
-|Codeset Link |[lab_2021_11_UrineCreatinine_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/lab_meas/lab_2021_11_UrineCreatinine_V1.csv.csv)|
+|Codeset Link |[lab_2021_11_UrineCreatinine_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/lab_meas/lab_2021_11_UrineCreatinine_V1.csv)|
 |CDM          |PEDSnet,PCORnet                                                               |
 |Description  |Urine creatinine measurements                                                 |
 |Vocabulary   |ICD11CM                                                                       |

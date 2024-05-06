@@ -1,7 +1,7 @@
 |Field        |Value                                   |
 |:------------|:---------------------------------------|
 |Codeset Name |Anti-Diabetic Agents, Intravenous       |
-|Codeset Link |[rx_2018_04_AntiDiabeticAgents_IV_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2018_04_AntiDiabeticAgents_IV_V1.csv.csv)|
+|Codeset Link |[rx_2018_04_AntiDiabeticAgents_IV_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2018_04_AntiDiabeticAgents_IV_V1.csv)|
 |CDM          |PEDSnet                                 |
 |Description  |NA                                      |
 |Vocabulary   |RxNorm                                  |

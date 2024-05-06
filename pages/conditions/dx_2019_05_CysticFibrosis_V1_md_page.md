@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                     |
 |:------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Cystic Fibrosis                                                                                                                           |
-|Codeset Link |[dx_2019_05_CysticFibrosis_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2019_05_CysticFibrosis_V1.csv.csv)|
+|Codeset Link |[dx_2019_05_CysticFibrosis_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2019_05_CysticFibrosis_V1.csv)  |
 |CDM          |PEDSnet                                                                                                                                   |
 |Description  |diagnoses of cystic fibrosis                                                                                                              |
 |Vocabulary   |SNOMED                                                                                                                                    |

@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                 |
 |:------------|:-----------------------------------------------------------------------------------------------------|
 |Codeset Name |Esophageal Reflux                                                                                     |
-|Codeset Link |[dx_2021_09_EsophagealReflux_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_09_EsophagealReflux_V1.csv.csv)|
+|Codeset Link |[dx_2021_09_EsophagealReflux_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_09_EsophagealReflux_V1.csv)|
 |CDM          |PEDSnet                                                                                               |
 |Description  |Did patient have this condition                                                                       |
 |Vocabulary   |SNOMED                                                                                                |

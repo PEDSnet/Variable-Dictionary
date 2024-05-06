@@ -1,7 +1,7 @@
 |Field        |Value                                                                                  |
 |:------------|:--------------------------------------------------------------------------------------|
 |Codeset Name |Crohn's Disease                                                                        |
-|Codeset Link |[dx_2021_04_CrohnsDisease_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_04_CrohnsDisease_V1.csv.csv)|
+|Codeset Link |[dx_2021_04_CrohnsDisease_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_04_CrohnsDisease_V1.csv)|
 |CDM          |PEDSnet                                                                                |
 |Description  |NA                                                                                     |
 |Vocabulary   |SNOMED                                                                                 |

@@ -1,7 +1,7 @@
 |Field        |Value                                                      |
 |:------------|:----------------------------------------------------------|
 |Codeset Name |Tacrolimus and Cyclosporine                                |
-|Codeset Link |[rx_2019_11_TacrolimusCyclosporine_V2.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2019_11_TacrolimusCyclosporine_V2.csv.csv)|
+|Codeset Link |[rx_2019_11_TacrolimusCyclosporine_V2.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2019_11_TacrolimusCyclosporine_V2.csv)|
 |CDM          |PEDSnet                                                    |
 |Description  |Calcineurin inhibitors tacrolimus cyclosporine             |
 |Vocabulary   |RxNorm,RxNorm Extension                                    |

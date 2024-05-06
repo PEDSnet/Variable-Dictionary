@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                                                                           |
 |:------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Atopic Dermatitis                                                                                                                                                                               |
-|Codeset Link |[dx_2023_10_AtopicDermatitis_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2023_10_AtopicDermatitis_V1.csv.csv)                                                |
+|Codeset Link |[dx_2023_10_AtopicDermatitis_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2023_10_AtopicDermatitis_V1.csv)                                                    |
 |CDM          |PEDSnet                                                                                                                                                                                         |
 |Description  |Code set used to determine whether patient had this condition.                                                                                                                                  |
 |Vocabulary   |SNOMED                                                                                                                                                                                          |

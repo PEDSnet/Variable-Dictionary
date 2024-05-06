@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Respiratory Syncytial Virus, Procedures                                                                                                  |
-|Codeset Link |[px_2021_11_RespitorySyncytialVirus_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_2021_11_RespitorySyncytialVirus_V1.csv.csv)|
+|Codeset Link |[px_2021_11_RespitorySyncytialVirus_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_2021_11_RespitorySyncytialVirus_V1.csv)|
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Procedure codes for RSV testing                                                                                                          |
 |Vocabulary   |CPT4,HCPCS                                                                                                                               |

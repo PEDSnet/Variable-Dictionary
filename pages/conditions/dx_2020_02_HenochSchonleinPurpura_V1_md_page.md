@@ -1,7 +1,7 @@
 |Field        |Value                                                                                       |
 |:------------|:-------------------------------------------------------------------------------------------|
 |Codeset Name |Henoch-Schonlein Purpura                                                                    |
-|Codeset Link |[dx_2020_02_HenochSchonleinPurpura_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2020_02_HenochSchonleinPurpura_V1.csv.csv)|
+|Codeset Link |[dx_2020_02_HenochSchonleinPurpura_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2020_02_HenochSchonleinPurpura_V1.csv)|
 |CDM          |PEDSnet                                                                                     |
 |Description  |Diagnosis of Henoch-Schonlein purpura (HSP), also known as Immunoglobulin vasculitis (IgAV) |
 |Vocabulary   |CIM10                                                                                       |

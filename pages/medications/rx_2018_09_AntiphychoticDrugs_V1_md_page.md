@@ -1,7 +1,7 @@
 |Field        |Value                                      |
 |:------------|:------------------------------------------|
 |Codeset Name |Antipsychotics                             |
-|Codeset Link |[rx_2018_09_AntiphychoticDrugs_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2018_09_AntiphychoticDrugs_V1.csv.csv)|
+|Codeset Link |[rx_2018_09_AntiphychoticDrugs_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2018_09_AntiphychoticDrugs_V1.csv)|
 |CDM          |PEDSnet,PCORnet                            |
 |Description  |NA                                         |
 |Vocabulary   |RxNorm,RxNorm Extension                    |

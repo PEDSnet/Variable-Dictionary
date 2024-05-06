@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Loss of Taste and Smell                                                                                                                  |
-|Codeset Link |[dx_2021_11_LossOfTasteSmell_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_LossOfTasteSmell_V1.csv.csv)|
+|Codeset Link |[dx_2021_11_LossOfTasteSmell_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_LossOfTasteSmell_V1.csv)|
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Symptom of loss of taste or smell.                                                                                                       |
 |Vocabulary   |SNOMED                                                                                                                                   |

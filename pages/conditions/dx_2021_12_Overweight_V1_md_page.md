@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Overweight                                                                                                                               |
-|Codeset Link |[dx_2021_12_Overweight_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_12_Overweight_V1.csv.csv)     |
+|Codeset Link |[dx_2021_12_Overweight_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_12_Overweight_V1.csv)         |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Diagnosis of overweight                                                                                                                  |
 |Vocabulary   |ICD10CM                                                                                                                                  |

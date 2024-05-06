@@ -1,7 +1,7 @@
 |Field        |Value                                                                       |
 |:------------|:---------------------------------------------------------------------------|
 |Codeset Name |MRI Scan for Pediatric Pulmonary Embolism Diagnosis                         |
-|Codeset Link |[px_2023_03_MRIScan_V2.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_2023_03_MRIScan_V2.csv.csv)|
+|Codeset Link |[px_2023_03_MRIScan_V2.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_2023_03_MRIScan_V2.csv)|
 |CDM          |PCORnet                                                                     |
 |Description  |NA                                                                          |
 |Vocabulary   |CPT4,HCPCS,ICD9Proc,ICD10PCS,CIM10,NAACCR                                   |

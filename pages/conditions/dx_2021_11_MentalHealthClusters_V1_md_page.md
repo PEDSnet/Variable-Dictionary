@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Mental Health Clusters                                                                                                                   |
-|Codeset Link |[dx_2021_11_MentalHealthClusters_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_MentalHealthClusters_V1.csv.csv)|
+|Codeset Link |[dx_2021_11_MentalHealthClusters_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_MentalHealthClusters_V1.csv)|
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Mental health condition clusters                                                                                                         |
 |Vocabulary   |ICD10                                                                                                                                    |

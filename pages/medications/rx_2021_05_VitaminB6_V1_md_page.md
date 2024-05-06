@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                     |
 |:------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Vitamin B6                                                                                                                                |
-|Codeset Link |[rx_2021_05_VitaminB6_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2021_05_VitaminB6_V1.csv.csv)             |
+|Codeset Link |[rx_2021_05_VitaminB6_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2021_05_VitaminB6_V1.csv)                 |
 |CDM          |PEDSnet                                                                                                                                   |
 |Description  |Vitamin B6 / pyridoxine exposures: oral                                                                                                   |
 |Vocabulary   |SNOMED                                                                                                                                    |

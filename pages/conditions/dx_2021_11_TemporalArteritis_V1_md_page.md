@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Temporal Arteritis                                                                                                                       |
-|Codeset Link |[dx_2021_11_TemporalArteritis_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_TemporalArteritis_V1.csv.csv)|
+|Codeset Link |[dx_2021_11_TemporalArteritis_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_TemporalArteritis_V1.csv)|
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Temporal arteritis diagnosis codes                                                                                                       |
 |Vocabulary   |ICD10,ICD10CM,SNOMED                                                                                                                     |

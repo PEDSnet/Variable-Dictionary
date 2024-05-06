@@ -1,7 +1,7 @@
 |Field        |Value                                                              |
 |:------------|:------------------------------------------------------------------|
 |Codeset Name |Neurology, Providers and Care Sites                                |
-|Codeset Link |[ucp_2022_06_Neurology_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visits/ucp_2022_06_Neurology_V1.csv.csv)|
+|Codeset Link |[ucp_2022_06_Neurology_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visits/ucp_2022_06_Neurology_V1.csv)|
 |CDM          |PEDSnet,PCORnet                                                    |
 |Description  |neurology providers and care sites                                 |
 |Vocabulary   |ABMS,Medicare Specialty,NUCC,SNOMED,HES Specialty,Nebraska Lexicon |

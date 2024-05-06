@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                     |
 |:------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Thiazides and Diuretics, Oral                                                                                                             |
-|Codeset Link |[rx_2021_05_Thiazides_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2021_05_Thiazides_V1.csv.csv)             |
+|Codeset Link |[rx_2021_05_Thiazides_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2021_05_Thiazides_V1.csv)                 |
 |CDM          |PEDSnet                                                                                                                                   |
 |Description  |thiazides and thiazide-like diuretics: oral                                                                                               |
 |Vocabulary   |RxNorm,RxNorm Extension                                                                                                                   |

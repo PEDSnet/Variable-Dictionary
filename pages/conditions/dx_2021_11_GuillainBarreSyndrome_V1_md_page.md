@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Guillain Barre Syndrome                                                                                                                  |
-|Codeset Link |[dx_2021_11_GuillainBarreSyndrome_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_GuillainBarreSyndrome_V1.csv.csv)|
+|Codeset Link |[dx_2021_11_GuillainBarreSyndrome_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_GuillainBarreSyndrome_V1.csv)|
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Diagnosis of GBS                                                                                                                         |
 |Vocabulary   |SNOMED                                                                                                                                   |

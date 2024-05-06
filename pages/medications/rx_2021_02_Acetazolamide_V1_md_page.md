@@ -1,7 +1,7 @@
 |Field        |Value                                                               |
 |:------------|:-------------------------------------------------------------------|
 |Codeset Name |Acetazolamide                                                       |
-|Codeset Link |[rx_2021_02_Acetazolamide_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2021_02_Acetazolamide_V1.csv.csv)|
+|Codeset Link |[rx_2021_02_Acetazolamide_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2021_02_Acetazolamide_V1.csv)|
 |CDM          |PEDSnet                                                             |
 |Description  |Acetazolamide drug exposures: oral, injectable, and topical         |
 |Vocabulary   |RxNorm Extension                                                    |

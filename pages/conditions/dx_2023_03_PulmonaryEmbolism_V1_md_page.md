@@ -1,7 +1,7 @@
 |Field        |Value                                                                       |
 |:------------|:---------------------------------------------------------------------------|
 |Codeset Name |Pulmonary Embolism Pediatric Pulmonary Embolism Diagnosis                   |
-|Codeset Link |[dx_2023_03_PulmonaryEmbolism_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2023_03_PulmonaryEmbolism_V1.csv.csv)|
+|Codeset Link |[dx_2023_03_PulmonaryEmbolism_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2023_03_PulmonaryEmbolism_V1.csv)|
 |CDM          |PCORnet                                                                     |
 |Description  |NA                                                                          |
 |Vocabulary   |CIM10                                                                       |

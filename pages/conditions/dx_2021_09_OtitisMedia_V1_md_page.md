@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                 |
 |:------------|:-----------------------------------------------------------------------------------------------------|
 |Codeset Name |Otitis Media for Tympanostomy Tube Outcomes                                                           |
-|Codeset Link |[dx_2021_09_OtitisMedia_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_09_OtitisMedia_V1.csv.csv)|
+|Codeset Link |[dx_2021_09_OtitisMedia_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_09_OtitisMedia_V1.csv)|
 |CDM          |PCORnet                                                                                               |
 |Description  |Did patient have this condition.                                                                      |
 |Vocabulary   |ICD9CM,ICD10,CIM10                                                                                    |

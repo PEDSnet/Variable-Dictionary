@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Sleep Disturbance                                                                                                                        |
-|Codeset Link |[dx_2023_SleepDisturbance_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2023_SleepDisturbance_V1.csv.csv)|
+|Codeset Link |[dx_2023_SleepDisturbance_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2023_SleepDisturbance_V1.csv)   |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |NA                                                                                                                                       |
 |Vocabulary   |ICD10CM                                                                                                                                  |

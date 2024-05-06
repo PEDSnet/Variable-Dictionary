@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Narcolepsy                                                                                                                               |
-|Codeset Link |[dx_2021_11_Narcolepsy_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_Narcolepsy_V1.csv.csv)     |
+|Codeset Link |[dx_2021_11_Narcolepsy_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_Narcolepsy_V1.csv)         |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Narcolepsy diagnosis codes                                                                                                               |
 |Vocabulary   |ICD10,ICD10CM,SNOMED                                                                                                                     |

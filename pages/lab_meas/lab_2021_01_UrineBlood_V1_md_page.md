@@ -1,7 +1,7 @@
 |Field        |Value                                                                         |
 |:------------|:-----------------------------------------------------------------------------|
 |Codeset Name |Urine Blood Measurement                                                       |
-|Codeset Link |[lab_2021_01_UrineBlood_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/lab_meas/lab_2021_01_UrineBlood_V1.csv.csv)|
+|Codeset Link |[lab_2021_01_UrineBlood_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/lab_meas/lab_2021_01_UrineBlood_V1.csv)|
 |CDM          |PEDSnet                                                                       |
 |Description  |Dx for blood in urine                                                         |
 |Vocabulary   |ICD11CM                                                                       |

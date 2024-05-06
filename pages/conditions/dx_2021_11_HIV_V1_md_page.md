@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Human Immunodeficiency Virus (HIV)                                                                                                       |
-|Codeset Link |[dx_2021_11_HIV_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_HIV_V1.csv.csv)                   |
+|Codeset Link |[dx_2021_11_HIV_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_HIV_V1.csv)                       |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Diagnosis of HIV infection or AIDS                                                                                                       |
 |Vocabulary   |SNOMED                                                                                                                                   |

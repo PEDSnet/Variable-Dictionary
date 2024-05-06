@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Respiratory Syncytial Virus Diagnosis                                                                                                    |
-|Codeset Link |[dx_2021_11_RespitorySyncytialVirus_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_RespitorySyncytialVirus_V1.csv.csv)|
+|Codeset Link |[dx_2021_11_RespitorySyncytialVirus_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_RespitorySyncytialVirus_V1.csv)|
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Diagnosis of RSV infection.                                                                                                              |
 |Vocabulary   |SNOMED                                                                                                                                   |

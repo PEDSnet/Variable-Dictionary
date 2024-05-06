@@ -1,7 +1,7 @@
 |Field        |Value                                                                         |
 |:------------|:-----------------------------------------------------------------------------|
 |Codeset Name |Chemotherapy                                                                  |
-|Codeset Link |[rx_2023_01_Chemotherapy_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2023_01_Chemotherapy_V1.csv.csv)|
+|Codeset Link |[rx_2023_01_Chemotherapy_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2023_01_Chemotherapy_V1.csv)|
 |CDM          |PEDSnet,PCORnet                                                               |
 |Description  |Chemotherapy drugs                                                            |
 |Vocabulary   |NDC,RxNorm,RxNorm Extension                                                   |

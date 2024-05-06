@@ -1,7 +1,7 @@
 |Field        |Value                                                            |
 |:------------|:----------------------------------------------------------------|
 |Codeset Name |Membranoproliferative GN and C3 Glomerulopathy                   |
-|Codeset Link |[dx_2020_05_MPGN_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2020_05_MPGN_V1.csv.csv)|
+|Codeset Link |[dx_2020_05_MPGN_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2020_05_MPGN_V1.csv)|
 |CDM          |PEDSnet                                                          |
 |Description  |SNOMED diagnoses for Membranoproliferative GN/C3 glomerulopathy. |
 |Vocabulary   |SNOMED                                                           |

@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Fever with Chills                                                                                                                        |
-|Codeset Link |[dx_2021_10_FeverChills_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_10_FeverChills_V1.csv.csv)   |
+|Codeset Link |[dx_2021_10_FeverChills_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_10_FeverChills_V1.csv)       |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Symptom of fever or chills                                                                                                               |
 |Vocabulary   |SNOMED                                                                                                                                   |

@@ -1,7 +1,7 @@
 |Field        |Value                                                      |
 |:------------|:----------------------------------------------------------|
 |Codeset Name |Mycophenolate                                              |
-|Codeset Link |[rx_2019_11_Mycophenolate_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2019_11_Mycophenolate_V1.csv.csv)|
+|Codeset Link |[rx_2019_11_Mycophenolate_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2019_11_Mycophenolate_V1.csv)|
 |CDM          |PEDSnet                                                    |
 |Description  |Immunosuppressive medication mycophenolate.                |
 |Vocabulary   |RxNorm,RxNorm Extension                                    |

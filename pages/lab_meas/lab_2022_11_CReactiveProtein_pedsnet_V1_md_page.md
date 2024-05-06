@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |C-Reactive Protein Measurement                                                                                                           |
-|Codeset Link |[lab_2022_11_CReactiveProtein_pedsnet_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/lab_meas/lab_2022_11_CReactiveProtein_pedsnet_V1.csv.csv)|
+|Codeset Link |[lab_2022_11_CReactiveProtein_pedsnet_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/lab_meas/lab_2022_11_CReactiveProtein_pedsnet_V1.csv)|
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |NA                                                                                                                                       |
 |Vocabulary   |ICD11CM                                                                                                                                  |

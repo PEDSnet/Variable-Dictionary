@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                                                                         |
 |:------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |ACE Inhibitors                                                                                                                                                                                |
-|Codeset Link |[rx_2021_11_ACEInhibitors_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2021_11_ACEInhibitors_V1.csv.csv)                                                         |
+|Codeset Link |[rx_2021_11_ACEInhibitors_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2021_11_ACEInhibitors_V1.csv)                                                             |
 |CDM          |PEDSnet,PCORnet                                                                                                                                                                               |
 |Description  |Medication codeset for the following ingredients: Benazepril, Captopril, Enalapril, Fosinopril, Lisinopril, Moexipril, Periondopril, Quinapril,Ramipril, Trandolapril. Combinations included. |
 |Vocabulary   |NDC,RxNorm,RxNorm Extension                                                                                                                                                                   |

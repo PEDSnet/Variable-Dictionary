@@ -1,7 +1,7 @@
 |Field        |Value                                                |
 |:------------|:----------------------------------------------------|
 |Codeset Name |Allergic Rhinitis for Developing an Asthma Phenotype |
-|Codeset Link |[dx_2019_10_AllergicRhinitis_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2019_10_AllergicRhinitis_V1.csv.csv)|
+|Codeset Link |[dx_2019_10_AllergicRhinitis_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2019_10_AllergicRhinitis_V1.csv)|
 |CDM          |PEDSnet                                              |
 |Description  |NA                                                   |
 |Vocabulary   |CIM10                                                |

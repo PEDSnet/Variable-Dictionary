@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                     |
 |:------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Opthalmology                                                                                                                              |
-|Codeset Link |[ucp_2021_02_Ophthalmology_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visits/ucp_2021_02_Ophthalmology_V1.csv.csv)  |
+|Codeset Link |[ucp_2021_02_Ophthalmology_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visits/ucp_2021_02_Ophthalmology_V1.csv)      |
 |CDM          |PEDSnet                                                                                                                                   |
 |Description  |ophthalmology providers and care sites                                                                                                    |
 |Vocabulary   |Medicare Specialty,NUCC,SNOMED,HES Specialty                                                                                              |

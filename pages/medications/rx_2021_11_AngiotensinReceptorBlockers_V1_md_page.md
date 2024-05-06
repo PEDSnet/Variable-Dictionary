@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                                              |
 |:------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Angiotensin Receptor Blockers                                                                                                                                      |
-|Codeset Link |[rx_2021_11_AngiotensinReceptorBlockers_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2021_11_AngiotensinReceptorBlockers_V1.csv.csv)  |
+|Codeset Link |[rx_2021_11_AngiotensinReceptorBlockers_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2021_11_AngiotensinReceptorBlockers_V1.csv)      |
 |CDM          |PEDSnet,PCORnet                                                                                                                                                    |
 |Description  |Medication codeset for the following ingredients: Azilsartan, Candesartan,Eprosartan,Irbesartan,Losartan,Olmesartan,Telmisartan, Valsartan. Combinations included. |
 |Vocabulary   |NDC,RxNorm,RxNorm Extension                                                                                                                                        |

@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                     |
 |:------------|:-------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Kidney Dialysis                                                                                                           |
-|Codeset Link |[px_2021_11_KidneyDialysis_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_2021_11_KidneyDialysis_V1.csv.csv)|
+|Codeset Link |[px_2021_11_KidneyDialysis_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_2021_11_KidneyDialysis_V1.csv)|
 |CDM          |PEDSnet,PCORnet                                                                                                           |
 |Description  |Kidney dialysis procedure codes. ICD codes are included with and without decimal points, indicated by cc_decimal_removal. |
 |Vocabulary   |CPT4,HCPCS,ICD9Proc,ICD10PCS,SNOMED                                                                                       |

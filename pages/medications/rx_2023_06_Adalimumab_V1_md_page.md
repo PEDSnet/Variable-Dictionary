@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                               |
 |:------------|:-------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Adalimumab                                                                                                          |
-|Codeset Link |[rx_2023_06_Adalimumab_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2023_06_Adalimumab_V1.csv.csv)|
+|Codeset Link |[rx_2023_06_Adalimumab_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2023_06_Adalimumab_V1.csv)|
 |CDM          |PEDSnet,PCORnet                                                                                                     |
 |Description  |Code set used to determine whether patient received this drug.                                                      |
 |Vocabulary   |RxNorm,RxNorm Extension                                                                                             |

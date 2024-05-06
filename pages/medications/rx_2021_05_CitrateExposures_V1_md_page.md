@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                     |
 |:------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Citrate Exposures                                                                                                                         |
-|Codeset Link |[rx_2021_05_CitrateExposures_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2021_05_CitrateExposures_V1.csv.csv)|
+|Codeset Link |[rx_2021_05_CitrateExposures_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2021_05_CitrateExposures_V1.csv)   |
 |CDM          |PEDSnet                                                                                                                                   |
 |Description  |Citrate drug exposures.                                                                                                                   |
 |Vocabulary   |RxNorm,RxNorm Extension                                                                                                                   |

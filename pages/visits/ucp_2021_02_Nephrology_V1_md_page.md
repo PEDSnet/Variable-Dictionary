@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                     |
 |:------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Nephrology, Providers and Care Sites                                                                                                      |
-|Codeset Link |[ucp_2021_02_Nephrology_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visits/ucp_2021_02_Nephrology_V1.csv.csv)        |
+|Codeset Link |[ucp_2021_02_Nephrology_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visits/ucp_2021_02_Nephrology_V1.csv)            |
 |CDM          |PEDSnet                                                                                                                                   |
 |Description  |nephrology providers and care sites                                                                                                       |
 |Vocabulary   |ABMS,Medicare Specialty,NUCC,HES Specialty                                                                                                |

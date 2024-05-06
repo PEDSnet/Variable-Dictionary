@@ -1,7 +1,7 @@
 |Field        |Value                                                                         |
 |:------------|:-----------------------------------------------------------------------------|
 |Codeset Name |Nephrology, Provider                                                          |
-|Codeset Link |[ucp_2021_09_NephrologyProvider_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visits/ucp_2021_09_NephrologyProvider_V1.csv.csv)|
+|Codeset Link |[ucp_2021_09_NephrologyProvider_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visits/ucp_2021_09_NephrologyProvider_V1.csv)|
 |CDM          |PCORnet                                                                       |
 |Description  |Nephrology provider                                                           |
 |Vocabulary   |NUCC                                                                          |

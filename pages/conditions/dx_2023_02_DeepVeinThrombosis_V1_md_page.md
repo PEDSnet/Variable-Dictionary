@@ -1,7 +1,7 @@
 |Field        |Value                                                                                        |
 |:------------|:--------------------------------------------------------------------------------------------|
 |Codeset Name |Deep Vein Thrombosis                                                                         |
-|Codeset Link |[dx_2023_02_DeepVeinThrombosis_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2023_02_DeepVeinThrombosis_V1.csv.csv)|
+|Codeset Link |[dx_2023_02_DeepVeinThrombosis_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2023_02_DeepVeinThrombosis_V1.csv)|
 |CDM          |PEDSnet                                                                                      |
 |Description  |NA                                                                                           |
 |Vocabulary   |SNOMED                                                                                       |

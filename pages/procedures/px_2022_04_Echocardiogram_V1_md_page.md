@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                     |
 |:------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Echocardiogram                                                                                                                            |
-|Codeset Link |[px_2022_04_Echocardiogram_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_2022_04_Echocardiogram_V1.csv.csv)|
+|Codeset Link |[px_2022_04_Echocardiogram_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_2022_04_Echocardiogram_V1.csv)  |
 |CDM          |PEDSnet                                                                                                                                   |
 |Description  |Echocardiogram procedures                                                                                                                 |
 |Vocabulary   |CPT4,HCPCS,ICD9Proc,CIM10,SPC                                                                                                             |

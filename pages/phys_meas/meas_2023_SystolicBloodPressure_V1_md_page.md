@@ -1,7 +1,7 @@
 |Field        |Value                                                                         |
 |:------------|:-----------------------------------------------------------------------------|
 |Codeset Name |Systolic Blood Pressure Measurement                                           |
-|Codeset Link |[meas_2023_SystolicBloodPressure_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/phys_meas/meas_2023_SystolicBloodPressure_V1.csv.csv)|
+|Codeset Link |[meas_2023_SystolicBloodPressure_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/phys_meas/meas_2023_SystolicBloodPressure_V1.csv)|
 |CDM          |PCORnet                                                                       |
 |Description  |Field of VITAL table                                                          |
 |Vocabulary   |NA                                                                            |

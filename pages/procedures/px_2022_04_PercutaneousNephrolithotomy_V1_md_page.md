@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                     |
 |:------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Percutaneous Nephrolithotomy                                                                                                              |
-|Codeset Link |[px_2022_04_PercutaneousNephrolithotomy_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_2022_04_PercutaneousNephrolithotomy_V1.csv.csv)|
+|Codeset Link |[px_2022_04_PercutaneousNephrolithotomy_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_2022_04_PercutaneousNephrolithotomy_V1.csv)|
 |CDM          |PEDSnet                                                                                                                                   |
 |Description  |Percutaneous Nephrolithotomy procedures                                                                                                   |
 |Vocabulary   |CPT4,CIM10,SPC                                                                                                                            |

@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                       |
 |:------------|:---------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Kidney Transplant Diagnosis                                                                                                 |
-|Codeset Link |[dx_2021_11_KidneyTransplant_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_KidneyTransplant_V1.csv.csv)|
+|Codeset Link |[dx_2021_11_KidneyTransplant_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_KidneyTransplant_V1.csv)|
 |CDM          |PEDSnet,PCORnet                                                                                                             |
 |Description  |Kidney transplant diagnosis codes. ICD codes are included with and without decimal points, indicated by cc_decimal_removal. |
 |Vocabulary   |ICD9CM,ICD10,ICD10CM,SNOMED                                                                                                 |

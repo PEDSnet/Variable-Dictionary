@@ -1,7 +1,7 @@
 |Field        |Value                                                                         |
 |:------------|:-----------------------------------------------------------------------------|
 |Codeset Name |Oncology, Facility                                                            |
-|Codeset Link |[ucp_2021_10_OncologyFacility_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visits/ucp_2021_10_OncologyFacility_V1.csv.csv)|
+|Codeset Link |[ucp_2021_10_OncologyFacility_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/visits/ucp_2021_10_OncologyFacility_V1.csv)|
 |CDM          |PCORnet                                                                       |
 |Description  |Oncology facility                                                             |
 |Vocabulary   |NA                                                                            |

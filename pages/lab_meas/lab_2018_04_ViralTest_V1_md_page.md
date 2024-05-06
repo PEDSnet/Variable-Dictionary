@@ -1,7 +1,7 @@
 |Field        |Value                                      |
 |:------------|:------------------------------------------|
 |Codeset Name |Viral Tests                                |
-|Codeset Link |[lab_2018_04_ViralTest_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/lab_meas/lab_2018_04_ViralTest_V1.csv.csv)|
+|Codeset Link |[lab_2018_04_ViralTest_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/lab_meas/lab_2018_04_ViralTest_V1.csv)|
 |CDM          |PEDSnet                                    |
 |Description  |NA                                         |
 |Vocabulary   |ICD11CM                                    |

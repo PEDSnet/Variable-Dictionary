@@ -1,7 +1,7 @@
 |Field        |Value                                                                        |
 |:------------|:----------------------------------------------------------------------------|
 |Codeset Name |Systemic Steroids                                                            |
-|Codeset Link |[rx_2019_11_Steroids_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2019_11_Steroids_V1.csv.csv)|
+|Codeset Link |[rx_2019_11_Steroids_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/drugs/rx_2019_11_Steroids_V1.csv)|
 |CDM          |PEDSnet                                                                      |
 |Description  |Systemic steroids including prednisone, prednisolone, and methylprednisolone |
 |Vocabulary   |RxNorm,RxNorm Extension                                                      |

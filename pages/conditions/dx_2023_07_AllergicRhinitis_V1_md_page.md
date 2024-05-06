@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                 |
 |:------------|:-----------------------------------------------------------------------------------------------------|
 |Codeset Name |Allergic Rhinitis for Tympanostomy Tube Outcomes                                                      |
-|Codeset Link |[dx_2023_07_AllergicRhinitis_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2023_07_AllergicRhinitis_V1.csv.csv)|
+|Codeset Link |[dx_2023_07_AllergicRhinitis_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2023_07_AllergicRhinitis_V1.csv)|
 |CDM          |PEDSnet                                                                                               |
 |Description  |Did patient have this condition                                                                       |
 |Vocabulary   |CIM10                                                                                                 |

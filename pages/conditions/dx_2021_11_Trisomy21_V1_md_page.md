@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Trisomy 21                                                                                                                               |
-|Codeset Link |[dx_2021_11_Trisomy21_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_Trisomy21_V1.csv.csv)       |
+|Codeset Link |[dx_2021_11_Trisomy21_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_Trisomy21_V1.csv)           |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Diagnosis of trisomy 21                                                                                                                  |
 |Vocabulary   |SNOMED                                                                                                                                   |

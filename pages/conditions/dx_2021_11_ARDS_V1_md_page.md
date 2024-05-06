@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Acute Respiratory Distress Syndrome, Clinical Outcome                                                                                    |
-|Codeset Link |[dx_2021_11_ARDS_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_ARDS_V1.csv.csv)                 |
+|Codeset Link |[dx_2021_11_ARDS_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_11_ARDS_V1.csv)                     |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Clinical outcome of ARDS.                                                                                                                |
 |Vocabulary   |SNOMED                                                                                                                                   |

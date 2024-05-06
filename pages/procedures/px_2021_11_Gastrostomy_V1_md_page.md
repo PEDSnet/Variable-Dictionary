@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Gastrostomy                                                                                                                              |
-|Codeset Link |[px_2021_11_Gastrostomy_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_2021_11_Gastrostomy_V1.csv.csv)   |
+|Codeset Link |[px_2021_11_Gastrostomy_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_2021_11_Gastrostomy_V1.csv)       |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Procedure for gastrostomy placement                                                                                                      |
 |Vocabulary   |CPT4,SNOMED                                                                                                                              |

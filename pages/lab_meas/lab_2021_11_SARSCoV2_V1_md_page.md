@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |SARS-CoV-2 Test Results                                                                                                                  |
-|Codeset Link |[lab_2021_11_SARSCoV2_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/lab_meas/lab_2021_11_SARSCoV2_V1.csv.csv)         |
+|Codeset Link |[lab_2021_11_SARSCoV2_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/lab_meas/lab_2021_11_SARSCoV2_V1.csv)             |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Test result codes specific to SARS-CoV-2                                                                                                 |
 |Vocabulary   |HCPCS,ICD11CM                                                                                                                            |

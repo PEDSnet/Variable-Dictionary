@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Headache for RECOVER                                                                                                                     |
-|Codeset Link |[dx_2021_10_Headache_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_10_Headache_V1.csv.csv)         |
+|Codeset Link |[dx_2021_10_Headache_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/conditions/dx_2021_10_Headache_V1.csv)             |
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Symptom of headache.                                                                                                                     |
 |Vocabulary   |ICD10GM,CIM10                                                                                                                            |

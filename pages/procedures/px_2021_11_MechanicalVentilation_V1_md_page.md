@@ -1,7 +1,7 @@
 |Field        |Value                                                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 |Codeset Name |Mechanical Ventilation                                                                                                                   |
-|Codeset Link |[px_2021_11_MechanicalVentilation_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_2021_11_MechanicalVentilation_V1.csv.csv)|
+|Codeset Link |[px_2021_11_MechanicalVentilation_V1.csv](https://github.com/PEDSnet/Variable-Dictionary/blob/main/procedures/px_2021_11_MechanicalVentilation_V1.csv)|
 |CDM          |PEDSnet                                                                                                                                  |
 |Description  |Procedure codes for ventilatory support (NIV/IV)                                                                                         |
 |Vocabulary   |CPT4,ICD9Proc,ICD10PCS,SNOMED                                                                                                            |
